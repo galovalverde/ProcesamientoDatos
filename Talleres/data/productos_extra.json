@@ -1,0 +1,23 @@
+[
+  {
+    "id": 106,
+    "nombre": "Webcam HD",
+    "categoria": "Perifericos",
+    "precio": 65.0,
+    "stock": 25
+  },
+  {
+    "id": 107,
+    "nombre": "Disco SSD 1TB",
+    "categoria": "Almacenamiento",
+    "precio": 110.0,
+    "stock": 14
+  },
+  {
+    "id": 108,
+    "nombre": "Tablet 10",
+    "categoria": "Moviles",
+    "precio": 280.0,
+    "stock": 9
+  }
+]

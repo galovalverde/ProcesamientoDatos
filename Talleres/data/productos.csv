@@ -1,0 +1,1001 @@
+id,nombre,categoria,precio,stock
+1,Hub USB-C,Accesorios,643.66,18
+2,Parlante Portátil,Audio,297.43,42
+3,Extensor de Red,Redes,760.5,183
+4,Cable HDMI,Accesorios,139.41,199
+5,Silla Gamer,Gaming,79.4,33
+6,Monitor Portátil v3,Monitores,344.87,36
+7,Hub USB-C,Accesorios,165.29,91
+8,Router WiFi 6,Redes,587.88,117
+9,Cable de Red Cat6 v3,Redes,104.59,97
+10,Monitor Gamer 144Hz,Monitores,9.38,113
+11,Mini PC,Computadoras,444.54,13
+12,Monitor Portátil v5,Monitores,760.46,195
+13,PC de Escritorio v3,Computadoras,569.0,69
+14,Webcam HD,Perifericos,199.99,65
+15,Monitor Portátil,Monitores,423.38,165
+16,Adaptador USB WiFi v3,Redes,831.84,55
+17,All in One 24,Computadoras,206.43,73
+18,Mini PC,Computadoras,767.79,54
+19,Smartwatch Deportivo,Moviles,258.61,12
+20,Monitor 4K,Monitores,71.98,53
+21,Hub USB-C,Accesorios,446.51,193
+22,Smartwatch Deportivo,Moviles,845.05,52
+23,Control Inalámbrico v3,Gaming,275.57,74
+24,Teclado Mecánico,Perifericos,465.45,154
+25,Mini PC v3,Computadoras,447.28,97
+26,Parlante Portátil,Audio,853.82,192
+27,Volante para Consola,Gaming,79.69,63
+28,Cable de Red Cat6 v2,Redes,179.62,49
+29,Micrófono USB v4,Audio,860.67,162
+30,Licencia Antivirus,Software,356.22,110
+31,All in One 24 v3,Computadoras,793.03,17
+32,Monitor 4K,Monitores,649.16,69
+33,Teclado Numérico,Perifericos,220.79,17
+34,Suite de Diseño,Software,662.83,4
+35,Disco SSD 512GB v3,Almacenamiento,323.33,137
+36,Laptop Gamer,Computadoras,265.67,68
+37,Licencia Office v3,Software,242.52,114
+38,Smartphone Gama Media v2,Moviles,320.49,114
+39,Tarjeta de Regalo Gaming,Gaming,407.19,121
+40,Control Inalámbrico,Gaming,482.38,40
+41,Licencia Office,Software,558.19,111
+42,Monitor 24 pulgadas v2,Monitores,386.26,84
+43,Smartphone Gama Media v3,Moviles,897.03,109
+44,Silla Gamer,Gaming,313.14,9
+45,Hub USB-C,Accesorios,495.39,25
+46,Barra de Sonido,Audio,44.97,119
+47,All in One 24,Computadoras,232.99,187
+48,Organizador de Cables,Accesorios,12.31,10
+49,Tablet 10 v5,Moviles,309.38,32
+50,PC de Escritorio,Computadoras,816.92,81
+51,Mouse Inalámbrico,Perifericos,17.74,0
+52,Teclado Mecánico,Perifericos,436.82,143
+53,Router WiFi 6 v5,Redes,561.68,135
+54,Suite de Diseño,Software,762.85,29
+55,Mousepad Gamer,Perifericos,363.44,58
+56,Licencia Windows,Software,539.7,81
+57,Parlante Portátil v2,Audio,251.38,38
+58,Router WiFi 6,Redes,132.4,87
+59,Tablet 10 v4,Moviles,669.23,67
+60,Micrófono USB,Audio,269.14,20
+61,Monitor Gamer 144Hz,Monitores,211.5,6
+62,Batería Externa,Accesorios,523.89,26
+63,Mouse Inalámbrico v5,Perifericos,191.12,136
+64,Funda Protectora,Moviles,269.48,150
+65,Mousepad Gamer,Perifericos,919.77,178
+66,Parlante Portátil v3,Audio,88.14,113
+67,Laptop Gamer,Computadoras,591.12,42
+68,Router WiFi 6,Redes,361.97,41
+69,Barra de Sonido,Audio,201.13,87
+70,Laptop 14 pulgadas,Computadoras,584.52,56
+71,All in One 24,Computadoras,482.66,52
+72,Cable de Red Cat6,Redes,871.31,3
+73,Tablet 10,Moviles,238.25,88
+74,Micrófono USB,Audio,126.21,97
+75,Base para Laptop,Accesorios,367.43,1
+76,Micrófono USB,Audio,230.99,156
+77,PC de Escritorio,Computadoras,803.1,142
+78,Monitor Curvo 27,Monitores,603.9,122
+79,Batería Externa,Accesorios,860.3,151
+80,All in One 24,Computadoras,136.12,101
+81,Webcam HD,Perifericos,610.25,37
+82,Mini PC,Computadoras,761.06,126
+83,Smartwatch Deportivo v3,Moviles,124.58,178
+84,Tarjeta SD 128GB v4,Almacenamiento,886.28,43
+85,Parlante Portátil,Audio,536.85,80
+86,Extensor de Red,Redes,405.5,40
+87,Cable HDMI,Accesorios,374.88,27
+88,Consola Portátil,Gaming,564.67,26
+89,Smartphone Gama Media,Moviles,54.08,62
+90,Monitor Curvo 27,Monitores,249.59,11
+91,Tarjeta SD 128GB v4,Almacenamiento,354.63,14
+92,Licencia Office,Software,861.66,112
+93,Switch 8 Puertos v5,Redes,223.02,165
+94,Audífonos Bluetooth,Audio,131.74,29
+95,Tarjeta SD 128GB v5,Almacenamiento,74.41,106
+96,Control Inalámbrico v3,Gaming,213.01,30
+97,Smartwatch Deportivo,Moviles,901.0,105
+98,Cargador Rápido,Moviles,138.09,174
+99,Smartwatch Deportivo,Moviles,742.28,171
+100,Monitor Portátil,Monitores,632.43,1
+101,Laptop 14 pulgadas,Computadoras,300.44,55
+102,Switch 8 Puertos,Redes,218.16,71
+103,Funda Protectora,Moviles,536.19,139
+104,Parlante Portátil,Audio,788.61,186
+105,Licencia Office,Software,775.45,133
+106,Licencia Office v3,Software,925.39,102
+107,Mini PC v2,Computadoras,798.16,172
+108,Adaptador USB WiFi,Redes,845.24,125
+109,Hub USB-C v4,Accesorios,87.71,5
+110,Cable HDMI v5,Accesorios,862.58,43
+111,Licencia Antivirus,Software,175.28,125
+112,Parlante Portátil,Audio,373.53,16
+113,Cable HDMI,Accesorios,682.96,18
+114,Monitor Curvo 27 v4,Monitores,508.05,119
+115,PC de Escritorio,Computadoras,706.84,21
+116,Monitor Portátil v2,Monitores,24.86,166
+117,Router WiFi 6 v2,Redes,852.81,7
+118,Memoria USB 64GB,Almacenamiento,833.41,120
+119,Laptop Gamer,Computadoras,467.86,120
+120,Mini PC,Computadoras,131.14,66
+121,Barra de Sonido v2,Audio,701.93,63
+122,Laptop Gamer,Computadoras,793.17,23
+123,Mini PC,Computadoras,173.23,137
+124,Monitor 4K,Monitores,642.59,14
+125,Funda Protectora,Moviles,492.59,42
+126,Licencia Windows,Software,41.34,36
+127,Smartphone Gama Media,Moviles,273.29,149
+128,Volante para Consola,Gaming,358.86,173
+129,PC de Escritorio,Computadoras,733.64,179
+130,Batería Externa v3,Accesorios,772.94,197
+131,Memoria USB 64GB,Almacenamiento,937.72,176
+132,Router WiFi 6,Redes,904.04,97
+133,Tablet 10,Moviles,189.87,38
+134,Cable HDMI,Accesorios,661.38,38
+135,Laptop 14 pulgadas,Computadoras,918.34,3
+136,Consola Portátil,Gaming,546.22,128
+137,Tarjeta de Regalo Gaming,Gaming,822.15,93
+138,Hub USB-C v2,Accesorios,837.44,54
+139,Suite de Diseño,Software,61.06,179
+140,Cable de Red Cat6,Redes,772.29,42
+141,Laptop 14 pulgadas,Computadoras,533.86,21
+142,Batería Externa,Accesorios,364.63,167
+143,Audífonos Bluetooth,Audio,37.03,87
+144,Licencia Windows v5,Software,617.17,116
+145,Tarjeta de Regalo Gaming,Gaming,119.19,40
+146,Barra de Sonido,Audio,710.77,122
+147,Adaptador USB WiFi,Redes,914.55,8
+148,Disco SSD 512GB v5,Almacenamiento,549.46,132
+149,Tablet 10 v2,Moviles,619.27,163
+150,Audífonos Bluetooth v3,Audio,516.64,78
+151,PC de Escritorio,Computadoras,424.39,51
+152,Audífonos Bluetooth v2,Audio,613.02,110
+153,Micrófono USB v4,Audio,623.56,33
+154,Licencia Office v4,Software,163.54,169
+155,Teclado Numérico,Perifericos,219.07,82
+156,Suite de Diseño,Software,887.56,64
+157,Laptop 14 pulgadas,Computadoras,616.63,172
+158,Smartwatch Deportivo v2,Moviles,297.15,25
+159,Hub USB-C,Accesorios,667.78,179
+160,Teclado Mecánico v2,Perifericos,713.51,40
+161,Control Inalámbrico,Gaming,891.17,172
+162,Disco SSD 1TB v2,Almacenamiento,466.73,185
+163,Cargador Rápido v3,Moviles,327.68,137
+164,All in One 24,Computadoras,142.4,35
+165,Tarjeta de Regalo Gaming v5,Gaming,62.75,78
+166,Suite de Diseño,Software,325.72,165
+167,Tablet 10,Moviles,238.8,61
+168,PC de Escritorio,Computadoras,135.79,175
+169,Smartwatch Deportivo,Moviles,133.59,190
+170,All in One 24,Computadoras,792.35,52
+171,Cargador Rápido,Moviles,121.17,131
+172,Control Inalámbrico,Gaming,880.51,40
+173,Licencia Windows,Software,832.02,151
+174,Monitor 24 pulgadas,Monitores,138.36,138
+175,Monitor 24 pulgadas,Monitores,678.5,64
+176,Tarjeta SD 128GB v3,Almacenamiento,657.52,198
+177,Base para Laptop,Accesorios,515.46,63
+178,Cable de Red Cat6,Redes,854.02,145
+179,Tarjeta de Regalo Gaming,Gaming,401.25,84
+180,Organizador de Cables,Accesorios,590.91,141
+181,Volante para Consola,Gaming,580.51,100
+182,Licencia Office,Software,363.58,93
+183,Laptop Gamer,Computadoras,12.34,152
+184,Router WiFi 6,Redes,496.65,162
+185,Licencia Windows v3,Software,600.64,74
+186,Volante para Consola v5,Gaming,505.26,54
+187,Cable HDMI,Accesorios,37.77,14
+188,Memoria USB 64GB,Almacenamiento,499.35,96
+189,Micrófono USB,Audio,282.04,110
+190,Silla Gamer,Gaming,591.45,54
+191,Mini PC,Computadoras,99.29,80
+192,Licencia Antivirus v5,Software,181.39,25
+193,Micrófono USB,Audio,329.45,39
+194,Monitor 24 pulgadas v2,Monitores,809.89,193
+195,Software de Respaldo v5,Software,418.34,137
+196,PC de Escritorio v4,Computadoras,391.49,137
+197,Switch 8 Puertos,Redes,738.39,57
+198,Licencia Windows,Software,15.62,139
+199,Monitor 4K,Monitores,569.11,136
+200,Cargador Rápido v5,Moviles,877.65,51
+201,Base para Laptop,Accesorios,593.09,110
+202,Mouse Inalámbrico,Perifericos,774.1,180
+203,Tablet 10,Moviles,396.62,1
+204,Tarjeta SD 128GB v3,Almacenamiento,934.2,179
+205,Disco SSD 1TB,Almacenamiento,222.37,184
+206,Disco HDD 2TB v2,Almacenamiento,83.05,85
+207,Licencia Office,Software,476.7,118
+208,Tarjeta de Regalo Gaming,Gaming,462.78,90
+209,All in One 24 v4,Computadoras,133.18,50
+210,Monitor Gamer 144Hz,Monitores,359.7,102
+211,Audífonos Bluetooth v5,Audio,408.49,147
+212,Monitor 4K,Monitores,480.78,153
+213,Licencia Office,Software,25.64,148
+214,Smartphone Gama Media v2,Moviles,849.75,80
+215,Tablet 10,Moviles,284.35,92
+216,Licencia Office,Software,13.32,31
+217,Monitor Curvo 27 v2,Monitores,543.07,123
+218,Tablet 10,Moviles,317.21,43
+219,Webcam HD,Perifericos,742.45,132
+220,Tarjeta de Regalo Gaming v4,Gaming,225.97,177
+221,Switch 8 Puertos v2,Redes,186.53,66
+222,Parlante Portátil,Audio,910.14,57
+223,Batería Externa,Accesorios,14.8,90
+224,Laptop 14 pulgadas,Computadoras,898.31,148
+225,Tarjeta SD 128GB v4,Almacenamiento,332.12,137
+226,Batería Externa,Accesorios,807.51,36
+227,Funda Protectora,Moviles,154.15,158
+228,Licencia Antivirus,Software,915.4,144
+229,Extensor de Red,Redes,348.42,155
+230,Disco SSD 512GB v4,Almacenamiento,498.7,18
+231,Funda Protectora,Moviles,704.69,106
+232,Software de Respaldo,Software,349.46,98
+233,Monitor Gamer 144Hz,Monitores,404.95,119
+234,Mousepad Gamer,Perifericos,235.26,141
+235,Extensor de Red v5,Redes,492.04,27
+236,Smartwatch Deportivo,Moviles,698.57,25
+237,Disco SSD 1TB v4,Almacenamiento,659.63,10
+238,Smartwatch Deportivo,Moviles,229.09,34
+239,Cable HDMI,Accesorios,298.17,111
+240,Monitor Portátil v4,Monitores,299.64,64
+241,Mousepad Gamer,Perifericos,738.18,13
+242,Teclado Mecánico,Perifericos,193.08,6
+243,Silla Gamer,Gaming,623.83,175
+244,Funda Protectora,Moviles,810.17,34
+245,Mouse Inalámbrico v2,Perifericos,752.77,10
+246,Base para Laptop,Accesorios,606.92,159
+247,Micrófono USB,Audio,46.54,15
+248,Tarjeta de Regalo Gaming,Gaming,125.16,192
+249,Licencia Antivirus,Software,37.59,0
+250,Laptop Gamer,Computadoras,871.1,103
+251,Router WiFi 6 v4,Redes,321.72,107
+252,Disco SSD 512GB v4,Almacenamiento,456.16,155
+253,Disco SSD 512GB,Almacenamiento,85.99,46
+254,Consola Portátil,Gaming,916.85,127
+255,Control Inalámbrico,Gaming,658.91,52
+256,Organizador de Cables v5,Accesorios,565.86,133
+257,Licencia Office v5,Software,98.9,106
+258,Cargador Rápido,Moviles,205.0,81
+259,Silla Gamer v3,Gaming,557.59,154
+260,Webcam HD,Perifericos,53.17,103
+261,Barra de Sonido,Audio,432.72,79
+262,Cable HDMI,Accesorios,334.76,148
+263,Tarjeta de Regalo Gaming,Gaming,598.28,195
+264,Mouse Inalámbrico,Perifericos,74.1,69
+265,Monitor Curvo 27,Monitores,121.17,196
+266,Base para Laptop v3,Accesorios,41.52,3
+267,Consola Portátil v5,Gaming,656.26,159
+268,PC de Escritorio,Computadoras,821.32,39
+269,Mouse Inalámbrico v2,Perifericos,731.44,131
+270,Mousepad Gamer v4,Perifericos,636.33,147
+271,Adaptador USB WiFi,Redes,881.26,30
+272,Extensor de Red v5,Redes,263.07,109
+273,Teclado Mecánico,Perifericos,669.16,21
+274,Consola Portátil,Gaming,288.27,26
+275,Control Inalámbrico,Gaming,19.74,0
+276,Switch 8 Puertos,Redes,282.21,192
+277,Mousepad Gamer,Perifericos,814.93,97
+278,Monitor Portátil,Monitores,481.55,178
+279,Extensor de Red,Redes,713.41,117
+280,Control Inalámbrico,Gaming,391.44,62
+281,Barra de Sonido v4,Audio,861.14,86
+282,Cable de Red Cat6 v5,Redes,87.19,191
+283,Monitor Gamer 144Hz v2,Monitores,773.91,157
+284,Batería Externa,Accesorios,407.61,159
+285,Laptop 14 pulgadas v2,Computadoras,29.16,171
+286,Webcam HD,Perifericos,621.02,91
+287,Monitor Portátil,Monitores,142.57,106
+288,Laptop 14 pulgadas v2,Computadoras,862.37,113
+289,Disco SSD 512GB v4,Almacenamiento,142.97,98
+290,Teclado Numérico v4,Perifericos,374.0,136
+291,Audífonos Bluetooth,Audio,731.85,72
+292,Base para Laptop,Accesorios,390.89,122
+293,Suite de Diseño,Software,472.9,55
+294,Monitor Curvo 27,Monitores,713.08,13
+295,Router WiFi 6,Redes,313.42,44
+296,Mousepad Gamer,Perifericos,836.63,193
+297,Base para Laptop v3,Accesorios,124.82,106
+298,Tablet 10 v2,Moviles,351.99,193
+299,All in One 24 v2,Computadoras,674.08,47
+300,Base para Laptop,Accesorios,203.14,183
+301,Monitor 4K,Monitores,255.47,2
+302,Monitor Curvo 27,Monitores,539.52,179
+303,Switch 8 Puertos v3,Redes,375.4,185
+304,Volante para Consola,Gaming,647.33,100
+305,Monitor Gamer 144Hz,Monitores,269.66,64
+306,Suite de Diseño,Software,259.42,0
+307,Licencia Windows v3,Software,846.72,14
+308,Tarjeta SD 128GB,Almacenamiento,235.74,71
+309,Audífonos Gamer,Audio,358.46,179
+310,Disco SSD 512GB,Almacenamiento,926.17,106
+311,Base para Laptop,Accesorios,606.4,34
+312,Tarjeta de Regalo Gaming,Gaming,829.08,16
+313,Smartphone Gama Media,Moviles,613.14,125
+314,Disco SSD 1TB,Almacenamiento,65.16,103
+315,Webcam HD,Perifericos,210.04,118
+316,Software de Respaldo,Software,237.58,129
+317,Monitor Gamer 144Hz,Monitores,774.41,1
+318,Monitor Gamer 144Hz,Monitores,708.93,40
+319,Cable de Red Cat6,Redes,680.83,185
+320,Monitor 24 pulgadas,Monitores,517.26,62
+321,Switch 8 Puertos,Redes,880.84,166
+322,Monitor Curvo 27,Monitores,763.86,50
+323,Monitor 4K,Monitores,562.09,120
+324,Funda Protectora v5,Moviles,465.35,44
+325,Mini PC,Computadoras,183.13,61
+326,Smartphone Gama Media,Moviles,563.18,107
+327,Webcam HD v5,Perifericos,768.46,39
+328,Monitor 4K v5,Monitores,86.74,140
+329,Suite de Diseño,Software,700.07,163
+330,Tablet 10,Moviles,240.45,58
+331,Mousepad Gamer,Perifericos,857.26,23
+332,Smartwatch Deportivo v4,Moviles,294.66,185
+333,Micrófono USB v4,Audio,188.0,129
+334,Monitor Curvo 27,Monitores,346.07,97
+335,Cargador Rápido,Moviles,924.85,44
+336,Control Inalámbrico v2,Gaming,825.91,50
+337,Disco SSD 512GB,Almacenamiento,448.88,70
+338,Monitor Gamer 144Hz,Monitores,897.61,124
+339,Base para Laptop,Accesorios,480.04,158
+340,Parlante Portátil,Audio,778.32,147
+341,Adaptador USB WiFi,Redes,796.5,137
+342,Funda Protectora,Moviles,700.27,95
+343,Control Inalámbrico,Gaming,148.39,111
+344,Monitor Portátil,Monitores,849.51,10
+345,Teclado Mecánico v2,Perifericos,75.61,92
+346,Disco SSD 1TB,Almacenamiento,745.85,12
+347,Suite de Diseño,Software,160.58,158
+348,Audífonos Bluetooth v2,Audio,308.51,14
+349,Mini PC,Computadoras,641.23,163
+350,Audífonos Bluetooth,Audio,820.71,24
+351,Tarjeta SD 128GB v2,Almacenamiento,923.91,92
+352,Audífonos Bluetooth v5,Audio,693.09,129
+353,Consola Portátil v2,Gaming,169.21,126
+354,Monitor 24 pulgadas v3,Monitores,925.58,127
+355,Audífonos Bluetooth v4,Audio,880.57,94
+356,Adaptador USB WiFi,Redes,662.48,68
+357,Audífonos Bluetooth,Audio,163.22,80
+358,Monitor Curvo 27,Monitores,585.98,122
+359,Audífonos Gamer v2,Audio,194.86,2
+360,Suite de Diseño,Software,822.02,65
+361,Parlante Portátil,Audio,216.76,103
+362,Mousepad Gamer v4,Perifericos,441.65,56
+363,Consola Portátil,Gaming,191.56,118
+364,Volante para Consola,Gaming,337.06,96
+365,Control Inalámbrico,Gaming,411.92,121
+366,Licencia Office,Software,820.36,123
+367,Control Inalámbrico,Gaming,342.62,10
+368,Suite de Diseño,Software,101.45,102
+369,Cargador Rápido,Moviles,776.53,107
+370,Batería Externa,Accesorios,928.36,74
+371,Funda Protectora v4,Moviles,709.77,149
+372,Teclado Mecánico,Perifericos,641.45,151
+373,All in One 24,Computadoras,111.38,192
+374,Suite de Diseño,Software,450.37,166
+375,Mouse Inalámbrico,Perifericos,654.67,60
+376,Extensor de Red,Redes,39.33,150
+377,Hub USB-C,Accesorios,875.36,88
+378,Laptop Gamer,Computadoras,787.04,0
+379,Laptop Gamer,Computadoras,502.37,21
+380,Mousepad Gamer,Perifericos,754.43,74
+381,Funda Protectora v3,Moviles,614.89,50
+382,Teclado Numérico,Perifericos,620.59,163
+383,All in One 24 v4,Computadoras,614.49,38
+384,Memoria USB 64GB,Almacenamiento,652.23,97
+385,Disco HDD 2TB v3,Almacenamiento,601.7,150
+386,Organizador de Cables,Accesorios,727.65,79
+387,Laptop Gamer,Computadoras,456.17,186
+388,Monitor 4K,Monitores,641.14,166
+389,Mouse Inalámbrico v5,Perifericos,878.15,122
+390,Memoria USB 64GB,Almacenamiento,909.9,178
+391,Licencia Windows,Software,348.11,105
+392,Disco SSD 512GB,Almacenamiento,924.17,150
+393,Tarjeta SD 128GB v5,Almacenamiento,801.05,144
+394,Parlante Portátil,Audio,497.74,41
+395,Disco HDD 2TB,Almacenamiento,246.01,89
+396,Monitor Gamer 144Hz v5,Monitores,803.32,111
+397,Webcam HD v4,Perifericos,807.01,30
+398,Mousepad Gamer v4,Perifericos,611.83,32
+399,Mouse Inalámbrico,Perifericos,473.51,123
+400,Hub USB-C,Accesorios,610.17,65
+401,Disco SSD 1TB,Almacenamiento,670.21,9
+402,Mouse Inalámbrico,Perifericos,782.9,31
+403,Cargador Rápido,Moviles,404.25,189
+404,Tarjeta SD 128GB v4,Almacenamiento,283.34,142
+405,Teclado Numérico,Perifericos,669.35,172
+406,Micrófono USB,Audio,858.12,12
+407,Licencia Antivirus,Software,544.61,16
+408,Licencia Antivirus,Software,157.77,174
+409,Memoria USB 64GB,Almacenamiento,298.24,126
+410,Base para Laptop,Accesorios,106.58,147
+411,Tarjeta de Regalo Gaming,Gaming,773.62,134
+412,Licencia Windows v3,Software,301.23,79
+413,Software de Respaldo,Software,196.39,25
+414,Organizador de Cables,Accesorios,766.76,5
+415,Teclado Numérico v3,Perifericos,866.28,113
+416,Laptop Gamer v2,Computadoras,676.19,106
+417,Base para Laptop,Accesorios,774.7,174
+418,Cargador Rápido v3,Moviles,477.72,39
+419,Monitor 4K,Monitores,415.59,145
+420,Tarjeta de Regalo Gaming,Gaming,193.22,46
+421,Funda Protectora v2,Moviles,659.17,97
+422,PC de Escritorio,Computadoras,772.07,124
+423,Mousepad Gamer,Perifericos,843.03,144
+424,Extensor de Red v5,Redes,931.31,21
+425,Tarjeta de Regalo Gaming,Gaming,789.37,51
+426,Base para Laptop v4,Accesorios,38.31,122
+427,Cargador Rápido,Moviles,749.92,84
+428,Volante para Consola,Gaming,836.37,50
+429,Control Inalámbrico,Gaming,656.5,193
+430,Laptop Gamer v5,Computadoras,25.5,84
+431,Disco SSD 512GB,Almacenamiento,571.56,162
+432,Control Inalámbrico,Gaming,854.54,144
+433,Teclado Numérico v4,Perifericos,62.38,160
+434,Barra de Sonido v4,Audio,119.49,125
+435,Laptop Gamer v2,Computadoras,814.35,5
+436,Memoria USB 64GB v2,Almacenamiento,497.33,33
+437,Cable de Red Cat6 v2,Redes,660.52,0
+438,Mousepad Gamer,Perifericos,783.0,30
+439,Disco SSD 1TB,Almacenamiento,185.72,104
+440,Cable HDMI,Accesorios,20.92,79
+441,Silla Gamer,Gaming,263.72,179
+442,Audífonos Bluetooth,Audio,734.28,131
+443,Control Inalámbrico,Gaming,657.82,104
+444,Monitor 24 pulgadas,Monitores,497.12,100
+445,Switch 8 Puertos,Redes,143.47,74
+446,Memoria USB 64GB,Almacenamiento,247.5,149
+447,Audífonos Bluetooth,Audio,511.59,160
+448,Silla Gamer,Gaming,661.45,59
+449,Organizador de Cables,Accesorios,99.17,107
+450,Volante para Consola,Gaming,63.25,76
+451,Memoria USB 64GB,Almacenamiento,209.4,50
+452,Control Inalámbrico,Gaming,605.43,59
+453,Funda Protectora v5,Moviles,119.61,49
+454,Control Inalámbrico v2,Gaming,450.56,181
+455,Smartwatch Deportivo,Moviles,799.92,123
+456,Monitor 4K v5,Monitores,350.33,177
+457,Teclado Numérico v2,Perifericos,80.54,192
+458,All in One 24,Computadoras,88.01,61
+459,Suite de Diseño,Software,888.29,164
+460,Webcam HD,Perifericos,738.88,148
+461,Disco HDD 2TB,Almacenamiento,715.81,4
+462,Laptop Gamer,Computadoras,812.21,41
+463,Control Inalámbrico v5,Gaming,673.62,98
+464,Webcam HD v4,Perifericos,929.59,110
+465,Laptop 14 pulgadas,Computadoras,850.35,106
+466,Router WiFi 6 v5,Redes,895.76,133
+467,Volante para Consola,Gaming,326.23,111
+468,Funda Protectora v5,Moviles,469.12,30
+469,Licencia Windows,Software,324.54,157
+470,Memoria USB 64GB v5,Almacenamiento,485.92,56
+471,Disco SSD 1TB,Almacenamiento,344.47,109
+472,Batería Externa,Accesorios,910.22,52
+473,Licencia Office,Software,200.0,20
+474,Audífonos Bluetooth v3,Audio,234.22,183
+475,Teclado Numérico,Perifericos,520.87,1
+476,Smartwatch Deportivo,Moviles,879.04,107
+477,Organizador de Cables,Accesorios,725.09,72
+478,Base para Laptop,Accesorios,168.49,197
+479,Monitor 24 pulgadas,Monitores,218.14,183
+480,Mini PC,Computadoras,874.15,184
+481,Teclado Mecánico,Perifericos,149.19,62
+482,Organizador de Cables v2,Accesorios,228.78,50
+483,Monitor Portátil v5,Monitores,574.87,174
+484,Monitor 24 pulgadas,Monitores,357.16,73
+485,Consola Portátil v3,Gaming,858.19,120
+486,Base para Laptop,Accesorios,948.78,5
+487,Disco SSD 1TB,Almacenamiento,457.78,162
+488,Licencia Office,Software,793.36,92
+489,Router WiFi 6,Redes,585.59,125
+490,Hub USB-C,Accesorios,862.7,124
+491,Mouse Inalámbrico v4,Perifericos,590.04,87
+492,Laptop Gamer,Computadoras,241.37,25
+493,Router WiFi 6,Redes,532.37,177
+494,Disco HDD 2TB,Almacenamiento,486.33,110
+495,Adaptador USB WiFi,Redes,57.72,59
+496,Hub USB-C v3,Accesorios,366.84,10
+497,Licencia Windows,Software,808.25,56
+498,Licencia Windows,Software,209.65,51
+499,Software de Respaldo v2,Software,491.62,157
+500,Audífonos Bluetooth,Audio,296.21,153
+501,Barra de Sonido,Audio,777.46,102
+502,Organizador de Cables,Accesorios,217.43,20
+503,Monitor 24 pulgadas v2,Monitores,820.33,191
+504,Teclado Numérico v4,Perifericos,253.89,141
+505,Laptop 14 pulgadas,Computadoras,564.93,42
+506,Control Inalámbrico v5,Gaming,832.37,60
+507,Router WiFi 6,Redes,36.13,13
+508,Parlante Portátil,Audio,881.76,80
+509,Memoria USB 64GB,Almacenamiento,136.16,6
+510,Monitor Portátil,Monitores,942.45,169
+511,Cable de Red Cat6,Redes,392.1,30
+512,Disco SSD 512GB,Almacenamiento,105.58,140
+513,Memoria USB 64GB,Almacenamiento,76.26,8
+514,Batería Externa v2,Accesorios,895.25,96
+515,Barra de Sonido,Audio,189.58,188
+516,Tarjeta de Regalo Gaming,Gaming,52.77,27
+517,Tablet 10,Moviles,817.96,195
+518,Mousepad Gamer,Perifericos,884.41,187
+519,Software de Respaldo,Software,179.0,185
+520,Extensor de Red,Redes,646.37,69
+521,Audífonos Bluetooth v5,Audio,798.48,120
+522,Teclado Numérico,Perifericos,742.24,187
+523,Disco HDD 2TB,Almacenamiento,770.93,185
+524,Monitor Gamer 144Hz,Monitores,637.17,91
+525,Cable HDMI,Accesorios,503.61,61
+526,Teclado Numérico v5,Perifericos,644.34,123
+527,Tarjeta de Regalo Gaming v5,Gaming,50.9,65
+528,Laptop Gamer v2,Computadoras,224.0,88
+529,Base para Laptop,Accesorios,276.77,134
+530,Cable de Red Cat6,Redes,504.43,75
+531,All in One 24,Computadoras,814.43,9
+532,Licencia Antivirus,Software,149.58,180
+533,Base para Laptop,Accesorios,686.12,142
+534,Memoria USB 64GB,Almacenamiento,801.35,196
+535,Mini PC,Computadoras,297.72,143
+536,Base para Laptop v4,Accesorios,721.84,46
+537,Memoria USB 64GB,Almacenamiento,158.08,109
+538,All in One 24 v4,Computadoras,737.57,141
+539,Router WiFi 6,Redes,503.5,74
+540,Hub USB-C,Accesorios,934.37,16
+541,Funda Protectora,Moviles,717.81,180
+542,Monitor Gamer 144Hz,Monitores,219.25,62
+543,Monitor 24 pulgadas,Monitores,113.98,132
+544,Silla Gamer,Gaming,827.94,24
+545,Licencia Office,Software,884.47,186
+546,Volante para Consola,Gaming,80.22,43
+547,Teclado Mecánico v4,Perifericos,491.51,180
+548,Audífonos Bluetooth,Audio,63.97,188
+549,Consola Portátil,Gaming,433.66,171
+550,Adaptador USB WiFi,Redes,694.21,27
+551,Silla Gamer v3,Gaming,291.81,60
+552,Licencia Office,Software,247.81,42
+553,Batería Externa,Accesorios,800.06,101
+554,Cargador Rápido,Moviles,727.8,85
+555,Disco SSD 1TB v5,Almacenamiento,351.41,55
+556,PC de Escritorio,Computadoras,866.21,76
+557,Teclado Mecánico v4,Perifericos,537.35,138
+558,Monitor Gamer 144Hz v4,Monitores,312.85,1
+559,Router WiFi 6 v3,Redes,179.68,125
+560,Audífonos Gamer v3,Audio,111.81,181
+561,Batería Externa,Accesorios,49.32,120
+562,Disco HDD 2TB,Almacenamiento,551.78,127
+563,PC de Escritorio,Computadoras,169.91,59
+564,Audífonos Gamer v3,Audio,875.96,191
+565,Batería Externa,Accesorios,466.57,165
+566,Monitor Gamer 144Hz,Monitores,168.67,74
+567,Monitor 24 pulgadas v3,Monitores,573.37,166
+568,Laptop 14 pulgadas,Computadoras,743.53,63
+569,Audífonos Gamer,Audio,123.69,172
+570,Adaptador USB WiFi,Redes,895.23,136
+571,Monitor Portátil,Monitores,889.12,19
+572,Volante para Consola,Gaming,42.35,179
+573,Hub USB-C,Accesorios,27.29,48
+574,Consola Portátil v5,Gaming,50.56,176
+575,Webcam HD,Perifericos,878.8,2
+576,Mouse Inalámbrico v3,Perifericos,263.54,66
+577,Software de Respaldo,Software,221.82,124
+578,Monitor 24 pulgadas v2,Monitores,811.27,81
+579,Smartphone Gama Media,Moviles,238.43,198
+580,Silla Gamer,Gaming,327.25,120
+581,Tablet 10,Moviles,878.34,5
+582,Cable HDMI v3,Accesorios,527.38,165
+583,Organizador de Cables,Accesorios,281.29,19
+584,Teclado Mecánico,Perifericos,632.13,105
+585,Smartwatch Deportivo,Moviles,55.16,26
+586,Organizador de Cables,Accesorios,107.06,195
+587,Monitor Curvo 27,Monitores,80.78,124
+588,Disco SSD 1TB v5,Almacenamiento,146.78,168
+589,Mini PC,Computadoras,666.85,135
+590,PC de Escritorio,Computadoras,638.83,146
+591,Monitor Curvo 27 v5,Monitores,626.95,180
+592,Switch 8 Puertos v5,Redes,338.74,116
+593,Hub USB-C,Accesorios,392.49,171
+594,Monitor Portátil,Monitores,360.69,153
+595,Extensor de Red,Redes,101.36,70
+596,Extensor de Red v5,Redes,900.83,171
+597,Monitor 4K,Monitores,407.77,56
+598,Switch 8 Puertos,Redes,789.6,65
+599,Monitor Portátil,Monitores,73.7,174
+600,Batería Externa,Accesorios,586.94,122
+601,Hub USB-C v3,Accesorios,472.07,135
+602,Licencia Office v4,Software,211.21,144
+603,Webcam HD,Perifericos,939.63,181
+604,Parlante Portátil,Audio,112.19,55
+605,Tarjeta SD 128GB v4,Almacenamiento,608.73,157
+606,Disco SSD 1TB,Almacenamiento,618.36,126
+607,All in One 24 v5,Computadoras,848.44,66
+608,Tarjeta SD 128GB,Almacenamiento,564.1,40
+609,Funda Protectora v3,Moviles,753.95,27
+610,Tablet 10,Moviles,937.13,67
+611,Volante para Consola,Gaming,891.75,102
+612,Audífonos Bluetooth,Audio,906.7,0
+613,Tablet 10 v2,Moviles,515.73,185
+614,Laptop Gamer v2,Computadoras,901.23,8
+615,Teclado Mecánico v2,Perifericos,346.27,170
+616,Funda Protectora v3,Moviles,115.98,130
+617,Monitor Curvo 27,Monitores,946.31,153
+618,Laptop Gamer v4,Computadoras,840.63,113
+619,Extensor de Red,Redes,12.27,93
+620,Cable de Red Cat6,Redes,509.18,175
+621,Memoria USB 64GB v2,Almacenamiento,458.32,44
+622,Consola Portátil,Gaming,909.28,72
+623,Licencia Office,Software,448.97,92
+624,PC de Escritorio,Computadoras,471.28,195
+625,Licencia Office v4,Software,612.94,175
+626,Silla Gamer,Gaming,772.22,157
+627,Memoria USB 64GB,Almacenamiento,649.63,87
+628,Laptop Gamer,Computadoras,693.52,62
+629,Mini PC,Computadoras,241.62,13
+630,Licencia Windows v3,Software,285.35,78
+631,Monitor 24 pulgadas,Monitores,852.93,151
+632,Disco SSD 512GB,Almacenamiento,361.6,171
+633,Cable de Red Cat6 v4,Redes,873.0,48
+634,Monitor Curvo 27,Monitores,507.27,111
+635,Disco SSD 1TB,Almacenamiento,68.97,172
+636,Monitor Curvo 27,Monitores,726.05,87
+637,Disco SSD 1TB,Almacenamiento,825.63,48
+638,Funda Protectora,Moviles,711.86,25
+639,Licencia Windows v2,Software,841.34,185
+640,Funda Protectora,Moviles,38.87,164
+641,Audífonos Gamer,Audio,582.13,159
+642,Batería Externa,Accesorios,611.99,51
+643,Base para Laptop,Accesorios,661.43,92
+644,Monitor Gamer 144Hz,Monitores,11.32,48
+645,Tarjeta de Regalo Gaming,Gaming,663.64,25
+646,Cargador Rápido,Moviles,28.93,161
+647,Webcam HD,Perifericos,461.37,10
+648,Hub USB-C,Accesorios,305.13,53
+649,Monitor Curvo 27,Monitores,439.64,45
+650,Licencia Antivirus v3,Software,859.45,139
+651,Disco SSD 512GB,Almacenamiento,665.0,149
+652,Monitor Portátil,Monitores,461.45,110
+653,Laptop Gamer,Computadoras,752.88,102
+654,Licencia Antivirus,Software,929.82,195
+655,Laptop 14 pulgadas v4,Computadoras,561.56,33
+656,Cable HDMI,Accesorios,283.0,26
+657,Control Inalámbrico v3,Gaming,915.34,33
+658,Laptop 14 pulgadas v4,Computadoras,249.29,9
+659,Switch 8 Puertos,Redes,647.06,144
+660,Adaptador USB WiFi,Redes,315.0,113
+661,Disco HDD 2TB v4,Almacenamiento,444.16,186
+662,Teclado Numérico v2,Perifericos,917.68,113
+663,Parlante Portátil,Audio,456.72,28
+664,Suite de Diseño,Software,217.68,19
+665,Micrófono USB,Audio,800.51,10
+666,Disco HDD 2TB v5,Almacenamiento,183.94,184
+667,Monitor 4K v3,Monitores,34.65,104
+668,Software de Respaldo v3,Software,87.67,187
+669,Licencia Office,Software,401.8,161
+670,Barra de Sonido,Audio,901.25,95
+671,PC de Escritorio v3,Computadoras,660.47,74
+672,Laptop 14 pulgadas,Computadoras,904.67,138
+673,Tablet 10,Moviles,449.03,56
+674,Tablet 10,Moviles,433.57,93
+675,Mini PC,Computadoras,730.19,101
+676,Consola Portátil,Gaming,530.38,183
+677,Organizador de Cables,Accesorios,641.09,165
+678,Funda Protectora,Moviles,302.23,110
+679,Monitor 24 pulgadas,Monitores,613.14,67
+680,Tablet 10,Moviles,790.6,19
+681,Tarjeta SD 128GB,Almacenamiento,886.11,118
+682,Monitor Curvo 27,Monitores,741.26,43
+683,Tarjeta de Regalo Gaming,Gaming,692.77,71
+684,Monitor 24 pulgadas,Monitores,207.85,26
+685,Licencia Windows,Software,473.28,39
+686,Tablet 10,Moviles,588.28,91
+687,Tablet 10,Moviles,246.17,51
+688,Webcam HD,Perifericos,454.69,165
+689,Silla Gamer v4,Gaming,938.92,13
+690,Monitor 24 pulgadas,Monitores,754.03,124
+691,Audífonos Gamer,Audio,779.93,90
+692,All in One 24,Computadoras,664.66,104
+693,Teclado Mecánico,Perifericos,442.19,127
+694,Monitor Curvo 27,Monitores,456.31,114
+695,PC de Escritorio,Computadoras,481.77,196
+696,Organizador de Cables,Accesorios,828.94,135
+697,Base para Laptop,Accesorios,102.7,31
+698,All in One 24,Computadoras,340.51,46
+699,Laptop 14 pulgadas v3,Computadoras,761.81,81
+700,Tarjeta SD 128GB,Almacenamiento,493.72,42
+701,All in One 24,Computadoras,612.14,94
+702,Licencia Office v4,Software,143.52,131
+703,Disco SSD 512GB v2,Almacenamiento,244.57,162
+704,Cable HDMI,Accesorios,946.24,6
+705,Monitor Portátil,Monitores,714.23,120
+706,Teclado Numérico,Perifericos,832.33,105
+707,Control Inalámbrico v3,Gaming,411.12,144
+708,Monitor 4K,Monitores,36.46,136
+709,Teclado Numérico,Perifericos,489.54,142
+710,Disco HDD 2TB,Almacenamiento,131.82,71
+711,Control Inalámbrico,Gaming,657.21,186
+712,Software de Respaldo v5,Software,779.62,20
+713,Funda Protectora,Moviles,42.46,172
+714,Teclado Numérico,Perifericos,438.89,199
+715,Disco HDD 2TB,Almacenamiento,532.73,125
+716,Control Inalámbrico,Gaming,638.72,28
+717,Organizador de Cables,Accesorios,355.27,96
+718,Tarjeta de Regalo Gaming v3,Gaming,558.23,144
+719,Memoria USB 64GB v5,Almacenamiento,101.21,152
+720,Switch 8 Puertos,Redes,416.26,53
+721,Disco SSD 512GB v3,Almacenamiento,20.95,139
+722,Suite de Diseño v4,Software,304.17,103
+723,Monitor 24 pulgadas,Monitores,342.11,27
+724,Monitor Gamer 144Hz,Monitores,806.23,6
+725,PC de Escritorio,Computadoras,222.2,92
+726,Monitor Curvo 27 v3,Monitores,898.94,51
+727,PC de Escritorio v2,Computadoras,41.06,43
+728,Tarjeta SD 128GB v3,Almacenamiento,401.32,93
+729,Cargador Rápido v3,Moviles,90.75,173
+730,Monitor 4K,Monitores,356.33,103
+731,Router WiFi 6,Redes,913.03,72
+732,Disco HDD 2TB,Almacenamiento,758.3,93
+733,Tarjeta SD 128GB,Almacenamiento,58.44,186
+734,Teclado Mecánico,Perifericos,879.72,84
+735,Cargador Rápido,Moviles,297.85,76
+736,Disco SSD 512GB,Almacenamiento,820.08,182
+737,Webcam HD v5,Perifericos,52.0,133
+738,Smartphone Gama Media v4,Moviles,767.7,127
+739,Tarjeta SD 128GB,Almacenamiento,826.5,194
+740,Smartwatch Deportivo,Moviles,249.28,94
+741,Volante para Consola,Gaming,389.96,196
+742,Teclado Mecánico v2,Perifericos,695.49,199
+743,Tablet 10,Moviles,455.0,187
+744,Parlante Portátil v3,Audio,898.21,132
+745,Monitor 24 pulgadas,Monitores,873.12,37
+746,Monitor 24 pulgadas v4,Monitores,874.66,43
+747,Cargador Rápido,Moviles,486.39,133
+748,Audífonos Gamer,Audio,140.14,72
+749,Teclado Mecánico v5,Perifericos,571.92,119
+750,Parlante Portátil v4,Audio,191.97,132
+751,Teclado Mecánico,Perifericos,663.59,122
+752,Parlante Portátil,Audio,888.16,178
+753,Licencia Office,Software,612.99,120
+754,Control Inalámbrico,Gaming,940.64,80
+755,Adaptador USB WiFi,Redes,634.0,4
+756,Micrófono USB,Audio,765.3,110
+757,Batería Externa v5,Accesorios,504.06,153
+758,Licencia Windows,Software,659.59,193
+759,Teclado Mecánico v5,Perifericos,698.19,117
+760,Funda Protectora,Moviles,621.76,54
+761,Cable HDMI v3,Accesorios,225.11,92
+762,Tarjeta de Regalo Gaming,Gaming,726.39,195
+763,Cargador Rápido,Moviles,196.19,172
+764,Mini PC,Computadoras,199.53,17
+765,Disco SSD 512GB v5,Almacenamiento,858.66,40
+766,Monitor 24 pulgadas v5,Monitores,222.26,75
+767,Disco HDD 2TB,Almacenamiento,232.04,154
+768,Monitor Portátil,Monitores,711.81,131
+769,Cable de Red Cat6,Redes,855.18,197
+770,Teclado Mecánico,Perifericos,115.65,163
+771,Mini PC,Computadoras,786.84,183
+772,Mini PC,Computadoras,828.4,56
+773,Micrófono USB,Audio,32.58,108
+774,Base para Laptop,Accesorios,619.72,162
+775,Smartwatch Deportivo,Moviles,273.96,92
+776,Barra de Sonido v4,Audio,172.97,137
+777,Teclado Numérico v3,Perifericos,518.05,25
+778,Disco SSD 512GB,Almacenamiento,611.66,150
+779,Base para Laptop v4,Accesorios,19.72,23
+780,Audífonos Gamer,Audio,52.16,14
+781,Tarjeta de Regalo Gaming,Gaming,11.86,28
+782,Mousepad Gamer,Perifericos,763.33,20
+783,Tarjeta de Regalo Gaming,Gaming,8.3,28
+784,Suite de Diseño,Software,591.37,184
+785,Silla Gamer,Gaming,192.83,179
+786,Licencia Office,Software,368.69,10
+787,Cable de Red Cat6 v3,Redes,231.43,133
+788,Batería Externa,Accesorios,579.73,129
+789,Switch 8 Puertos v5,Redes,655.99,15
+790,Cable HDMI,Accesorios,862.8,140
+791,Monitor Curvo 27 v3,Monitores,338.14,137
+792,Audífonos Bluetooth,Audio,697.17,187
+793,Barra de Sonido,Audio,544.47,64
+794,Webcam HD,Perifericos,578.22,5
+795,Base para Laptop v5,Accesorios,73.26,79
+796,Disco SSD 1TB,Almacenamiento,635.62,97
+797,Memoria USB 64GB,Almacenamiento,793.63,39
+798,Base para Laptop,Accesorios,94.27,80
+799,Licencia Office,Software,592.56,43
+800,Base para Laptop,Accesorios,524.24,131
+801,Teclado Mecánico v3,Perifericos,769.48,171
+802,Monitor Portátil,Monitores,339.94,83
+803,Tarjeta de Regalo Gaming v3,Gaming,193.67,194
+804,Teclado Numérico v4,Perifericos,533.86,198
+805,Router WiFi 6,Redes,448.46,146
+806,Mousepad Gamer,Perifericos,586.34,4
+807,Parlante Portátil v5,Audio,226.37,195
+808,Licencia Office,Software,307.99,38
+809,All in One 24,Computadoras,669.79,57
+810,Disco SSD 512GB,Almacenamiento,252.3,169
+811,Smartphone Gama Media,Moviles,750.65,191
+812,PC de Escritorio,Computadoras,626.28,118
+813,Licencia Antivirus v2,Software,365.82,49
+814,Router WiFi 6,Redes,697.74,6
+815,Licencia Windows v3,Software,700.89,98
+816,Memoria USB 64GB v5,Almacenamiento,726.39,112
+817,Organizador de Cables v5,Accesorios,743.3,141
+818,Memoria USB 64GB v3,Almacenamiento,133.87,199
+819,Monitor 24 pulgadas,Monitores,358.14,27
+820,Software de Respaldo,Software,718.3,150
+821,Parlante Portátil,Audio,402.96,16
+822,Monitor 4K v5,Monitores,131.6,128
+823,Parlante Portátil,Audio,914.87,138
+824,Control Inalámbrico v5,Gaming,729.71,82
+825,Monitor Portátil v4,Monitores,38.46,56
+826,Audífonos Gamer v3,Audio,593.07,88
+827,Mouse Inalámbrico v3,Perifericos,231.85,0
+828,Tablet 10 v5,Moviles,271.65,188
+829,Disco SSD 1TB,Almacenamiento,568.1,44
+830,Cable de Red Cat6 v3,Redes,935.59,70
+831,Hub USB-C,Accesorios,221.11,53
+832,Tarjeta de Regalo Gaming v2,Gaming,223.81,163
+833,All in One 24,Computadoras,811.96,197
+834,Mousepad Gamer,Perifericos,361.93,177
+835,Disco HDD 2TB,Almacenamiento,791.39,102
+836,Monitor Portátil,Monitores,384.64,95
+837,Cable de Red Cat6 v4,Redes,331.95,89
+838,Cargador Rápido v4,Moviles,582.56,98
+839,Funda Protectora,Moviles,189.49,7
+840,Organizador de Cables,Accesorios,237.54,100
+841,Licencia Windows,Software,890.26,112
+842,Disco SSD 512GB v3,Almacenamiento,338.9,187
+843,PC de Escritorio v3,Computadoras,468.22,72
+844,Monitor 24 pulgadas v5,Monitores,918.36,187
+845,Control Inalámbrico,Gaming,282.01,33
+846,Licencia Antivirus v5,Software,894.91,128
+847,Audífonos Bluetooth,Audio,143.47,53
+848,Micrófono USB,Audio,896.03,91
+849,PC de Escritorio v4,Computadoras,821.15,97
+850,Disco HDD 2TB,Almacenamiento,409.69,188
+851,Licencia Windows v2,Software,472.17,33
+852,Audífonos Bluetooth,Audio,575.18,183
+853,Consola Portátil,Gaming,84.51,87
+854,Licencia Office,Software,116.25,162
+855,Hub USB-C,Accesorios,100.21,39
+856,Cargador Rápido v4,Moviles,448.13,17
+857,Cable HDMI,Accesorios,735.88,194
+858,Mousepad Gamer v3,Perifericos,822.28,115
+859,Monitor Portátil,Monitores,24.47,126
+860,Disco SSD 1TB,Almacenamiento,728.47,179
+861,Suite de Diseño v5,Software,773.93,81
+862,Volante para Consola,Gaming,808.03,71
+863,Licencia Antivirus v5,Software,314.18,179
+864,Licencia Office v5,Software,757.86,149
+865,Consola Portátil v2,Gaming,755.21,3
+866,Licencia Windows,Software,416.8,93
+867,Licencia Office v2,Software,573.26,167
+868,Batería Externa,Accesorios,409.42,179
+869,Parlante Portátil,Audio,902.52,27
+870,Hub USB-C v4,Accesorios,346.01,198
+871,Cable HDMI,Accesorios,397.28,6
+872,Batería Externa v4,Accesorios,820.68,40
+873,PC de Escritorio,Computadoras,147.91,106
+874,Licencia Antivirus v3,Software,437.02,176
+875,Parlante Portátil,Audio,356.41,168
+876,Cable de Red Cat6,Redes,859.67,89
+877,Mini PC,Computadoras,288.61,2
+878,Adaptador USB WiFi v4,Redes,751.15,35
+879,Licencia Antivirus,Software,532.8,149
+880,Audífonos Gamer,Audio,23.51,21
+881,Teclado Mecánico,Perifericos,824.92,192
+882,Cargador Rápido,Moviles,591.94,20
+883,Licencia Windows v5,Software,288.21,72
+884,Control Inalámbrico,Gaming,393.75,188
+885,Teclado Numérico,Perifericos,521.43,40
+886,Memoria USB 64GB v3,Almacenamiento,503.14,113
+887,Licencia Office,Software,172.73,43
+888,Licencia Windows v5,Software,536.4,153
+889,Licencia Office,Software,674.26,106
+890,Cable de Red Cat6,Redes,129.98,116
+891,Adaptador USB WiFi,Redes,804.69,48
+892,Licencia Windows,Software,568.06,129
+893,Laptop 14 pulgadas,Computadoras,257.53,123
+894,Micrófono USB,Audio,459.48,46
+895,Monitor Curvo 27,Monitores,204.79,41
+896,Cargador Rápido v5,Moviles,877.74,92
+897,Smartwatch Deportivo,Moviles,680.69,163
+898,Monitor Gamer 144Hz,Monitores,121.24,157
+899,Organizador de Cables v5,Accesorios,518.92,24
+900,Parlante Portátil,Audio,259.27,11
+901,Monitor Portátil,Monitores,295.6,64
+902,Teclado Mecánico,Perifericos,92.89,32
+903,Mousepad Gamer,Perifericos,436.17,151
+904,Laptop Gamer,Computadoras,17.78,140
+905,Audífonos Gamer,Audio,331.68,7
+906,All in One 24 v3,Computadoras,915.2,72
+907,Teclado Mecánico,Perifericos,746.25,58
+908,Disco SSD 512GB v5,Almacenamiento,630.23,31
+909,Cable de Red Cat6 v5,Redes,544.61,192
+910,Cargador Rápido v2,Moviles,349.3,171
+911,Organizador de Cables,Accesorios,912.8,68
+912,Laptop Gamer v2,Computadoras,651.42,104
+913,Cargador Rápido,Moviles,19.6,63
+914,Cargador Rápido v5,Moviles,504.91,126
+915,Router WiFi 6 v5,Redes,841.95,139
+916,Cargador Rápido,Moviles,131.38,118
+917,Licencia Antivirus,Software,925.83,103
+918,Micrófono USB,Audio,667.17,54
+919,Hub USB-C v2,Accesorios,5.4,93
+920,Disco SSD 1TB,Almacenamiento,876.25,94
+921,Mouse Inalámbrico,Perifericos,345.37,161
+922,Parlante Portátil v2,Audio,900.85,109
+923,Monitor Gamer 144Hz v2,Monitores,633.03,114
+924,Webcam HD v5,Perifericos,669.99,131
+925,Teclado Numérico,Perifericos,863.68,111
+926,Software de Respaldo,Software,35.62,178
+927,Disco HDD 2TB,Almacenamiento,238.03,49
+928,Mouse Inalámbrico,Perifericos,205.03,41
+929,Memoria USB 64GB,Almacenamiento,763.07,79
+930,Cargador Rápido v4,Moviles,644.96,147
+931,Micrófono USB v2,Audio,362.61,122
+932,Consola Portátil,Gaming,829.55,165
+933,Mousepad Gamer v5,Perifericos,435.49,21
+934,Monitor Portátil v3,Monitores,483.92,88
+935,Disco HDD 2TB,Almacenamiento,825.75,68
+936,Hub USB-C,Accesorios,396.7,143
+937,Tarjeta de Regalo Gaming v5,Gaming,180.65,27
+938,Disco SSD 512GB v5,Almacenamiento,144.65,164
+939,Tarjeta de Regalo Gaming,Gaming,374.57,99
+940,Extensor de Red,Redes,443.15,149
+941,Audífonos Bluetooth,Audio,183.53,134
+942,Webcam HD v4,Perifericos,41.12,5
+943,Silla Gamer,Gaming,928.54,116
+944,Software de Respaldo v3,Software,760.82,120
+945,Base para Laptop v4,Accesorios,566.32,118
+946,Audífonos Gamer v5,Audio,242.02,86
+947,Teclado Mecánico,Perifericos,699.37,155
+948,Audífonos Gamer,Audio,270.2,132
+949,Tarjeta SD 128GB v3,Almacenamiento,521.02,142
+950,Cable HDMI,Accesorios,453.39,172
+951,Hub USB-C,Accesorios,836.47,38
+952,Memoria USB 64GB v5,Almacenamiento,328.35,152
+953,Audífonos Gamer,Audio,373.26,52
+954,Disco SSD 1TB,Almacenamiento,55.29,180
+955,Router WiFi 6 v3,Redes,628.29,94
+956,Parlante Portátil,Audio,298.19,80
+957,Cargador Rápido,Moviles,685.07,161
+958,Adaptador USB WiFi,Redes,759.04,167
+959,Licencia Antivirus,Software,263.98,81
+960,Cargador Rápido,Moviles,714.69,180
+961,Disco HDD 2TB v4,Almacenamiento,446.96,134
+962,Organizador de Cables v5,Accesorios,673.96,189
+963,Switch 8 Puertos,Redes,459.22,131
+964,Mini PC,Computadoras,919.84,51
+965,Switch 8 Puertos,Redes,465.4,188
+966,Control Inalámbrico,Gaming,703.33,166
+967,Mousepad Gamer v5,Perifericos,424.07,2
+968,Suite de Diseño,Software,746.4,154
+969,Audífonos Gamer v5,Audio,776.1,149
+970,All in One 24 v5,Computadoras,608.24,70
+971,Webcam HD,Perifericos,728.99,78
+972,Monitor Gamer 144Hz,Monitores,9.04,162
+973,Tarjeta de Regalo Gaming v5,Gaming,275.48,67
+974,Funda Protectora,Moviles,411.4,46
+975,Parlante Portátil,Audio,887.09,138
+976,Tablet 10,Moviles,229.3,157
+977,Disco SSD 1TB,Almacenamiento,606.25,69
+978,Parlante Portátil v3,Audio,859.14,166
+979,Base para Laptop v3,Accesorios,225.09,31
+980,Disco SSD 1TB v3,Almacenamiento,702.77,124
+981,Volante para Consola,Gaming,324.49,25
+982,Mini PC,Computadoras,460.57,170
+983,Micrófono USB,Audio,482.86,129
+984,PC de Escritorio,Computadoras,576.06,38
+985,Tablet 10,Moviles,278.1,31
+986,Licencia Antivirus,Software,629.87,134
+987,Volante para Consola,Gaming,188.09,125
+988,Tarjeta SD 128GB,Almacenamiento,529.41,133
+989,Silla Gamer,Gaming,532.82,24
+990,Router WiFi 6,Redes,46.69,136
+991,Funda Protectora,Moviles,233.8,60
+992,Cable HDMI,Accesorios,45.63,93
+993,Monitor 24 pulgadas,Monitores,468.41,46
+994,Licencia Windows v3,Software,714.26,80
+995,Cargador Rápido,Moviles,760.84,83
+996,Switch 8 Puertos,Redes,857.12,108
+997,Barra de Sonido v4,Audio,309.26,141
+998,Smartphone Gama Media,Moviles,437.53,99
+999,Cargador Rápido v2,Moviles,414.74,55
+1000,Laptop 14 pulgadas,Computadoras,147.42,66
