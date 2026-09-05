@@ -1,0 +1,1201 @@
+id_transaccion,comercio,fecha,monto,categoria_comercio,edad_cliente,metodo_pago,es_fraude
+L2-000001,AutoRepuestos,2025-08-04,55.84, Deportes,33.0,Tarjeta Debito,0
+L2-000002,AutoRepuestos,2025-09-02,120.2, Retail,54.0,Transferencia_Bancaria,0
+L2-000003,TiendaExpress,2025-08-18,97.37,,44.0,Tarjeta Debito,0
+L2-000004,LibreriaCentral,2025-11-21,92.79,Hogar,43.0,Transferencia_Bancaria,0
+L2-000005,LibreriaCentral,2025-08-08,5325.92,Tecnología,32.0,TRANSFERENCIA,0
+L2-000006,TiendaExpress,2025-11-06,99.09,Hogar,45.0,EFECTIVO.,0
+L2-000007,LibreriaCentral,2025-07-29,115.12, Deportes,55.0,Tarjeta Credito,0
+L2-000008,SuperMax,2025-12-29,2118.37, Retail,37.0,Efectivo,1
+L2-000009,FarmaVida,2025-12-29,100.73,Moda,53.0,Tarjeta_Credito,0
+L2-000010,FarmaVida,2025-07-18,47.15,MODA.,47.0,Tarjeta_Debito,0
+L2-000011,TecnoCenter,2025-09-28,136.02,alimentos_,18.0,Efectivo,0
+L2-000012,ModaViva,2025-10-13,91.37,Alimentos ,32.0,Transferencia,0
+L2-000013,GourmetPlus,2025-08-05,72.59,Retail_,27.0,Tarjeta_Debito,0
+L2-000014,AutoRepuestos,2025-08-10,,HOGAR_,26.0,EFECTIVO.,0
+L2-000015,AutoRepuestos,2025-08-23,40.91,Tecnologia,21.0,EFECTIVO.,0
+L2-000016,SuperMax,2025-08-17,109.72,MODA.,38.0,Efectivo,0
+L2-000017,SuperMax,2025-12-10,86.79,Hogar ,36.0,Efectivo,0
+L2-000018,ModaViva,2025-09-29,114.18,Tecnología,36.0,TRANSFERENCIA,0
+L2-000019,ModaViva,2025-12-03,60.55,TECNOLOGIA,30.0,TARJETA DEBITO,0
+L2-000020,DeportesTotal,2025-11-23,64.98,Deportes,44.0,Transferencia,0
+L2-000021,TiendaExpress,2025-12-03,7919.94,Tecnología,54.0,Transferencia_Bancaria,0
+L2-000022,HogarFacil,2025-12-05,125.43,Tecnologia,41.0,Transferencia,0
+L2-000023,TecnoCenter,2025-09-10,34.35,TECNOLOGIA,48.0,Tarjeta Credito,0
+L2-000024,SuperMax,2025-10-27,111.87, Deportes,25.0,Tarjeta_Credito,0
+L2-000025,TecnoCenter,2025-09-21,71.37,HOGAR_,32.0,Tarjeta Credito,0
+L2-000026,AutoRepuestos,2025-12-04,159.17,Deportes,47.0,EFECTIVO.,0
+L2-000027,LibreriaCentral,2025-12-20,164.11,MODA.,43.0,TARJETA DEBITO,0
+L2-000028,LibreriaCentral,2025-10-17,103.59,Tecnologia,40.0,Tarjeta_Debito,0
+L2-000029,LibreriaCentral,2025-09-10,80.16,Moda,18.0,Tarjeta Debito,0
+L2-000030,TiendaExpress,2025-09-22,89.32,Educacion,40.0, Efectivo,0
+L2-000031,HogarFacil,2025-07-20,130.29,HOGAR_,36.0,Transferencia_Bancaria,0
+L2-000032,HogarFacil,2025-08-12,171.89, Deportes,30.0,Efectivo,0
+L2-000033,TecnoCenter,2025-10-17,109.68,Moda,67.0,Transferencia_Bancaria,0
+L2-000034,AutoRepuestos,2025-11-23,66.91,HOGAR_,18.0,Tarjeta_Credito,0
+L2-000035,TecnoCenter,2025-08-29,133.0,alimentos_,32.0,TRANSFERENCIA,0
+L2-000036,SuperMax,2025-08-29,89.69,Alimentos,40.0, Efectivo,0
+L2-000037,AutoRepuestos,2025-12-11,103.83,Deportes,,TARJETA CREDITO,1
+L2-000038,DeportesTotal,2025-10-01,122.31, Moda ,40.0,EFECTIVO.,0
+L2-000039,TecnoCenter,2025-11-28,,Moda,31.0,Tarjeta_Credito,0
+L2-000040,ModaViva,2025-12-20,39.95,Moda,36.0,Efectivo,0
+L2-000041,FarmaVida,2025-07-07,112.08,Deportes,30.0,TARJETA CREDITO,0
+L2-000042,GourmetPlus,2025-09-05,,Alimentos ,35.0,Tarjeta Debito,0
+L2-000043,FarmaVida,2025-12-28,86.37,,40.0,Tarjeta Credito,0
+L2-000044,ModaViva,2025-10-22,92.15,Educación,39.0,TARJETA DEBITO,0
+L2-000045,SuperMax,2025-07-04,129.35,Educacion,29.0,Transferencia_Bancaria,0
+L2-000046,FarmaVida,2025-09-26,36.29,Alimentos ,37.0,Transferencia_Bancaria,0
+L2-000047,FarmaVida,2025-11-01,38.33, Moda ,46.0,,0
+L2-000048,GourmetPlus,2025-11-12,68.9,DEPORTES.,28.0,Tarjeta_Debito,0
+L2-000049,TecnoCenter,2025-08-27,60.04,Retail_,45.0,TRANSFERENCIA,0
+L2-000050,TecnoCenter,2025-08-26,121.05,MODA.,48.0,Tarjeta_Credito,0
+L2-000051,GourmetPlus,2025-12-07,33.43,Moda,23.0,Tarjeta_Debito,0
+L2-000052,ModaViva,2025-08-26,107.94, Moda ,19.0,Efectivo,0
+L2-000053,LibreriaCentral,2025-08-15,88.07,Educación,30.0,Transferencia_Bancaria,0
+L2-000054,HogarFacil,2025-08-06,,alimentos_,21.0,Tarjeta Debito,0
+L2-000055,SuperMax,2025-10-20,86.93,Automotriz,20.0,TARJETA DEBITO,0
+L2-000056,FarmaVida,2025-09-02,103.85,Retail_,41.0,Tarjeta_Debito,0
+L2-000057,HogarFacil,2025-10-10,168.3,Alimentos ,35.0,Tarjeta Debito,0
+L2-000058,SuperMax,2025-07-24,73.05, Farmacia,18.0,Tarjeta Credito,0
+L2-000059,GourmetPlus,2025-10-12,66.62,Educación,35.0,,0
+L2-000060,ModaViva,2025-07-22,,Retail_,36.0, Efectivo,0
+L2-000061,TecnoCenter,2025-07-05,92.74,Retail,23.0,,0
+L2-000062,AutoRepuestos,2025-09-27,105.26,Hogar,62.0,Efectivo,0
+L2-000063,TecnoCenter,2025-12-26,108.02,AUTOMOTRIZ,29.0,Transferencia,0
+L2-000064,DeportesTotal,2025-10-29,109.24,Tecnologia,49.0,Tarjeta Credito,0
+L2-000065,HogarFacil,2025-09-11,117.1, Moda ,45.0,,0
+L2-000066,HogarFacil,2025-08-15,57.35,alimentos_,27.0,EFECTIVO.,0
+L2-000067,LibreriaCentral,2025-12-06,111.29,Alimentos,,Tarjeta_Credito,0
+L2-000068,GourmetPlus,2025-10-21,33.28, Moda ,34.0,Transferencia,0
+L2-000069,LibreriaCentral,2025-07-30,84.85,Retail_,42.0,Transferencia_Bancaria,0
+L2-000070,LibreriaCentral,2025-12-24,54.07,TECNOLOGIA,46.0,Tarjeta Debito,0
+L2-000071,AutoRepuestos,2025-08-17,155.68,Alimentos,34.0,Efectivo,0
+L2-000072,HogarFacil,2025-11-21,28.21, Farmacia,33.0,TRANSFERENCIA,0
+L2-000073,SuperMax,2025-11-13,,Automotriz,22.0,Tarjeta Debito,0
+L2-000074,DeportesTotal,2025-11-07,148.07,Farmacia,, Efectivo,0
+L2-000075,TiendaExpress,2025-10-02,110.69,Farmacia,47.0, Efectivo,0
+L2-000076,AutoRepuestos,2025-12-06,89.35,Alimentos ,42.0,,0
+L2-000077,SuperMax,2025-08-11,35.54,EDUCACION,52.0,Efectivo,0
+L2-000078,TiendaExpress,2025-11-25,72.22,Hogar ,48.0,Tarjeta_Debito,0
+L2-000079,TecnoCenter,2025-09-18,54.15,Farmacia ,49.0,Tarjeta Debito,0
+L2-000080,DeportesTotal,2025-10-12,7678.1, Automotriz,33.0,Tarjeta Debito,0
+L2-000081,GourmetPlus,2025-12-04,111.13,EDUCACION,8.0,TARJETA DEBITO,0
+L2-000082,GourmetPlus,2025-07-24,7455.03,Alimentos,36.0, Efectivo,0
+L2-000083,TiendaExpress,2025-10-05,74.25,Tecnología,23.0,Tarjeta Credito,0
+L2-000084,HogarFacil,2025-12-20,105.4,AUTOMOTRIZ,40.0,Transferencia,0
+L2-000085,SuperMax,2025-10-03,91.88,alimentos_,26.0,,0
+L2-000086,LibreriaCentral,2025-10-21,82.72,Hogar ,31.0,Transferencia,0
+L2-000087,LibreriaCentral,2025-08-06,115.53,Hogar ,34.0,TARJETA DEBITO,1
+L2-000088,TiendaExpress,2025-12-24,67.05,AUTOMOTRIZ,25.0,Tarjeta Credito,0
+L2-000089,TiendaExpress,2025-07-14,102.52,,28.0,Tarjeta_Debito,0
+L2-000090,LibreriaCentral,2025-08-23,38.86,Alimentos ,52.0,Transferencia_Bancaria,0
+L2-000091,HogarFacil,2025-12-25,112.65,Hogar,48.0,Transferencia,0
+L2-000092,AutoRepuestos,2025-11-14,71.89,Farmacia,50.0,Efectivo,0
+L2-000093,GourmetPlus,2025-10-19,166.87,,44.0,Transferencia_Bancaria,0
+L2-000094,HogarFacil,2025-09-29,93.08,Automotriz,31.0,Transferencia,0
+L2-000095,GourmetPlus,2025-10-18,6.94,Tecnología,44.0,TARJETA CREDITO,0
+L2-000096,HogarFacil,2025-07-06,29.72, Farmacia,57.0,Transferencia,0
+L2-000097,TiendaExpress,2025-08-19,138.97,,62.0,Tarjeta_Debito,0
+L2-000098,AutoRepuestos,2025-08-22,68.97,MODA.,18.0,Transferencia,0
+L2-000099,FarmaVida,2025-09-29,3053.8,TECNOLOGIA,31.0,Efectivo,0
+L2-000100,DeportesTotal,2025-08-31,65.07,TECNOLOGIA,41.0,Transferencia_Bancaria,0
+L2-000101,FarmaVida,2025-11-13,,Hogar ,59.0,,0
+L2-000102,TecnoCenter,2025-07-26,106.15, Retail,27.0,TRANSFERENCIA,0
+L2-000103,DeportesTotal,2025-12-13,49.72,Deportes,30.0,Transferencia_Bancaria,0
+L2-000104,ModaViva,2025-10-16,99.86,Farmacia ,,TRANSFERENCIA,0
+L2-000105,TiendaExpress,2025-09-12,32.2,Farmacia ,36.0,TRANSFERENCIA,0
+L2-000106,HogarFacil,2025-09-05,109.95,Tecnologia,40.0,TRANSFERENCIA,0
+L2-000107,DeportesTotal,2025-09-28,46.92,Deportes,37.0,TRANSFERENCIA,1
+L2-000108,SuperMax,2025-11-06,94.13,Deportes,21.0,Transferencia,0
+L2-000109,TecnoCenter,2025-09-14,79.35, Deportes,, Efectivo,0
+L2-000110,GourmetPlus,2025-10-22,100.01, Moda ,26.0,Tarjeta_Debito,0
+L2-000111,TecnoCenter,2025-12-30,6.43, Moda ,46.0,Tarjeta_Debito,0
+L2-000112,AutoRepuestos,2025-12-31,120.81,TECNOLOGIA,13.0,TARJETA CREDITO,0
+L2-000113,FarmaVida,2025-09-20,,Educacion,26.0,Transferencia_Bancaria,0
+L2-000114,TecnoCenter,2025-07-26,7296.65,Educacion,40.0,Tarjeta_Credito,0
+L2-000115,GourmetPlus,2025-10-29,58.34,Alimentos,28.0,Tarjeta Debito,0
+L2-000116,ModaViva,2025-08-13,88.64,MODA.,18.0,Efectivo,0
+L2-000117,GourmetPlus,2025-11-28,42.95,Hogar,45.0,Tarjeta Credito,0
+L2-000118,DeportesTotal,2025-09-25,45.62,Educacion,12.0,EFECTIVO.,0
+L2-000119,SuperMax,2025-12-24,61.18,EDUCACION,48.0,TRANSFERENCIA,0
+L2-000120,TiendaExpress,2025-11-12,54.94, Retail,5.0, Efectivo,0
+L2-000121,HogarFacil,2025-09-22,,TECNOLOGIA,33.0,Transferencia_Bancaria,0
+L2-000122,GourmetPlus,2025-08-04,69.95,Retail_,29.0, Efectivo,0
+L2-000123,ModaViva,2025-10-02,56.86, Moda ,67.0,Efectivo,0
+L2-000124,DeportesTotal,2025-09-05,89.33,Hogar,46.0,Tarjeta Credito,0
+L2-000125,SuperMax,2025-11-19,67.01,Farmacia ,53.0,TARJETA CREDITO,1
+L2-000126,LibreriaCentral,2025-08-05,17.93,Alimentos,43.0,,0
+L2-000127,AutoRepuestos,2025-10-22,113.39,Farmacia ,27.0,Tarjeta Credito,0
+L2-000128,TecnoCenter,2025-10-16,76.5, Moda ,57.0,TARJETA DEBITO,0
+L2-000129,LibreriaCentral,2025-07-13,70.55,Tecnologia,38.0,Efectivo,0
+L2-000130,TecnoCenter,2025-08-01,107.95, Moda ,41.0,Tarjeta Debito,0
+L2-000131,ModaViva,2025-08-23,134.65,Farmacia ,38.0,Tarjeta Credito,0
+L2-000132,GourmetPlus,2025-09-28,105.86,Hogar,41.0,Transferencia_Bancaria,0
+L2-000133,AutoRepuestos,2025-07-08,83.77,TECNOLOGIA,21.0,Tarjeta_Debito,0
+L2-000134,DeportesTotal,2025-08-24,89.51,Hogar ,6.0,Tarjeta_Credito,0
+L2-000135,GourmetPlus,2025-07-19,129.95,Automotriz,33.0,Tarjeta Credito,0
+L2-000136,TiendaExpress,2025-07-17,102.78,Hogar ,38.0,TRANSFERENCIA,0
+L2-000137,SuperMax,2025-11-04,100.54,alimentos_,20.0,Tarjeta_Credito,0
+L2-000138,AutoRepuestos,2025-07-27,90.35, Retail,53.0,Tarjeta Credito,0
+L2-000139,TecnoCenter,2025-11-23,33.57,Retail,27.0,Tarjeta_Credito,0
+L2-000140,ModaViva,2025-10-28,33.86,Alimentos ,50.0,Transferencia_Bancaria,0
+L2-000141,ModaViva,2025-09-01,94.54,Educación,33.0,Tarjeta_Credito,0
+L2-000142,HogarFacil,2025-07-20,67.28,DEPORTES.,35.0,EFECTIVO.,0
+L2-000143,AutoRepuestos,2025-09-07,129.98,DEPORTES.,10.0,Tarjeta_Debito,0
+L2-000144,SuperMax,2025-11-20,61.9,Hogar ,47.0,TARJETA DEBITO,0
+L2-000145,DeportesTotal,2025-09-27,118.76,Automotriz,19.0,Tarjeta_Credito,0
+L2-000146,GourmetPlus,2025-10-06,77.52,,62.0,Efectivo,0
+L2-000147,LibreriaCentral,2025-08-04,124.74,Alimentos,44.0, Efectivo,0
+L2-000148,TecnoCenter,2025-11-21,94.02,Hogar ,38.0,Tarjeta Credito,0
+L2-000149,SuperMax,2025-07-18,118.26,Hogar,18.0,Tarjeta Debito,0
+L2-000150,ModaViva,2025-07-11,54.22,Farmacia ,37.0,Transferencia_Bancaria,0
+L2-000151,LibreriaCentral,2025-09-04,82.51,HOGAR_,50.0,TARJETA CREDITO,0
+L2-000152,FarmaVida,2025-08-30,79.42,,59.0, Efectivo,0
+L2-000153,TiendaExpress,2025-10-28,100.59, Automotriz,40.0,Tarjeta_Credito,0
+L2-000154,FarmaVida,2025-10-02,135.62,Deportes,20.0,Transferencia_Bancaria,0
+L2-000155,FarmaVida,2025-11-21,141.49,AUTOMOTRIZ,25.0,Tarjeta Credito,0
+L2-000156,TiendaExpress,2025-12-04,,,41.0,Transferencia_Bancaria,0
+L2-000157,TecnoCenter,2025-07-28,5863.35,EDUCACION,49.0,EFECTIVO.,0
+L2-000158,HogarFacil,2025-08-25,162.64,Alimentos ,61.0,TARJETA DEBITO,0
+L2-000159,GourmetPlus,2025-09-23,56.68,Retail_,44.0,Efectivo,0
+L2-000160,TecnoCenter,2025-11-11,44.14,Hogar,35.0,EFECTIVO.,0
+L2-000161,HogarFacil,2025-08-06,97.76,Farmacia,50.0,TARJETA CREDITO,0
+L2-000162,AutoRepuestos,2025-12-30,48.96,Educación,45.0,Transferencia,0
+L2-000163,DeportesTotal,2025-11-20,100.59, Moda ,42.0,Tarjeta_Debito,0
+L2-000164,DeportesTotal,2025-07-26,,alimentos_,26.0,Transferencia_Bancaria,0
+L2-000165,LibreriaCentral,2025-12-07,104.63,Tecnologia,26.0,TARJETA CREDITO,0
+L2-000166,GourmetPlus,2025-09-22,31.36,Educación,29.0,Transferencia,0
+L2-000167,HogarFacil,2025-07-15,73.17,Tecnología,24.0,TARJETA CREDITO,0
+L2-000168,HogarFacil,2025-07-02,35.27,Alimentos ,40.0,Tarjeta_Credito,0
+L2-000169,FarmaVida,2025-08-10,97.7,Hogar ,41.0,Tarjeta_Credito,0
+L2-000170,LibreriaCentral,2025-07-02,138.56,Tecnologia,25.0,EFECTIVO.,0
+L2-000171,GourmetPlus,2025-12-06,56.46,Retail_,31.0, Efectivo,0
+L2-000172,SuperMax,2025-11-02,36.22,Tecnología,18.0,TRANSFERENCIA,0
+L2-000173,AutoRepuestos,2025-07-29,111.75,HOGAR_,18.0,Tarjeta_Debito,0
+L2-000174,DeportesTotal,2025-07-11,93.29,Alimentos,46.0,Tarjeta_Debito,0
+L2-000175,LibreriaCentral,2025-11-12,,Farmacia ,37.0,Tarjeta_Credito,0
+L2-000176,GourmetPlus,2025-10-25,1.0,Educación,28.0,TARJETA CREDITO,0
+L2-000177,TecnoCenter,2025-10-11,138.74,,47.0,Tarjeta_Debito,0
+L2-000178,GourmetPlus,2025-12-27,114.8,Retail,32.0,Efectivo,0
+L2-000179,GourmetPlus,2025-12-25,146.1,HOGAR_,39.0,TARJETA CREDITO,0
+L2-000180,AutoRepuestos,2025-11-22,64.01,alimentos_,47.0,Efectivo,0
+L2-000181,FarmaVida,2025-07-08,72.87, Automotriz,47.0,Tarjeta_Debito,0
+L2-000182,TecnoCenter,2025-11-11,53.4,DEPORTES.,43.0,EFECTIVO.,0
+L2-000183,FarmaVida,2025-07-30,86.66,Retail_,26.0,Tarjeta Credito,0
+L2-000184,FarmaVida,2025-12-05,42.95,Deportes,51.0,Transferencia_Bancaria,0
+L2-000185,DeportesTotal,2025-10-06,,Alimentos ,46.0,Tarjeta Debito,0
+L2-000186,GourmetPlus,2025-12-18,131.56,Farmacia,33.0,Tarjeta_Credito,0
+L2-000187,TiendaExpress,2025-07-14,49.63, Moda ,21.0,Tarjeta_Credito,0
+L2-000188,FarmaVida,2025-07-03,, Deportes,33.0,Tarjeta_Debito,0
+L2-000189,TecnoCenter,2025-07-19,120.95,Tecnología,56.0,Efectivo,0
+L2-000190,HogarFacil,2025-10-13,151.85, Deportes,24.0,Efectivo,0
+L2-000191,LibreriaCentral,2025-09-20,4.16,alimentos_,18.0,Tarjeta_Credito,0
+L2-000192,FarmaVida,2025-12-11,104.91,Tecnología,57.0,Efectivo,0
+L2-000193,LibreriaCentral,2025-10-15,87.87,Alimentos ,18.0,Tarjeta Credito,0
+L2-000194,SuperMax,2025-07-31,114.1,Moda,54.0,TARJETA CREDITO,0
+L2-000195,AutoRepuestos,2025-12-17,78.84, Automotriz,21.0, Efectivo,0
+L2-000196,HogarFacil,2025-08-28,102.14,,44.0,TARJETA DEBITO,0
+L2-000197,ModaViva,2025-09-28,110.86,Hogar,31.0,Tarjeta_Debito,0
+L2-000198,TecnoCenter,2025-09-08,53.8,Farmacia ,30.0,EFECTIVO.,0
+L2-000199,ModaViva,2025-09-13,107.47,Automotriz,26.0,Efectivo,0
+L2-000200,TiendaExpress,2025-12-02,109.7,Alimentos,46.0,EFECTIVO.,0
+L2-000201,GourmetPlus,2025-07-29,1.0,AUTOMOTRIZ,45.0,TRANSFERENCIA,0
+L2-000202,ModaViva,2025-10-28,114.22, Retail,35.0, Efectivo,0
+L2-000203,TiendaExpress,2025-10-15,130.01, Deportes,58.0,Efectivo,0
+L2-000204,AutoRepuestos,2025-12-25,88.69,Deportes,47.0,Tarjeta_Credito,0
+L2-000205,AutoRepuestos,2025-10-11,117.19,Hogar ,18.0,Tarjeta_Debito,0
+L2-000206,AutoRepuestos,2025-11-04,8.68, Retail,43.0,Tarjeta Credito,0
+L2-000207,FarmaVida,2025-12-28,60.15,DEPORTES.,52.0,Tarjeta_Credito,0
+L2-000208,HogarFacil,2025-09-29,120.0, Farmacia,44.0, Efectivo,0
+L2-000209,HogarFacil,2025-10-06,1.0,Hogar,33.0,TARJETA DEBITO,0
+L2-000210,GourmetPlus,2025-07-22,,Hogar,45.0,,0
+L2-000211,FarmaVida,2025-10-31,60.55,Farmacia ,43.0,Transferencia_Bancaria,0
+L2-000212,LibreriaCentral,2025-10-11,46.69,,48.0,Efectivo,0
+L2-000213,LibreriaCentral,2025-09-02,,Retail_,34.0,Tarjeta_Credito,0
+L2-000214,GourmetPlus,2025-10-19,67.5,EDUCACION,45.0,Transferencia,0
+L2-000215,FarmaVida,2025-08-16,77.67,Alimentos ,11.0,TRANSFERENCIA,0
+L2-000216,ModaViva,2025-12-13,7.02,HOGAR_,10.0,Efectivo,0
+L2-000217,ModaViva,2025-11-30,92.3,TECNOLOGIA,44.0,TARJETA CREDITO,0
+L2-000218,FarmaVida,2025-11-23,64.51,Retail,42.0,Transferencia,0
+L2-000219,TiendaExpress,2025-12-12,135.16,Tecnologia,40.0,Transferencia_Bancaria,0
+L2-000220,ModaViva,2025-07-07,97.01,Retail,27.0,Tarjeta Credito,0
+L2-000221,LibreriaCentral,2025-07-02,,EDUCACION,38.0,Tarjeta_Debito,0
+L2-000222,ModaViva,2025-09-17,96.28,,22.0,TARJETA CREDITO,0
+L2-000223,DeportesTotal,2025-07-10,139.94, Retail,25.0,TARJETA CREDITO,0
+L2-000224,TecnoCenter,2025-08-16,196.36,HOGAR_,63.0,TARJETA DEBITO,0
+L2-000225,GourmetPlus,2025-09-23,92.27,Retail_,46.0,Transferencia,0
+L2-000226,ModaViva,2025-11-09,, Retail,23.0,Transferencia_Bancaria,0
+L2-000227,TiendaExpress,2025-09-08,32.13, Automotriz,23.0,TARJETA CREDITO,0
+L2-000228,FarmaVida,2025-08-25,,Automotriz,37.0,,0
+L2-000229,AutoRepuestos,2025-08-28,63.79,TECNOLOGIA,43.0,Tarjeta Credito,0
+L2-000230,SuperMax,2025-11-07,79.5,Moda,22.0,Tarjeta_Credito,0
+L2-000231,SuperMax,2025-11-05,42.75,DEPORTES.,21.0,TARJETA CREDITO,0
+L2-000232,FarmaVida,2025-10-09,88.67,Alimentos ,31.0,Tarjeta_Credito,0
+L2-000233,SuperMax,2025-12-12,123.74,Educacion,24.0,Transferencia_Bancaria,0
+L2-000234,DeportesTotal,2025-07-11,1.0,DEPORTES.,45.0,TRANSFERENCIA,0
+L2-000235,HogarFacil,2025-08-11,121.69,Farmacia ,26.0,Tarjeta_Credito,0
+L2-000236,TiendaExpress,2025-08-19,113.17,Farmacia,30.0,Tarjeta Debito,0
+L2-000237,GourmetPlus,2025-11-17,101.47,Retail_,50.0,Tarjeta_Debito,0
+L2-000238,AutoRepuestos,2025-07-17,74.1, Retail,43.0,Tarjeta_Debito,0
+L2-000239,GourmetPlus,2025-10-26,47.09,AUTOMOTRIZ,40.0,Tarjeta Credito,0
+L2-000240,GourmetPlus,2025-09-28,1.75,Alimentos ,41.0,Transferencia_Bancaria,0
+L2-000241,HogarFacil,2025-07-01,102.49,DEPORTES.,32.0,TRANSFERENCIA,0
+L2-000242,TiendaExpress,2025-10-01,35.38,HOGAR_,32.0,Tarjeta Credito,0
+L2-000243,DeportesTotal,2025-11-02,56.8,AUTOMOTRIZ,48.0,Tarjeta Debito,0
+L2-000244,LibreriaCentral,2025-07-29,2120.41,alimentos_,45.0,Tarjeta Credito,0
+L2-000245,LibreriaCentral,2025-12-23,,Automotriz,47.0,Tarjeta Debito,0
+L2-000246,LibreriaCentral,2025-12-02,142.37,AUTOMOTRIZ,28.0,Tarjeta_Credito,0
+L2-000247,TiendaExpress,2025-08-26,126.64,DEPORTES.,24.0,Transferencia,0
+L2-000248,HogarFacil,2025-12-01,147.83, Retail,47.0,TARJETA DEBITO,0
+L2-000249,SuperMax,2025-11-08,131.46,Automotriz,34.0,Efectivo,0
+L2-000250,TecnoCenter,2025-08-24,63.2, Moda ,54.0,TARJETA CREDITO,0
+L2-000251,AutoRepuestos,2025-08-09,136.02,Educación,53.0,Transferencia,0
+L2-000252,SuperMax,2025-09-19,123.64,alimentos_,18.0,Tarjeta_Debito,0
+L2-000253,FarmaVida,2025-11-07,3953.45,Hogar ,29.0,Transferencia,0
+L2-000254,GourmetPlus,2025-11-21,137.99,DEPORTES.,20.0, Efectivo,0
+L2-000255,HogarFacil,2025-12-21,2084.35,Farmacia ,29.0,Efectivo,0
+L2-000256,TecnoCenter,2025-07-25,85.3, Moda ,51.0,TRANSFERENCIA,0
+L2-000257,DeportesTotal,2025-12-03,51.52, Moda ,29.0,Transferencia,0
+L2-000258,FarmaVida,2025-10-24,109.23,Hogar ,39.0,Transferencia_Bancaria,1
+L2-000259,TecnoCenter,2025-08-07,112.54,Moda,49.0, Efectivo,0
+L2-000260,HogarFacil,2025-08-24,163.78,Tecnología,45.0,Tarjeta Credito,0
+L2-000261,SuperMax,2025-07-10,99.82,alimentos_,18.0,EFECTIVO.,0
+L2-000262,GourmetPlus,2025-12-11,73.3,Tecnologia,45.0,Transferencia_Bancaria,0
+L2-000263,ModaViva,2025-07-24,83.95,Hogar ,21.0,EFECTIVO.,0
+L2-000264,GourmetPlus,2025-11-06,70.2,Tecnología,29.0,,0
+L2-000265,ModaViva,2025-07-18,20.61, Retail,37.0,Tarjeta Credito,1
+L2-000266,ModaViva,2025-08-14,17.6,HOGAR_,45.0,TRANSFERENCIA,0
+L2-000267,HogarFacil,2025-08-11,94.01,alimentos_,18.0,Tarjeta Debito,0
+L2-000268,TiendaExpress,2025-10-26,31.43,,51.0,Tarjeta Debito,0
+L2-000269,TiendaExpress,2025-11-02,106.3,alimentos_,41.0,Transferencia_Bancaria,0
+L2-000270,TecnoCenter,2025-11-10,2895.25,Hogar ,30.0,Tarjeta Credito,0
+L2-000271,GourmetPlus,2025-09-25,,TECNOLOGIA,57.0,Tarjeta Debito,0
+L2-000272,TiendaExpress,2025-11-20,91.39, Deportes,50.0, Efectivo,0
+L2-000273,FarmaVida,2025-12-22,119.19, Deportes,46.0,EFECTIVO.,0
+L2-000274,GourmetPlus,2025-08-22,83.21, Moda ,33.0,,0
+L2-000275,GourmetPlus,2025-11-17,44.9,,,Tarjeta_Debito,0
+L2-000276,ModaViva,2025-09-14,98.16,Automotriz,43.0,Tarjeta Debito,0
+L2-000277,SuperMax,2025-09-29,87.09, Automotriz,40.0,Transferencia,0
+L2-000278,ModaViva,2025-07-08,,Tecnologia,45.0,Tarjeta Debito,0
+L2-000279,HogarFacil,2025-11-03,115.14,Alimentos ,42.0,Tarjeta Debito,0
+L2-000280,TiendaExpress,2025-10-13,38.77,Tecnología,54.0,Tarjeta Credito,0
+L2-000281,AutoRepuestos,2025-11-10,1.0,Hogar,53.0,Tarjeta_Debito,0
+L2-000282,DeportesTotal,2025-07-11,154.82,Hogar,46.0, Efectivo,0
+L2-000283,LibreriaCentral,2025-09-24,55.03, Farmacia,31.0,Tarjeta_Debito,0
+L2-000284,TecnoCenter,2025-07-04,84.27, Automotriz,48.0,EFECTIVO.,0
+L2-000285,HogarFacil,2025-08-15,55.27,Educación,38.0,Efectivo,0
+L2-000286,AutoRepuestos,2025-09-17,53.12,AUTOMOTRIZ,41.0,,0
+L2-000287,AutoRepuestos,2025-10-16,, Deportes,23.0,Tarjeta_Debito,0
+L2-000288,TecnoCenter,2025-07-11,86.34,alimentos_,56.0,TARJETA DEBITO,0
+L2-000289,FarmaVida,2025-12-19,123.3,Farmacia,24.0,TARJETA DEBITO,0
+L2-000290,AutoRepuestos,2025-08-30,6879.59, Retail,51.0,TRANSFERENCIA,0
+L2-000291,,2025-07-31,1.0, Retail,40.0,Tarjeta Credito,0
+L2-000292,DeportesTotal,2025-10-12,28.39,DEPORTES.,40.0, Efectivo,0
+L2-000293,TiendaExpress,2025-11-19,6628.16, Moda ,23.0, Efectivo,0
+L2-000294,GourmetPlus,2025-07-19,103.99,Educacion,34.0,Transferencia,0
+L2-000295,GourmetPlus,2025-12-12,100.75,MODA.,33.0,Efectivo,0
+L2-000296,HogarFacil,2025-12-01,85.12, Moda ,30.0,TRANSFERENCIA,0
+L2-000297,HogarFacil,2025-08-26,81.61, Automotriz,44.0,,0
+L2-000298,LibreriaCentral,2025-07-26,,,28.0,TARJETA DEBITO,0
+L2-000299,FarmaVida,2025-08-14,82.16,,36.0,Transferencia,0
+L2-000300,ModaViva,2025-07-26,69.21, Moda ,37.0,EFECTIVO.,0
+L2-000301,TecnoCenter,2025-07-17,19.85,Automotriz,40.0,TRANSFERENCIA,0
+L2-000302,DeportesTotal,2025-12-09,169.47,MODA.,33.0,Tarjeta_Credito,0
+L2-000303,TiendaExpress,2025-10-20,120.17,AUTOMOTRIZ,59.0,Transferencia_Bancaria,0
+L2-000304,SuperMax,2025-11-30,54.54,Educación,35.0,EFECTIVO.,0
+L2-000305,TiendaExpress,2025-08-27,27.66,TECNOLOGIA,31.0,Tarjeta Credito,0
+L2-000306,ModaViva,2025-11-09,114.13,TECNOLOGIA,29.0,Tarjeta Credito,0
+L2-000307,GourmetPlus,2025-09-04,116.88,Educación,40.0,Tarjeta Debito,0
+L2-000308,DeportesTotal,2025-09-27,129.77, Retail,40.0, Efectivo,0
+L2-000309,GourmetPlus,2025-10-12,26.61,Farmacia ,39.0,EFECTIVO.,0
+L2-000310,TiendaExpress,2025-11-30,110.31,Alimentos,50.0,Tarjeta Debito,1
+L2-000311,GourmetPlus,2025-07-30,111.86,Retail_,39.0,TARJETA DEBITO,0
+L2-000312,SuperMax,2025-08-26,138.53,Educación,44.0,TARJETA CREDITO,0
+L2-000313,TecnoCenter,2025-11-13,1.0,Deportes,35.0,Tarjeta Credito,0
+L2-000314,TiendaExpress,2025-09-09,35.91,,57.0,TRANSFERENCIA,0
+L2-000315,AutoRepuestos,2025-11-11,74.12,Automotriz,48.0,Tarjeta Credito,0
+L2-000316,ModaViva,2025-10-01,51.67,Automotriz,34.0, Efectivo,0
+L2-000317,TecnoCenter,2025-08-04,, Retail,43.0,Tarjeta Debito,0
+L2-000318,FarmaVida,2025-09-18,87.56,Tecnología,33.0,Efectivo,0
+L2-000319,GourmetPlus,2025-10-25,26.28,Alimentos ,62.0,Tarjeta Debito,0
+L2-000320,DeportesTotal,2025-12-29,102.66, Moda ,37.0,Tarjeta Credito,0
+L2-000321,AutoRepuestos,2025-09-20,55.22,Moda,18.0,EFECTIVO.,0
+L2-000322,LibreriaCentral,2025-09-27,68.02,Automotriz,42.0,Transferencia_Bancaria,0
+L2-000323,FarmaVida,2025-10-25,29.38, Deportes,41.0,Transferencia,0
+L2-000324,HogarFacil,2025-11-29,51.36,EDUCACION,40.0,Transferencia,1
+L2-000325,GourmetPlus,2025-11-23,96.89,Educación,56.0, Efectivo,0
+L2-000326,HogarFacil,2025-12-08,7076.54,Retail_,33.0,TARJETA CREDITO,0
+L2-000327,GourmetPlus,2025-07-09,55.21,EDUCACION,59.0,Transferencia,0
+L2-000328,TecnoCenter,2025-11-06,59.77, Automotriz,44.0,Transferencia_Bancaria,0
+L2-000329,SuperMax,2025-10-13,8.44,Alimentos,29.0,Tarjeta_Credito,0
+L2-000330,ModaViva,2025-08-22,,Alimentos ,, Efectivo,0
+L2-000331,GourmetPlus,2025-07-10,140.5,EDUCACION,48.0,Tarjeta_Debito,0
+L2-000332,LibreriaCentral,2025-11-02,8.3,Educación,41.0,Efectivo,0
+L2-000333,FarmaVida,2025-12-20,130.76,Educacion,37.0,,0
+L2-000334,HogarFacil,2025-09-10,111.67, Moda ,34.0,Efectivo,0
+L2-000335,HogarFacil,2025-10-03,74.32,,19.0,Tarjeta Credito,0
+L2-000336,LibreriaCentral,2025-08-02,54.04, Moda ,32.0,Efectivo,0
+L2-000337,FarmaVida,2025-07-31,62.14,Tecnologia,54.0,Transferencia_Bancaria,0
+L2-000338,TecnoCenter,2025-07-24,46.57, Deportes,35.0,TARJETA CREDITO,0
+L2-000339,GourmetPlus,2025-08-12,116.79,HOGAR_,65.0,TARJETA CREDITO,0
+L2-000340,ModaViva,2025-07-19,80.12, Automotriz,32.0,Transferencia,0
+L2-000341,GourmetPlus,2025-07-08,64.04,Alimentos ,64.0,,0
+L2-000342,FarmaVida,2025-11-08,76.7, Deportes,38.0,Transferencia,0
+L2-000343,ModaViva,2025-09-05,90.79,Farmacia ,43.0,Tarjeta Debito,0
+L2-000344,FarmaVida,2025-08-21,116.11,,38.0,,0
+L2-000345,SuperMax,2025-11-01,136.02,Farmacia ,,Efectivo,1
+L2-000346,TecnoCenter,2025-11-22,3436.73,Tecnología,54.0,TARJETA DEBITO,0
+L2-000347,TecnoCenter,2025-12-25,71.9,Hogar ,27.0,Transferencia,0
+L2-000348,FarmaVida,2025-07-30,101.08,Deportes,22.0,TRANSFERENCIA,0
+L2-000349,TecnoCenter,2025-10-20,,alimentos_,39.0, Efectivo,0
+L2-000350,SuperMax,2025-12-15,84.49, Automotriz,37.0,TARJETA DEBITO,0
+L2-000351,FarmaVida,2025-07-12,151.88,EDUCACION,56.0,TRANSFERENCIA,0
+L2-000352,TecnoCenter,2025-10-09,70.78,Farmacia,59.0,Tarjeta_Credito,0
+L2-000353,,2025-12-07,1.0,Automotriz,59.0,Transferencia_Bancaria,1
+L2-000354,GourmetPlus,2025-10-14,76.46,Educación,41.0,Tarjeta Debito,0
+L2-000355,FarmaVida,2025-11-25,62.06,Alimentos,49.0,Tarjeta_Credito,0
+L2-000356,TecnoCenter,2025-10-03,188.74,Hogar,24.0,TARJETA CREDITO,0
+L2-000357,LibreriaCentral,2025-07-28,51.7,Alimentos,22.0,Tarjeta_Credito,0
+L2-000358,ModaViva,2025-12-09,4765.91, Automotriz,45.0,TARJETA DEBITO,0
+L2-000359,LibreriaCentral,2025-12-28,191.12,HOGAR_,34.0,TARJETA DEBITO,0
+L2-000360,AutoRepuestos,2025-09-05,117.21, Moda ,44.0,Tarjeta Credito,0
+L2-000361,HogarFacil,2025-11-14,99.92,Educación,52.0, Efectivo,0
+L2-000362,TiendaExpress,2025-12-19,71.34,Educación,18.0,TRANSFERENCIA,0
+L2-000363,ModaViva,2025-10-22,34.57,,34.0,Transferencia_Bancaria,0
+L2-000364,TecnoCenter,2025-10-04,93.88,Farmacia ,28.0,Transferencia_Bancaria,0
+L2-000365,LibreriaCentral,2025-08-15,112.3,Automotriz,26.0,,0
+L2-000366,AutoRepuestos,2025-10-09,82.09, Deportes,21.0,Tarjeta_Debito,0
+L2-000367,FarmaVida,2025-08-02,57.9,Hogar,18.0,Transferencia_Bancaria,0
+L2-000368,HogarFacil,2025-10-04,64.51,AUTOMOTRIZ,27.0,Tarjeta_Debito,0
+L2-000369,TecnoCenter,2025-11-10,11.95,HOGAR_,,Tarjeta_Debito,0
+L2-000370,HogarFacil,2025-12-01,47.54,Alimentos,43.0,Transferencia_Bancaria,0
+L2-000371,HogarFacil,2025-08-24,80.42, Retail,18.0,Tarjeta Credito,0
+L2-000372,HogarFacil,2025-12-15,76.42,TECNOLOGIA,28.0,Transferencia,1
+L2-000373,SuperMax,2025-07-26,86.35,Tecnologia,49.0,,0
+L2-000374,HogarFacil,2025-12-18,34.24,Retail_,38.0,TARJETA CREDITO,0
+L2-000375,DeportesTotal,2025-07-26,105.76,,30.0,TARJETA CREDITO,0
+L2-000376,TiendaExpress,2025-07-05,76.47,Tecnología,29.0,Tarjeta_Debito,0
+L2-000377,LibreriaCentral,2025-08-18,71.78,alimentos_,50.0,TARJETA DEBITO,0
+L2-000378,AutoRepuestos,2025-07-22,109.13,Farmacia,34.0,Transferencia_Bancaria,0
+L2-000379,GourmetPlus,2025-07-22,146.68,Alimentos ,28.0,,0
+L2-000380,TecnoCenter,2025-12-09,5.89,Hogar ,40.0,TARJETA CREDITO,0
+L2-000381,TecnoCenter,2025-08-10,92.44,Moda,41.0,Transferencia,0
+L2-000382,FarmaVida,2025-09-09,66.81,Educacion,34.0,,0
+L2-000383,AutoRepuestos,2025-11-24,133.83,Tecnologia,46.0,Transferencia,0
+L2-000384,ModaViva,2025-09-24,96.47,Hogar,22.0,Transferencia,0
+L2-000385,HogarFacil,2025-07-13,70.74,Educacion,42.0,Tarjeta Credito,0
+L2-000386,DeportesTotal,2025-10-13,129.68, Deportes,32.0,,0
+L2-000387,LibreriaCentral,2025-10-31,,DEPORTES.,40.0,TRANSFERENCIA,0
+L2-000388,GourmetPlus,2025-08-04,104.93, Deportes,25.0,Tarjeta_Credito,0
+L2-000389,TiendaExpress,2025-09-09,115.87,Educacion,44.0,TARJETA CREDITO,0
+L2-000390,FarmaVida,2025-07-23,113.21,Retail_,40.0,Transferencia_Bancaria,0
+L2-000391,ModaViva,2025-07-25,,Hogar ,28.0,Tarjeta Credito,0
+L2-000392,AutoRepuestos,2025-08-23,160.28, Deportes,44.0,Tarjeta Debito,0
+L2-000393,HogarFacil,2025-09-26,82.9,,26.0, Efectivo,0
+L2-000394,ModaViva,2025-08-12,42.47, Automotriz,46.0,Tarjeta_Credito,0
+L2-000395,GourmetPlus,2025-09-14,92.69,Hogar ,41.0,Efectivo,0
+L2-000396,GourmetPlus,2025-12-09,160.85,Hogar,57.0,Tarjeta Debito,0
+L2-000397,FarmaVida,2025-07-08,125.61,TECNOLOGIA,19.0,Transferencia_Bancaria,0
+L2-000398,TiendaExpress,2025-08-11,140.32,,43.0,Transferencia_Bancaria,0
+L2-000399,DeportesTotal,2025-07-30,48.67,Hogar,32.0,Tarjeta Debito,0
+L2-000400,ModaViva,2025-11-10,,Deportes,38.0,Transferencia,0
+L2-000401,LibreriaCentral,2025-08-18,80.69,Educacion,42.0,Efectivo,0
+L2-000402,AutoRepuestos,2025-09-03,147.13,Farmacia ,21.0,Transferencia_Bancaria,1
+L2-000403,GourmetPlus,2025-12-20,27.22,DEPORTES.,40.0, Efectivo,0
+L2-000404,FarmaVida,2025-12-29,, Automotriz,18.0,Tarjeta Debito,0
+L2-000405,TiendaExpress,2025-11-15,69.13,DEPORTES.,56.0,TARJETA CREDITO,0
+L2-000406,TiendaExpress,2025-08-28,75.0,TECNOLOGIA,37.0,Transferencia_Bancaria,0
+L2-000407,ModaViva,2025-11-07,116.03,Alimentos ,42.0,Tarjeta_Credito,0
+L2-000408,DeportesTotal,2025-08-18,19.23,Educación,68.0,EFECTIVO.,0
+L2-000409,LibreriaCentral,2025-07-17,,Farmacia,25.0,Tarjeta_Debito,0
+L2-000410,GourmetPlus,2025-11-01,178.24,Educacion,37.0, Efectivo,0
+L2-000411,TiendaExpress,2025-08-12,93.01,Retail,37.0,Tarjeta_Debito,0
+L2-000412,TiendaExpress,2025-08-22,60.53,Hogar ,50.0, Efectivo,0
+L2-000413,TiendaExpress,2025-09-04,1.0, Retail,58.0,Transferencia_Bancaria,0
+L2-000414,AutoRepuestos,2025-10-17,,Alimentos,40.0,Tarjeta_Debito,0
+L2-000415,HogarFacil,2025-09-02,104.62,Farmacia ,29.0,,0
+L2-000416,TiendaExpress,2025-11-26,185.77,Hogar,43.0,Tarjeta_Credito,0
+L2-000417,LibreriaCentral,2025-11-11,82.7, Automotriz,,TRANSFERENCIA,0
+L2-000418,ModaViva,2025-08-06,75.16,AUTOMOTRIZ,43.0, Efectivo,0
+L2-000419,HogarFacil,2025-07-20,16.82, Deportes,47.0,Tarjeta Debito,0
+L2-000420,LibreriaCentral,2025-11-11,123.14, Deportes,40.0,Efectivo,0
+L2-000421,GourmetPlus,2025-10-01,90.05,Retail_,47.0,TARJETA CREDITO,0
+L2-000422,SuperMax,2025-11-13,72.25, Retail,18.0,TARJETA DEBITO,0
+L2-000423,TiendaExpress,2025-10-11,79.75,Hogar ,34.0,Efectivo,0
+L2-000424,GourmetPlus,2025-09-20,133.79,Educación,31.0,Tarjeta_Credito,0
+L2-000425,AutoRepuestos,2025-08-11,42.76, Retail,28.0,TRANSFERENCIA,0
+L2-000426,AutoRepuestos,2025-11-06,136.77,,35.0,EFECTIVO.,0
+L2-000427,TecnoCenter,2025-08-06,50.43,alimentos_,51.0,Tarjeta Debito,0
+L2-000428,FarmaVida,2025-07-18,129.38,Tecnología,61.0,TARJETA CREDITO,0
+L2-000429,SuperMax,2025-07-30,52.99,Deportes,51.0, Efectivo,0
+L2-000430,ModaViva,2025-07-28,66.64,Retail_,41.0,Tarjeta_Debito,0
+L2-000431,TiendaExpress,2025-10-19,45.38,Tecnología,36.0,Tarjeta Credito,0
+L2-000432,LibreriaCentral,2025-08-08,,Educación,53.0,EFECTIVO.,1
+L2-000433,ModaViva,2025-12-01,49.2,MODA.,42.0,Tarjeta Credito,0
+L2-000434,DeportesTotal,2025-07-04,84.21,HOGAR_,29.0,Efectivo,0
+L2-000435,TecnoCenter,2025-09-06,73.1, Deportes,35.0,Tarjeta_Debito,0
+L2-000436,LibreriaCentral,2025-07-09,130.25,,40.0,Tarjeta Debito,0
+L2-000437,HogarFacil,2025-07-03,104.37,Alimentos ,44.0,Tarjeta_Credito,0
+L2-000438,FarmaVida,2025-07-03,62.09,Hogar ,39.0,Tarjeta_Credito,0
+L2-000439,FarmaVida,2025-07-13,74.85,AUTOMOTRIZ,50.0, Efectivo,0
+L2-000440,AutoRepuestos,2025-09-14,77.65,Tecnologia,52.0,,0
+L2-000441,TiendaExpress,2025-09-28,76.73,alimentos_,46.0,TARJETA DEBITO,0
+L2-000442,AutoRepuestos,2025-10-11,71.01,Hogar ,37.0,Tarjeta_Credito,0
+L2-000443,ModaViva,2025-11-11,16.88,MODA.,57.0,TRANSFERENCIA,0
+L2-000444,TiendaExpress,2025-09-03,145.4,Alimentos ,39.0,EFECTIVO.,0
+L2-000445,,2025-08-28,128.27,Educación,40.0,TARJETA CREDITO,0
+L2-000446,HogarFacil,2025-08-20,77.39,DEPORTES.,36.0,Efectivo,0
+L2-000447,LibreriaCentral,2025-12-09,74.81,HOGAR_,54.0,Tarjeta Credito,0
+L2-000448,AutoRepuestos,2025-07-19,79.07,Retail_,27.0,Tarjeta_Credito,0
+L2-000449,ModaViva,2025-07-09,119.91,Hogar,36.0,Transferencia,0
+L2-000450,DeportesTotal,2025-11-27,108.11,Retail_,25.0, Efectivo,0
+L2-000451,LibreriaCentral,2025-08-20,,Alimentos,19.0,Tarjeta Debito,0
+L2-000452,AutoRepuestos,2025-09-03,36.44, Moda ,49.0,Tarjeta_Debito,0
+L2-000453,SuperMax,2025-10-14,63.8,Farmacia ,48.0,Tarjeta_Debito,1
+L2-000454,TecnoCenter,2025-11-23,102.02,Farmacia,38.0,Tarjeta_Debito,0
+L2-000455,AutoRepuestos,2025-08-25,98.8,EDUCACION,34.0,Tarjeta_Credito,0
+L2-000456,,2025-08-25,108.91,Retail_,18.0,TARJETA DEBITO,0
+L2-000457,TiendaExpress,2025-07-02,67.02,HOGAR_,38.0,Transferencia,0
+L2-000458,AutoRepuestos,2025-07-26,49.54,Educacion,34.0, Efectivo,0
+L2-000459,GourmetPlus,2025-07-10,73.32,HOGAR_,29.0,EFECTIVO.,0
+L2-000460,FarmaVida,2025-08-07,97.73,Moda,44.0, Efectivo,0
+L2-000461,DeportesTotal,2025-12-03,157.44,DEPORTES.,47.0,Tarjeta_Credito,0
+L2-000462,HogarFacil,2025-09-16,98.93, Farmacia,36.0,TARJETA CREDITO,0
+L2-000463,SuperMax,2025-12-03,109.46,DEPORTES.,44.0,Tarjeta_Debito,0
+L2-000464,LibreriaCentral,2025-08-07,77.29,Alimentos,35.0,Transferencia_Bancaria,0
+L2-000465,AutoRepuestos,2025-08-17,140.22,Tecnologia,35.0,Tarjeta Debito,0
+L2-000466,TecnoCenter,2025-07-31,84.5,Educación,50.0,Tarjeta_Debito,0
+L2-000467,LibreriaCentral,2025-07-13,137.71,Retail_,63.0,Tarjeta_Credito,0
+L2-000468,ModaViva,2025-11-11,179.53,Farmacia ,31.0, Efectivo,0
+L2-000469,AutoRepuestos,2025-12-12,1.0,Deportes,27.0, Efectivo,0
+L2-000470,HogarFacil,2025-12-30,72.72,Farmacia,51.0,Tarjeta_Credito,0
+L2-000471,HogarFacil,2025-08-05,86.73,EDUCACION,38.0,Tarjeta_Credito,0
+L2-000472,GourmetPlus,2025-09-14,91.97,Educación,18.0,TARJETA CREDITO,0
+L2-000473,ModaViva,2025-12-05,36.57, Farmacia,51.0,TARJETA DEBITO,0
+L2-000474,FarmaVida,2025-08-18,99.97,TECNOLOGIA,18.0,Tarjeta Debito,0
+L2-000475,HogarFacil,2025-10-16,64.61,Moda,28.0, Efectivo,0
+L2-000476,TiendaExpress,2025-12-23,104.58,Educacion,23.0,Transferencia,0
+L2-000477,LibreriaCentral,2025-12-09,89.52,Retail,,TARJETA DEBITO,0
+L2-000478,SuperMax,2025-11-20,7631.83,EDUCACION,39.0,Tarjeta Debito,0
+L2-000479,DeportesTotal,2025-07-08,73.97, Farmacia,43.0,Tarjeta Debito,0
+L2-000480,LibreriaCentral,2025-11-02,55.01,Automotriz,46.0,EFECTIVO.,0
+L2-000481,AutoRepuestos,2025-09-18,86.12,EDUCACION,49.0, Efectivo,0
+L2-000482,LibreriaCentral,2025-12-17,101.78, Deportes,28.0,,0
+L2-000483,SuperMax,2025-10-25,51.83,AUTOMOTRIZ,36.0,TARJETA CREDITO,0
+L2-000484,DeportesTotal,2025-12-13,109.57,Farmacia,32.0,TARJETA CREDITO,0
+L2-000485,DeportesTotal,2025-12-02,113.7,Retail,41.0,,0
+L2-000486,TiendaExpress,2025-11-30,,DEPORTES.,34.0,Tarjeta_Credito,0
+L2-000487,TecnoCenter,2025-08-14,,Moda,34.0,Transferencia_Bancaria,0
+L2-000488,AutoRepuestos,2025-10-30,88.98,Educación,23.0,TRANSFERENCIA,0
+L2-000489,GourmetPlus,2025-12-03,19.31,EDUCACION,40.0,TARJETA CREDITO,0
+L2-000490,GourmetPlus,2025-08-01,100.36,Alimentos ,59.0,Tarjeta Debito,0
+L2-000491,HogarFacil,2025-09-13,83.08,Hogar ,42.0,TRANSFERENCIA,0
+L2-000492,DeportesTotal,2025-07-20,150.63,Alimentos,39.0, Efectivo,1
+L2-000493,,2025-12-22,32.49,Alimentos ,49.0,Tarjeta Credito,0
+L2-000494,FarmaVida,2025-09-25,67.01,Farmacia,42.0,Tarjeta Credito,0
+L2-000495,LibreriaCentral,2025-09-10,139.11, Moda ,35.0,Transferencia,0
+L2-000496,TecnoCenter,2025-08-24,84.55,Educación,33.0,Tarjeta Debito,0
+L2-000497,HogarFacil,2025-11-20,6899.9,Retail_,64.0,TRANSFERENCIA,0
+L2-000498,TiendaExpress,2025-09-02,145.25,MODA.,52.0,EFECTIVO.,0
+L2-000499,TecnoCenter,2025-09-19,49.84,Alimentos,41.0,TARJETA DEBITO,0
+L2-000500,TecnoCenter,2025-08-24,93.29,EDUCACION,44.0, Efectivo,0
+L2-000501,LibreriaCentral,2025-12-31,38.24, Automotriz,38.0,TRANSFERENCIA,1
+L2-000502,GourmetPlus,2025-08-04,46.59,DEPORTES.,22.0,EFECTIVO.,0
+L2-000503,AutoRepuestos,2025-10-04,125.07,Deportes,39.0,Transferencia_Bancaria,0
+L2-000504,ModaViva,2025-12-28,,Moda,42.0, Efectivo,0
+L2-000505,SuperMax,2025-07-25,33.18,Educación,30.0,TRANSFERENCIA,0
+L2-000506,SuperMax,2025-11-03,104.4,Moda,35.0,TRANSFERENCIA,0
+L2-000507,TecnoCenter,2025-10-31,111.66,HOGAR_,22.0,TRANSFERENCIA,0
+L2-000508,SuperMax,2025-07-07,72.31,Automotriz,68.0,TRANSFERENCIA,0
+L2-000509,HogarFacil,2025-12-04,22.09,TECNOLOGIA,64.0,Transferencia,0
+L2-000510,ModaViva,2025-12-29,95.24,Automotriz,37.0,EFECTIVO.,0
+L2-000511,AutoRepuestos,2025-07-07,163.52,,37.0,TARJETA DEBITO,0
+L2-000512,TecnoCenter,2025-09-08,115.8,TECNOLOGIA,49.0,Tarjeta_Debito,0
+L2-000513,TecnoCenter,2025-09-23,60.62,TECNOLOGIA,23.0,TRANSFERENCIA,0
+L2-000514,LibreriaCentral,2025-11-23,120.16,Educación,47.0,Transferencia_Bancaria,1
+L2-000515,TiendaExpress,2025-09-15,60.18,Moda,27.0,Tarjeta_Debito,0
+L2-000516,TiendaExpress,2025-08-06,73.89, Retail,27.0,EFECTIVO.,0
+L2-000517,ModaViva,2025-08-24,66.16,Alimentos,49.0,TARJETA CREDITO,0
+L2-000518,DeportesTotal,2025-10-07,,MODA.,40.0,Transferencia_Bancaria,0
+L2-000519,TecnoCenter,2025-12-20,27.44,Tecnología,34.0,Tarjeta Debito,0
+L2-000520,GourmetPlus,2025-12-23,6704.43,Retail_,18.0,EFECTIVO.,0
+L2-000521,DeportesTotal,2025-12-05,,DEPORTES.,39.0,Efectivo,0
+L2-000522,GourmetPlus,2025-09-02,,AUTOMOTRIZ,18.0,Tarjeta_Credito,0
+L2-000523,TiendaExpress,2025-07-30,24.83,MODA.,18.0,Transferencia,0
+L2-000524,TecnoCenter,2025-07-03,72.27,,43.0,Efectivo,0
+L2-000525,FarmaVida,2025-09-26,, Farmacia,25.0,Efectivo,0
+L2-000526,GourmetPlus,2025-11-08,19.5,Farmacia,3.0,Tarjeta Debito,0
+L2-000527,ModaViva,2025-10-21,59.42, Moda ,28.0,Tarjeta Credito,0
+L2-000528,AutoRepuestos,2025-09-29,50.31,Alimentos ,40.0,Tarjeta Credito,0
+L2-000529,LibreriaCentral,2025-09-10,95.04,Educación,31.0,Tarjeta_Credito,0
+L2-000530,DeportesTotal,2025-10-27,99.76, Deportes,18.0,EFECTIVO.,0
+L2-000531,AutoRepuestos,2025-11-24,105.69,HOGAR_,40.0,EFECTIVO.,1
+L2-000532,AutoRepuestos,2025-07-14,200.56,EDUCACION,54.0, Efectivo,0
+L2-000533,SuperMax,2025-09-01,161.85,Alimentos,54.0,,0
+L2-000534,LibreriaCentral,2025-07-23,46.4,HOGAR_,46.0,TARJETA DEBITO,0
+L2-000535,TecnoCenter,2025-09-22,31.81,MODA.,60.0,Efectivo,0
+L2-000536,SuperMax,2025-12-07,92.63,alimentos_,28.0,Transferencia,0
+L2-000537,GourmetPlus,2025-11-12,87.59,Hogar ,44.0,TARJETA DEBITO,0
+L2-000538,FarmaVida,2025-12-17,69.3,TECNOLOGIA,33.0,TRANSFERENCIA,0
+L2-000539,FarmaVida,2025-12-16,,Retail_,36.0,,0
+L2-000540,LibreriaCentral,2025-08-04,37.54,,46.0,Tarjeta_Debito,0
+L2-000541,AutoRepuestos,2025-10-28,110.47,HOGAR_,50.0,TRANSFERENCIA,0
+L2-000542,LibreriaCentral,2025-10-20,78.8,TECNOLOGIA,57.0,TARJETA DEBITO,0
+L2-000543,HogarFacil,2025-07-19,74.63,Alimentos,39.0, Efectivo,0
+L2-000544,SuperMax,2025-07-22,119.18,HOGAR_,18.0,Tarjeta Credito,0
+L2-000545,LibreriaCentral,2025-10-30,38.69,Educacion,55.0,TARJETA CREDITO,0
+L2-000546,SuperMax,2025-12-08,94.73,alimentos_,49.0,TARJETA DEBITO,0
+L2-000547,LibreriaCentral,2025-12-07,134.63,,49.0,Tarjeta_Credito,0
+L2-000548,HogarFacil,2025-07-13,127.21,Farmacia ,42.0,Transferencia,0
+L2-000549,GourmetPlus,2025-08-05,53.58,Farmacia ,25.0,Tarjeta Debito,0
+L2-000550,SuperMax,2025-12-08,61.71,Tecnología,33.0,TARJETA CREDITO,0
+L2-000551,AutoRepuestos,2025-09-07,58.06,Retail,20.0,Tarjeta_Credito,1
+L2-000552,TiendaExpress,2025-10-21,37.14,Deportes,34.0,EFECTIVO.,0
+L2-000553,HogarFacil,2025-12-12,57.29,Automotriz,52.0,Transferencia_Bancaria,0
+L2-000554,HogarFacil,2025-10-08,77.66,Automotriz,49.0,Transferencia,0
+L2-000555,TecnoCenter,2025-07-31,76.71,EDUCACION,46.0,Tarjeta_Credito,0
+L2-000556,HogarFacil,2025-11-04,83.82,AUTOMOTRIZ,32.0,Tarjeta Debito,0
+L2-000557,TiendaExpress,2025-08-27,86.24,Tecnología,44.0,Tarjeta_Credito,0
+L2-000558,DeportesTotal,2025-09-29,118.54, Farmacia,31.0,TARJETA DEBITO,0
+L2-000559,HogarFacil,2025-08-22,36.35,Automotriz,19.0,TARJETA DEBITO,0
+L2-000560,ModaViva,2025-08-28,1.0,alimentos_,29.0,Efectivo,0
+L2-000561,AutoRepuestos,2025-07-22,48.7,Retail_,28.0,,0
+L2-000562,LibreriaCentral,2025-09-18,228.18,alimentos_,42.0,Tarjeta Credito,0
+L2-000563,TiendaExpress,2025-07-30,14.98,EDUCACION,51.0,TRANSFERENCIA,0
+L2-000564,LibreriaCentral,2025-09-09,103.59, Automotriz,31.0,Tarjeta_Credito,0
+L2-000565,SuperMax,2025-10-03,, Farmacia,34.0,Tarjeta Credito,0
+L2-000566,GourmetPlus,2025-09-22,103.62,Tecnologia,,Tarjeta_Credito,0
+L2-000567,GourmetPlus,2025-10-30,48.66,Alimentos,43.0,TARJETA CREDITO,0
+L2-000568,DeportesTotal,2025-09-08,97.17, Moda ,36.0,TARJETA CREDITO,0
+L2-000569,TecnoCenter,2025-08-01,7035.26,,22.0,Efectivo,0
+L2-000570,ModaViva,2025-12-09,146.42, Automotriz,37.0,Transferencia_Bancaria,0
+L2-000571,TiendaExpress,2025-07-04,94.56,Hogar ,42.0, Efectivo,0
+L2-000572,LibreriaCentral,2025-10-03,30.41,AUTOMOTRIZ,42.0,Tarjeta Debito,0
+L2-000573,HogarFacil,2025-12-16,166.19,Educacion,,,0
+L2-000574,HogarFacil,2025-11-03,94.48,,22.0,Tarjeta_Debito,0
+L2-000575,DeportesTotal,2025-09-27,, Deportes,34.0, Efectivo,0
+L2-000576,ModaViva,2025-08-05,100.93,Farmacia ,36.0,Transferencia,0
+L2-000577,DeportesTotal,2025-08-14,109.65,Tecnología,43.0,Transferencia,0
+L2-000578,TiendaExpress,2025-07-12,69.18,HOGAR_,44.0,Tarjeta_Credito,0
+L2-000579,ModaViva,2025-07-22,, Automotriz,33.0,Tarjeta_Credito,0
+L2-000580,TiendaExpress,2025-08-23,77.46,Educación,33.0,Tarjeta_Debito,0
+L2-000581,TecnoCenter,2025-10-05,31.54, Deportes,49.0,Tarjeta Credito,0
+L2-000582,TecnoCenter,2025-12-30,4842.63,Alimentos ,38.0,Efectivo,0
+L2-000583,TiendaExpress,2025-08-11,36.4, Deportes,37.0, Efectivo,0
+L2-000584,GourmetPlus,2025-09-18,47.89,Educacion,43.0,Transferencia_Bancaria,0
+L2-000585,AutoRepuestos,2025-08-17,77.54,Retail,23.0, Efectivo,0
+L2-000586,DeportesTotal,2025-10-23,69.62,Hogar,48.0,,0
+L2-000587,,2025-11-15,, Deportes,18.0,Transferencia_Bancaria,0
+L2-000588,TiendaExpress,2025-07-31,45.07,Hogar,9.0,TRANSFERENCIA,0
+L2-000589,GourmetPlus,2025-07-25,91.6,Moda,28.0,Tarjeta_Debito,0
+L2-000590,ModaViva,2025-11-27,,Hogar,54.0,,0
+L2-000591,ModaViva,2025-10-07,,HOGAR_,50.0,Tarjeta Debito,0
+L2-000592,GourmetPlus,2025-08-27,66.8,Automotriz,43.0,Tarjeta Credito,0
+L2-000593,GourmetPlus,2025-10-14,,Moda,43.0,Transferencia_Bancaria,0
+L2-000594,DeportesTotal,2025-10-27,81.99,AUTOMOTRIZ,36.0,TRANSFERENCIA,0
+L2-000595,TiendaExpress,2025-07-17,122.24,Moda,22.0, Efectivo,0
+L2-000596,HogarFacil,2025-10-31,29.84,Tecnología,29.0,Tarjeta_Debito,0
+L2-000597,FarmaVida,2025-12-30,,Hogar,6.0,Transferencia,1
+L2-000598,GourmetPlus,2025-12-11,43.52, Deportes,45.0,EFECTIVO.,0
+L2-000599,LibreriaCentral,2025-09-02,105.19,DEPORTES.,38.0,EFECTIVO.,0
+L2-000600,AutoRepuestos,2025-08-19,100.82,AUTOMOTRIZ,37.0,TARJETA DEBITO,0
+L2-000601,DeportesTotal,2025-10-06,,Farmacia ,58.0,Tarjeta_Credito,0
+L2-000602,FarmaVida,2025-08-01,114.95,DEPORTES.,31.0,Tarjeta_Debito,0
+L2-000603,GourmetPlus,2025-10-16,52.01,DEPORTES.,20.0,EFECTIVO.,0
+L2-000604,SuperMax,2025-09-24,126.33,Automotriz,41.0,Efectivo,0
+L2-000605,GourmetPlus,2025-11-16,88.1,TECNOLOGIA,,Tarjeta Debito,0
+L2-000606,TiendaExpress,2025-10-10,126.77, Retail,37.0,Tarjeta Debito,0
+L2-000607,TiendaExpress,2025-09-05,,Alimentos,45.0,TARJETA CREDITO,0
+L2-000608,TecnoCenter,2025-07-04,14.15,Tecnología,29.0,Tarjeta_Debito,0
+L2-000609,ModaViva,2025-11-26,78.45, Retail,27.0,TARJETA CREDITO,0
+L2-000610,SuperMax,2025-09-06,6.83,,24.0, Efectivo,0
+L2-000611,LibreriaCentral,2025-11-17,99.93,Farmacia ,18.0,Transferencia_Bancaria,0
+L2-000612,ModaViva,2025-09-12,78.52,Farmacia,43.0,TRANSFERENCIA,0
+L2-000613,FarmaVida,2025-12-23,99.53,MODA.,32.0,TRANSFERENCIA,0
+L2-000614,DeportesTotal,2025-09-02,70.73,Tecnología,31.0,Tarjeta_Debito,0
+L2-000615,FarmaVida,2025-09-28,158.13,Alimentos ,29.0,Tarjeta_Debito,0
+L2-000616,LibreriaCentral,2025-10-06,132.17, Deportes,18.0,EFECTIVO.,0
+L2-000617,HogarFacil,2025-10-14,13.9,Educacion,34.0,TRANSFERENCIA,0
+L2-000618,DeportesTotal,2025-07-31,84.26,Deportes,18.0,,0
+L2-000619,TiendaExpress,2025-12-29,43.57,TECNOLOGIA,19.0,Transferencia_Bancaria,0
+L2-000620,TiendaExpress,2025-08-09,82.55,TECNOLOGIA,39.0,Tarjeta Debito,0
+L2-000621,TiendaExpress,2025-11-13,70.5, Farmacia,48.0, Efectivo,0
+L2-000622,HogarFacil,2025-12-25,100.71, Retail,40.0,EFECTIVO.,0
+L2-000623,TecnoCenter,2025-07-15,50.92,Retail_,44.0,Tarjeta Debito,0
+L2-000624,SuperMax,2025-12-27,173.54,Moda,29.0,Tarjeta_Debito,0
+L2-000625,HogarFacil,2025-12-24,37.54,Retail_,34.0,Transferencia_Bancaria,0
+L2-000626,ModaViva,2025-10-22,127.28,DEPORTES.,42.0, Efectivo,0
+L2-000627,DeportesTotal,2025-11-10,143.44,Educación,36.0,Tarjeta Credito,0
+L2-000628,HogarFacil,2025-09-28,88.37,MODA.,59.0,Tarjeta_Credito,0
+L2-000629,AutoRepuestos,2025-10-02,4221.24,Educacion,43.0,Efectivo,0
+L2-000630,TecnoCenter,2025-09-19,,Deportes,58.0,Tarjeta_Debito,0
+L2-000631,FarmaVida,2025-09-29,38.36,Tecnologia,31.0,,0
+L2-000632,SuperMax,2025-08-30,80.09,TECNOLOGIA,49.0,TRANSFERENCIA,0
+L2-000633,SuperMax,2025-11-11,89.33,,37.0,Tarjeta_Debito,0
+L2-000634,TiendaExpress,2025-12-12,48.06,Farmacia,42.0,Tarjeta Credito,0
+L2-000635,HogarFacil,2025-07-05,15.58, Retail,48.0,EFECTIVO.,0
+L2-000636,TiendaExpress,2025-12-20,39.71,Educacion,40.0,Tarjeta Credito,0
+L2-000637,AutoRepuestos,2025-07-14,91.48,Farmacia,32.0, Efectivo,0
+L2-000638,TecnoCenter,2025-08-03,,Retail,33.0,TRANSFERENCIA,0
+L2-000639,TecnoCenter,2025-11-22,129.66,Farmacia ,37.0,Tarjeta Debito,0
+L2-000640,SuperMax,2025-10-28,141.7,Moda,50.0,Tarjeta_Debito,0
+L2-000641,LibreriaCentral,2025-09-15,124.51,Moda,52.0,TARJETA DEBITO,0
+L2-000642,DeportesTotal,2025-08-26,66.11,Educación,11.0,EFECTIVO.,0
+L2-000643,DeportesTotal,2025-12-07,,EDUCACION,34.0,Transferencia,0
+L2-000644,ModaViva,2025-08-09,85.98,Educacion,30.0,TRANSFERENCIA,0
+L2-000645,AutoRepuestos,2025-11-22,,,29.0,Tarjeta Credito,0
+L2-000646,TiendaExpress,2025-08-10,,Alimentos,33.0,,0
+L2-000647,SuperMax,2025-10-26,5.92,Deportes,35.0,TRANSFERENCIA,0
+L2-000648,TecnoCenter,2025-07-11,,Educación,51.0,Tarjeta_Debito,0
+L2-000649,SuperMax,2025-08-03,162.71,MODA.,39.0,TARJETA DEBITO,0
+L2-000650,TiendaExpress,2025-11-28,, Deportes,61.0,Tarjeta Credito,0
+L2-000651,SuperMax,2025-11-07,91.65,,37.0, Efectivo,0
+L2-000652,LibreriaCentral,2025-12-03,85.48,HOGAR_,46.0,Efectivo,0
+L2-000653,TiendaExpress,2025-11-30,65.13, Automotriz,24.0,Tarjeta_Debito,0
+L2-000654,LibreriaCentral,2025-12-18,44.18,alimentos_,22.0,TRANSFERENCIA,0
+L2-000655,TiendaExpress,2025-08-29,108.66,EDUCACION,34.0,Tarjeta Credito,0
+L2-000656,FarmaVida,2025-08-11,43.0,Educacion,61.0, Efectivo,0
+L2-000657,GourmetPlus,2025-11-28,80.6,DEPORTES.,20.0, Efectivo,0
+L2-000658,GourmetPlus,2025-09-19,77.97,Deportes,45.0,EFECTIVO.,1
+L2-000659,TiendaExpress,2025-11-28,49.05,Moda,44.0,Transferencia,0
+L2-000660,HogarFacil,2025-10-19,45.29,Hogar,36.0,TARJETA CREDITO,0
+L2-000661,FarmaVida,2025-11-20,105.43,TECNOLOGIA,24.0, Efectivo,1
+L2-000662,AutoRepuestos,2025-11-18,108.64, Automotriz,42.0,Tarjeta_Debito,0
+L2-000663,TecnoCenter,2025-09-03,124.97,EDUCACION,56.0,TARJETA DEBITO,0
+L2-000664,TiendaExpress,2025-07-06,106.38, Retail,35.0,Tarjeta_Debito,0
+L2-000665,GourmetPlus,2025-08-14,81.32, Deportes,40.0,TARJETA DEBITO,0
+L2-000666,LibreriaCentral,2025-09-27,56.06,Tecnología,64.0,Tarjeta Credito,0
+L2-000667,GourmetPlus,2025-12-19,92.55,Farmacia,33.0,Tarjeta Credito,0
+L2-000668,LibreriaCentral,2025-11-07,120.61,Hogar,53.0,EFECTIVO.,0
+L2-000669,GourmetPlus,2025-10-31,124.83, Farmacia,26.0,Efectivo,0
+L2-000670,TiendaExpress,2025-11-01,81.6,Automotriz,18.0,Transferencia,0
+L2-000671,DeportesTotal,2025-11-11,,Tecnología,38.0,TARJETA DEBITO,0
+L2-000672,LibreriaCentral,2025-09-06,87.48,MODA.,18.0,EFECTIVO.,0
+L2-000673,DeportesTotal,2025-07-25,123.89,Alimentos ,18.0,Efectivo,0
+L2-000674,DeportesTotal,2025-09-13,165.45,DEPORTES.,34.0,Transferencia_Bancaria,0
+L2-000675,HogarFacil,2025-07-03,99.86,Automotriz,41.0,Efectivo,0
+L2-000676,LibreriaCentral,2025-12-21,92.14, Farmacia,55.0,TARJETA CREDITO,0
+L2-000677,SuperMax,2025-07-11,74.98,,52.0, Efectivo,0
+L2-000678,FarmaVida,2025-07-21,,Retail,63.0, Efectivo,0
+L2-000679,ModaViva,2025-12-18,54.27,Tecnologia,54.0,Tarjeta Credito,0
+L2-000680,HogarFacil,2025-07-12,20.56,Educacion,37.0,TARJETA CREDITO,0
+L2-000681,DeportesTotal,2025-07-17,7967.27,Automotriz,4.0,TRANSFERENCIA,0
+L2-000682,DeportesTotal,2025-12-04,20.74,Tecnologia,18.0,TARJETA DEBITO,0
+L2-000683,AutoRepuestos,2025-09-30,143.95,Educación,39.0,Tarjeta Debito,0
+L2-000684,DeportesTotal,2025-12-18,63.21,Deportes,33.0, Efectivo,0
+L2-000685,ModaViva,2025-07-10,104.86,Automotriz,24.0,Tarjeta_Credito,0
+L2-000686,LibreriaCentral,2025-11-05,27.3,HOGAR_,24.0,TARJETA DEBITO,0
+L2-000687,ModaViva,2025-07-23,34.65,Alimentos,52.0,TRANSFERENCIA,0
+L2-000688,ModaViva,2025-07-13,136.5, Deportes,18.0,Transferencia_Bancaria,0
+L2-000689,TecnoCenter,2025-11-30,60.63,Automotriz,25.0,Tarjeta_Credito,0
+L2-000690,AutoRepuestos,2025-12-14,,Deportes,46.0,Tarjeta Debito,0
+L2-000691,GourmetPlus,2025-12-18,115.57, Deportes,50.0,Transferencia,0
+L2-000692,DeportesTotal,2025-11-16,108.08,Tecnologia,56.0,Efectivo,0
+L2-000693,LibreriaCentral,2025-10-22,49.71,Hogar,35.0,Tarjeta Debito,0
+L2-000694,ModaViva,2025-10-12,134.92,alimentos_,38.0,TARJETA CREDITO,0
+L2-000695,AutoRepuestos,2025-08-20,78.92,Farmacia ,54.0,Transferencia_Bancaria,0
+L2-000696,ModaViva,2025-08-26,66.29, Moda ,47.0,TARJETA CREDITO,0
+L2-000697,AutoRepuestos,2025-10-07,24.02,TECNOLOGIA,57.0,Tarjeta_Credito,0
+L2-000698,ModaViva,2025-10-27,58.25,DEPORTES.,37.0,Tarjeta Debito,0
+L2-000699,TiendaExpress,2025-11-21,62.58,EDUCACION,39.0,Tarjeta Credito,0
+L2-000700,HogarFacil,2025-12-28,94.26,Automotriz,53.0,TARJETA DEBITO,0
+L2-000701,AutoRepuestos,2025-08-06,95.75, Deportes,46.0,TARJETA DEBITO,0
+L2-000702,TecnoCenter,2025-08-21,79.34,Retail,45.0,Transferencia_Bancaria,0
+L2-000703,TiendaExpress,2025-08-03,54.92,Alimentos,27.0,Transferencia,0
+L2-000704,TecnoCenter,2025-11-01,45.26,Educacion,42.0,TARJETA DEBITO,0
+L2-000705,HogarFacil,2025-11-11,47.04,Automotriz,48.0,TARJETA DEBITO,0
+L2-000706,SuperMax,2025-07-07,78.56,AUTOMOTRIZ,25.0,TARJETA CREDITO,0
+L2-000707,HogarFacil,2025-12-06,43.76, Automotriz,26.0,Tarjeta_Debito,0
+L2-000708,SuperMax,2025-08-15,116.39,HOGAR_,52.0, Efectivo,1
+L2-000709,SuperMax,2025-11-11,125.56,Farmacia,58.0,TARJETA DEBITO,0
+L2-000710,TiendaExpress,2025-09-15,144.59,Retail,38.0,Efectivo,0
+L2-000711,LibreriaCentral,2025-12-11,17.01,Alimentos,46.0,Transferencia_Bancaria,1
+L2-000712,TecnoCenter,2025-08-28,3214.44,Alimentos,47.0,TARJETA DEBITO,0
+L2-000713,ModaViva,2025-07-09,57.11,Farmacia,24.0,TRANSFERENCIA,0
+L2-000714,TecnoCenter,2025-07-09,123.45,,38.0,Tarjeta Credito,0
+L2-000715,LibreriaCentral,2025-07-21,89.15, Retail,33.0,Tarjeta_Credito,0
+L2-000716,ModaViva,2025-07-14,31.08, Moda ,47.0,Tarjeta_Debito,0
+L2-000717,TiendaExpress,2025-08-07,10.53,DEPORTES.,50.0,Tarjeta_Debito,0
+L2-000718,TiendaExpress,2025-12-24,,Deportes,40.0,EFECTIVO.,0
+L2-000719,FarmaVida,2025-12-13,80.96,Automotriz,28.0,TARJETA CREDITO,0
+L2-000720,TecnoCenter,2025-09-10,108.82,Alimentos ,39.0,TARJETA CREDITO,0
+L2-000721,AutoRepuestos,2025-09-16,114.14,HOGAR_,35.0, Efectivo,0
+L2-000722,AutoRepuestos,2025-09-29,94.62, Moda ,38.0,TARJETA DEBITO,1
+L2-000723,TiendaExpress,2025-07-10,126.26,Moda,42.0, Efectivo,0
+L2-000724,ModaViva,2025-07-30,134.14,Educacion,37.0,TRANSFERENCIA,0
+L2-000725,LibreriaCentral,2025-10-19,87.89,Hogar ,18.0, Efectivo,0
+L2-000726,LibreriaCentral,2025-12-26,62.32,Retail_,55.0, Efectivo,0
+L2-000727,ModaViva,2025-12-30,102.86, Deportes,46.0,TARJETA CREDITO,0
+L2-000728,AutoRepuestos,2025-07-04,50.45,alimentos_,40.0,Tarjeta Debito,0
+L2-000729,HogarFacil,2025-09-10,2226.67,Educacion,30.0,EFECTIVO.,0
+L2-000730,FarmaVida,2025-08-27,50.37,Deportes,22.0,TRANSFERENCIA,0
+L2-000731,FarmaVida,2025-11-22,95.96, Farmacia,49.0,Tarjeta Debito,0
+L2-000732,ModaViva,2025-11-15,96.21,Hogar,42.0,Tarjeta_Debito,0
+L2-000733,ModaViva,2025-09-24,127.51,Tecnología,40.0,TARJETA CREDITO,0
+L2-000734,TiendaExpress,2025-11-01,38.1, Automotriz,26.0,Transferencia,0
+L2-000735,LibreriaCentral,2025-10-04,112.31, Automotriz,22.0,Tarjeta Debito,0
+L2-000736,HogarFacil,2025-10-29,82.22,,55.0,TARJETA DEBITO,0
+L2-000737,SuperMax,2025-12-04,95.18, Retail,49.0,Efectivo,0
+L2-000738,HogarFacil,2025-09-16,117.65,,46.0,,0
+L2-000739,TecnoCenter,2025-11-03,69.21,Hogar,47.0,Transferencia,0
+L2-000740,DeportesTotal,2025-07-01,45.1,Hogar ,50.0,TRANSFERENCIA,0
+L2-000741,DeportesTotal,2025-08-28,78.7,Retail_,68.0,Transferencia_Bancaria,0
+L2-000742,ModaViva,2025-12-14,45.68,Hogar,49.0,TRANSFERENCIA,0
+L2-000743,TecnoCenter,2025-10-30,107.36,Automotriz,45.0,Tarjeta_Debito,0
+L2-000744,TecnoCenter,2025-09-05,67.01,Moda,40.0, Efectivo,0
+L2-000745,HogarFacil,2025-09-30,,alimentos_,28.0,TARJETA CREDITO,0
+L2-000746,HogarFacil,2025-12-26,114.27,TECNOLOGIA,26.0,Efectivo,0
+L2-000747,HogarFacil,2025-08-27,139.6,,38.0,TARJETA CREDITO,0
+L2-000748,GourmetPlus,2025-09-18,74.55,Retail,36.0,Tarjeta_Credito,0
+L2-000749,SuperMax,2025-09-18,52.1,Hogar ,29.0,Tarjeta Credito,0
+L2-000750,TecnoCenter,2025-09-25,, Farmacia,18.0,Tarjeta Credito,0
+L2-000751,DeportesTotal,2025-12-11,100.07,AUTOMOTRIZ,42.0,Tarjeta Credito,0
+L2-000752,FarmaVida,2025-12-09,1.0,AUTOMOTRIZ,50.0, Efectivo,0
+L2-000753,FarmaVida,2025-09-03,87.7,Retail,26.0,Efectivo,0
+L2-000754,FarmaVida,2025-09-03,178.04,alimentos_,49.0,Tarjeta_Credito,0
+L2-000755,ModaViva,2025-08-16,85.74,EDUCACION,29.0,Tarjeta Debito,0
+L2-000756,FarmaVida,2025-12-23,80.11,Tecnologia,29.0,Tarjeta_Debito,0
+L2-000757,SuperMax,2025-11-29,64.91,MODA.,29.0,Tarjeta Debito,0
+L2-000758,GourmetPlus,2025-12-03,102.73,Retail,18.0,Transferencia_Bancaria,0
+L2-000759,FarmaVida,2025-12-12,94.18,DEPORTES.,28.0,Tarjeta_Credito,0
+L2-000760,GourmetPlus,2025-08-18,66.03,Educacion,56.0,EFECTIVO.,0
+L2-000761,DeportesTotal,2025-12-10,84.59,Automotriz,59.0,Tarjeta_Debito,0
+L2-000762,HogarFacil,2025-12-21,,Educacion,25.0,Transferencia,0
+L2-000763,HogarFacil,2025-09-16,66.99,TECNOLOGIA,51.0,Tarjeta_Credito,0
+L2-000764,LibreriaCentral,2025-07-01,117.3, Retail,22.0,Transferencia_Bancaria,0
+L2-000765,TiendaExpress,2025-11-25,155.5, Retail,37.0, Efectivo,0
+L2-000766,TecnoCenter,2025-08-19,50.3,MODA.,35.0,Tarjeta_Credito,0
+L2-000767,GourmetPlus,2025-07-31,75.9,Farmacia ,30.0,Tarjeta_Debito,0
+L2-000768,LibreriaCentral,2025-12-08,,TECNOLOGIA,43.0,,0
+L2-000769,AutoRepuestos,2025-09-11,86.96, Retail,37.0,TARJETA CREDITO,0
+L2-000770,DeportesTotal,2025-07-18,134.36,Tecnologia,61.0,Tarjeta_Credito,0
+L2-000771,ModaViva,2025-10-04,100.39,MODA.,11.0,Transferencia_Bancaria,0
+L2-000772,LibreriaCentral,2025-12-30,,Tecnología,39.0,TARJETA DEBITO,0
+L2-000773,SuperMax,2025-09-18,,Hogar ,18.0, Efectivo,0
+L2-000774,TecnoCenter,2025-11-25,7139.13,,50.0,EFECTIVO.,0
+L2-000775,TiendaExpress,2025-07-18,160.71,Tecnologia,50.0,Tarjeta Credito,0
+L2-000776,LibreriaCentral,2025-08-09,6133.98,AUTOMOTRIZ,31.0,Tarjeta_Credito,0
+L2-000777,TiendaExpress,2025-07-04,121.5,Farmacia ,29.0,Tarjeta Debito,0
+L2-000778,TecnoCenter,2025-07-25,,TECNOLOGIA,25.0,TARJETA DEBITO,0
+L2-000779,LibreriaCentral,2025-11-08,81.32,AUTOMOTRIZ,45.0,Transferencia_Bancaria,0
+L2-000780,DeportesTotal,2025-12-04,93.01,Educación,45.0,Efectivo,0
+L2-000781,HogarFacil,2025-11-08,84.86,Deportes,41.0,Tarjeta_Debito,0
+L2-000782,ModaViva,2025-09-05,60.13,Deportes,39.0,Efectivo,0
+L2-000783,FarmaVida,2025-08-31,13.73,Alimentos,46.0,TARJETA DEBITO,0
+L2-000784,TecnoCenter,2025-12-08,103.64,HOGAR_,34.0, Efectivo,0
+L2-000785,HogarFacil,2025-08-19,66.69,Farmacia,38.0,Tarjeta Credito,0
+L2-000786,FarmaVida,2025-12-17,98.13,Educacion,48.0,TARJETA CREDITO,0
+L2-000787,HogarFacil,2025-11-30,128.3, Retail,25.0,Tarjeta Credito,0
+L2-000788,DeportesTotal,2025-08-16,62.52,Retail,57.0,Tarjeta_Debito,0
+L2-000789,ModaViva,2025-08-30,26.89,Educación,42.0,Transferencia,0
+L2-000790,SuperMax,2025-07-07,5346.16,Alimentos ,45.0, Efectivo,0
+L2-000791,LibreriaCentral,2025-09-24,92.02,,,TRANSFERENCIA,0
+L2-000792,LibreriaCentral,2025-12-20,119.81, Deportes,25.0,Tarjeta_Debito,0
+L2-000793,,2025-08-04,104.14,,35.0,Efectivo,0
+L2-000794,TiendaExpress,2025-07-28,110.76, Retail,39.0,TARJETA DEBITO,0
+L2-000795,FarmaVida,2025-08-29,88.65,Automotriz,30.0,Efectivo,0
+L2-000796,FarmaVida,2025-11-16,112.37,MODA.,41.0,Tarjeta Credito,0
+L2-000797,TiendaExpress,2025-10-23,83.48,Moda,39.0,EFECTIVO.,0
+L2-000798,GourmetPlus,2025-11-07,52.76,Farmacia ,42.0,,0
+L2-000799,AutoRepuestos,2025-08-01,105.08,alimentos_,43.0,TRANSFERENCIA,0
+L2-000800,AutoRepuestos,2025-12-20,81.26,Automotriz,45.0,Tarjeta_Credito,0
+L2-000801,FarmaVida,2025-08-29,78.51,Educación,40.0,Tarjeta_Credito,0
+L2-000802,HogarFacil,2025-11-27,120.01,alimentos_,41.0, Efectivo,0
+L2-000803,TecnoCenter,2025-08-25,94.98, Automotriz,30.0,TARJETA DEBITO,0
+L2-000804,HogarFacil,2025-09-12,108.63,AUTOMOTRIZ,24.0,Tarjeta_Debito,0
+L2-000805,ModaViva,2025-12-08,155.59,Educacion,41.0, Efectivo,0
+L2-000806,ModaViva,2025-12-06,,Hogar,34.0,Transferencia,0
+L2-000807,ModaViva,2025-09-06,38.44,Automotriz,65.0,Efectivo,0
+L2-000808,LibreriaCentral,2025-09-23,84.87,Automotriz,36.0,EFECTIVO.,0
+L2-000809,,2025-08-07,138.79,Farmacia,33.0,Tarjeta_Debito,0
+L2-000810,GourmetPlus,2025-12-22,70.32,alimentos_,26.0,Tarjeta Debito,0
+L2-000811,LibreriaCentral,2025-07-11,102.97,Farmacia,38.0,Transferencia,0
+L2-000812,TiendaExpress,2025-09-24,34.97, Farmacia,31.0,Tarjeta Debito,0
+L2-000813,GourmetPlus,2025-10-17,58.53,Moda,39.0,Tarjeta_Debito,0
+L2-000814,AutoRepuestos,2025-12-26,113.62,Educación,20.0,TRANSFERENCIA,0
+L2-000815,GourmetPlus,2025-11-22,29.1, Moda ,47.0,TARJETA CREDITO,0
+L2-000816,SuperMax,2025-10-11,77.08,DEPORTES.,18.0,EFECTIVO.,0
+L2-000817,AutoRepuestos,2025-11-06,56.95,Moda,4.0,Tarjeta Credito,0
+L2-000818,FarmaVida,2025-11-09,38.51,TECNOLOGIA,43.0,Tarjeta Debito,0
+L2-000819,FarmaVida,2025-08-09,83.08,HOGAR_,41.0,Tarjeta_Debito,0
+L2-000820,LibreriaCentral,2025-10-02,87.18,HOGAR_,19.0,Efectivo,0
+L2-000821,AutoRepuestos,2025-08-07,64.27,Tecnologia,30.0,Tarjeta_Credito,0
+L2-000822,FarmaVida,2025-11-08,87.46, Farmacia,47.0,,0
+L2-000823,TiendaExpress,2025-11-09,36.72,Hogar ,46.0,Tarjeta_Credito,1
+L2-000824,HogarFacil,2025-10-15,135.43,Educacion,29.0,TARJETA CREDITO,0
+L2-000825,LibreriaCentral,2025-10-08,105.63,Alimentos,55.0,TRANSFERENCIA,0
+L2-000826,SuperMax,2025-10-03,4021.94,DEPORTES.,31.0,Transferencia,0
+L2-000827,ModaViva,2025-11-03,1.0,Retail_,26.0,Tarjeta Debito,0
+L2-000828,GourmetPlus,2025-08-14,166.37,,27.0, Efectivo,0
+L2-000829,FarmaVida,2025-09-11,1.0,Hogar,30.0,Tarjeta Debito,0
+L2-000830,LibreriaCentral,2025-12-28,57.43,Farmacia,28.0,Tarjeta_Debito,0
+L2-000831,LibreriaCentral,2025-07-24,81.88,EDUCACION,30.0,Tarjeta_Debito,0
+L2-000832,TecnoCenter,2025-09-30,,MODA.,53.0,TARJETA DEBITO,0
+L2-000833,DeportesTotal,2025-11-20,167.86,Deportes,25.0,Tarjeta_Credito,0
+L2-000834,TecnoCenter,2025-11-24,132.48,Alimentos,52.0,TARJETA DEBITO,0
+L2-000835,LibreriaCentral,2025-09-04,44.8,HOGAR_,35.0,TARJETA CREDITO,0
+L2-000836,HogarFacil,2025-09-06,98.2,MODA.,63.0,Tarjeta Debito,0
+L2-000837,ModaViva,2025-10-20,52.79,TECNOLOGIA,32.0,TRANSFERENCIA,0
+L2-000838,TecnoCenter,2025-09-29,105.48,DEPORTES.,25.0,Transferencia,0
+L2-000839,ModaViva,2025-08-02,67.44,Educación,30.0,TARJETA CREDITO,0
+L2-000840,FarmaVida,2025-12-19,90.7,Educacion,55.0,TARJETA CREDITO,0
+L2-000841,LibreriaCentral,2025-12-02,55.53,Retail,40.0,Tarjeta Credito,0
+L2-000842,ModaViva,2025-08-05,75.93,,35.0,Tarjeta_Debito,0
+L2-000843,AutoRepuestos,2025-10-13,26.06,Retail,46.0,Transferencia_Bancaria,0
+L2-000844,HogarFacil,2025-11-06,67.2,,49.0,TRANSFERENCIA,0
+L2-000845,TecnoCenter,2025-07-06,47.31,Educación,47.0,TARJETA CREDITO,0
+L2-000846,GourmetPlus,2025-11-26,55.44,HOGAR_,48.0,Tarjeta_Debito,0
+L2-000847,ModaViva,2025-07-24,119.81,Educación,41.0,TARJETA CREDITO,0
+L2-000848,TecnoCenter,2025-09-13,113.66,MODA.,57.0,Transferencia,0
+L2-000849,GourmetPlus,2025-08-02,154.16,Moda,32.0,Tarjeta Credito,0
+L2-000850,DeportesTotal,2025-10-17,48.86,EDUCACION,31.0, Efectivo,0
+L2-000851,ModaViva,2025-11-04,132.99,Retail,32.0,Tarjeta_Credito,0
+L2-000852,TiendaExpress,2025-10-10,111.66,Educacion,27.0,TARJETA CREDITO,0
+L2-000853,HogarFacil,2025-10-03,6.45,,23.0,Tarjeta_Credito,0
+L2-000854,FarmaVida,2025-09-18,86.96,Moda,18.0,TRANSFERENCIA,1
+L2-000855,SuperMax,2025-10-09,82.77,,41.0,Transferencia,0
+L2-000856,DeportesTotal,2025-12-04,117.58,Alimentos ,19.0,Tarjeta Credito,0
+L2-000857,DeportesTotal,2025-07-19,130.26,Tecnología,34.0,TARJETA CREDITO,0
+L2-000858,GourmetPlus,2025-11-12,97.36,Tecnologia,31.0,EFECTIVO.,0
+L2-000859,SuperMax,2025-09-12,77.51,Moda,37.0,Transferencia_Bancaria,0
+L2-000860,FarmaVida,2025-07-30,147.46,MODA.,38.0,Tarjeta_Debito,0
+L2-000861,DeportesTotal,2025-07-13,91.46,Tecnología,39.0,Tarjeta Credito,0
+L2-000862,FarmaVida,2025-11-06,130.91, Automotriz,32.0,TARJETA CREDITO,0
+L2-000863,FarmaVida,2025-12-05,130.44,MODA.,37.0,Transferencia_Bancaria,0
+L2-000864,TecnoCenter,2025-11-23,75.07,,18.0,TARJETA DEBITO,0
+L2-000865,ModaViva,2025-10-17,179.96,EDUCACION,21.0,Transferencia,0
+L2-000866,AutoRepuestos,2025-09-01,113.19,Farmacia,44.0,Tarjeta Debito,0
+L2-000867,LibreriaCentral,2025-10-20,72.54,Retail,28.0,Efectivo,0
+L2-000868,SuperMax,2025-11-03,109.34,Tecnologia,35.0,Efectivo,0
+L2-000869,FarmaVida,2025-09-23,69.24,Alimentos,18.0,Transferencia,0
+L2-000870,GourmetPlus,2025-10-20,94.01, Moda ,34.0, Efectivo,0
+L2-000871,HogarFacil,2025-09-06,30.98,Educación,31.0,Tarjeta_Debito,0
+L2-000872,ModaViva,2025-09-23,135.88, Deportes,43.0,Transferencia_Bancaria,0
+L2-000873,TecnoCenter,2025-08-04,81.96,Automotriz,44.0,Transferencia,0
+L2-000874,GourmetPlus,2025-08-30,80.55, Deportes,8.0,Transferencia,0
+L2-000875,TiendaExpress,2025-10-26,95.62,Deportes,48.0,EFECTIVO.,0
+L2-000876,ModaViva,2025-08-09,,,28.0,Efectivo,0
+L2-000877,FarmaVida,2025-11-13,1.0, Farmacia,47.0,Efectivo,0
+L2-000878,ModaViva,2025-12-14,100.64,Moda,49.0,TRANSFERENCIA,0
+L2-000879,HogarFacil,2025-10-07,42.06,Deportes,54.0,TRANSFERENCIA,0
+L2-000880,HogarFacil,2025-07-12,13.98,Retail,38.0,Efectivo,0
+L2-000881,LibreriaCentral,2025-10-20,83.43, Retail,44.0,Transferencia,0
+L2-000882,DeportesTotal,2025-11-29,111.06,Tecnologia,39.0, Efectivo,0
+L2-000883,ModaViva,2025-07-03,150.99,Educación,30.0,TARJETA CREDITO,0
+L2-000884,ModaViva,2025-11-24,7125.45,,41.0,Transferencia_Bancaria,1
+L2-000885,SuperMax,2025-08-31,101.39,Tecnologia,9.0, Efectivo,0
+L2-000886,AutoRepuestos,2025-09-27,80.6,HOGAR_,46.0,Tarjeta_Credito,0
+L2-000887,AutoRepuestos,2025-11-05,115.4, Retail,20.0,Transferencia_Bancaria,0
+L2-000888,DeportesTotal,2025-11-08,102.27,TECNOLOGIA,41.0,Transferencia_Bancaria,0
+L2-000889,AutoRepuestos,2025-09-11,4699.12,Educación,39.0,TRANSFERENCIA,0
+L2-000890,TiendaExpress,2025-09-05,90.61,Educación,28.0,Tarjeta_Credito,0
+L2-000891,HogarFacil,2025-09-30,77.42,,54.0,TARJETA DEBITO,0
+L2-000892,ModaViva,2025-12-28,26.6,Tecnología,18.0,TARJETA CREDITO,0
+L2-000893,AutoRepuestos,2025-12-30,127.02,,37.0,TRANSFERENCIA,0
+L2-000894,TiendaExpress,2025-08-26,28.75,Moda,20.0,Tarjeta Debito,0
+L2-000895,TecnoCenter,2025-09-18,32.52,Farmacia,27.0,EFECTIVO.,0
+L2-000896,AutoRepuestos,2025-08-10,99.52,AUTOMOTRIZ,31.0,Tarjeta_Credito,0
+L2-000897,TiendaExpress,2025-10-20,4196.34, Farmacia,45.0,Transferencia,0
+L2-000898,AutoRepuestos,2025-11-10,83.97,AUTOMOTRIZ,57.0,Tarjeta_Credito,0
+L2-000899,GourmetPlus,2025-11-14,,HOGAR_,18.0,TARJETA DEBITO,0
+L2-000900,GourmetPlus,2025-09-20,82.18,Automotriz,42.0,TRANSFERENCIA,0
+L2-000901,TiendaExpress,2025-07-06,141.09,HOGAR_,62.0,Tarjeta_Credito,0
+L2-000902,HogarFacil,2025-09-13,6205.1,Deportes,59.0,Tarjeta_Credito,0
+L2-000903,FarmaVida,2025-10-13,138.56, Farmacia,60.0,Transferencia_Bancaria,0
+L2-000904,TecnoCenter,2025-11-29,141.76,HOGAR_,34.0,Transferencia,0
+L2-000905,GourmetPlus,2025-10-30,, Deportes,12.0,Tarjeta_Debito,0
+L2-000906,HogarFacil,2025-09-24,88.74,alimentos_,36.0,,0
+L2-000907,GourmetPlus,2025-07-30,84.99,MODA.,62.0, Efectivo,0
+L2-000908,SuperMax,2025-12-03,60.96,EDUCACION,18.0,Efectivo,0
+L2-000909,FarmaVida,2025-11-10,3103.8,Tecnologia,4.0,Tarjeta Debito,0
+L2-000910,FarmaVida,2025-10-08,115.4,Automotriz,50.0,,0
+L2-000911,LibreriaCentral,2025-08-16,,Automotriz,45.0,Transferencia,0
+L2-000912,TecnoCenter,2025-11-16,90.21,Hogar,28.0,Transferencia,0
+L2-000913,TiendaExpress,2025-09-11,28.77,Hogar ,50.0,Tarjeta Credito,1
+L2-000914,TiendaExpress,2025-12-18,75.89,Hogar,34.0,Transferencia,0
+L2-000915,HogarFacil,2025-09-11,116.14, Moda ,54.0,,0
+L2-000916,AutoRepuestos,2025-11-14,102.62,Tecnologia,18.0,Tarjeta Credito,0
+L2-000917,TiendaExpress,2025-10-01,105.44,Retail,72.0,Transferencia_Bancaria,0
+L2-000918,DeportesTotal,2025-09-20,67.11,Moda,33.0,Transferencia,0
+L2-000919,LibreriaCentral,2025-12-04,167.38, Automotriz,38.0,Tarjeta_Debito,0
+L2-000920,FarmaVida,2025-09-01,67.24,AUTOMOTRIZ,37.0,Transferencia,0
+L2-000921,FarmaVida,2025-09-09,32.13,,38.0,Tarjeta_Credito,0
+L2-000922,LibreriaCentral,2025-08-16,96.42, Automotriz,23.0,Tarjeta_Debito,0
+L2-000923,GourmetPlus,2025-12-05,71.97,EDUCACION,35.0, Efectivo,0
+L2-000924,LibreriaCentral,2025-10-29,86.06,,54.0,TRANSFERENCIA,1
+L2-000925,SuperMax,2025-11-26,55.0,Automotriz,36.0, Efectivo,1
+L2-000926,FarmaVida,2025-09-21,77.93, Retail,34.0,Tarjeta Debito,0
+L2-000927,AutoRepuestos,2025-10-19,7.44,Alimentos,42.0,EFECTIVO.,0
+L2-000928,TecnoCenter,2025-09-25,37.37,Hogar,49.0,TARJETA CREDITO,0
+L2-000929,LibreriaCentral,2025-10-15,146.6,,44.0,Tarjeta Credito,0
+L2-000930,SuperMax,2025-07-06,79.26,Hogar,43.0,Tarjeta Debito,0
+L2-000931,HogarFacil,2025-07-07,11.59, Retail,31.0,TARJETA DEBITO,0
+L2-000932,AutoRepuestos,2025-08-31,87.37,,35.0,TARJETA DEBITO,1
+L2-000933,ModaViva,2025-10-30,23.6,Tecnologia,30.0,Tarjeta_Credito,0
+L2-000934,SuperMax,2025-10-10,67.36,Moda,32.0,TARJETA DEBITO,0
+L2-000935,TecnoCenter,2025-08-10,102.97,AUTOMOTRIZ,69.0,TARJETA DEBITO,0
+L2-000936,SuperMax,2025-08-14,1.0,Automotriz,45.0, Efectivo,0
+L2-000937,TiendaExpress,2025-09-23,62.46,Educacion,37.0,Tarjeta_Debito,0
+L2-000938,SuperMax,2025-10-23,98.65, Retail,43.0,Tarjeta Debito,0
+L2-000939,DeportesTotal,2025-07-20,39.15,Educación,54.0,Tarjeta_Debito,0
+L2-000940,FarmaVida,2025-12-26,82.82,,63.0,Efectivo,0
+L2-000941,DeportesTotal,2025-12-01,131.5,Tecnología,50.0,Tarjeta_Credito,0
+L2-000942,FarmaVida,2025-11-19,59.75,,25.0,Efectivo,0
+L2-000943,LibreriaCentral,2025-11-10,64.91,HOGAR_,18.0,TRANSFERENCIA,0
+L2-000944,TiendaExpress,2025-11-06,60.79,Farmacia,46.0,TRANSFERENCIA,0
+L2-000945,TiendaExpress,2025-12-25,31.35,,53.0,Tarjeta_Credito,0
+L2-000946,ModaViva,2025-11-14,104.1,Hogar ,28.0,,0
+L2-000947,TiendaExpress,2025-10-29,7613.84,Hogar ,31.0,Transferencia_Bancaria,0
+L2-000948,FarmaVida,2025-07-23,,Moda,33.0,TARJETA DEBITO,0
+L2-000949,AutoRepuestos,2025-07-18,15.48,alimentos_,,Tarjeta_Credito,0
+L2-000950,LibreriaCentral,2025-11-20,,Farmacia,40.0,,0
+L2-000951,ModaViva,2025-08-20,42.82,Tecnología,50.0,,0
+L2-000952,TiendaExpress,2025-11-02,103.39,Farmacia,39.0,Tarjeta Credito,0
+L2-000953,LibreriaCentral,2025-10-04,89.33,Educacion,31.0,Tarjeta Debito,0
+L2-000954,SuperMax,2025-09-02,62.57,Educación,48.0,Transferencia_Bancaria,0
+L2-000955,TecnoCenter,2025-09-10,141.04,Automotriz,33.0,,0
+L2-000956,LibreriaCentral,2025-12-28,131.68, Deportes,27.0,Tarjeta Debito,1
+L2-000957,AutoRepuestos,2025-08-04,73.25,Retail_,35.0,Tarjeta_Debito,0
+L2-000958,LibreriaCentral,2025-10-17,70.24,DEPORTES.,24.0,,1
+L2-000959,,2025-12-24,30.58,Automotriz,53.0,TRANSFERENCIA,0
+L2-000960,TiendaExpress,2025-09-27,1.0, Deportes,45.0,Transferencia_Bancaria,0
+L2-000961,FarmaVida,2025-12-22,88.97,TECNOLOGIA,,Efectivo,0
+L2-000962,AutoRepuestos,2025-09-25,60.38,Hogar,48.0, Efectivo,0
+L2-000963,SuperMax,2025-08-01,134.58,Tecnología,44.0,EFECTIVO.,0
+L2-000964,DeportesTotal,2025-12-23,40.18,Hogar,46.0,Tarjeta Credito,0
+L2-000965,TecnoCenter,2025-09-02,118.4,Hogar ,18.0,Efectivo,0
+L2-000966,LibreriaCentral,2025-12-18,132.04,Retail_,32.0,,0
+L2-000967,TiendaExpress,2025-10-21,79.38,MODA.,32.0,Tarjeta_Debito,0
+L2-000968,SuperMax,2025-08-01,12.63, Deportes,36.0,Efectivo,1
+L2-000969,SuperMax,2025-07-19,13.9, Retail,48.0,Transferencia,0
+L2-000970,TecnoCenter,2025-08-31,17.4, Moda ,34.0,Tarjeta Credito,0
+L2-000971,FarmaVida,2025-11-13,81.3,,45.0,Efectivo,0
+L2-000972,DeportesTotal,2025-10-13,127.63,Alimentos ,37.0,Transferencia,0
+L2-000973,,2025-09-22,151.53,Hogar ,19.0,Tarjeta_Debito,1
+L2-000974,AutoRepuestos,2025-07-19,127.43, Farmacia,32.0,Transferencia,0
+L2-000975,TiendaExpress,2025-11-24,127.16,Automotriz,34.0,Tarjeta Debito,0
+L2-000976,ModaViva,2025-08-14,6696.38,EDUCACION,43.0,TRANSFERENCIA,0
+L2-000977,DeportesTotal,2025-12-10,100.7,TECNOLOGIA,39.0,EFECTIVO.,0
+L2-000978,AutoRepuestos,2025-11-23,86.6,AUTOMOTRIZ,30.0,,0
+L2-000979,FarmaVida,2025-09-08,87.51, Retail,43.0,EFECTIVO.,0
+L2-000980,FarmaVida,2025-07-18,87.21,Tecnología,30.0,Tarjeta Credito,0
+L2-000981,LibreriaCentral,2025-09-13,97.05,MODA.,50.0,EFECTIVO.,0
+L2-000982,TiendaExpress,2025-09-20,44.4,HOGAR_,22.0,TARJETA CREDITO,0
+L2-000983,AutoRepuestos,2025-12-11,56.38,Farmacia,46.0,TARJETA CREDITO,0
+L2-000984,DeportesTotal,2025-12-31,98.98,DEPORTES.,31.0,TARJETA CREDITO,0
+L2-000985,LibreriaCentral,2025-08-26,54.99,DEPORTES.,36.0,Efectivo,0
+L2-000986,FarmaVida,2025-12-07,85.87, Retail,32.0,Transferencia,0
+L2-000987,ModaViva,2025-08-03,66.06, Deportes,36.0,Efectivo,0
+L2-000988,TecnoCenter,2025-12-25,,alimentos_,,Tarjeta Credito,0
+L2-000989,LibreriaCentral,2025-12-15,69.49,alimentos_,36.0,Transferencia,0
+L2-000990,HogarFacil,2025-08-24,134.43,AUTOMOTRIZ,50.0,Transferencia_Bancaria,0
+L2-000991,AutoRepuestos,2025-12-20,81.57,Farmacia,21.0,TARJETA DEBITO,0
+L2-000992,TecnoCenter,2025-08-20,54.56,Moda,43.0,Tarjeta Credito,0
+L2-000993,HogarFacil,2025-10-10,60.2,Educación,47.0,Tarjeta Credito,0
+L2-000994,TecnoCenter,2025-10-03,65.96, Deportes,,Tarjeta Debito,0
+L2-000995,GourmetPlus,2025-11-25,6521.56, Automotriz,26.0,Tarjeta_Credito,0
+L2-000996,SuperMax,2025-08-15,62.45,TECNOLOGIA,40.0,,0
+L2-000997,SuperMax,2025-07-13,63.58,Deportes,26.0,Tarjeta_Credito,0
+L2-000998,ModaViva,2025-11-24,141.16,AUTOMOTRIZ,65.0,TARJETA CREDITO,0
+L2-000999,TiendaExpress,2025-11-22,132.63,Educacion,72.0,TARJETA CREDITO,0
+L2-001000,AutoRepuestos,2025-07-31,119.63,TECNOLOGIA,29.0,TARJETA DEBITO,0
+L2-001001,GourmetPlus,2025-12-14,153.72,Tecnología,40.0,,0
+L2-001002,AutoRepuestos,2025-11-03,80.04,,27.0,Tarjeta_Debito,0
+L2-001003,SuperMax,2025-07-29,1.0,Alimentos ,18.0,Transferencia,0
+L2-001004,HogarFacil,2025-09-07,54.67,Educación,49.0,Transferencia_Bancaria,0
+L2-001005,FarmaVida,2025-08-14,102.85,Educación,41.0,Transferencia,0
+L2-001006,ModaViva,2025-10-14,149.82,MODA.,47.0,EFECTIVO.,0
+L2-001007,SuperMax,2025-09-03,145.2,EDUCACION,53.0,TARJETA DEBITO,0
+L2-001008,ModaViva,2025-12-23,66.36,,18.0,TARJETA DEBITO,0
+L2-001009,ModaViva,2025-10-13,104.69,Educación,43.0,Tarjeta Debito,0
+L2-001010,SuperMax,2025-12-31,91.13,DEPORTES.,22.0,Tarjeta_Debito,0
+L2-001011,AutoRepuestos,2025-12-20,59.65,Retail,18.0,TARJETA CREDITO,0
+L2-001012,GourmetPlus,2025-10-25,50.28,Alimentos,41.0,Efectivo,1
+L2-001013,ModaViva,2025-12-17,32.88,Hogar,55.0,TARJETA CREDITO,0
+L2-001014,AutoRepuestos,2025-07-14,141.55,AUTOMOTRIZ,33.0,Tarjeta_Credito,0
+L2-001015,TecnoCenter,2025-12-18,108.06,alimentos_,23.0,Transferencia_Bancaria,0
+L2-001016,FarmaVida,2025-08-13,122.98,AUTOMOTRIZ,18.0,Transferencia_Bancaria,0
+L2-001017,ModaViva,2025-10-16,121.73,DEPORTES.,42.0,Transferencia_Bancaria,1
+L2-001018,AutoRepuestos,2025-11-18,147.06,Deportes,36.0,Tarjeta Credito,0
+L2-001019,TecnoCenter,2025-10-23,78.48,AUTOMOTRIZ,56.0,Transferencia,0
+L2-001020,DeportesTotal,2025-12-18,164.04,alimentos_,25.0,TARJETA DEBITO,0
+L2-001021,TecnoCenter,2025-10-15,26.8,Automotriz,25.0,TARJETA DEBITO,0
+L2-001022,FarmaVida,2025-09-13,88.85,,67.0,Tarjeta_Credito,0
+L2-001023,GourmetPlus,2025-11-04,78.21, Automotriz,34.0,TARJETA CREDITO,0
+L2-001024,TiendaExpress,2025-12-11,77.29,Deportes,39.0,Tarjeta_Debito,0
+L2-001025,ModaViva,2025-09-10,201.34,Retail,18.0,,0
+L2-001026,SuperMax,2025-12-23,106.08,Educación,33.0,Tarjeta_Credito,0
+L2-001027,TecnoCenter,2025-12-16,68.54,Retail_,39.0,Tarjeta_Debito,0
+L2-001028,LibreriaCentral,2025-08-19,97.32,Alimentos ,44.0,Tarjeta_Credito,0
+L2-001029,AutoRepuestos,2025-10-29,6957.67,Educacion,55.0,TARJETA DEBITO,0
+L2-001030,GourmetPlus,2025-11-27,4598.19,Farmacia,28.0,Transferencia,0
+L2-001031,HogarFacil,2025-09-10,57.73,alimentos_,42.0,TARJETA DEBITO,0
+L2-001032,LibreriaCentral,2025-08-20,,Tecnología,50.0,Tarjeta Debito,0
+L2-001033,GourmetPlus,2025-12-25,128.85,HOGAR_,56.0,Transferencia,0
+L2-001034,LibreriaCentral,2025-09-28,117.85,HOGAR_,36.0,TRANSFERENCIA,0
+L2-001035,TecnoCenter,2025-07-11,81.04, Retail,48.0,TARJETA CREDITO,0
+L2-001036,AutoRepuestos,2025-08-01,122.84,Hogar ,51.0,Tarjeta_Credito,0
+L2-001037,ModaViva,2025-10-06,,Alimentos,33.0,Tarjeta Credito,0
+L2-001038,HogarFacil,2025-08-08,,Farmacia ,50.0,Tarjeta_Credito,0
+L2-001039,TecnoCenter,2025-10-17,127.69,alimentos_,33.0,Transferencia_Bancaria,0
+L2-001040,GourmetPlus,2025-10-16,33.51, Deportes,29.0,TARJETA DEBITO,0
+L2-001041,HogarFacil,2025-08-22,74.42,Retail_,,Transferencia,0
+L2-001042,TiendaExpress,2025-07-12,98.89,HOGAR_,57.0,TARJETA CREDITO,0
+L2-001043,DeportesTotal,2025-10-28,104.27,Automotriz,38.0,Tarjeta Debito,0
+L2-001044,GourmetPlus,2025-11-26,136.66,Hogar ,27.0,Tarjeta Credito,0
+L2-001045,SuperMax,2025-07-29,, Automotriz,38.0,,0
+L2-001046,AutoRepuestos,2025-11-29,90.89,Alimentos ,27.0,TARJETA DEBITO,0
+L2-001047,DeportesTotal,2025-08-22,133.84,Retail,37.0,EFECTIVO.,0
+L2-001048,HogarFacil,2025-12-07,57.51,,28.0,,0
+L2-001049,DeportesTotal,2025-07-19,56.93,Retail,46.0,Tarjeta Debito,0
+L2-001050,TecnoCenter,2025-11-08,103.54,Alimentos,50.0,Transferencia,0
+L2-001051,TiendaExpress,2025-08-24,141.52,HOGAR_,26.0,Transferencia_Bancaria,0
+L2-001052,TecnoCenter,2025-11-20,41.88, Retail,27.0,Transferencia_Bancaria,0
+L2-001053,TecnoCenter,2025-09-24,125.01,Retail,, Efectivo,0
+L2-001054,LibreriaCentral,2025-10-31,, Automotriz,34.0,Tarjeta Credito,0
+L2-001055,FarmaVida,2025-09-27,69.62,Farmacia,55.0,Transferencia_Bancaria,0
+L2-001056,TiendaExpress,2025-08-30,4597.27,Farmacia ,52.0,Efectivo,0
+L2-001057,HogarFacil,2025-11-23,151.71,HOGAR_,57.0,Tarjeta Debito,0
+L2-001058,AutoRepuestos,2025-09-28,69.31, Moda ,30.0,Tarjeta Debito,0
+L2-001059,FarmaVida,2025-12-17,41.59,Retail_,44.0,Tarjeta Debito,0
+L2-001060,GourmetPlus,2025-12-08,1.0,Alimentos,26.0,Tarjeta Debito,0
+L2-001061,ModaViva,2025-07-04,114.41,Tecnologia,33.0,EFECTIVO.,0
+L2-001062,ModaViva,2025-11-24,62.86, Deportes,18.0,Tarjeta_Debito,0
+L2-001063,AutoRepuestos,2025-07-27,140.42, Automotriz,63.0,TRANSFERENCIA,0
+L2-001064,ModaViva,2025-11-11,68.84,Farmacia,28.0,Tarjeta Debito,1
+L2-001065,TiendaExpress,2025-08-03,6897.41, Farmacia,57.0,EFECTIVO.,0
+L2-001066,TiendaExpress,2025-10-29,,AUTOMOTRIZ,53.0,TARJETA DEBITO,0
+L2-001067,LibreriaCentral,2025-08-16,,DEPORTES.,39.0,Tarjeta_Credito,0
+L2-001068,TiendaExpress,2025-08-10,105.76,AUTOMOTRIZ,49.0,TARJETA CREDITO,0
+L2-001069,LibreriaCentral,2025-12-18,47.21,Educación,34.0,TARJETA DEBITO,0
+L2-001070,AutoRepuestos,2025-08-19,32.58, Moda ,36.0,TARJETA DEBITO,0
+L2-001071,HogarFacil,2025-12-17,142.77,EDUCACION,54.0,TARJETA CREDITO,0
+L2-001072,HogarFacil,2025-09-26,,Automotriz,48.0,Tarjeta_Debito,0
+L2-001073,AutoRepuestos,2025-10-04,123.99,Tecnologia,44.0,,0
+L2-001074,DeportesTotal,2025-09-01,87.64,Farmacia,50.0,Transferencia,0
+L2-001075,AutoRepuestos,2025-11-13,63.01, Moda ,46.0,Tarjeta_Debito,0
+L2-001076,TiendaExpress,2025-07-31,68.53,Farmacia,45.0,Tarjeta Debito,1
+L2-001077,AutoRepuestos,2025-08-27,150.27,Retail,46.0,Tarjeta_Debito,0
+L2-001078,LibreriaCentral,2025-07-07,52.42,Alimentos ,44.0,EFECTIVO.,0
+L2-001079,FarmaVida,2025-07-03,115.72, Retail,25.0,,0
+L2-001080,FarmaVida,2025-11-10,40.33, Automotriz,31.0,Efectivo,1
+L2-001081,TiendaExpress,2025-09-03,61.64, Retail,46.0,TARJETA CREDITO,0
+L2-001082,DeportesTotal,2025-09-24,85.9,Hogar ,18.0,Tarjeta_Debito,0
+L2-001083,ModaViva,2025-11-25,123.85,,51.0,TRANSFERENCIA,0
+L2-001084,FarmaVida,2025-10-01,81.79,Hogar,54.0,Tarjeta_Debito,1
+L2-001085,TecnoCenter,2025-08-20,56.01,TECNOLOGIA,29.0,Tarjeta Credito,0
+L2-001086,TecnoCenter,2025-11-20,101.88, Farmacia,39.0,Tarjeta_Debito,0
+L2-001087,FarmaVida,2025-12-29,117.28,Alimentos,49.0,Tarjeta_Debito,0
+L2-001088,TiendaExpress,2025-09-06,90.16,,37.0,TRANSFERENCIA,0
+L2-001089,HogarFacil,2025-12-22,64.94,Farmacia ,41.0,TRANSFERENCIA,0
+L2-001090,FarmaVida,2025-08-09,37.65,Educacion,42.0,Tarjeta Debito,0
+L2-001091,DeportesTotal,2025-12-10,84.83,Educación,31.0,TARJETA CREDITO,0
+L2-001092,TecnoCenter,2025-07-28,18.39,AUTOMOTRIZ,27.0,EFECTIVO.,0
+L2-001093,DeportesTotal,2025-10-31,53.24,Farmacia,25.0,,0
+L2-001094,AutoRepuestos,2025-07-26,120.44,Hogar ,53.0,Tarjeta_Debito,0
+L2-001095,SuperMax,2025-12-08,56.17,Educacion,34.0,Transferencia,0
+L2-001096,TiendaExpress,2025-10-13,110.35,Hogar ,31.0,Efectivo,0
+L2-001097,DeportesTotal,2025-09-09,87.27,,31.0,Tarjeta Debito,0
+L2-001098,HogarFacil,2025-11-23,,Alimentos,34.0,TARJETA CREDITO,0
+L2-001099,ModaViva,2025-08-17,102.62,Tecnologia,36.0,Efectivo,0
+L2-001100,GourmetPlus,2025-12-20,134.59, Farmacia,18.0,Tarjeta_Debito,0
+L2-001101,AutoRepuestos,2025-10-19,92.87,AUTOMOTRIZ,43.0,Transferencia,0
+L2-001102,ModaViva,2025-12-04,52.1,Educación,23.0,Tarjeta_Credito,0
+L2-001103,SuperMax,2025-07-17,100.75,Alimentos ,39.0,Tarjeta_Debito,0
+L2-001104,SuperMax,2025-11-02,117.8,Retail,,Tarjeta Debito,0
+L2-001105,SuperMax,2025-09-20,141.85, Retail,34.0, Efectivo,0
+L2-001106,FarmaVida,2025-12-10,19.89,Hogar ,31.0,TARJETA DEBITO,0
+L2-001107,HogarFacil,2025-10-02,113.97,Farmacia ,36.0,Tarjeta Credito,0
+L2-001108,TecnoCenter,2025-09-14,41.97,Tecnologia,35.0,TARJETA DEBITO,0
+L2-001109,SuperMax,2025-08-21,13.37,MODA.,29.0,Transferencia_Bancaria,0
+L2-001110,ModaViva,2025-12-20,126.69,Tecnologia,49.0,Transferencia,0
+L2-001111,DeportesTotal,2025-11-13,48.88,MODA.,26.0,Tarjeta Credito,0
+L2-001112,AutoRepuestos,2025-10-30,,HOGAR_,69.0,TRANSFERENCIA,0
+L2-001113,DeportesTotal,2025-10-18,133.91, Automotriz,36.0,TARJETA DEBITO,0
+L2-001114,LibreriaCentral,2025-12-12,78.97, Deportes,24.0,,0
+L2-001115,FarmaVida,2025-10-19,, Farmacia,29.0,TARJETA DEBITO,0
+L2-001116,HogarFacil,2025-12-10,113.72,Tecnologia,13.0,TARJETA DEBITO,0
+L2-001117,TecnoCenter,2025-08-30,142.41,Hogar,27.0,Tarjeta Credito,0
+L2-001118,GourmetPlus,2025-07-14,120.74,Alimentos,10.0,EFECTIVO.,0
+L2-001119,TiendaExpress,2025-07-12,110.81,Alimentos ,40.0, Efectivo,0
+L2-001120,SuperMax,2025-10-25,61.31,Hogar ,18.0,Tarjeta_Credito,0
+L2-001121,SuperMax,2025-11-18,53.48, Deportes,50.0,Transferencia,0
+L2-001122,ModaViva,2025-07-14,30.11,,47.0,TARJETA DEBITO,0
+L2-001123,FarmaVida,2025-07-04,100.95,Retail,43.0,Transferencia_Bancaria,0
+L2-001124,FarmaVida,2025-09-15,15.51,MODA.,28.0,TARJETA DEBITO,0
+L2-001125,ModaViva,2025-11-21,172.12,Alimentos,23.0,Tarjeta Debito,0
+L2-001126,SuperMax,2025-07-13,97.8,HOGAR_,23.0,Efectivo,0
+L2-001127,DeportesTotal,2025-11-29,104.96, Retail,24.0,,0
+L2-001128,DeportesTotal,2025-12-19,27.68,TECNOLOGIA,37.0,Tarjeta_Credito,0
+L2-001129,HogarFacil,2025-11-16,100.96,HOGAR_,39.0,Tarjeta_Credito,0
+L2-001130,HogarFacil,2025-09-09,98.57,Alimentos ,26.0,TRANSFERENCIA,0
+L2-001131,TiendaExpress,2025-10-15,,Automotriz,37.0,TARJETA CREDITO,0
+L2-001132,SuperMax,2025-09-22,111.95,Retail_,38.0,TARJETA CREDITO,0
+L2-001133,LibreriaCentral,2025-12-20,87.7,,56.0,TARJETA DEBITO,0
+L2-001134,TecnoCenter,2025-12-26,82.65,Educación,45.0, Efectivo,0
+L2-001135,TiendaExpress,2025-09-22,69.62,Educacion,32.0,Tarjeta_Credito,0
+L2-001136,SuperMax,2025-12-10,71.55, Farmacia,47.0, Efectivo,0
+L2-001137,LibreriaCentral,2025-11-17,85.6, Automotriz,24.0,TARJETA DEBITO,1
+L2-001138,ModaViva,2025-10-06,77.15,Retail,30.0,Tarjeta_Debito,0
+L2-001139,DeportesTotal,2025-09-27,89.34,alimentos_,46.0,Efectivo,0
+L2-001140,,2025-07-08,80.36,Hogar,43.0,Tarjeta_Credito,0
+L2-001141,LibreriaCentral,2025-12-07,70.16, Automotriz,59.0,TARJETA CREDITO,0
+L2-001142,SuperMax,2025-12-01,111.95,Educación,47.0,Efectivo,0
+L2-001143,TecnoCenter,2025-12-11,54.02,TECNOLOGIA,35.0,Tarjeta_Debito,0
+L2-001144,GourmetPlus,2025-11-05,115.55,TECNOLOGIA,33.0,Efectivo,0
+L2-001145,AutoRepuestos,2025-07-04,41.75, Retail,18.0,TRANSFERENCIA,0
+L2-001146,LibreriaCentral,2025-12-21,115.2, Retail,22.0, Efectivo,0
+L2-001147,LibreriaCentral,2025-10-18,65.04,Hogar,22.0,Tarjeta Debito,0
+L2-001148,TecnoCenter,2025-07-26,68.84,Hogar ,42.0,TARJETA DEBITO,0
+L2-001149,GourmetPlus,2025-07-29,,Tecnologia,45.0,Efectivo,0
+L2-001150,DeportesTotal,2025-08-23,114.11,,19.0,TRANSFERENCIA,0
+L2-001151,TiendaExpress,2025-11-13,62.42, Automotriz,47.0,EFECTIVO.,0
+L2-001152,TiendaExpress,2025-09-27,91.2,Alimentos ,23.0,Efectivo,0
+L2-001153,AutoRepuestos,2025-11-24,109.28,Tecnologia,46.0,Tarjeta_Debito,0
+L2-001154,TecnoCenter,2025-09-21,52.49,TECNOLOGIA,41.0,Transferencia,0
+L2-001155,GourmetPlus,2025-11-07,40.66, Retail,,Tarjeta Credito,0
+L2-001156,TecnoCenter,2025-11-02,53.66,Tecnología,34.0,Transferencia,0
+L2-001157,DeportesTotal,2025-12-10,68.11,Alimentos,44.0,Tarjeta Credito,1
+L2-001158,AutoRepuestos,2025-11-07,,DEPORTES.,29.0,Efectivo,0
+L2-001159,FarmaVida,2025-11-05,45.57,HOGAR_,34.0,Transferencia_Bancaria,0
+L2-001160,DeportesTotal,2025-10-26,36.56,alimentos_,37.0,TARJETA CREDITO,0
+L2-001161,,2025-11-21,82.4,MODA.,20.0,Tarjeta_Debito,0
+L2-001162,SuperMax,2025-11-08,42.02,TECNOLOGIA,32.0,Tarjeta_Credito,0
+L2-001163,FarmaVida,2025-09-09,88.48,Tecnologia,58.0,Transferencia_Bancaria,0
+L2-001164,HogarFacil,2025-08-02,103.47,,31.0,Tarjeta_Credito,0
+L2-001165,TiendaExpress,2025-11-16,85.31,Automotriz,41.0,Tarjeta Debito,0
+L2-001166,FarmaVida,2025-11-04,48.68, Retail,43.0,EFECTIVO.,0
+L2-001167,ModaViva,2025-07-15,57.57,alimentos_,27.0,Tarjeta_Debito,0
+L2-001168,HogarFacil,2025-07-05,15.5,MODA.,35.0,Efectivo,0
+L2-001169,GourmetPlus,2025-07-26,123.38, Deportes,36.0, Efectivo,0
+L2-001170,SuperMax,2025-09-23,102.15, Retail,43.0,TARJETA CREDITO,0
+L2-001171,FarmaVida,2025-08-07,114.39,HOGAR_,45.0,TARJETA CREDITO,0
+L2-001172,TecnoCenter,2025-08-23,59.23,Alimentos ,30.0,EFECTIVO.,0
+L2-001173,ModaViva,2025-11-19,26.03,Educación,18.0,Tarjeta_Debito,0
+L2-001174,TiendaExpress,2025-11-19,106.83,Farmacia ,30.0,TRANSFERENCIA,0
+L2-001175,GourmetPlus,2025-07-23,7713.9,Hogar ,31.0,Tarjeta_Debito,0
+L2-001176,LibreriaCentral,2025-11-24,72.0, Deportes,43.0,,0
+L2-001177,TiendaExpress,2025-12-10,114.29,Tecnología,40.0,Tarjeta Debito,0
+L2-001178,DeportesTotal,2025-10-02,67.81,Moda,57.0,EFECTIVO.,0
+L2-001179,ModaViva,2025-07-06,125.08,Hogar,43.0,TARJETA CREDITO,0
+L2-001180,TecnoCenter,2025-10-07,68.77,Hogar ,18.0,TRANSFERENCIA,0
+L2-001181,FarmaVida,2025-10-30,89.52,Farmacia,23.0,Tarjeta Credito,0
+L2-001182,TecnoCenter,2025-07-29,32.55, Automotriz,42.0, Efectivo,0
+L2-001183,DeportesTotal,2025-07-19,51.83,Farmacia ,44.0, Efectivo,0
+L2-001184,TiendaExpress,2025-11-27,65.23, Retail,42.0,TARJETA DEBITO,0
+L2-001185,LibreriaCentral,2025-08-25,,Retail,38.0,TRANSFERENCIA,0
+L2-001186,LibreriaCentral,2025-09-04,109.37,alimentos_,49.0,Tarjeta_Credito,0
+L2-001187,GourmetPlus,2025-08-17,11.49,Moda,53.0,Transferencia_Bancaria,0
+L2-001188,GourmetPlus,2025-08-25,110.25,HOGAR_,29.0,TRANSFERENCIA,0
+L2-001189,AutoRepuestos,2025-11-20,94.32, Automotriz,,Tarjeta_Credito,1
+L2-001190,HogarFacil,2025-09-19,74.9, Farmacia,41.0, Efectivo,0
+L2-001191,HogarFacil,2025-11-02,57.34, Farmacia,34.0,EFECTIVO.,0
+L2-001192,TecnoCenter,2025-09-28,51.89, Deportes,36.0,Tarjeta_Credito,0
+L2-001193,LibreriaCentral,2025-12-01,144.02,Automotriz,29.0, Efectivo,0
+L2-001194,DeportesTotal,2025-10-15,120.99, Farmacia,50.0,TARJETA CREDITO,0
+L2-001195,AutoRepuestos,2025-11-23,30.13,Farmacia ,42.0,Efectivo,0
+L2-001196,SuperMax,2025-09-16,66.24,Tecnología,33.0,Tarjeta Debito,0
+L2-001197,DeportesTotal,2025-12-24,157.86,EDUCACION,9.0, Efectivo,0
+L2-001198,TecnoCenter,2025-10-25,,Hogar,39.0,TARJETA DEBITO,0
+L2-001199,TiendaExpress,2025-09-10,34.25,DEPORTES.,33.0,Efectivo,0
+L2-001200,GourmetPlus,2025-11-09,13.35,Retail_,48.0,TARJETA DEBITO,0

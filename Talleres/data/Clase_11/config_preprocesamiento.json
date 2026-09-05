@@ -1,0 +1,61 @@
+{
+  "columnas_numericas": [
+    "monto",
+    "edad_cliente"
+  ],
+  "columnas_categoricas": [
+    "comercio",
+    "categoria_comercio",
+    "metodo_pago"
+  ],
+  "columna_objetivo": "es_fraude",
+  "columnas_identificador": [
+    "id_transaccion",
+    "fecha"
+  ],
+  "estrategia_imputacion": {
+    "monto": "mediana",
+    "edad_cliente": "mediana",
+    "categoria_comercio": "moda",
+    "metodo_pago": "moda",
+    "comercio": "moda"
+  },
+  "deteccion_outliers": {
+    "monto": {
+      "metodo": "iqr",
+      "factor_iqr": 1.5
+    },
+    "edad_cliente": {
+      "metodo": "rango_fijo",
+      "valor_minimo": 18,
+      "valor_maximo": 90
+    }
+  },
+  "normalizacion_texto": {
+    "columnas": [
+      "categoria_comercio",
+      "metodo_pago",
+      "comercio"
+    ],
+    "reglas": [
+      "strip",
+      "upper_o_lower_consistente",
+      "eliminar_guiones_bajos",
+      "eliminar_puntos_finales"
+    ]
+  },
+  "escalado": {
+    "metodo": "standard_scaler",
+    "columnas": [
+      "monto",
+      "edad_cliente"
+    ]
+  },
+  "codificacion_categoricas": {
+    "metodo": "one_hot_encoding",
+    "columnas": [
+      "categoria_comercio",
+      "metodo_pago"
+    ]
+  }
+}
