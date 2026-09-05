@@ -1,0 +1,2001 @@
+id_venta;sucursal;fecha;producto;cantidad;precio_unitario;total;vendedor
+V00001;Cuenca;10/06/2025;Aire Acondicionado;5;770,42;3852,10;José Luis Solórzano
+V00002;Cuenca;23/04/2025;Cafetera;3;282,22;846,66;María José Andrade
+V00003;Quito;24/08/2025;Cocineta;1;373,45;373,45;María José Andrade
+V00004;Guayaquil;18/05/2025;Televisión;3;57,33;171,99;José Luis Solórzano
+V00005;Quito;01/01/2025;Cocineta;1;949,23;949,23;Paola Vélez
+V00006;Cuenca;15/02/2025;Televisión;4;234,27;937,08;Andrés Villón
+V00007;Guayaquil;09/03/2025;Cocineta;3;925,86;2777,58;Paola Vélez
+V00008;Quito;12/02/2025;Licuadora;5;804,36;4021,80;Paola Vélez
+V00009;Guayaquil;28/01/2025;Televisión;2;475,98;951,96;Lucía Muñoz
+V00010;Cuenca;09/06/2025;Batidora;4;71,85;287,40;Ramiro Zambrano
+V00011;Guayaquil;19/08/2025;Licuadora;3;268,81;806,43;María José Andrade
+V00012;Guayaquil;28/03/2025;Cocineta;5;75,04;375,20;Andrés Villón
+V00013;Guayaquil;31/03/2025;Licuadora;4;828,53;3314,12;Gabriela Cárdenas
+V00014;Quito;23/03/2025;Cocineta;2;852,24;1704,48;Andrés Villón
+V00015;Guayaquil;01/08/2025;Cocineta;5;32,31;161,55;Paola Vélez
+V00016;Quito;06/07/2025;Refrigeradora;4;16,12;64,48;José Luis Solórzano
+V00017;Quito;10/01/2025;Licuadora;3;423,28;1269,84;Lucía Muñoz
+V00018;Quito;12/08/2025;Televisión;2;318,82;637,64;José Luis Solórzano
+V00019;Quito;12/03/2025;Batidora;5;310,88;1554,40;María José Andrade
+V00020;Cuenca;29/01/2025;Microondas;1;668,11;668,11;Fernando Peña
+V00021;Quito;20/05/2025;Microondas;3;762,01;2286,03;Gabriela Cárdenas
+V00022;Quito;11/07/2025;Microondas;2;314,00;628,00;Lucía Muñoz
+V00023;Quito;05/02/2025;Ventilador;4;489,11;1956,44;Lucía Muñoz
+V00024;Guayaquil;11/03/2025;Aire Acondicionado;3;235,84;707,52;María José Andrade
+V00025;Cuenca;04/07/2025;Microondas;1;887,56;887,56;Paola Vélez
+V00026;Guayaquil;29/07/2025;Cafetera;1;805,01;805,01;Paola Vélez
+V00027;Quito;19/04/2025;Lavadora;2;904,21;1808,42;María José Andrade
+V00028;Quito;12/06/2025;Refrigeradora;2;890,57;1781,14;Lucía Muñoz
+V00029;Cuenca;06/03/2025;Cocineta;3;239,53;718,59;Fernando Peña
+V00030;Guayaquil;17/03/2025;Ventilador;4;645,55;2582,20;José Luis Solórzano
+V00031;Cuenca;15/08/2025;Microondas;4;448,68;1794,72;Gabriela Cárdenas
+V00032;Quito;21/08/2025;Televisión;2;614,28;1228,56;José Luis Solórzano
+V00033;Quito;07/06/2025;Refrigeradora;1;662,23;662,23;Paola Vélez
+V00034;Guayaquil;21/07/2025;Cocineta;4;367,04;1468,16;José Luis Solórzano
+V00035;Cuenca;21/03/2025;Batidora;4;196,41;785,64;José Luis Solórzano
+V00036;Guayaquil;16/02/2025;Microondas;2;761,07;1522,14;Gabriela Cárdenas
+V00037;Cuenca;23/07/2025;Cafetera;2;681,90;1363,80;Fernando Peña
+V00038;Quito;26/01/2025;Microondas;4;894,84;3579,36;Gabriela Cárdenas
+V00039;Guayaquil;12/06/2025;Televisión;5;691,64;3458,20;Lucía Muñoz
+V00040;Cuenca;01/04/2025;Aire Acondicionado;5;157,93;789,65;Ramiro Zambrano
+V00041;Guayaquil;28/03/2025;Refrigeradora;4;807,53;3230,12;Fernando Peña
+V00042;Cuenca;14/08/2025;Cafetera;3;532,29;1596,87;Paola Vélez
+V00043;Guayaquil;04/06/2025;Cocineta;3;911,22;2733,66;José Luis Solórzano
+V00044;Quito;26/06/2025;Ventilador;2;390,95;781,90;Paola Vélez
+V00045;Guayaquil;06/02/2025;Refrigeradora;1;407,87;407,87;María José Andrade
+V00046;Quito;26/03/2025;Microondas;4;889,19;3556,76;Andrés Villón
+V00047;Guayaquil;28/05/2025;Batidora;5;321,07;1605,35;Lucía Muñoz
+V00048;Cuenca;19/03/2025;Lavadora;5;190,48;952,40;Fernando Peña
+V00049;Guayaquil;19/07/2025;Lavadora;5;162,04;810,20;José Luis Solórzano
+V00050;Guayaquil;16/06/2025;Refrigeradora;3;83,70;251,10;Paola Vélez
+V00051;Quito;15/02/2025;Licuadora;5;789,93;3949,65;Ramiro Zambrano
+V00052;Cuenca;18/05/2025;Licuadora;1;507,84;507,84;Ramiro Zambrano
+V00053;Quito;28/08/2025;Microondas;2;474,81;949,62;Ramiro Zambrano
+V00054;Quito;01/05/2025;Aire Acondicionado;3;114,36;343,08;Ramiro Zambrano
+V00055;Quito;24/08/2025;Licuadora;5;275,58;1377,90;Fernando Peña
+V00056;Quito;16/04/2025;Cafetera;3;68,54;205,62;Lucía Muñoz
+V00057;Cuenca;28/06/2025;Ventilador;1;197,47;197,47;José Luis Solórzano
+V00058;Guayaquil;04/06/2025;Televisión;2;882,79;1765,58
+V00059;Quito;24/04/2025;Cafetera;5;464,27;2321,35;José Luis Solórzano
+V00060;Guayaquil;25/03/2025;Microondas;3;638,64;1915,92;María José Andrade
+V00061;Quito;24/03/2025;Microondas;5;330,37;1651,85;Gabriela Cárdenas
+V00062;Quito;11/01/2025;Aire Acondicionado;4;388,05;1552,20;Gabriela Cárdenas
+V00063;Quito;09/08/2025;Licuadora;3;704,53;2113,59;María José Andrade
+V00064;Quito;21/05/2025;Cafetera;3;660,88;1982,64;Gabriela Cárdenas
+V00065;Quito;09/07/2025;4;20,34;81,36;Ramiro Zambrano
+V00066;Quito;26/06/2025;Cafetera;1;154,35;154,35;José Luis Solórzano
+V00067;Quito;15/03/2025;Aire Acondicionado;2;205,01;410,02;José Luis Solórzano
+V00068;Cuenca;04/03/2025;Lavadora;1;218,09;218,09;José Luis Solórzano
+V00069;Guayaquil;15/02/2025;Ventilador;4;843,48;3373,92;José Luis Solórzano
+V00070;Quito;07/07/2025;Cafetera;2;357,59;715,18;Lucía Muñoz
+V00071;Cuenca;26/06/2025;Licuadora;3;651,12;1953,36;Andrés Villón
+V00072;Quito;03/02/2025;Ventilador;4;894,80;3579,20;Gabriela Cárdenas
+V00073;Cuenca;04/03/2025;Televisión;2;675,83;1351,66;Paola Vélez
+V00074;Guayaquil;10/01/2025;Batidora;2;785,44;1570,88;Paola Vélez
+V00075;Quito;10/04/2025;Batidora;2;829,40;1658,80;Gabriela Cárdenas
+V00076;Cuenca;25/01/2025;Refrigeradora;3;693,20;2079,60;Andrés Villón
+V00077;Guayaquil;12/08/2025;Batidora;3;310,57;931,71;Ramiro Zambrano
+V00078;Cuenca;20/05/2025;Licuadora;3;62,17;186,51;Andrés Villón
+V00079;Cuenca;26/02/2025;Licuadora;1;510,52;510,52;María José Andrade
+V00080;Quito;28/04/2025;Cocineta;3;793,98;2381,94;Lucía Muñoz
+V00081;Guayaquil;22/07/2025;Licuadora;1;535,69;535,69;Fernando Peña
+V00082;Quito;02/04/2025;Licuadora;3;574,13;1722,39;Ramiro Zambrano
+V00083;Guayaquil;28/04/2025;Cafetera;4;505,63;2022,52;María José Andrade
+V00084;Quito;18/07/2025;Ventilador;3;474,82;1424,46;José Luis Solórzano
+V00085;Quito;22/05/2025;Batidora;4;247,00;988,00;Fernando Peña
+V00086;Cuenca;29/03/2025;Cocineta;3;643,68;1931,04;Andrés Villón
+V00087;Cuenca;17/07/2025;Microondas;1;940,99;940,99;María José Andrade
+V00088;Quito;03/05/2025;Lavadora;4;908,23;3632,92;Gabriela Cárdenas
+V00089;Quito;08/01/2025;Televisión;2;429,67;859,34;José Luis Solórzano
+V00090;Guayaquil;06/04/2025;Cafetera;2;58,66;117,32;Gabriela Cárdenas
+V00091;Guayaquil;22/08/2025;Aire Acondicionado;1;245,71;245,71;José Luis Solórzano
+V00092;Cuenca;10/03/2025;Aire Acondicionado;5;168,05;840,25;José Luis Solórzano
+V00093;Guayaquil;05/04/2025;Lavadora;4;248,17;992,68;Paola Vélez
+V00094;Cuenca;29/01/2025;Cafetera;1;194,97;194,97;José Luis Solórzano
+V00095;Quito;21/05/2025;Licuadora;4;484,05;1936,20;Lucía Muñoz
+V00096;Cuenca;15/01/2025;Lavadora;3;438,71;1316,13;Ramiro Zambrano
+V00097;Guayaquil;27/01/2025;Licuadora;2;471,61;943,22;Fernando Peña
+V00098;Quito;07/01/2025;Refrigeradora;5;203,40;1017,00;Paola Vélez
+V00099;Guayaquil;17/02/2025;Microondas;4;249,81;999,24;Lucía Muñoz
+V00100;Quito;19/04/2025;Batidora;1;317,80;317,80;Paola Vélez
+V00101;Quito;20/08/2025;Lavadora;1;889,57;889,57;Andrés Villón
+V00102;Quito;21/04/2025;Aire Acondicionado;2;179,41;Ramiro Zambrano
+V00103;Cuenca;16/06/2025;Lavadora;1;71,50;71,50;Paola Vélez
+V00104;Guayaquil;06/01/2025;Batidora;2;405,51;811,02;Gabriela Cárdenas
+V00105;Cuenca;12/04/2025;Aire Acondicionado;4;932,26;3729,04;Ramiro Zambrano
+V00106;Quito;27/04/2025;Lavadora;5;241,51;1207,55;María José Andrade
+V00107;Quito;14/03/2025;Aire Acondicionado;4;876,64;3506,56;Ramiro Zambrano
+V00108;Quito;27/04/2025;Licuadora;1;813,53;813,53;Ramiro Zambrano
+V00109;Guayaquil;21/06/2025;Televisión;2;745,88;1491,76;Ramiro Zambrano
+V00110;Guayaquil;19/02/2025;Aire Acondicionado;2;600,05;1200,10;María José Andrade
+V00111;Guayaquil;13/03/2025;Lavadora;3;112,63;337,89;María José Andrade
+V00112;Quito;07/03/2025;Cafetera;4;784,45;3137,80;Gabriela Cárdenas
+V00113;Guayaquil;26/06/2025;Ventilador;3;377,79;1133,37;María José Andrade
+V00114;Guayaquil;18/02/2025;Ventilador;5;364,98;1824,90;Gabriela Cárdenas
+V00115;Guayaquil;17/01/2025;Aire Acondicionado;5;406,37;2031,85;Gabriela Cárdenas
+V00116;Quito;10/07/2025;Batidora;2;352,93;705,86;Ramiro Zambrano
+V00117;Cuenca;02/07/2025;Batidora;1;274,29;274,29;Fernando Peña
+V00118;Guayaquil;23/08/2025;Licuadora;2;73,29;146,58;Gabriela Cárdenas
+V00119;Quito;30/04/2025;Cafetera;3;428,46;1285,38;José Luis Solórzano
+V00120;Cuenca;01/03/2025;Aire Acondicionado;1;160,78;160,78;María José Andrade
+V00121;Quito;05/07/2025;Microondas;5;139,92;699,60;José Luis Solórzano
+V00122;Cuenca;16/06/2025;Batidora;2;903,98;1807,96;Lucía Muñoz
+V00123;Guayaquil;06/08/2025;1;398,19;398,19;Gabriela Cárdenas
+V00124;Cuenca;16/01/2025;Ventilador;5;32,84;164,20;Fernando Peña
+V00125;Cuenca;26/01/2025;Cafetera;1;884,48;884,48;Andrés Villón
+V00126;Guayaquil;21/07/2025;Lavadora;4;259,07;1036,28;Paola Vélez
+V00127;Cuenca;04/05/2025;Batidora;3;247,77;743,31;Ramiro Zambrano
+V00128;Quito;17/06/2025;Ventilador;5;903,07;4515,35;Paola Vélez
+V00129;Cuenca;18/03/2025;Cocineta;1;505,02;505,02;Gabriela Cárdenas
+V00130;Quito;09/06/2025;Televisión;1;393,10;393,10;Gabriela Cárdenas
+V00131;Guayaquil;31/03/2025;Lavadora;4;681,96;2727,84;Gabriela Cárdenas
+V00132;Cuenca;26/02/2025;Ventilador;1;325,68;325,68;Gabriela Cárdenas
+V00133;Guayaquil;09/01/2025;Licuadora;3;376,18;1128,54;Ramiro Zambrano
+V00134;Cuenca;10/04/2025;Cafetera;4;752,11;3008,44;Ramiro Zambrano
+V00135;Quito;05/02/2025;Cafetera;2;427,54;855,08;Lucía Muñoz
+V00136;Quito;25/02/2025;Batidora;1;357,96;357,96;María José Andrade
+V00137;Guayaquil;18/03/2025;Cocineta;5;484,54;2422,70;Gabriela Cárdenas
+V00138;Guayaquil;06/08/2025;Televisión;3;581,72;1745,16;María José Andrade
+V00139;Quito;27/03/2025;Lavadora;3;767,17;2301,51;Fernando Peña
+V00140;Quito;21/08/2025;Ventilador;2;311,00;622,00;María José Andrade
+V00141;Guayaquil;19/05/2025;Televisión;5;482,44;2412,20;Andrés Villón
+V00142;Cuenca;11/01/2025;Televisión;5;144,91;724,55;Lucía Muñoz
+V00143;Quito;23/02/2025;Ventilador;4;457,27;1829,08;Lucía Muñoz
+V00144;Guayaquil;26/03/2025;Batidora;3;838,81;2516,43;Lucía Muñoz
+V00145;Quito;16/08/2025;Licuadora;1;496,01;496,01;Fernando Peña
+V00146;Cuenca;31/03/2025;Cocineta;2;335,55;671,10;María José Andrade
+V00147;Cuenca;25/02/2025;Televisión;5;387,28;1936,40;Paola Vélez
+V00148;Cuenca;04/04/2025;Televisión;4;27,61;110,44;Gabriela Cárdenas
+V00149;Guayaquil;19/02/2025;Batidora;5;908,17;4540,85;Fernando Peña
+V00150;Cuenca;09/01/2025;Lavadora;4;199,02;796,08;Lucía Muñoz
+V00151;Guayaquil;02/06/2025;Lavadora;4;192,86;771,44;Fernando Peña
+V00152;Quito;21/07/2025;Batidora;2;47,70;95,40;Ramiro Zambrano
+V00153;Quito;22/01/2025;Microondas;1;162,48;162,48;José Luis Solórzano
+V00154;Guayaquil;08/05/2025;Licuadora;1;798,95;798,95;Gabriela Cárdenas
+V00155;Guayaquil;20/07/2025;Batidora;2;786,77;1573,54;Gabriela Cárdenas
+V00156;Cuenca;14/07/2025;Cafetera;1;69,11;69,11;Andrés Villón
+V00157;Quito;02/06/2025;Televisión;1;886,09;886,09;Andrés Villón
+V00158;Quito;08/04/2025;Aire Acondicionado;5;29,57;147,85;Lucía Muñoz
+V00159;Guayaquil;05/05/2025;Microondas;5;226,82;1134,10;Ramiro Zambrano
+V00160;Cuenca;04/03/2025;Lavadora;2;561,40;1122,80;Lucía Muñoz
+V00161;Guayaquil;23/05/2025;Refrigeradora;2;926,56;1853,12;José Luis Solórzano
+V00162;Guayaquil;18/02/2025;Batidora;2;548,94;1097,88;María José Andrade
+V00163;Guayaquil;02/08/2025;Televisión;3;278,35;835,05;Ramiro Zambrano
+V00164;Guayaquil;07/06/2025;Lavadora;4;942,78;3771,12;Ramiro Zambrano
+V00165;Quito;24/04/2025;Microondas;3;93,31;279,93;Fernando Peña
+V00166;Cuenca;24/06/2025;Refrigeradora;5;638,45;3192,25;Paola Vélez
+V00167;Guayaquil;12/07/2025;Licuadora;3;626,77;1880,31;Paola Vélez
+V00168;Cuenca;28/05/2025;Cocineta;2;299,07;598,14;Fernando Peña
+V00169;Guayaquil;30/01/2025;Ventilador;3;78,97;236,91;Andrés Villón
+V00170;Guayaquil;10/03/2025;Batidora;3;185,53;556,59;Paola Vélez
+V00171;Quito;07/03/2025;Cocineta;2;856,44;1712,88;Gabriela Cárdenas
+V00172;Quito;22/03/2025;Batidora;3;243,03;729,09;José Luis Solórzano
+V00173;Quito;08/02/2025;Lavadora;4;946,84;3787,36;Lucía Muñoz
+V00174;Cuenca;26/03/2025;Microondas;5;761,89;3809,45;Gabriela Cárdenas
+V00175;Cuenca;15/07/2025;Lavadora;2;560,21;1120,42;José Luis Solórzano
+V00176;Cuenca;10/04/2025;Refrigeradora;3;97,72;293,16;Andrés Villón
+V00177;Cuenca;15/04/2025;Licuadora;4;502,24;2008,96;Paola Vélez
+V00178;Guayaquil;05/01/2025;Televisión;3;704,35;2113,05;María José Andrade
+V00179;Guayaquil;11/06/2025;Licuadora;1;213,77;213,77;Andrés Villón
+V00180;Guayaquil;08/05/2025;Refrigeradora;5;295,26;1476,30;Ramiro Zambrano
+V00181;Quito;11/07/2025;Microondas;2;82,15;164,30;María José Andrade
+V00182;Quito;04/02/2025;Ventilador;2;539,07;1078,14;Gabriela Cárdenas
+V00183;Cuenca;18/04/2025;Lavadora;1;285,24;285,24;José Luis Solórzano
+V00184;Quito;13/04/2025;Ventilador;2;158,98;317,96;Fernando Peña
+V00185;Guayaquil;28/03/2025;Licuadora;4;914,71;3658,84;Lucía Muñoz
+V00186;Guayaquil;10/03/2025;Microondas;5;427,16;2135,80;Paola Vélez
+V00187;Quito;23/02/2025;Licuadora;1;341,30;341,30;Gabriela Cárdenas
+V00188;Guayaquil;08/06/2025;Aire Acondicionado;3;370,53;1111,59;Lucía Muñoz
+V00189;Quito;29/01/2025;Cocineta;4;709,83;2839,32;María José Andrade
+V00190;Quito;25/04/2025;Refrigeradora;5;453,66;2268,30;José Luis Solórzano
+V00191;Quito;01/02/2025;Microondas;2;866,93;1733,86;María José Andrade
+V00192;Cuenca;20/04/2025;Refrigeradora;5;133,55;667,75;Ramiro Zambrano
+V00193;Quito;23/04/2025;Licuadora;2;632,17;1264,34;Fernando Peña
+V00194;Cuenca;13/08/2025;Microondas;5;912,77;4563,85;Gabriela Cárdenas
+V00195;Quito;04/01/2025;Cocineta;1;191,89;191,89;Lucía Muñoz
+V00196;Guayaquil;14/07/2025;Cocineta;3;530,05;1590,15;María José Andrade
+V00197;Cuenca;13/05/2025;Cocineta;4;535,53;2142,12;Fernando Peña
+V00198;Cuenca;22/07/2025;Lavadora;3;238,71;716,13;José Luis Solórzano
+V00199;Cuenca;02/01/2025;Aire Acondicionado;4;559,51;2238,04;Lucía Muñoz
+V00200;Quito;17/01/2025;Microondas;5;192,42;962,10;Gabriela Cárdenas
+V00201;Guayaquil;16/05/2025;Ventilador;1;345,54;345,54;Lucía Muñoz
+V00202;Guayaquil;18/05/2025;Licuadora;2;438,59;877,18;Andrés Villón
+V00203;Guayaquil;01/04/2025;Batidora;1;675,88;675,88;Paola Vélez
+V00204;Cuenca;01/08/2025;Aire Acondicionado;5;20,88;104,40;María José Andrade
+V00205;Quito;10/07/2025;Refrigeradora;5;99,68;498,40;Ramiro Zambrano
+V00206;Cuenca;23/02/2025;Lavadora;2;469,74;939,48;Lucía Muñoz
+V00207;Guayaquil;24/03/2025;Refrigeradora;3;216,34;649,02;José Luis Solórzano
+V00208;Guayaquil;29/05/2025;Televisión;4;799,60;3198,40;Andrés Villón
+V00209;Quito;06/02/2025;Televisión;2;169,06;338,12;Ramiro Zambrano
+V00210;Guayaquil;12/03/2025;Cocineta;3;153,93;461,79;María José Andrade
+V00211;Quito;01/01/2025;Lavadora;5;810,92;4054,60;María José Andrade
+V00212;Guayaquil;26/05/2025;Aire Acondicionado;5;399,87;1999,35;Paola Vélez
+V00213;Quito;07/07/2025;Aire Acondicionado;4;381,28;1525,12;María José Andrade
+V00214;Guayaquil;15/08/2025;Cocineta;3;114,26;342,78;Lucía Muñoz
+V00215;Cuenca;12/06/2025;Cafetera;1;641,83;641,83;Paola Vélez
+V00216;Guayaquil;12/02/2025;Cafetera;1;909,26;909,26;Andrés Villón
+V00217;Guayaquil;13/08/2025;Microondas;3;554,00;1662,00;Fernando Peña
+V00218;Guayaquil;24/05/2025;Cafetera;5;293,20;1466,00;Lucía Muñoz
+V00219;Cuenca;25/05/2025;Televisión;1;220,44;220,44;Andrés Villón
+V00220;Cuenca;04/01/2025;Refrigeradora;3;157,03;471,09;Ramiro Zambrano
+V00221;Cuenca;17/05/2025;Microondas;2;704,71;1409,42;Ramiro Zambrano
+V00222;Quito;20/04/2025;Batidora;2;334,34;668,68;Paola Vélez
+V00223;Cuenca;24/07/2025;Licuadora;2;512,01;1024,02;María José Andrade
+V00224;Quito;10/02/2025;Ventilador;5;173,08;865,40;Andrés Villón
+V00225;Cuenca;27/03/2025;Televisión;5;739,49;3697,45;Lucía Muñoz
+V00226;Quito;12/03/2025;Ventilador;4;522,66;2090,64;Fernando Peña
+V00227;Quito;10/03/2025;Lavadora;3;111,12;333,36;José Luis Solórzano
+V00228;Guayaquil;25/06/2025;Licuadora;3;939,74;2819,22;Fernando Peña
+V00229;Quito;01/03/2025;Cocineta;4;451,25;1805,00;Fernando Peña
+V00230;Quito;02/08/2025;Batidora;3;828,25;2484,75;Andrés Villón
+V00231;Quito;16/03/2025;Refrigeradora;1;201,96;201,96;Ramiro Zambrano
+V00232;Cuenca;14/05/2025;Cocineta;5;626,06;3130,30;María José Andrade
+V00233;Cuenca;12/03/2025;Cocineta;5;514,10;2570,50;Gabriela Cárdenas
+V00234;Quito;10/07/2025;Televisión;1;516,37;516,37;Fernando Peña
+V00235;Quito;01/03/2025;Microondas;4;97,68;390,72;Paola Vélez
+V00236;Cuenca;14/08/2025;Refrigeradora;3;896,43;2689,29;Gabriela Cárdenas
+V00237;Cuenca;21/07/2025;Licuadora;1;58,15;58,15;María José Andrade
+V00238;Quito;24/08/2025;Licuadora;1;652,73;652,73;María José Andrade
+V00239;Cuenca;05/04/2025;Refrigeradora;5;161,09;805,45;Paola Vélez
+V00240;Quito;29/04/2025;Televisión;5;222,58;1112,90;Paola Vélez
+V00241;Cuenca;26/06/2025;Licuadora;3;729,13;2187,39;José Luis Solórzano
+V00242;Guayaquil;23/06/2025;Aire Acondicionado;1;461,33;461,33;Lucía Muñoz
+V00243;Guayaquil;07/04/2025;Aire Acondicionado;5;346,89;1734,45;Ramiro Zambrano
+V00244;Cuenca;21/02/2025;Microondas;4;439,84;1759,36;Gabriela Cárdenas
+V00245;Guayaquil;04/07/2025;Televisión;5;389,53;1947,65;María José Andrade
+V00246;Guayaquil;11/07/2025;Televisión;5;85,73;428,65;María José Andrade
+V00247;Guayaquil;08/06/2025;Microondas;2;151,19;302,38;Paola Vélez
+V00248;Quito;23/08/2025;Batidora;3;393,97;1181,91;María José Andrade
+V00249;Guayaquil;13/08/2025;Cafetera;2;406,83;813,66;Paola Vélez
+V00250;Guayaquil;22/07/2025;Microondas;4;555,02;2220,08;Andrés Villón
+V00251;Quito;22/01/2025;Microondas;2;680,11;1360,22;María José Andrade
+V00252;Guayaquil;06/02/2025;Batidora;4;409,40;1637,60;Lucía Muñoz
+V00253;Cuenca;03/07/2025;Televisión;3;176,91;530,73;Gabriela Cárdenas
+V00254;Cuenca;07/04/2025;Batidora;5;348,47;1742,35;Lucía Muñoz
+V00255;Cuenca;10/04/2025;Licuadora;2;883,31;1766,62;Ramiro Zambrano
+V00256;Quito;14/05/2025;Lavadora;2;200,11;400,22;Fernando Peña
+V00257;Quito;25/07/2025;Microondas;2;497,16;994,32;Ramiro Zambrano
+V00258;Guayaquil;01/07/2025;Ventilador;4;387,53;1550,12;Paola Vélez
+V00259;Guayaquil;28/04/2025;Ventilador;4;36,48;145,92;María José Andrade
+V00260;Cuenca;01/03/2025;Licuadora;5;446,26;2231,30;Ramiro Zambrano
+V00261;Quito;28/04/2025;Batidora;3;432,67;1298,01;María José Andrade
+V00262;Guayaquil;21/07/2025;Licuadora;2;776,91;1553,82;Paola Vélez
+V00263;Cuenca;22/08/2025;Refrigeradora;3;104,39;313,17;Andrés Villón
+V00264;Guayaquil;19/05/2025;Refrigeradora;2;468,49;936,98;Andrés Villón
+V00265;Quito;13/04/2025;Microondas;2;110,85;221,70;Paola Vélez
+V00266;Quito;25/04/2025;Cocineta;5;156,17;780,85;Andrés Villón
+V00267;Quito;25/07/2025;Cocineta;4;411,79;1647,16;Gabriela Cárdenas
+Cuenca;07/06/2025;Cafetera;3;648,14;1944,42;José Luis Solórzano
+V00269;Guayaquil;16/08/2025;Microondas;1;472,78;472,78;José Luis Solórzano;
+V00270;Guayaquil;04/02/2025;Refrigeradora;3;416,06;1248,18;Ramiro Zambrano
+V00271;Quito;06/06/2025;Microondas;1;25,54;25,54;Lucía Muñoz
+V00272;Guayaquil;17/06/2025;Cocineta;3;441,07;1323,21;Ramiro Zambrano
+V00273;Quito;13/08/2025;Refrigeradora;2;123,79;247,58;Fernando Peña
+V00274;Guayaquil;03/05/2025;Lavadora;2;644,13;1288,26;Fernando Peña
+V00275;Cuenca;30/04/2025;Aire Acondicionado;5;729,68;3648,40;Andrés Villón
+V00276;Quito;09/06/2025;Ventilador;1;331,62;331,62;Ramiro Zambrano
+V00277;Cuenca;24/05/2025;Batidora;3;776,36;2329,08;Fernando Peña
+V00278;Guayaquil;22/06/2025;Lavadora;3;764,77;2294,31;María José Andrade
+V00279;Guayaquil;19/08/2025;Cafetera;4;82,73;330,92;Lucía Muñoz
+V00280;Quito;03/08/2025;Refrigeradora;5;536,30;2681,50;José Luis Solórzano
+V00281;Cuenca;14/03/2025;Refrigeradora;4;257,26;1029,04;Gabriela Cárdenas
+V00282;Cuenca;30/01/2025;Lavadora;5;948,43;4742,15;Ramiro Zambrano
+V00283;Cuenca;21/08/2025;Lavadora;2;472,30;944,60;Ramiro Zambrano
+V00284;Cuenca;12/01/2025;Cafetera;1;728,69;728,69;María José Andrade
+V00285;Cuenca;28/01/2025;Licuadora;4;233,36;933,44;Paola Vélez
+V00286;Quito;16/08/2025;Batidora;5;526,58;2632,90;María José Andrade
+V00287;Cuenca;12/05/2025;Cafetera;5;781,91;3909,55;Andrés Villón
+V00288;Quito;06/08/2025;Aire Acondicionado;1;236,90;236,90;Fernando Peña
+V00289;Guayaquil;22/01/2025;Televisión;5;44,53;222,65;José Luis Solórzano
+V00290;Cuenca;27/06/2025;Batidora;1;874,69;874,69;Paola Vélez
+V00291;Quito;04/03/2025;Refrigeradora;5;253,44;1267,20;Gabriela Cárdenas
+V00292;Cuenca;12/03/2025;Cocineta;2;50,65;101,30;Fernando Peña
+V00293;Guayaquil;20/08/2025;Televisión;1;25,48;25,48;Gabriela Cárdenas
+V00294;Quito;03/07/2025;Batidora;3;585,88;1757,64;Andrés Villón
+V00295;Quito;23/03/2025;Cafetera;1;794,20;794,20;Fernando Peña
+V00296;Guayaquil;15/01/2025;Cocineta;3;575,42;1726,26;José Luis Solórzano
+V00297;Cuenca;20/05/2025;Lavadora;4;206,93;827,72;Paola Vélez
+V00298;Guayaquil;17/02/2025;Lavadora;5;399,14;1995,70;Paola Vélez
+V00299;Guayaquil;17/01/2025;Cafetera;3;132,93;398,79;Andrés Villón
+V00300;Cuenca;14/07/2025;Batidora;2;440,74;881,48;José Luis Solórzano
+V00301;Quito;18/08/2025;Microondas;4;442,83;1771,32;Fernando Peña
+V00302;Cuenca;12/01/2025;Cafetera;3;722,75;2168,25;José Luis Solórzano
+V00303;Guayaquil;10/03/2025;Televisión;3;29,83;89,49;Andrés Villón
+V00304;Quito;23/01/2025;Aire Acondicionado;3;897,71;2693,13;Gabriela Cárdenas
+V00305;Cuenca;09/07/2025;Televisión;1;447,72;447,72;Lucía Muñoz
+V00306;Guayaquil;28/06/2025;Lavadora;4;472,25;1889,00;Lucía Muñoz
+V00307;Guayaquil;13/02/2025;Televisión;1;495,40;495,40;Paola Vélez
+V00308;Quito;15/01/2025;Cocineta;1;80,71;80,71;Paola Vélez
+V00309;Quito;24/03/2025;Cafetera;2;180,81;361,62;Andrés Villón
+V00310;Quito;12/04/2025;Lavadora;3;898,16;2694,48;Gabriela Cárdenas
+V00311;Guayaquil;28/01/2025;Batidora;2;939,48;1878,96;José Luis Solórzano
+V00312;Guayaquil;27/06/2025;Lavadora;2;796,31;1592,62;María José Andrade
+V00313;Guayaquil;19/02/2025;Televisión;3;744,85;2234,55;Gabriela Cárdenas
+V00314;Cuenca;27/06/2025;Cafetera;5;802,17;4010,85;Lucía Muñoz
+V00315;Quito;04/05/2025;Cocineta;1;848,29;848,29;José Luis Solórzano
+V00316;Cuenca;16/05/2025;Televisión;1;701,65;701,65;José Luis Solórzano
+V00317;Cuenca;02/05/2025;Televisión;1;295,69;295,69;María José Andrade
+V00318;Quito;15/08/2025;Licuadora;1;596,22;596,22;Fernando Peña
+V00319;Quito;08/07/2025;Cocineta;2;544,51;1089,02;Ramiro Zambrano
+V00320;Cuenca;14/03/2025;Lavadora;2;388,26;776,52;Andrés Villón
+V00321;Cuenca;19/08/2025;Batidora;5;573,59;2867,95;Ramiro Zambrano
+V00322;Guayaquil;24/06/2025;Refrigeradora;3;693,68;2081,04;Andrés Villón
+V00323;Cuenca;13/07/2025;Licuadora;5;327,22;1636,10;Fernando Peña
+V00324;Guayaquil;16/05/2025;Microondas;1;240,24;240,24;Lucía Muñoz
+V00325;Quito;24/04/2025;Batidora;1;393,96;393,96;Fernando Peña
+V00326;Cuenca;25/01/2025;Ventilador;4;731,49;2925,96;José Luis Solórzano
+V00327;Guayaquil;13/07/2025;Cafetera;1;166,55;166,55;Fernando Peña
+V00328;Quito;10/02/2025;Televisión;2;804,46;1608,92;Fernando Peña
+V00329;Guayaquil;17/07/2025;Cocineta;3;519,10;1557,30;José Luis Solórzano
+V00330;Quito;25/06/2025;Licuadora;2;529,16;1058,32;Ramiro Zambrano
+V00331;Cuenca;15/06/2025;Televisión;4;329,42;1317,68;Andrés Villón
+V00332;Quito;24/08/2025;Cafetera;4;720,13;2880,52;Ramiro Zambrano
+V00333;Quito;15/01/2025;Refrigeradora;2;441,34;882,68;Fernando Peña
+V00334;Cuenca;25/07/2025;Microondas;1;257,54;257,54;Lucía Muñoz
+V00335;Cuenca;12/04/2025;Refrigeradora;1;67,66;67,66;Ramiro Zambrano
+V00336;Quito;12/06/2025;Microondas;1;854,23;854,23;Fernando Peña
+V00337;Quito;16/05/2025;Aire Acondicionado;4;562,39;2249,56;María José Andrade
+V00338;Guayaquil;19/05/2025;Ventilador;4;179,53;718,12;José Luis Solórzano
+V00339;Cuenca;30/05/2025;Cocineta;2;559,06;1118,12;José Luis Solórzano
+V00340;Quito;23/07/2025;Licuadora;5;520,25;2601,25;Gabriela Cárdenas
+V00341;Quito;18/01/2025;Televisión;1;56,45;56,45;Fernando Peña
+V00342;Quito;21/06/2025;Lavadora;1;722,01;722,01;José Luis Solórzano
+V00343;Guayaquil;16/05/2025;Cafetera;5;150,87;754,35;Paola Vélez
+V00344;Guayaquil;06/06/2025;Cocineta;5;54,10;270,50;Paola Vélez
+V00345;Guayaquil;22/04/2025;Aire Acondicionado;5;671,61;3358,05;Fernando Peña
+V00346;Guayaquil;17/08/2025;Aire Acondicionado;3;461,19;1383,57;Fernando Peña
+V00347;Cuenca;21/05/2025;Ventilador;2;885,20;1770,40;Paola Vélez
+V00348;Guayaquil;29/06/2025;Cafetera;2;262,48;524,96;Paola Vélez
+V00349;Guayaquil;06/05/2025;Televisión;4;554,40;2217,60;Ramiro Zambrano
+V00350;Quito;02/01/2025;Licuadora;3;548,81;1646,43;Fernando Peña
+V00351;Guayaquil;10/07/2025;Licuadora;1;116,99;116,99;José Luis Solórzano
+V00352;Guayaquil;28/05/2025;Refrigeradora;5;672,11;3360,55;Gabriela Cárdenas
+V00353;Cuenca;26/02/2025;Ventilador;4;539,26;2157,04;Paola Vélez
+V00354;Cuenca;27/02/2025;Televisión;2;161,56;323,12;María José Andrade
+V00355;Guayaquil;10/08/2025;Cocineta;3;24,46;73,38;Ramiro Zambrano
+V00356;Guayaquil;04/05/2025;Ventilador;1;335,92;335,92;Fernando Peña
+V00357;Quito;02/02/2025;Batidora;3;884,25;2652,75;Ramiro Zambrano
+V00358;Cuenca;04/06/2025;Refrigeradora;3;300,86;902,58;María José Andrade
+V00359;Guayaquil;14/04/2025;Lavadora;5;293,05;1465,25;Paola Vélez
+V00360;Cuenca;12/08/2025;Batidora;3;461,46;1384,38;María José Andrade
+V00361;Guayaquil;06/04/2025;Refrigeradora;1;113,99;113,99;Paola Vélez
+V00362;Cuenca;10/03/2025;Lavadora;1;757,43;757,43;Paola Vélez
+V00363;Quito;16/03/2025;Refrigeradora;2;651,54;1303,08;Lucía Muñoz
+V00364;Quito;27/08/2025;Licuadora;3;478,24;1434,72;Gabriela Cárdenas
+V00365;Guayaquil;12/03/2025;Lavadora;5;383,81;1919,05;Fernando Peña
+V00366;Quito;20/06/2025;Cocineta;1;640,35;640,35;Paola Vélez
+V00367;Quito;11/01/2025;Cocineta;1;497,01;497,01;Gabriela Cárdenas
+V00368;Guayaquil;29/05/2025;Ventilador;2;413,84;827,68;José Luis Solórzano
+V00369;Quito;21/02/2025;Refrigeradora;4;799,51;3198,04;Fernando Peña
+V00370;Guayaquil;02/03/2025;Ventilador;5;744,08;3720,40;Fernando Peña
+V00371;Guayaquil;11/03/2025;Lavadora;5;890,90;4454,50;María José Andrade
+V00372;Quito;28/07/2025;Licuadora;2;335,91;671,82;Andrés Villón
+V00373;Cuenca;27/02/2025;Refrigeradora;1;439,28;439,28;Ramiro Zambrano
+V00374;Quito;14/08/2025;Batidora;1;215,19;215,19;Ramiro Zambrano
+V00375;Guayaquil;06/03/2025;Ventilador;3;399,89;1199,67;Andrés Villón
+V00376;Guayaquil;08/08/2025;Microondas;4;448,48;1793,92;María José Andrade
+V00377;Guayaquil;15/04/2025;Licuadora;4;36,31;145,24;Paola Vélez
+V00378;Guayaquil;06/08/2025;Aire Acondicionado;4;727,02;2908,08;Lucía Muñoz
+V00379;Cuenca;10/08/2025;Microondas;1;343,13;343,13;José Luis Solórzano
+V00380;Guayaquil;01/05/2025;Licuadora;4;143,55;574,20;Gabriela Cárdenas
+V00381;Cuenca;24/03/2025;Cafetera;5;924,39;4621,95;Fernando Peña
+V00382;Quito;11/02/2025;Televisión;4;594,34;2377,36;Fernando Peña
+V00383;Cuenca;02/03/2025;Lavadora;4;892,44;3569,76;José Luis Solórzano
+V00384;Quito;12/07/2025;Microondas;5;326,00;1630,00;Ramiro Zambrano
+V00385;Cuenca;10/02/2025;Batidora;4;103,16;412,64;Ramiro Zambrano
+V00386;Guayaquil;26/08/2025;Batidora;5;69,22;346,10;Lucía Muñoz
+V00387;Quito;21/01/2025;Refrigeradora;2;550,92;1101,84;María José Andrade
+V00388;Cuenca;11/02/2025;Lavadora;2;408,73;817,46;Lucía Muñoz
+V00389;Guayaquil;05/04/2025;Ventilador;2;638,22;1276,44;María José Andrade
+V00390;Guayaquil;04/01/2025;Refrigeradora;790,82;2372,46;Andrés Villón
+V00391;Quito;14/04/2025;Cocineta;4;689,07;2756,28;Andrés Villón
+V00392;Quito;17/08/2025;Refrigeradora;1;646,81;646,81;Andrés Villón
+V00393;Guayaquil;20/01/2025;Lavadora;5;142,08;710,40;José Luis Solórzano
+V00394;Guayaquil;04/05/2025;Cafetera;4;748,71;2994,84;Gabriela Cárdenas
+V00395;Quito;09/07/2025;Ventilador;1;589,90;589,90;Fernando Peña
+V00396;Cuenca;03/07/2025;Televisión;2;360,76;721,52;José Luis Solórzano
+V00397;Cuenca;14/05/2025;Cafetera;5;548,45;2742,25;Gabriela Cárdenas
+V00398;Cuenca;11/07/2025;Batidora;3;760,38;2281,14;Paola Vélez
+V00399;Quito;10/08/2025;Aire Acondicionado;2;136,10;272,20;Lucía Muñoz
+V00400;Cuenca;19/01/2025;Televisión;5;165,90;829,50;Ramiro Zambrano
+V00401;Guayaquil;23/07/2025;Cocineta;5;928,27;4641,35;Paola Vélez
+V00402;Guayaquil;06/08/2025;Cafetera;3;127,41;382,23;Gabriela Cárdenas
+V00403;Cuenca;05/08/2025;Microondas;3;522,92;1568,76;Paola Vélez
+V00404;Guayaquil;11/02/2025;Ventilador;4;949,21;3796,84;José Luis Solórzano
+V00405;Guayaquil;17/02/2025;Ventilador;2;47,00;94,00;María José Andrade
+V00406;Cuenca;15/02/2025;Batidora;5;17,14;85,70;Andrés Villón
+V00407;Cuenca;28/05/2025;Ventilador;5;850,01;4250,05;María José Andrade
+V00408;Guayaquil;20/01/2025;Televisión;5;391,31;1956,55;Fernando Peña
+V00409;Quito;12/04/2025;Licuadora;2;574,09;1148,18;José Luis Solórzano
+V00410;Quito;11/08/2025;Aire Acondicionado;3;678,58;2035,74;Gabriela Cárdenas
+V00411;Quito;07/08/2025;Licuadora;1;454,77;454,77;Fernando Peña
+V00412;Quito;17/05/2025;Aire Acondicionado;5;565,80;2829,00;María José Andrade
+V00413;Cuenca;22/02/2025;Aire Acondicionado;5;716,59;3582,95;Paola Vélez
+V00414;Guayaquil;16/08/2025;Cocineta;1;618,38;618,38;Gabriela Cárdenas
+V00415;Cuenca;27/05/2025;Ventilador;1;81,81;81,81;Lucía Muñoz
+V00416;Cuenca;08/02/2025;Licuadora;4;23,22;92,88;María José Andrade
+V00417;Cuenca;04/08/2025;Microondas;1;380,21;380,21;Fernando Peña
+V00418;Guayaquil;06/06/2025;Ventilador;1;636,52;636,52;María José Andrade
+V00419;Cuenca;22/08/2025;Batidora;2;241,11;482,22;Ramiro Zambrano
+V00420;Cuenca;25/05/2025;Refrigeradora;3;505,63;1516,89;María José Andrade
+V00421;Cuenca;05/05/2025;Lavadora;5;782,36;3911,80;Fernando Peña
+V00422;Quito;27/06/2025;Cafetera;5;118,94;594,70;Ramiro Zambrano
+V00423;Cuenca;21/03/2025;Batidora;1;717,68;717,68;Andrés Villón
+V00424;Cuenca;02/08/2025;Televisión;3;64,76;194,28;Fernando Peña
+V00425;Cuenca;26/04/2025;Batidora;3;314,66;943,98;Fernando Peña
+V00426;Guayaquil;11/02/2025;Televisión;2;636,58;1273,16;Ramiro Zambrano
+V00427;Quito;18/04/2025;Cafetera;4;258,34;1033,36;Fernando Peña
+V00428;Cuenca;25/07/2025;Aire Acondicionado;4;226,20;904,80;Fernando Peña
+V00429;Quito;18/06/2025;Aire Acondicionado;5;387,52;1937,60;Gabriela Cárdenas
+V00430;Quito;15/01/2025;Aire Acondicionado;3;172,00;516,00;Gabriela Cárdenas
+V00431;Guayaquil;01/05/2025;Microondas;3;274,01;822,03;Ramiro Zambrano
+V00432;Quito;23/06/2025;Lavadora;4;141,49;565,96;Lucía Muñoz
+V00433;Cuenca;12/06/2025;Cocineta;3;393,01;1179,03;Gabriela Cárdenas
+V00434;Quito;14/03/2025;Batidora;5;627,10;3135,50;Andrés Villón
+V00435;Quito;24/02/2025;Televisión;3;151,94;455,82;Lucía Muñoz
+V00436;Quito;28/08/2025;Televisión;1;580,85;580,85;Paola Vélez
+V00437;Quito;02/03/2025;Batidora;5;91,44;457,20;Paola Vélez
+V00438;Guayaquil;19/01/2025;Cocineta;3;360,90;1082,70;Lucía Muñoz
+V00439;Quito;07/05/2025;Licuadora;1;598,65;598,65;Ramiro Zambrano
+V00440;Cuenca;13/08/2025;Microondas;3;466,00;1398,00;María José Andrade
+V00441;Guayaquil;14/02/2025;Lavadora;5;597,44;2987,20;Gabriela Cárdenas;
+V00442;Cuenca;27/05/2025;Ventilador;2;913,24;1826,48;Andrés Villón
+V00443;Cuenca;30/06/2025;Cocineta;5;662,64;3313,20;Lucía Muñoz
+V00444;Quito;26/06/2025;Cafetera;1;606,91;606,91;Gabriela Cárdenas
+V00445;Quito;04/01/2025;Aire Acondicionado;1;282,70;282,70;Fernando Peña
+V00446;Guayaquil;04/05/2025;Aire Acondicionado;3;446,19;1338,57;Paola Vélez
+V00447;Quito;06/01/2025;Cafetera;4;537,43;2149,72;Gabriela Cárdenas
+V00448;Quito;31/01/2025;Televisión;4;435,56;1742,24;Fernando Peña
+V00449;Cuenca;26/01/2025;Televisión;4;190,02;760,08;José Luis Solórzano
+V00450;Guayaquil;03/03/2025;Televisión;5;800,15;4000,75;Gabriela Cárdenas
+V00451;Cuenca;30/06/2025;Licuadora;5;904,55;4522,75;María José Andrade
+V00452;Cuenca;08/08/2025;Lavadora;4;286,57;1146,28;Lucía Muñoz
+V00453;Cuenca;31/01/2025;Microondas;5;773,27;3866,35;Gabriela Cárdenas
+V00454;Guayaquil;27/07/2025;Lavadora;3;106,78;320,34;José Luis Solórzano
+V00455;Guayaquil;21/08/2025;Aire Acondicionado;5;214,70;1073,50;Fernando Peña
+V00456;Quito;17/02/2025;Microondas;1;533,20;533,20;Paola Vélez
+V00457;Quito;19/08/2025;Televisión;5;267,47;1337,35;Fernando Peña
+V00458;Quito;12/08/2025;Televisión;2;748,62;1497,24;Lucía Muñoz
+V00459;Guayaquil;14/06/2025;Televisión;3;545,85;1637,55;Paola Vélez
+V00460;Guayaquil;17/01/2025;Ventilador;3;771,31;2313,93;Paola Vélez
+V00461;Guayaquil;15/03/2025;Cocineta;4;262,61;1050,44;Paola Vélez
+V00462;Guayaquil;05/08/2025;Batidora;2;948,46;1896,92;Gabriela Cárdenas
+V00463;Cuenca;13/08/2025;Televisión;5;520,35;2601,75;José Luis Solórzano
+V00464;Quito;15/02/2025;Televisión;2;856,61;1713,22;Ramiro Zambrano
+V00465;Quito;11/07/2025;Televisión;2;447,75;895,50;Lucía Muñoz
+V00466;Guayaquil;17/06/2025;Televisión;3;732,45;2197,35;Fernando Peña
+V00467;Guayaquil;14/05/2025;Cafetera;4;657,11;2628,44;Paola Vélez
+V00468;Quito;11/02/2025;Televisión;2;331,54;663,08;Gabriela Cárdenas
+V00469;Quito;24/08/2025;Cafetera;4;554,94;2219,76;Ramiro Zambrano
+V00470;Quito;29/06/2025;Refrigeradora;5;80,85;404,25;Andrés Villón
+V00471;Cuenca;10/05/2025;Licuadora;5;476,47;2382,35;Paola Vélez
+V00472;Cuenca;03/05/2025;Licuadora;2;108,67;217,34;Andrés Villón
+V00473;Quito;09/01/2025;Cafetera;1;942,06;942,06;Fernando Peña
+V00474;Guayaquil;08/07/2025;Aire Acondicionado;4;930,18;3720,72;María José Andrade
+V00475;Cuenca;26/05/2025;Ventilador;5;417,69;2088,45;Gabriela Cárdenas
+V00476;Quito;29/04/2025;Cafetera;1;517,06;517,06;Gabriela Cárdenas
+V00477;Quito;10/06/2025;Licuadora;2;164,06;328,12;Gabriela Cárdenas
+V00478;Quito;27/04/2025;Ventilador;3;548,44;1645,32;Paola Vélez
+V00479;Cuenca;13/08/2025;Batidora;5;766,76;3833,80;Fernando Peña
+V00480;Guayaquil;08/02/2025;Batidora;1;175,49;175,49;Andrés Villón
+V00481;Quito;16/08/2025;Televisión;3;676,46;2029,38;Ramiro Zambrano
+V00482;Guayaquil;19/05/2025;Licuadora;5;529,01;2645,05;Andrés Villón
+V00483;Guayaquil;15/02/2025;Televisión;3;24,90;74,70;Ramiro Zambrano
+V00484;Quito;24/03/2025;Batidora;3;821,64;2464,92;Ramiro Zambrano
+V00485;Cuenca;03/03/2025;Licuadora;1;505,96;505,96;Ramiro Zambrano;
+V00486;Guayaquil;30/05/2025;Aire Acondicionado;5;915,10;4575,50;Gabriela Cárdenas
+V00487;Cuenca;10/07/2025;Microondas;1;302,00;302,00;María José Andrade
+V00488;Cuenca;24/07/2025;Cafetera;1;932,88;932,88;Fernando Peña
+V00489;Guayaquil;21/03/2025;Refrigeradora;4;265,91;1063,64;José Luis Solórzano
+V00490;Cuenca;26/04/2025;Batidora;2;646,22;1292,44;Ramiro Zambrano
+V00491;Cuenca;21/08/2025;Ventilador;1;170,94;170,94;Gabriela Cárdenas
+V00492;Cuenca;09/02/2025;Microondas;4;300,73;1202,92;María José Andrade
+V00493;Quito;21/08/2025;Licuadora;2;866,22;1732,44;Paola Vélez
+V00494;Quito;13/04/2025;Lavadora;4;816,86;3267,44;José Luis Solórzano
+V00495;Guayaquil;26/05/2025;Aire Acondicionado;4;495,18;1980,72;Andrés Villón
+V00496;Cuenca;15/07/2025;Refrigeradora;1;664,96;664,96;María José Andrade
+V00497;Quito;08/05/2025;Licuadora;3;696,98;2090,94;Gabriela Cárdenas
+V00498;Quito;01/07/2025;Aire Acondicionado;4;753,18;3012,72;Paola Vélez
+V00499;Cuenca;19/04/2025;Ventilador;1;169,05;169,05;José Luis Solórzano
+V00500;Cuenca;19/01/2025;Cafetera;5;655,59;3277,95;José Luis Solórzano
+V00501;Cuenca;27/06/2025;Batidora;5;67,69;338,45;María José Andrade
+V00502;Guayaquil;23/07/2025;Batidora;3;26,59;79,77;Ramiro Zambrano
+V00503;Cuenca;11/08/2025;Refrigeradora;1;59,14;59,14;Ramiro Zambrano
+V00504;Quito;07/01/2025;Microondas;1;255,27;255,27;María José Andrade
+V00505;31/01/2025;Cafetera;1;622,08;622,08;María José Andrade
+V00506;Quito;15/07/2025;Televisión;3;655,81;1967,43;Andrés Villón
+V00507;Guayaquil;22/08/2025;Licuadora;5;278,51;1392,55;Andrés Villón
+V00508;Cuenca;08/02/2025;Lavadora;2;299,97;599,94;Fernando Peña
+V00509;Quito;16/06/2025;Lavadora;5;626,51;3132,55;Andrés Villón
+V00510;Cuenca;11/04/2025;Aire Acondicionado;4;235,54;942,16;María José Andrade
+V00511;Guayaquil;15/05/2025;Cocineta;1;456,93;456,93;Fernando Peña
+V00512;Cuenca;11/03/2025;Cafetera;5;257,52;1287,60;José Luis Solórzano
+V00513;Quito;03/04/2025;Batidora;4;671,72;2686,88;Gabriela Cárdenas
+V00514;Guayaquil;26/04/2025;Televisión;2;669,35;1338,70;José Luis Solórzano
+V00515;Cuenca;11/04/2025;Batidora;5;212,45;1062,25;Ramiro Zambrano
+V00516;Cuenca;25/03/2025;Refrigeradora;2;379,58;759,16;Gabriela Cárdenas
+V00517;Cuenca;08/08/2025;Refrigeradora;1;389,68;389,68;Lucía Muñoz
+V00518;Quito;18/01/2025;Refrigeradora;4;815,63;3262,52;Ramiro Zambrano;
+V00519;Guayaquil;20/07/2025;Cocineta;4;521,61;2086,44;Andrés Villón
+V00520;Guayaquil;17/04/2025;Licuadora;5;189,87;949,35;Ramiro Zambrano
+V00521;Quito;02/01/2025;Ventilador;4;370,00;1480,00;Ramiro Zambrano
+V00522;Quito;09/01/2025;Cafetera;5;197,25;986,25;Fernando Peña
+V00523;Guayaquil;07/06/2025;Batidora;2;122,29;244,58;Ramiro Zambrano
+V00524;Cuenca;24/07/2025;Batidora;3;658,68;1976,04;Andrés Villón
+V00525;Guayaquil;08/01/2025;Ventilador;2;853,67;1707,34;Andrés Villón
+V00526;Guayaquil;27/05/2025;Microondas;5;268,30;1341,50;Andrés Villón
+V00527;Guayaquil;27/06/2025;Cafetera;4;628,63;2514,52;José Luis Solórzano
+V00528;Guayaquil;08/01/2025;Licuadora;1;621,60;621,60;Andrés Villón
+V00529;Quito;30/01/2025;Refrigeradora;4;829,42;3317,68;María José Andrade
+V00530;Quito;23/03/2025;Refrigeradora;2;143,66;287,32;Gabriela Cárdenas
+V00531;Guayaquil;17/08/2025;Lavadora;3;817,16;2451,48;Paola Vélez
+V00532;Guayaquil;17/07/2025;Televisión;1;208,58;208,58;Paola Vélez
+V00533;Cuenca;28/07/2025;Cocineta;1;938,11;938,11;Andrés Villón
+V00534;Guayaquil;21/06/2025;Lavadora;4;101,67;406,68;Ramiro Zambrano
+V00535;Guayaquil;30/07/2025;Lavadora;5;423,39;2116,95;María José Andrade
+V00536;Quito;27/03/2025;Ventilador;1;72,26;72,26;Andrés Villón
+V00537;Cuenca;09/08/2025;Aire Acondicionado;2;51,14;102,28;Fernando Peña
+V00538;Guayaquil;16/03/2025;Lavadora;1;74,31;74,31;Paola Vélez
+V00539;Cuenca;18/02/2025;Cafetera;1;107,34;107,34;Ramiro Zambrano
+V00540;Cuenca;26/08/2025;Cocineta;3;787,37;2362,11;Andrés Villón
+V00541;Quito;24/07/2025;Batidora;4;510,43;2041,72;Gabriela Cárdenas
+V00542;Cuenca;30/03/2025;Refrigeradora;1;901,28;901,28;Andrés Villón
+V00543;Cuenca;03/05/2025;Licuadora;1;26,75;26,75;José Luis Solórzano
+V00544;Cuenca;17/01/2025;Televisión;4;600,11;2400,44;Paola Vélez
+V00545;Quito;10/02/2025;Licuadora;4;271,94;1087,76;Gabriela Cárdenas
+V00546;Guayaquil;08/02/2025;Refrigeradora;5;830,08;4150,40;Lucía Muñoz
+V00547;Cuenca;03/01/2025;Lavadora;1;909,47;909,47;Fernando Peña
+V00548;Cuenca;05/06/2025;Refrigeradora;4;813,10;3252,40;Ramiro Zambrano
+V00549;Quito;31/07/2025;Televisión;3;758,29;2274,87;Ramiro Zambrano
+V00550;Guayaquil;01/07/2025;Microondas;5;853,79;4268,95;María José Andrade
+V00551;Guayaquil;10/05/2025;Batidora;2;174,86;349,72;José Luis Solórzano
+V00552;Quito;20/05/2025;Aire Acondicionado;4;430,77;1723,08;Ramiro Zambrano
+V00553;Quito;17/06/2025;Batidora;5;437,02;2185,10;Paola Vélez
+V00554;Guayaquil;07/08/2025;Lavadora;1;365,66;365,66;Paola Vélez
+V00555;Cuenca;23/05/2025;Ventilador;5;667,90;3339,50;María José Andrade
+V00556;Guayaquil;26/02/2025;Ventilador;1;190,66;190,66;Gabriela Cárdenas
+V00557;Guayaquil;30/06/2025;Cafetera;2;894,38;1788,76;Fernando Peña
+V00558;Cuenca;15/04/2025;Ventilador;3;267,29;801,87;Andrés Villón
+V00559;Guayaquil;22/01/2025;Batidora;2;246,49;492,98;José Luis Solórzano
+V00560;Guayaquil;03/07/2025;Televisión;3;214,13;José Luis Solórzano
+V00561;Quito;28/05/2025;Licuadora;1;783,96;783,96;José Luis Solórzano
+V00562;Quito;20/05/2025;Refrigeradora;4;571,70;2286,80;Gabriela Cárdenas
+V00563;Cuenca;03/08/2025;Televisión;2;407,65;815,30;Fernando Peña
+V00564;Cuenca;20/01/2025;Televisión;5;259,95;1299,75;María José Andrade
+V00565;Quito;12/08/2025;Cafetera;3;106,55;319,65;Ramiro Zambrano
+V00566;Guayaquil;07/08/2025;Ventilador;2;94,23;188,46;Gabriela Cárdenas
+V00567;Guayaquil;03/03/2025;Lavadora;4;948,35;3793,40;Gabriela Cárdenas
+V00568;Cuenca;11/01/2025;Ventilador;1;351,94;351,94;Fernando Peña
+V00569;Cuenca;25/02/2025;Cafetera;5;128,04;640,20;Andrés Villón
+V00570;Quito;23/02/2025;Televisión;5;118,23;591,15;Gabriela Cárdenas
+V00571;Guayaquil;03/08/2025;Lavadora;3;747,38;2242,14;Gabriela Cárdenas
+V00572;Quito;11/04/2025;Televisión;4;766,47;3065,88;Lucía Muñoz
+V00573;Quito;17/08/2025;Lavadora;2;519,45;1038,90;Fernando Peña
+V00574;Quito;30/05/2025;Cocineta;1;943,98;943,98;José Luis Solórzano
+V00575;Cuenca;03/08/2025;Televisión;4;382,50;1530,00;Ramiro Zambrano
+V00576;Quito;26/07/2025;Televisión;3;560,36;1681,08;Ramiro Zambrano
+V00577;Quito;20/02/2025;Refrigeradora;2;324,07;648,14;Ramiro Zambrano
+V00578;Cuenca;18/06/2025;Refrigeradora;5;163,86;819,30;Andrés Villón
+V00579;Quito;20/05/2025;Aire Acondicionado;5;528,25;2641,25;Gabriela Cárdenas
+V00580;Quito;30/06/2025;Cafetera;3;454,87;1364,61;José Luis Solórzano
+V00581;Cuenca;19/02/2025;Cafetera;1;319,21;319,21;Fernando Peña
+V00582;Cuenca;09/07/2025;Batidora;3;58,89;176,67;Ramiro Zambrano
+V00583;Quito;10/07/2025;Cocineta;1;20,91;20,91;Paola Vélez
+V00584;Quito;19/06/2025;Televisión;4;21,74;86,96;Lucía Muñoz
+V00585;Guayaquil;08/07/2025;Ventilador;5;600,02;3000,10;José Luis Solórzano
+V00586;Guayaquil;31/05/2025;Aire Acondicionado;4;54,10;216,40;José Luis Solórzano
+V00587;Quito;24/06/2025;Batidora;3;208,41;625,23;Fernando Peña
+V00588;Guayaquil;03/08/2025;Refrigeradora;5;347,36;1736,80;Ramiro Zambrano
+V00589;Guayaquil;23/01/2025;Aire Acondicionado;1;417,28;417,28;María José Andrade
+V00590;Cuenca;08/02/2025;Televisión;2;149,78;299,56;María José Andrade
+V00591;Guayaquil;05/04/2025;Televisión;4;218,20;872,80;Gabriela Cárdenas
+V00592;Cuenca;11/06/2025;Aire Acondicionado;5;703,67;3518,35;Gabriela Cárdenas
+V00593;Quito;09/03/2025;Cocineta;5;696,30;3481,50;María José Andrade
+V00594;Quito;18/08/2025;Ventilador;5;909,73;4548,65;Gabriela Cárdenas
+V00595;Guayaquil;13/06/2025;Microondas;1;256,62;256,62;Paola Vélez
+V00596;Quito;10/04/2025;Batidora;5;524,86;2624,30;Ramiro Zambrano
+V00597;Guayaquil;12/02/2025;Licuadora;5;447,17;2235,85;José Luis Solórzano
+V00598;Quito;17/05/2025;Microondas;2;793,56;1587,12;Fernando Peña
+V00599;Guayaquil;11/02/2025;Ventilador;2;395,82;791,64;Gabriela Cárdenas
+V00600;Quito;04/08/2025;Microondas;5;379,98;1899,90;Fernando Peña
+V00601;Quito;19/03/2025;Lavadora;4;156,79;627,16;Ramiro Zambrano
+V00602;Quito;10/08/2025;Licuadora;2;931,52;1863,04;Lucía Muñoz
+V00603;Cuenca;02/06/2025;Cafetera;1;168,94;168,94;Ramiro Zambrano
+V00604;Quito;31/07/2025;Aire Acondicionado;1;86,85;86,85;Lucía Muñoz
+V00605;Guayaquil;28/01/2025;Lavadora;2;590,94;1181,88;María José Andrade
+V00606;Cuenca;07/05/2025;Lavadora;5;938,51;4692,55;José Luis Solórzano
+V00607;Quito;19/01/2025;Cocineta;2;479,32;958,64;Lucía Muñoz
+V00608;Quito;01/08/2025;Batidora;3;447,90;1343,70;Ramiro Zambrano
+V00609;Guayaquil;21/02/2025;Aire Acondicionado;5;401,65;2008,25;Paola Vélez
+V00610;Guayaquil;19/01/2025;Cocineta;4;815,73;3262,92;Andrés Villón
+V00611;Cuenca;03/08/2025;Lavadora;3;333,45;1000,35;Andrés Villón
+V00612;Cuenca;09/07/2025;Ventilador;1;644,80;644,80;María José Andrade
+V00613;Guayaquil;25/06/2025;Cafetera;4;607,79;2431,16;Gabriela Cárdenas
+V00614;Guayaquil;17/06/2025;Microondas;2;672,66;1345,32;José Luis Solórzano
+V00615;Cuenca;16/02/2025;Microondas;2;767,11;1534,22;Lucía Muñoz
+V00616;Guayaquil;07/02/2025;Refrigeradora;5;319,41;1597,05;Andrés Villón
+V00617;Quito;14/06/2025;Refrigeradora;4;440,15;1760,60;Gabriela Cárdenas
+V00618;Quito;18/01/2025;Cafetera;2;848,48;1696,96;Andrés Villón
+V00619;Guayaquil;11/05/2025;Cocineta;2;756,15;1512,30;José Luis Solórzano
+V00620;Quito;24/02/2025;Cocineta;4;119,38;477,52;José Luis Solórzano
+V00621;Quito;20/08/2025;Refrigeradora;5;365,88;1829,40;María José Andrade;
+V00622;Cuenca;05/06/2025;Televisión;2;431,25;862,50;Andrés Villón
+V00623;Guayaquil;27/05/2025;Aire Acondicionado;2;408,97;817,94;Fernando Peña
+V00624;Guayaquil;15/01/2025;Televisión;4;305,79;1223,16;Fernando Peña
+V00625;Cuenca;13/06/2025;Batidora;1;721,99;721,99;José Luis Solórzano
+V00626;Quito;16/08/2025;Aire Acondicionado;3;518,11;1554,33;Paola Vélez
+V00627;Guayaquil;13/07/2025;Aire Acondicionado;1;646,08;646,08;Gabriela Cárdenas
+V00628;Guayaquil;22/07/2025;Lavadora;4;609,63;2438,52;Lucía Muñoz
+V00629;Guayaquil;15/07/2025;Ventilador;5;84,84;424,20;María José Andrade
+V00630;Quito;30/06/2025;Ventilador;3;58,36;175,08;Andrés Villón
+V00631;Guayaquil;07/08/2025;Cafetera;2;616,40;1232,80;Andrés Villón
+V00632;Quito;10/02/2025;Batidora;5;274,03;1370,15;Fernando Peña
+V00633;Quito;24/01/2025;Ventilador;5;876,24;4381,20;María José Andrade
+V00634;Cuenca;26/06/2025;Aire Acondicionado;5;424,26;2121,30;María José Andrade
+V00635;Quito;06/06/2025;Licuadora;4;460,09;1840,36;Fernando Peña
+V00636;Cuenca;14/07/2025;Televisión;1;271,08;271,08;Andrés Villón
+V00637;Quito;23/02/2025;Microondas;5;184,54;922,70;Andrés Villón
+V00638;Cuenca;11/01/2025;Ventilador;3;645,69;1937,07;María José Andrade
+V00639;Cuenca;21/06/2025;Refrigeradora;3;560,59;1681,77;José Luis Solórzano
+Cuenca;15/08/2025;Lavadora;3;135,39;406,17;José Luis Solórzano
+V00641;Quito;18/01/2025;Aire Acondicionado;1;504,34;504,34;Andrés Villón
+V00642;Cuenca;03/04/2025;Aire Acondicionado;4;535,97;2143,88;Ramiro Zambrano
+V00643;Guayaquil;30/03/2025;Refrigeradora;5;157,76;788,80;Andrés Villón
+V00644;Guayaquil;04/05/2025;Refrigeradora;1;795,77;795,77;Gabriela Cárdenas
+V00645;Guayaquil;22/05/2025;Cocineta;5;921,25;4606,25;Andrés Villón
+V00646;Guayaquil;13/04/2025;Lavadora;5;386,69;1933,45;Andrés Villón
+V00647;Quito;28/02/2025;Licuadora;3;610,93;1832,79;Andrés Villón
+V00648;Guayaquil;20/05/2025;Televisión;3;407,81;1223,43;Ramiro Zambrano
+V00649;Guayaquil;21/08/2025;Ventilador;5;736,13;3680,65;Gabriela Cárdenas
+V00650;Cuenca;17/04/2025;Aire Acondicionado;1;870,41;870,41;Fernando Peña
+V00651;Cuenca;31/07/2025;Licuadora;3;698,20;2094,60;Ramiro Zambrano
+V00652;Cuenca;22/04/2025;Televisión;5;623,34;3116,70;José Luis Solórzano
+V00653;Cuenca;25/03/2025;Ventilador;2;582,10;1164,20;María José Andrade
+V00654;Quito;23/05/2025;Refrigeradora;3;185,32;555,96;Lucía Muñoz
+V00655;Cuenca;15/03/2025;Licuadora;1;731,84;731,84;Gabriela Cárdenas
+V00656;Quito;26/01/2025;Aire Acondicionado;3;425,59;1276,77;Ramiro Zambrano
+V00657;Cuenca;24/05/2025;Batidora;2;585,60;1171,20;José Luis Solórzano
+V00658;Guayaquil;16/04/2025;Cocineta;4;757,06;3028,24;Ramiro Zambrano
+V00659;Cuenca;24/05/2025;Cafetera;2;578,12;1156,24;Andrés Villón
+V00660;Cuenca;20/06/2025;Televisión;3;104,03;312,09;María José Andrade
+V00661;Quito;09/04/2025;Licuadora;5;584,97;2924,85;Gabriela Cárdenas
+V00662;Cuenca;10/03/2025;Refrigeradora;3;499,48;1498,44;Andrés Villón
+V00663;Quito;27/07/2025;Licuadora;3;398,77;1196,31;Gabriela Cárdenas
+V00664;Quito;02/05/2025;Aire Acondicionado;3;786,35;2359,05;Fernando Peña
+V00665;Cuenca;22/08/2025;Microondas;2;724,41;1448,82;Gabriela Cárdenas
+V00666;Cuenca;03/03/2025;Televisión;1;312,60;312,60;Andrés Villón
+V00667;Guayaquil;13/01/2025;Batidora;4;627,09;2508,36;Andrés Villón
+V00668;Quito;27/01/2025;Lavadora;1;349,82;349,82;Ramiro Zambrano
+V00669;Quito;28/01/2025;Televisión;3;776,62;2329,86;Ramiro Zambrano
+V00670;Quito;04/08/2025;Ventilador;1;157,97;157,97;Lucía Muñoz
+V00671;Quito;17/03/2025;Ventilador;2;394,41;788,82;María José Andrade
+V00672;Quito;12/02/2025;Batidora;4;383,45;1533,80;María José Andrade
+V00673;Guayaquil;28/06/2025;Cafetera;4;229,00;916,00;Gabriela Cárdenas
+V00674;Quito;06/03/2025;Cafetera;2;738,44;1476,88;Lucía Muñoz
+V00675;Quito;05/01/2025;Lavadora;3;490,79;1472,37;Lucía Muñoz
+V00676;Quito;13/01/2025;Cocineta;3;103,08;309,24;María José Andrade
+V00677;Quito;28/05/2025;Cocineta;3;57,70;173,10;Paola Vélez
+Quito;13/07/2025;Ventilador;1;701,66;701,66;Lucía Muñoz
+V00679;Quito;14/06/2025;Ventilador;4;922,11;3688,44;Ramiro Zambrano
+V00680;Quito;09/04/2025;Batidora;4;387,38;1549,52;Andrés Villón
+V00681;Guayaquil;23/08/2025;Microondas;2;209,86;419,72;Andrés Villón
+V00682;Guayaquil;30/01/2025;Televisión;2;868,98;1737,96;Fernando Peña
+V00683;Quito;27/04/2025;Ventilador;3;507,13;1521,39;María José Andrade
+V00684;Cuenca;08/02/2025;Licuadora;3;123,52;370,56;María José Andrade
+V00685;Quito;02/06/2025;Batidora;4;19,73;78,92;Lucía Muñoz
+V00686;Guayaquil;21/08/2025;Refrigeradora;4;231,11;924,44;Fernando Peña
+V00687;Quito;10/02/2025;Ventilador;5;604,20;3021,00;Lucía Muñoz
+V00688;Guayaquil;17/05/2025;Refrigeradora;3;125,33;375,99;José Luis Solórzano
+V00689;Quito;02/04/2025;Cafetera;2;276,31;552,62;José Luis Solórzano
+V00690;Cuenca;23/05/2025;Cocineta;5;497,63;2488,15;Lucía Muñoz
+V00691;Quito;12/08/2025;Cafetera;3;457,22;1371,66;Ramiro Zambrano
+V00692;Cuenca;04/03/2025;Cafetera;2;639,81;1279,62;José Luis Solórzano
+V00693;Guayaquil;30/04/2025;Batidora;3;539,96;1619,88;José Luis Solórzano
+V00694;Guayaquil;01/08/2025;Ventilador;4;618,48;2473,92;María José Andrade
+V00695;Guayaquil;01/04/2025;Cocineta;1;865,20;865,20;Gabriela Cárdenas
+V00696;Quito;22/03/2025;Aire Acondicionado;1;542,47;542,47;Andrés Villón
+V00697;Cuenca;12/02/2025;Cocineta;5;934,73;4673,65;Ramiro Zambrano
+V00698;Cuenca;03/08/2025;Televisión;2;533,48;1066,96;Ramiro Zambrano
+V00699;Quito;11/04/2025;Cocineta;4;233,98;935,92;José Luis Solórzano
+V00700;Quito;19/05/2025;Aire Acondicionado;3;579,12;1737,36;Andrés Villón
+V00701;Quito;09/03/2025;Lavadora;2;722,56;1445,12;María José Andrade
+V00702;Quito;03/08/2025;Televisión;5;18,95;94,75;Lucía Muñoz
+V00703;Guayaquil;11/05/2025;Microondas;5;473,44;2367,20;Gabriela Cárdenas
+V00704;Guayaquil;11/01/2025;Microondas;4;478,47;1913,88;Andrés Villón
+V00705;Quito;20/04/2025;Televisión;3;88,81;266,43;Ramiro Zambrano
+V00706;Quito;15/08/2025;Televisión;2;51,49;102,98;Gabriela Cárdenas
+V00707;Guayaquil;19/04/2025;Licuadora;3;632,12;1896,36;Fernando Peña
+V00708;Guayaquil;20/04/2025;Ventilador;3;854,95;2564,85;Gabriela Cárdenas
+V00709;Guayaquil;15/05/2025;Cafetera;5;242,71;1213,55;Andrés Villón
+V00710;Quito;26/03/2025;Microondas;2;201,64;403,28;Lucía Muñoz
+V00711;Guayaquil;29/05/2025;Lavadora;2;649,64;1299,28;Paola Vélez
+V00712;29/06/2025;Refrigeradora;4;921,31;3685,24;Fernando Peña
+V00713;Quito;02/05/2025;Cafetera;3;393,87;1181,61;Paola Vélez
+V00714;Cuenca;13/06/2025;Televisión;5;62,75;313,75;Fernando Peña
+V00715;Guayaquil;09/05/2025;Microondas;3;293,97;881,91;Gabriela Cárdenas
+V00716;Cuenca;06/06/2025;Ventilador;4;320,26;1281,04;Lucía Muñoz
+V00717;Cuenca;03/07/2025;Licuadora;1;905,36;905,36;José Luis Solórzano
+V00718;Cuenca;25/03/2025;Aire Acondicionado;5;884,53;4422,65;Gabriela Cárdenas
+V00719;Guayaquil;20/04/2025;Lavadora;1;315,90;315,90;Paola Vélez
+V00720;Cuenca;10/08/2025;Refrigeradora;2;394,99;789,98;Ramiro Zambrano
+V00721;Quito;27/08/2025;Aire Acondicionado;3;782,31;2346,93;Ramiro Zambrano
+V00722;Guayaquil;08/01/2025;Aire Acondicionado;5;721,19;3605,95;Fernando Peña
+V00723;Guayaquil;26/03/2025;Lavadora;4;454,18;1816,72;Fernando Peña
+V00724;Guayaquil;27/03/2025;Batidora;2;923,89;1847,78;Andrés Villón
+V00725;Cuenca;31/07/2025;Cafetera;2;916,83;1833,66;Paola Vélez
+V00726;Cuenca;26/08/2025;Cocineta;4;323,31;1293,24;Ramiro Zambrano
+V00727;Cuenca;03/05/2025;Cafetera;2;687,45;1374,90;José Luis Solórzano
+V00728;Guayaquil;14/05/2025;Licuadora;4;554,05;2216,20;María José Andrade
+V00729;Guayaquil;06/03/2025;Televisión;3;272,71;818,13;Paola Vélez
+V00730;Quito;06/02/2025;Refrigeradora;5;491,17;2455,85;Ramiro Zambrano
+V00731;Quito;01/08/2025;Cafetera;5;767,84;3839,20;Andrés Villón
+V00732;Quito;22/03/2025;Ventilador;4;169,99;679,96;Gabriela Cárdenas
+V00733;Guayaquil;07/02/2025;Cocineta;1;358,21;358,21;Ramiro Zambrano
+V00734;Quito;28/07/2025;Aire Acondicionado;5;136,79;683,95;Fernando Peña
+V00735;Quito;07/04/2025;Televisión;1;201,81;201,81;Gabriela Cárdenas
+V00736;Cuenca;28/03/2025;Lavadora;2;567,93;1135,86;María José Andrade
+V00737;Cuenca;21/07/2025;Ventilador;1;725,66;725,66;María José Andrade
+V00738;02/06/2025;Licuadora;3;575,20;1725,60;María José Andrade
+V00739;Guayaquil;29/03/2025;Lavadora;5;332,17;1660,85;Lucía Muñoz
+V00740;Guayaquil;02/04/2025;Microondas;5;445,42;2227,10;Andrés Villón
+V00741;Cuenca;08/03/2025;Televisión;4;752,30;3009,20;Paola Vélez
+V00742;Guayaquil;05/01/2025;Cocineta;2;784,43;1568,86;Ramiro Zambrano;
+V00743;Cuenca;27/02/2025;Ventilador;1;514,14;514,14;Lucía Muñoz
+V00744;Quito;01/08/2025;Licuadora;3;98,13;294,39;José Luis Solórzano
+V00745;Quito;24/03/2025;Televisión;3;932,96;2798,88;Ramiro Zambrano
+V00746;Quito;30/06/2025;Televisión;4;314,26;1257,04;Ramiro Zambrano
+V00747;Quito;29/04/2025;Microondas;4;743,73;2974,92;Andrés Villón
+V00748;Guayaquil;11/05/2025;Cafetera;4;714,32;2857,28;Gabriela Cárdenas
+V00749;Cuenca;26/06/2025;Microondas;5;392,55;1962,75;Gabriela Cárdenas
+V00750;Cuenca;10/01/2025;Cafetera;4;471,99;1887,96;María José Andrade
+V00751;Cuenca;18/02/2025;Microondas;2;429,55;859,10;José Luis Solórzano
+V00752;Quito;07/01/2025;Licuadora;5;697,83;3489,15;Andrés Villón
+V00753;Quito;04/03/2025;Cafetera;3;935,70;2807,10;Paola Vélez
+V00754;Quito;22/08/2025;Batidora;4;545,19;2180,76;Gabriela Cárdenas
+V00755;Quito;06/08/2025;Lavadora;4;417,32;1669,28;Andrés Villón
+V00756;Cuenca;28/06/2025;Licuadora;1;420,43;420,43;María José Andrade
+V00757;Quito;12/08/2025;Refrigeradora;2;895,69;1791,38;Fernando Peña
+V00758;Guayaquil;12/06/2025;Lavadora;4;125,76;503,04;Ramiro Zambrano
+V00759;Cuenca;24/06/2025;Televisión;1;52,67;52,67;Paola Vélez
+V00760;Guayaquil;05/07/2025;Microondas;4;707,03;2828,12;Andrés Villón
+V00761;Quito;05/04/2025;Televisión;2;174,38;348,76;María José Andrade
+V00762;Quito;22/01/2025;Microondas;2;569,42;1138,84;Andrés Villón
+V00763;Quito;16/06/2025;Licuadora;1;47,64;47,64;Paola Vélez
+V00764;Quito;05/08/2025;Aire Acondicionado;2;949,42;1898,84;Gabriela Cárdenas
+V00765;Quito;04/03/2025;Microondas;1;641,63;641,63;Lucía Muñoz
+V00766;Guayaquil;Refrigeradora;5;844,65;4223,25;Ramiro Zambrano
+V00767;Quito;13/01/2025;Cocineta;4;451,77;1807,08;Fernando Peña
+V00768;Cuenca;04/05/2025;Ventilador;4;832,17;José Luis Solórzano
+V00769;Quito;30/03/2025;Televisión;2;535,97;1071,94;Gabriela Cárdenas
+V00770;Guayaquil;25/05/2025;Batidora;3;25,75;77,25;José Luis Solórzano;
+V00771;Cuenca;29/07/2025;Ventilador;5;804,61;4023,05;Lucía Muñoz
+V00772;Quito;16/07/2025;Cocineta;5;173,39;866,95;Paola Vélez
+V00773;Quito;26/08/2025;Aire Acondicionado;2;479,02;958,04;María José Andrade
+V00774;Cuenca;04/03/2025;Batidora;2;163,40;326,80;Andrés Villón
+V00775;Guayaquil;09/08/2025;Lavadora;1;175,46;175,46;Lucía Muñoz
+V00776;Cuenca;25/02/2025;Refrigeradora;1;485,62;485,62;José Luis Solórzano
+V00777;Cuenca;04/04/2025;Aire Acondicionado;5;67,33;336,65;María José Andrade
+V00778;Guayaquil;31/07/2025;Cafetera;1;926,05;926,05;José Luis Solórzano
+V00779;Quito;26/08/2025;Televisión;1;198,26;198,26;Andrés Villón
+V00780;Cuenca;12/06/2025;Licuadora;4;571,32;2285,28;José Luis Solórzano
+V00781;Quito;15/01/2025;Cocineta;3;908,55;2725,65;Paola Vélez
+V00782;Cuenca;02/06/2025;Licuadora;1;561,30;561,30;Lucía Muñoz
+V00783;Cuenca;16/06/2025;Ventilador;5;852,32;4261,60;Gabriela Cárdenas
+V00784;Cuenca;13/06/2025;Lavadora;1;549,68;549,68;Ramiro Zambrano
+V00785;Quito;19/05/2025;Aire Acondicionado;2;351,35;702,70;José Luis Solórzano
+V00786;Quito;28/03/2025;Refrigeradora;1;97,18;97,18;Gabriela Cárdenas
+V00787;Cuenca;08/06/2025;Lavadora;5;342,42;1712,10;Ramiro Zambrano
+V00788;Cuenca;27/02/2025;Cafetera;3;654,01;1962,03;Andrés Villón
+V00789;Quito;10/02/2025;Televisión;5;794,51;3972,55;Fernando Peña
+V00790;Guayaquil;07/03/2025;Batidora;4;904,53;3618,12;Fernando Peña;
+V00791;Cuenca;17/04/2025;Lavadora;2;783,08;1566,16;Fernando Peña
+V00792;Quito;16/04/2025;Licuadora;1;700,71;700,71;Ramiro Zambrano
+V00793;Quito;12/01/2025;Refrigeradora;4;672,93;2691,72;Ramiro Zambrano
+V00794;Cuenca;02/03/2025;Microondas;4;926,86;3707,44;José Luis Solórzano
+V00795;Cuenca;12/01/2025;Batidora;1;479,72;479,72;Gabriela Cárdenas
+V00796;Guayaquil;06/07/2025;Cafetera;2;456,09;912,18;Andrés Villón
+V00797;Cuenca;05/04/2025;Batidora;4;761,24;3044,96;Fernando Peña
+V00798;Quito;23/02/2025;Licuadora;3;98,42;295,26;Fernando Peña
+V00799;Quito;03/01/2025;Aire Acondicionado;1;606,31;606,31;Lucía Muñoz
+V00800;Cuenca;27/02/2025;Batidora;4;753,98;3015,92;Andrés Villón
+V00801;Guayaquil;14/01/2025;Lavadora;2;572,65;1145,30;Fernando Peña
+V00802;Guayaquil;20/07/2025;Ventilador;2;714,06;1428,12;Fernando Peña
+V00803;Guayaquil;03/06/2025;Ventilador;1;395,41;395,41;Fernando Peña
+V00804;Quito;03/01/2025;Refrigeradora;5;652,20;3261,00;Fernando Peña
+V00805;Cuenca;02/01/2025;Cafetera;3;472,29;1416,87;Andrés Villón
+V00806;Cuenca;31/03/2025;Batidora;1;63,49;63,49;Andrés Villón
+V00807;Cuenca;27/08/2025;Lavadora;5;223,48;1117,40;Ramiro Zambrano
+V00808;Quito;08/01/2025;Televisión;3;216,35;649,05;Andrés Villón
+V00809;Guayaquil;08/06/2025;Cafetera;5;539,97;2699,85;Ramiro Zambrano
+V00810;Cuenca;29/01/2025;Microondas;2;599,73;1199,46;Ramiro Zambrano
+V00811;Guayaquil;20/06/2025;Licuadora;2;203,24;406,48;Paola Vélez
+V00812;Cuenca;28/04/2025;Aire Acondicionado;1;312,56;312,56;Lucía Muñoz
+V00813;Cuenca;17/03/2025;Refrigeradora;5;455,73;2278,65;Paola Vélez
+V00814;Guayaquil;14/04/2025;Lavadora;3;433,08;1299,24;Lucía Muñoz
+V00815;Quito;09/03/2025;Batidora;1;833,94;833,94;Ramiro Zambrano
+V00816;Cuenca;29/03/2025;Ventilador;4;354,77;1419,08;Ramiro Zambrano
+V00817;Quito;01/03/2025;Cocineta;3;821,89;2465,67;José Luis Solórzano
+V00818;Quito;16/03/2025;Ventilador;4;321,58;1286,32;Paola Vélez
+V00819;Guayaquil;22/04/2025;Refrigeradora;1;934,95;934,95;María José Andrade
+V00820;Guayaquil;26/07/2025;Cafetera;3;657,58;1972,74;Ramiro Zambrano
+V00821;Guayaquil;02/07/2025;Microondas;3;357,42;1072,26;José Luis Solórzano
+V00822;Cuenca;23/01/2025;Lavadora;2;481,51;963,02;Fernando Peña
+V00823;Quito;23/04/2025;Aire Acondicionado;5;53,20;266,00;Paola Vélez
+V00824;Guayaquil;23/01/2025;Televisión;3;540,50;1621,50;Fernando Peña
+V00825;Cuenca;07/03/2025;Televisión;1;59,34;59,34;Fernando Peña
+V00826;Cuenca;29/01/2025;Cafetera;3;417,35;1252,05;Lucía Muñoz
+V00827;Guayaquil;13/05/2025;Cocineta;4;557,78;2231,12;Ramiro Zambrano
+V00828;Quito;04/07/2025;Microondas;2;591,38;1182,76;Paola Vélez
+V00829;Guayaquil;04/01/2025;Batidora;4;287,37;1149,48;José Luis Solórzano
+V00830;Guayaquil;21/07/2025;Cocineta;2;838,21;1676,42;Fernando Peña
+V00831;Cuenca;03/06/2025;Aire Acondicionado;3;279,99;839,97;Gabriela Cárdenas
+V00832;Guayaquil;01/06/2025;Lavadora;5;365,74;1828,70;Paola Vélez
+V00833;Guayaquil;07/02/2025;Batidora;1;216,27;216,27;José Luis Solórzano
+V00834;Guayaquil;11/05/2025;Batidora;2;704,99;1409,98;Lucía Muñoz
+V00835;Guayaquil;25/02/2025;Cocineta;2;878,77;1757,54;Ramiro Zambrano
+V00836;Cuenca;03/07/2025;Cocineta;1;404,58;404,58;María José Andrade
+V00837;Guayaquil;29/06/2025;Microondas;4;927,70;3710,80;Gabriela Cárdenas;
+V00838;Quito;15/03/2025;Ventilador;5;351,90;1759,50;Ramiro Zambrano
+V00839;Guayaquil;08/06/2025;Ventilador;2;37,27;74,54;Fernando Peña;
+V00840;Cuenca;25/07/2025;Microondas;1;119,43;119,43;Lucía Muñoz
+V00841;Cuenca;28/01/2025;Cafetera;4;63,70;254,80;María José Andrade
+V00842;Cuenca;07/01/2025;Televisión;1;730,30;730,30;María José Andrade
+V00843;Cuenca;05/04/2025;Microondas;1;565,19;565,19;Fernando Peña
+V00844;Guayaquil;04/07/2025;Ventilador;1;423,54;423,54;María José Andrade
+V00845;Cuenca;25/07/2025;Cocineta;5;298,37;1491,85;Ramiro Zambrano
+V00846;Guayaquil;19/05/2025;Cocineta;5;573,65;2868,25;Paola Vélez
+V00847;Quito;16/04/2025;Televisión;4;275,37;1101,48;María José Andrade
+V00848;Guayaquil;10/03/2025;Cocineta;3;345,98;1037,94;Ramiro Zambrano
+V00849;Quito;11/06/2025;Aire Acondicionado;1;863,30;863,30;Andrés Villón
+V00850;Quito;04/04/2025;Batidora;5;370,22;1851,10;Ramiro Zambrano
+V00851;Cuenca;15/03/2025;Cocineta;2;675,26;1350,52;Andrés Villón
+V00852;Guayaquil;12/08/2025;Licuadora;1;147,58;147,58;Andrés Villón
+V00853;Guayaquil;10/01/2025;Batidora;1;597,94;597,94;Paola Vélez
+V00854;Cuenca;18/08/2025;Ventilador;5;519,39;2596,95;María José Andrade
+V00855;Cuenca;25/01/2025;Aire Acondicionado;1;507,79;507,79;Ramiro Zambrano
+V00856;Guayaquil;25/06/2025;Refrigeradora;5;158,73;793,65;Andrés Villón
+V00857;Guayaquil;10/06/2025;Cafetera;2;427,99;855,98;Paola Vélez
+V00858;Guayaquil;03/02/2025;Licuadora;2;937,24;1874,48;Paola Vélez
+V00859;Quito;18/06/2025;Licuadora;4;577,81;2311,24;José Luis Solórzano
+V00860;Cuenca;12/03/2025;Televisión;1;274,33;274,33;José Luis Solórzano
+V00861;Quito;27/07/2025;Cocineta;2;489,67;979,34;José Luis Solórzano
+V00862;Cuenca;11/01/2025;Cafetera;3;449,82;1349,46;José Luis Solórzano
+V00863;Guayaquil;08/01/2025;Lavadora;4;441,74;1766,96;Lucía Muñoz
+V00864;Quito;13/03/2025;Cocineta;3;117,08;351,24;José Luis Solórzano
+V00865;Guayaquil;22/05/2025;Licuadora;5;568,84;2844,20;Gabriela Cárdenas
+V00866;Quito;09/08/2025;Licuadora;1;265,20;265,20;Fernando Peña
+V00867;Quito;08/03/2025;Televisión;4;583,59;2334,36;Fernando Peña
+V00868;Cuenca;11/04/2025;Licuadora;1;870,99;870,99;Gabriela Cárdenas
+V00869;Cuenca;28/04/2025;Microondas;2;849,12;1698,24;Gabriela Cárdenas
+V00870;Guayaquil;27/01/2025;Ventilador;5;877,56;4387,80;Andrés Villón
+V00871;Cuenca;12/01/2025;Ventilador;1;580,77;580,77;Andrés Villón
+V00872;Quito;07/03/2025;Licuadora;2;662,08;1324,16;Lucía Muñoz
+V00873;Quito;10/04/2025;Microondas;5;410,81;2054,05;Andrés Villón
+V00874;Cuenca;03/01/2025;Lavadora;2;28,24;56,48;María José Andrade
+V00875;Guayaquil;20/01/2025;Aire Acondicionado;5;42,15;210,75;José Luis Solórzano
+V00876;Quito;19/03/2025;Cocineta;4;812,31;3249,24;José Luis Solórzano
+V00877;Guayaquil;15/01/2025;Batidora;2;186,04;372,08;María José Andrade
+V00878;Cuenca;08/01/2025;Ventilador;2;650,44;1300,88;José Luis Solórzano
+V00879;Cuenca;13/06/2025;Cafetera;5;301,63;1508,15;Fernando Peña
+V00880;Quito;14/03/2025;Ventilador;3;465,49;1396,47;Ramiro Zambrano
+V00881;Quito;10/04/2025;Cafetera;1;102,13;102,13;Fernando Peña
+V00882;Cuenca;11/06/2025;Aire Acondicionado;4;309,84;1239,36;Ramiro Zambrano
+V00883;Guayaquil;30/03/2025;Lavadora;1;337,52;337,52;Gabriela Cárdenas
+V00884;Guayaquil;19/06/2025;Televisión;1;248,84;248,84;José Luis Solórzano
+V00885;Quito;15/08/2025;Lavadora;2;608,05;1216,10;José Luis Solórzano
+V00886;Cuenca;06/05/2025;Aire Acondicionado;2;322,13;644,26;Andrés Villón
+V00887;Guayaquil;09/06/2025;Aire Acondicionado;4;418,38;1673,52;Lucía Muñoz
+V00888;Quito;14/08/2025;Licuadora;4;723,71;2894,84;Fernando Peña
+V00889;Guayaquil;04/02/2025;Televisión;1;758,86;758,86;Lucía Muñoz
+V00890;Quito;22/04/2025;Batidora;4;845,04;3380,16;Fernando Peña
+V00891;Guayaquil;08/04/2025;Cafetera;3;624,80;1874,40;Gabriela Cárdenas
+V00892;07/01/2025;Batidora;2;287,28;574,56;Gabriela Cárdenas
+V00893;Cuenca;02/05/2025;Lavadora;1;32,42;32,42;Fernando Peña
+V00894;Quito;05/03/2025;Aire Acondicionado;2;250,94;501,88;Paola Vélez
+V00895;Quito;09/02/2025;Lavadora;2;22,21;44,42;Andrés Villón
+V00896;Cuenca;17/06/2025;Televisión;1;926,41;926,41;Lucía Muñoz
+V00897;Guayaquil;17/03/2025;Batidora;4;299,44;1197,76;José Luis Solórzano
+V00898;Guayaquil;26/07/2025;Cafetera;1;234,59;234,59;Andrés Villón
+V00899;Quito;01/02/2025;Lavadora;2;23,04;46,08;Lucía Muñoz
+V00900;Quito;20/04/2025;Microondas;4;328,69;1314,76;Paola Vélez
+V00901;Quito;26/03/2025;Batidora;1;825,17;825,17;Lucía Muñoz
+V00902;Quito;10/02/2025;Microondas;5;533,61;2668,05;Fernando Peña
+V00903;Cuenca;22/01/2025;Microondas;4;508,77;2035,08;Lucía Muñoz
+V00904;Cuenca;09/03/2025;Lavadora;2;929,90;1859,80;Fernando Peña
+V00905;Cuenca;19/07/2025;Batidora;3;71,54;214,62;Paola Vélez
+V00906;Guayaquil;11/08/2025;Cafetera;1;364,32;364,32;Gabriela Cárdenas
+V00907;Guayaquil;05/03/2025;Refrigeradora;4;827,46;3309,84;Ramiro Zambrano
+V00908;Cuenca;16/03/2025;Cocineta;5;635,69;3178,45;María José Andrade
+V00909;Quito;12/02/2025;Ventilador;5;631,24;3156,20;Fernando Peña
+V00910;Cuenca;18/05/2025;Microondas;5;926,69;4633,45;José Luis Solórzano
+V00911;Guayaquil;09/08/2025;Cocineta;3;277,90;833,70;Ramiro Zambrano
+V00912;Cuenca;08/07/2025;Refrigeradora;3;446,26;1338,78;Gabriela Cárdenas
+V00913;Guayaquil;03/05/2025;Ventilador;2;822,63;1645,26;Fernando Peña
+V00914;Quito;22/08/2025;Microondas;5;190,73;953,65;José Luis Solórzano
+V00915;Cuenca;07/08/2025;Licuadora;2;477,70;955,40;Gabriela Cárdenas
+V00916;Guayaquil;28/06/2025;Cocineta;1;23,56;23,56;Lucía Muñoz
+V00917;Guayaquil;06/01/2025;Licuadora;3;283,17;849,51;Gabriela Cárdenas
+V00918;Quito;07/03/2025;Ventilador;4;697,98;2791,92;Ramiro Zambrano
+V00919;Cuenca;01/08/2025;Cocineta;2;513,38;1026,76;Lucía Muñoz
+V00920;Quito;25/05/2025;Cafetera;3;730,73;2192,19;María José Andrade
+V00921;Guayaquil;25/07/2025;Licuadora;2;789,92;1579,84;José Luis Solórzano
+V00922;Cuenca;01/01/2025;Cocineta;4;457,24;1828,96;María José Andrade
+V00923;Quito;04/02/2025;Cocineta;2;561,19;1122,38;Paola Vélez
+V00924;Cuenca;18/08/2025;Batidora;5;111,94;559,70;María José Andrade
+V00925;Guayaquil;25/07/2025;Ventilador;5;727,65;3638,25;Gabriela Cárdenas
+V00926;Cuenca;25/05/2025;Licuadora;2;28,56;57,12;Fernando Peña
+V00927;Cuenca;26/07/2025;Ventilador;3;73,48;220,44;José Luis Solórzano
+V00928;Cuenca;26/01/2025;Licuadora;5;438,66;2193,30;Fernando Peña
+V00929;Cuenca;26/03/2025;Cocineta;2;23,18;46,36;Ramiro Zambrano
+V00930;Guayaquil;11/05/2025;Microondas;3;660,56;1981,68;Ramiro Zambrano
+V00931;Quito;06/03/2025;Televisión;3;906,67;2720,01;Lucía Muñoz
+V00932;Cuenca;25/03/2025;Aire Acondicionado;4;663,51;2654,04;Fernando Peña
+V00933;Guayaquil;03/08/2025;Televisión;3;475,30;1425,90;Fernando Peña
+V00934;Guayaquil;06/03/2025;Aire Acondicionado;3;919,78;2759,34;Paola Vélez
+V00935;Quito;07/05/2025;Cocineta;5;132,78;663,90;Andrés Villón
+V00936;21/08/2025;Ventilador;1;702,40;702,40;Paola Vélez
+V00937;Quito;14/03/2025;Televisión;2;354,98;709,96;Paola Vélez
+V00938;Quito;30/07/2025;Aire Acondicionado;1;59,57;59,57;José Luis Solórzano
+V00939;Guayaquil;05/06/2025;Ventilador;2;715,34;1430,68;María José Andrade
+V00940;Guayaquil;25/02/2025;Refrigeradora;4;442,90;1771,60;Gabriela Cárdenas
+V00941;Quito;27/04/2025;Batidora;4;641,46;2565,84;Fernando Peña
+V00942;Quito;22/02/2025;Cafetera;2;55,44;110,88;Paola Vélez
+V00943;Guayaquil;11/08/2025;Ventilador;1;39,47;39,47;Fernando Peña
+V00944;Cuenca;22/08/2025;Cafetera;3;184,04;552,12;Ramiro Zambrano
+V00945;Guayaquil;21/06/2025;Microondas;4;59,47;237,88;Paola Vélez
+V00946;Quito;19/07/2025;Cocineta;4;367,01;1468,04;Lucía Muñoz
+V00947;Quito;29/04/2025;Microondas;2;802,26;1604,52;Andrés Villón
+V00948;Guayaquil;17/01/2025;Ventilador;4;571,99;2287,96;Fernando Peña
+V00949;Quito;12/01/2025;Cafetera;5;753,92;3769,60;Paola Vélez
+V00950;Cuenca;24/04/2025;Aire Acondicionado;1;495,75;495,75;Lucía Muñoz
+V00951;Cuenca;11/01/2025;Aire Acondicionado;3;500,15;1500,45;José Luis Solórzano
+V00952;Quito;26/03/2025;Microondas;4;253,29;1013,16;José Luis Solórzano
+V00953;Guayaquil;03/07/2025;Refrigeradora;4;926,56;3706,24;Paola Vélez
+V00954;Guayaquil;28/02/2025;Lavadora;1;682,75;682,75;Gabriela Cárdenas
+V00955;Guayaquil;19/06/2025;Refrigeradora;4;402,18;1608,72;José Luis Solórzano
+V00956;Quito;07/02/2025;Licuadora;5;94,70;473,50;Lucía Muñoz
+V00957;Quito;12/04/2025;Lavadora;2;747,74;1495,48;Andrés Villón
+V00958;Quito;13/03/2025;Lavadora;5;774,20;3871,00;Andrés Villón
+V00959;Guayaquil;04/05/2025;Batidora;2;453,16;906,32;Gabriela Cárdenas
+V00960;Quito;11/08/2025;Licuadora;2;781,71;1563,42;Andrés Villón;
+V00961;Cuenca;21/05/2025;Lavadora;5;621,15;3105,75;Fernando Peña
+V00962;Guayaquil;10/04/2025;Batidora;1;603,13;603,13;Gabriela Cárdenas
+V00963;Quito;04/07/2025;Refrigeradora;5;836,97;4184,85;Fernando Peña
+V00964;Quito;27/04/2025;Batidora;3;677,62;2032,86;José Luis Solórzano
+V00965;Guayaquil;13/06/2025;Lavadora;4;304,48;1217,92;Andrés Villón
+V00966;Cuenca;12/07/2025;Refrigeradora;4;528,47;2113,88;Ramiro Zambrano
+V00967;Quito;10/08/2025;Licuadora;3;373,65;1120,95;José Luis Solórzano
+V00968;Quito;12/08/2025;Refrigeradora;3;389,32;1167,96;Lucía Muñoz
+V00969;Quito;19/03/2025;Aire Acondicionado;4;516,76;2067,04;Ramiro Zambrano
+V00970;Guayaquil;22/07/2025;Refrigeradora;3;220,42;661,26;Lucía Muñoz
+V00971;Cuenca;02/08/2025;Televisión;4;432,30;1729,20;Fernando Peña
+V00972;Guayaquil;21/08/2025;Refrigeradora;1;373,83;373,83;José Luis Solórzano
+V00973;Cuenca;27/04/2025;Lavadora;2;681,43;1362,86;Ramiro Zambrano
+V00974;Cuenca;22/08/2025;Aire Acondicionado;1;77,83;77,83;José Luis Solórzano
+V00975;Quito;21/05/2025;Lavadora;2;100,05;200,10;María José Andrade
+V00976;Quito;29/07/2025;Televisión;4;53,09;212,36;Lucía Muñoz;
+V00977;Guayaquil;02/04/2025;Lavadora;1;314,90;314,90;José Luis Solórzano
+V00978;Cuenca;19/07/2025;Refrigeradora;2;134,46;268,92;Andrés Villón
+V00979;Guayaquil;04/06/2025;Batidora;4;786,58;3146,32
+V00980;Guayaquil;07/07/2025;Aire Acondicionado;3;580,00;1740,00;Lucía Muñoz
+V00981;Cuenca;02/05/2025;Cafetera;1;795,62;795,62;Gabriela Cárdenas
+V00982;Quito;19/01/2025;Aire Acondicionado;1;268,72;268,72;María José Andrade
+V00983;Quito;01/08/2025;Licuadora;3;90,52;271,56;Lucía Muñoz;
+V00984;Quito;09/06/2025;Licuadora;3;609,22;1827,66;José Luis Solórzano
+V00985;Guayaquil;22/02/2025;Batidora;3;816,40;2449,20;Andrés Villón
+V00986;Cuenca;14/03/2025;Ventilador;2;369,72;739,44;Lucía Muñoz
+V00987;Guayaquil;23/06/2025;Batidora;5;776,53;3882,65;Ramiro Zambrano
+V00988;Quito;17/03/2025;Cafetera;5;86,14;430,70;Lucía Muñoz
+V00989;Guayaquil;15/02/2025;Cocineta;3;18,01;54,03;Lucía Muñoz
+V00990;Cuenca;05/08/2025;Batidora;3;676,01;2028,03;Gabriela Cárdenas
+V00991;Cuenca;02/06/2025;Cafetera;4;204,98;819,92;Andrés Villón
+V00992;Quito;23/01/2025;Cafetera;3;143,77;431,31;Paola Vélez
+V00993;Cuenca;08/07/2025;Licuadora;3;480,03;1440,09;María José Andrade
+V00994;Cuenca;24/08/2025;Licuadora;5;595,09;2975,45;Gabriela Cárdenas
+V00995;Quito;02/08/2025;Ventilador;4;90,89;363,56;María José Andrade
+V00996;Cuenca;29/05/2025;Aire Acondicionado;3;341,13;1023,39;Gabriela Cárdenas
+V00997;Quito;01/03/2025;Aire Acondicionado;3;280,98;842,94;María José Andrade
+V00998;Guayaquil;05/05/2025;Televisión;2;631,59;1263,18;Andrés Villón
+V00999;Guayaquil;17/07/2025;Cocineta;3;551,60;1654,80;Ramiro Zambrano
+V01000;Quito;15/03/2025;Cocineta;4;232,12;Lucía Muñoz
+V01001;Guayaquil;07/02/2025;Cocineta;1;309,21;309,21;José Luis Solórzano
+V01002;Guayaquil;03/05/2025;Lavadora;1;125,27;125,27;Ramiro Zambrano
+V01003;Guayaquil;16/04/2025;Microondas;5;136,49;682,45;Lucía Muñoz
+V01004;Guayaquil;02/04/2025;Licuadora;3;435,80;1307,40;José Luis Solórzano
+V01005;Cuenca;15/04/2025;Batidora;3;140,64;421,92;Paola Vélez
+V01006;Guayaquil;19/02/2025;Lavadora;2;677,34;1354,68;Andrés Villón
+V01007;Cuenca;25/03/2025;Batidora;1;403,01;403,01;María José Andrade
+V01008;Quito;01/06/2025;Aire Acondicionado;4;257,61;1030,44;Andrés Villón
+V01009;Quito;19/06/2025;Televisión;1;24,51;24,51;Fernando Peña
+V01010;Guayaquil;15/01/2025;Batidora;5;36,65;183,25;Andrés Villón
+V01011;Cuenca;18/06/2025;Licuadora;2;719,78;1439,56;Paola Vélez
+V01012;Guayaquil;18/01/2025;Lavadora;1;90,59;90,59;Paola Vélez
+V01013;Quito;23/06/2025;Licuadora;4;912,67;3650,68;Lucía Muñoz
+V01014;Quito;11/04/2025;Batidora;5;648,66;3243,30;José Luis Solórzano
+V01015;Guayaquil;07/07/2025;Aire Acondicionado;3;578,51;1735,53;Gabriela Cárdenas
+V01016;Cuenca;08/05/2025;Aire Acondicionado;4;281,30;1125,20;Paola Vélez
+V01017;Cuenca;03/05/2025;Televisión;4;610,07;2440,28;María José Andrade
+V01018;Cuenca;14/04/2025;Cafetera;1;771,85;771,85;José Luis Solórzano
+V01019;Quito;09/08/2025;Microondas;3;244,91;734,73;Fernando Peña
+V01020;Guayaquil;29/05/2025;Licuadora;4;266,43;1065,72;José Luis Solórzano
+V01021;Quito;08/03/2025;Aire Acondicionado;3;666,91;2000,73;Andrés Villón
+V01022;Guayaquil;23/08/2025;Refrigeradora;3;521,18;1563,54;Paola Vélez
+V01023;Guayaquil;19/07/2025;Cocineta;5;725,99;3629,95;Lucía Muñoz
+V01024;Quito;30/05/2025;Televisión;3;612,00;1836,00;María José Andrade
+V01025;Guayaquil;10/02/2025;Televisión;3;800,55;2401,65;María José Andrade
+V01026;Quito;13/08/2025;Aire Acondicionado;1;553,98;553,98;Paola Vélez
+V01027;Quito;19/03/2025;Televisión;5;947,10;4735,50;María José Andrade
+V01028;Quito;12/04/2025;Batidora;1;22,11;22,11;José Luis Solórzano
+V01029;Guayaquil;22/06/2025;Batidora;5;244,58;1222,90;María José Andrade
+V01030;Guayaquil;31/07/2025;Aire Acondicionado;2;519,23;1038,46;José Luis Solórzano
+V01031;Cuenca;05/07/2025;Licuadora;4;730,04;2920,16;Paola Vélez
+V01032;Quito;15/01/2025;Batidora;2;346,46;692,92;José Luis Solórzano
+V01033;Quito;15/07/2025;Televisión;5;428,13;2140,65;Andrés Villón
+V01034;Quito;18/05/2025;Licuadora;1;538,37;538,37;Paola Vélez
+V01035;Guayaquil;01/05/2025;Batidora;3;47,31;141,93;Andrés Villón
+V01036;Cuenca;27/06/2025;Ventilador;2;294,29;588,58;Gabriela Cárdenas
+V01037;Quito;23/06/2025;Ventilador;5;663,65;3318,25;Ramiro Zambrano
+V01038;Cuenca;24/01/2025;Batidora;5;837,59;4187,95;Paola Vélez
+V01039;Quito;19/01/2025;Aire Acondicionado;5;607,09;3035,45;Gabriela Cárdenas
+V01040;Quito;24/06/2025;Cafetera;1;423,49;423,49;Andrés Villón
+V01041;Cuenca;19/01/2025;Aire Acondicionado;3;903,61;2710,83;Andrés Villón
+V01042;Quito;02/02/2025;Cocineta;5;669,68;3348,40;Ramiro Zambrano
+V01043;Cuenca;17/05/2025;Refrigeradora;5;93,28;466,40;Gabriela Cárdenas
+V01044;Quito;21/05/2025;Batidora;3;474,83;1424,49;Ramiro Zambrano
+V01045;Quito;25/05/2025;Ventilador;3;136,12;408,36;Paola Vélez
+V01046;Cuenca;02/07/2025;Aire Acondicionado;2;749,63;1499,26;Paola Vélez
+V01047;Cuenca;06/05/2025;Aire Acondicionado;4;744,12;2976,48;José Luis Solórzano
+V01048;Cuenca;27/01/2025;Cocineta;3;223,52;670,56;Ramiro Zambrano
+V01049;Cuenca;10/03/2025;Ventilador;3;901,64;2704,92;José Luis Solórzano
+V01050;Guayaquil;12/02/2025;Refrigeradora;2;283,82;567,64;Lucía Muñoz
+V01051;Quito;06/07/2025;Ventilador;4;469,01;1876,04;Paola Vélez
+V01052;Guayaquil;21/07/2025;Batidora;1;449,79;449,79;Gabriela Cárdenas
+V01053;Guayaquil;22/07/2025;Televisión;5;711,43;3557,15;Lucía Muñoz
+V01054;Guayaquil;17/06/2025;Lavadora;3;94,27;282,81;Andrés Villón
+V01055;Quito;15/06/2025;Microondas;5;535,69;2678,45;Lucía Muñoz
+V01056;Quito;19/03/2025;Lavadora;2;39,25;78,50;Andrés Villón
+V01057;Cuenca;12/03/2025;Cocineta;1;99,05;99,05;José Luis Solórzano
+V01058;Cuenca;15/02/2025;Refrigeradora;3;318,66;955,98;María José Andrade
+V01059;Cuenca;22/03/2025;Cafetera;4;549,49;2197,96;Paola Vélez
+V01060;Quito;12/06/2025;Microondas;4;451,47;1805,88;María José Andrade
+V01061;Cuenca;30/06/2025;Ventilador;3;781,79;2345,37;María José Andrade
+V01062;Guayaquil;22/08/2025;Ventilador;5;41,88;209,40;Fernando Peña
+V01063;Cuenca;10/08/2025;Microondas;4;165,07;660,28;José Luis Solórzano
+V01064;Cuenca;28/07/2025;Cocineta;4;559,69;2238,76;Fernando Peña
+V01065;Cuenca;22/06/2025;Ventilador;1;641,11;641,11;Lucía Muñoz
+V01066;Cuenca;31/07/2025;Cocineta;2;727,89;1455,78;Ramiro Zambrano
+V01067;Cuenca;08/03/2025;Refrigeradora;5;447,82;2239,10;Ramiro Zambrano
+V01068;Cuenca;01/04/2025;Cocineta;1;696,46;696,46;José Luis Solórzano
+V01069;Guayaquil;20/08/2025;Refrigeradora;5;300,52;1502,60;Andrés Villón
+V01070;Guayaquil;04/06/2025;Licuadora;4;661,85;2647,40;Ramiro Zambrano;
+V01071;Guayaquil;03/05/2025;Lavadora;2;188,61;377,22;Ramiro Zambrano
+V01072;Guayaquil;27/06/2025;Microondas;2;275,65;551,30;Andrés Villón
+V01073;Cuenca;22/03/2025;4;546,23;2184,92;Gabriela Cárdenas
+V01074;Guayaquil;21/06/2025;Cocineta;4;900,31;3601,24;Andrés Villón
+V01075;Quito;06/07/2025;Batidora;5;723,50;3617,50;Paola Vélez
+V01076;Guayaquil;04/06/2025;Ventilador;3;645,55;1936,65;Paola Vélez
+V01077;Cuenca;07/06/2025;Cocineta;2;449,27;898,54;Fernando Peña
+V01078;Cuenca;19/02/2025;Lavadora;1;258,94;258,94;María José Andrade
+V01079;Cuenca;06/05/2025;Lavadora;3;188,54;565,62;Paola Vélez
+V01080;Guayaquil;14/06/2025;Cocineta;5;422,19;2110,95;Ramiro Zambrano
+V01081;Cuenca;15/07/2025;Batidora;4;344,88;1379,52;Gabriela Cárdenas
+V01082;Quito;17/06/2025;Aire Acondicionado;4;915,64;3662,56;Gabriela Cárdenas
+V01083;Quito;21/04/2025;Batidora;3;308,92;926,76;Ramiro Zambrano
+V01084;Guayaquil;16/03/2025;Licuadora;5;935,28;4676,40;Fernando Peña
+V01085;Cuenca;02/01/2025;Cafetera;3;144,69;434,07;José Luis Solórzano
+V01086;Guayaquil;03/03/2025;Licuadora;1;193,83;193,83;Fernando Peña
+V01087;Cuenca;20/06/2025;Refrigeradora;4;452,43;1809,72;Fernando Peña
+V01088;Quito;26/02/2025;Refrigeradora;4;555,09;2220,36;Gabriela Cárdenas
+V01089;Guayaquil;31/07/2025;Aire Acondicionado;4;441,12;1764,48;Gabriela Cárdenas
+V01090;Guayaquil;23/02/2025;Aire Acondicionado;1;443,66;443,66;José Luis Solórzano
+V01091;Cuenca;04/04/2025;Ventilador;5;601,82;3009,10;Gabriela Cárdenas
+V01092;Cuenca;19/04/2025;Ventilador;2;316,34;632,68;Fernando Peña
+V01093;Guayaquil;23/01/2025;Cafetera;2;250,98;501,96;Gabriela Cárdenas
+V01094;Quito;24/06/2025;Cafetera;1;872,12;872,12;Ramiro Zambrano
+V01095;Quito;01/02/2025;Refrigeradora;5;240,41;1202,05;Lucía Muñoz
+V01096;Cuenca;26/08/2025;Ventilador;4;121,59;486,36;Fernando Peña
+V01097;Quito;25/08/2025;Licuadora;1;482,64;482,64;Gabriela Cárdenas
+V01098;Cuenca;05/07/2025;Aire Acondicionado;4;47,83;191,32;Gabriela Cárdenas
+V01099;Quito;13/01/2025;Refrigeradora;5;220,23;1101,15;Paola Vélez
+V01100;Guayaquil;15/03/2025;Lavadora;1;855,66;855,66;Fernando Peña
+V01101;Quito;06/01/2025;Licuadora;2;255,79;511,58;María José Andrade
+V01102;Quito;07/01/2025;Lavadora;5;161,98;809,90;Fernando Peña
+V01103;Quito;02/05/2025;Microondas;2;285,72;571,44;Fernando Peña
+V01104;Cuenca;31/01/2025;Refrigeradora;3;432,29;1296,87;María José Andrade
+V01105;Quito;18/02/2025;Microondas;2;481,93;963,86;José Luis Solórzano
+V01106;Cuenca;25/05/2025;Cafetera;2;477,55;955,10;Paola Vélez
+V01107;Guayaquil;09/01/2025;Licuadora;4;812,25;3249,00;Andrés Villón
+V01108;Quito;08/02/2025;Microondas;1;313,50;313,50;Andrés Villón
+V01109;Guayaquil;01/03/2025;Batidora;3;865,77;2597,31;Paola Vélez
+V01110;Guayaquil;17/08/2025;Televisión;1;617,99;617,99;José Luis Solórzano
+V01111;Quito;23/04/2025;Refrigeradora;3;453,48;1360,44;María José Andrade
+V01112;Quito;21/08/2025;Televisión;1;377,30;377,30;Fernando Peña
+V01113;Guayaquil;04/07/2025;Microondas;2;443,11;886,22;Lucía Muñoz
+V01114;Guayaquil;04/01/2025;Licuadora;2;835,16;1670,32;Lucía Muñoz
+V01115;Cuenca;01/04/2025;Aire Acondicionado;4;865,28;3461,12;Ramiro Zambrano
+V01116;Guayaquil;26/06/2025;Cocineta;2;538,83;1077,66;María José Andrade
+V01117;Guayaquil;08/05/2025;Ventilador;4;95,41;381,64;Gabriela Cárdenas
+V01118;Guayaquil;05/07/2025;Ventilador;1;421,72;421,72;Lucía Muñoz
+V01119;Cuenca;28/03/2025;Batidora;3;107,73;323,19;María José Andrade
+V01120;Cuenca;11/06/2025;Licuadora;3;53,56;160,68;Lucía Muñoz
+V01121;Cuenca;12/07/2025;Televisión;1;705,38;705,38;Lucía Muñoz
+V01122;Quito;13/04/2025;Aire Acondicionado;4;816,68;3266,72;Andrés Villón
+V01123;Quito;30/05/2025;Cocineta;4;695,54;2782,16;Lucía Muñoz
+V01124;Quito;19/05/2025;Lavadora;3;120,22;360,66;Gabriela Cárdenas
+V01125;Guayaquil;20/01/2025;Cafetera;4;152,57;610,28;Paola Vélez
+V01126;Cuenca;01/04/2025;Ventilador;4;924,41;3697,64;José Luis Solórzano
+V01127;Cuenca;30/04/2025;Cocineta;5;868,41;4342,05;Lucía Muñoz
+V01128;Cuenca;17/07/2025;Refrigeradora;2;510,72;1021,44;Andrés Villón
+V01129;Cuenca;11/07/2025;Cocineta;3;600,33;1800,99;Gabriela Cárdenas
+V01130;Cuenca;24/06/2025;Televisión;5;97,87;489,35;María José Andrade
+V01131;Quito;30/01/2025;Licuadora;2;478,98;957,96;Andrés Villón
+V01132;Cuenca;28/01/2025;Televisión;3;220,19;660,57;Paola Vélez
+V01133;Guayaquil;08/06/2025;Aire Acondicionado;3;877,24;2631,72;Fernando Peña
+V01134;Guayaquil;08/08/2025;Refrigeradora;2;88,02;176,04;Paola Vélez
+V01135;Cuenca;21/05/2025;Televisión;3;583,61;1750,83;Paola Vélez
+V01136;Cuenca;09/04/2025;Microondas;5;767,68;3838,40;Fernando Peña
+V01137;Guayaquil;15/01/2025;Lavadora;3;703,61;2110,83;María José Andrade
+V01138;Cuenca;09/04/2025;Aire Acondicionado;2;879,29;1758,58;Lucía Muñoz
+V01139;Cuenca;12/08/2025;Cafetera;5;312,65;1563,25;Lucía Muñoz
+V01140;Guayaquil;15/02/2025;Batidora;5;202,96;1014,80;Gabriela Cárdenas
+V01141;Guayaquil;13/04/2025;Ventilador;1;630,35;630,35;José Luis Solórzano
+V01142;Quito;19/07/2025;Microondas;5;552,07;2760,35;Gabriela Cárdenas
+V01143;Cuenca;19/01/2025;Cafetera;4;309,09;1236,36;Andrés Villón
+V01144;Quito;12/02/2025;Cocineta;5;119,06;595,30;Ramiro Zambrano;
+V01145;Guayaquil;19/04/2025;Cocineta;2;750,60;1501,20;José Luis Solórzano
+V01146;Guayaquil;08/07/2025;Licuadora;5;830,58;4152,90;Gabriela Cárdenas
+V01147;Guayaquil;02/05/2025;Refrigeradora;4;218,18;872,72;José Luis Solórzano
+V01148;Quito;Microondas;2;549,70;1099,40;Lucía Muñoz
+V01149;Quito;06/01/2025;Licuadora;4;515,78;2063,12;Gabriela Cárdenas
+V01150;Quito;02/07/2025;Batidora;4;229,02;916,08;Lucía Muñoz
+V01151;Cuenca;22/03/2025;Refrigeradora;2;35,53;71,06;Gabriela Cárdenas
+V01152;Cuenca;01/07/2025;Televisión;1;688,30;688,30;Paola Vélez
+V01153;Guayaquil;07/08/2025;Refrigeradora;3;190,30;570,90;Gabriela Cárdenas
+V01154;Quito;17/01/2025;Ventilador;1;510,39;510,39;Ramiro Zambrano
+V01155;Quito;22/03/2025;Batidora;5;860,23;4301,15;Lucía Muñoz
+V01156;Quito;10/06/2025;Cocineta;4;774,65;3098,60;Lucía Muñoz
+V01157;Guayaquil;04/06/2025;Cocineta;2;114,17;228,34;Andrés Villón
+V01158;Cuenca;30/01/2025;Cafetera;3;938,62;2815,86;Ramiro Zambrano
+V01159;Quito;06/07/2025;Refrigeradora;2;878,49;1756,98;Gabriela Cárdenas
+V01160;Guayaquil;08/02/2025;Lavadora;4;757,79;3031,16;Lucía Muñoz
+V01161;Guayaquil;26/05/2025;Licuadora;2;346,93;693,86;Andrés Villón
+V01162;Guayaquil;22/07/2025;Microondas;1;474,62;474,62;María José Andrade
+V01163;Guayaquil;15/07/2025;Microondas;1;851,85;851,85;María José Andrade
+V01164;Cuenca;18/05/2025;Licuadora;2;255,99;511,98;Gabriela Cárdenas
+V01165;Quito;24/01/2025;Refrigeradora;1;810,24;810,24;María José Andrade
+V01166;Guayaquil;07/01/2025;Cafetera;2;232,51;465,02;María José Andrade
+V01167;Quito;21/05/2025;Refrigeradora;4;477,65;1910,60;Fernando Peña
+V01168;Guayaquil;26/03/2025;Cafetera;2;804,43;1608,86;Ramiro Zambrano
+V01169;Quito;18/01/2025;Cocineta;1;796,73;796,73;José Luis Solórzano
+V01170;Guayaquil;26/08/2025;Microondas;4;699,29;2797,16;José Luis Solórzano
+V01171;Cuenca;19/05/2025;Licuadora;2;483,92;967,84;Paola Vélez
+V01172;Cuenca;21/03/2025;Microondas;4;80,82;323,28;Fernando Peña
+V01173;Cuenca;21/02/2025;Ventilador;5;573,43;2867,15;Andrés Villón
+V01174;Guayaquil;09/08/2025;Cafetera;1;484,19;484,19;María José Andrade
+V01175;Cuenca;22/03/2025;Batidora;5;878,88;4394,40;Lucía Muñoz
+V01176;Quito;01/06/2025;Aire Acondicionado;3;220,51;661,53;Paola Vélez
+V01177;Cuenca;23/04/2025;Batidora;4;388,15;1552,60;Ramiro Zambrano
+V01178;Quito;20/02/2025;Lavadora;3;768,02;2304,06;José Luis Solórzano
+V01179;Cuenca;02/04/2025;Licuadora;4;455,17;1820,68;José Luis Solórzano
+V01180;Guayaquil;24/01/2025;Cocineta;5;727,51;3637,55;Ramiro Zambrano
+V01181;Guayaquil;11/06/2025;Ventilador;2;857,42;1714,84;Gabriela Cárdenas
+V01182;Guayaquil;24/03/2025;Batidora;1;81,80;81,80;María José Andrade
+V01183;Cuenca;27/08/2025;Refrigeradora;4;435,91;1743,64;Ramiro Zambrano
+V01184;Cuenca;13/03/2025;Batidora;4;51,67;206,68;Fernando Peña
+V01185;Cuenca;24/08/2025;Aire Acondicionado;1;479,34;479,34;Fernando Peña
+V01186;Quito;23/03/2025;Lavadora;2;534,15;1068,30;Fernando Peña
+V01187;Guayaquil;11/02/2025;Televisión;3;475,95;1427,85;José Luis Solórzano;
+V01188;Quito;27/06/2025;Aire Acondicionado;5;156,29;781,45;María José Andrade
+V01189;Guayaquil;12/07/2025;Ventilador;4;606,60;2426,40;Fernando Peña
+V01190;Quito;28/02/2025;Batidora;4;240,22;960,88;Andrés Villón
+V01191;Guayaquil;25/06/2025;Cocineta;5;877,27;4386,35;Fernando Peña
+V01192;Cuenca;24/06/2025;Cafetera;5;573,35;2866,75;José Luis Solórzano
+V01193;Quito;29/04/2025;Cafetera;5;815,90;4079,50;José Luis Solórzano
+V01194;Guayaquil;23/07/2025;Cafetera;3;599,43;1798,29;Fernando Peña
+V01195;Cuenca;30/07/2025;Aire Acondicionado;5;50,61;253,05;Gabriela Cárdenas
+V01196;Guayaquil;12/06/2025;Batidora;5;343,34;1716,70;Lucía Muñoz
+V01197;Cuenca;15/05/2025;Microondas;4;493,14;1972,56;María José Andrade
+V01198;Cuenca;21/04/2025;Cafetera;1;105,99;105,99;Gabriela Cárdenas
+V01199;Cuenca;03/07/2025;Microondas;5;921,65;4608,25;José Luis Solórzano
+V01200;Quito;19/06/2025;Microondas;5;658,35;3291,75;Ramiro Zambrano
+V01201;Cuenca;24/01/2025;Cocineta;2;739,46;1478,92;Paola Vélez
+V01202;Quito;07/05/2025;Batidora;5;760,11;3800,55;María José Andrade
+V01203;Quito;23/08/2025;Televisión;5;176,09;880,45;Fernando Peña
+V01204;Cuenca;26/07/2025;Cafetera;4;764,85;3059,40;Paola Vélez
+V01205;Guayaquil;25/04/2025;Ventilador;5;814,33;4071,65;María José Andrade
+V01206;Guayaquil;31/05/2025;Televisión;3;126,60;379,80;José Luis Solórzano
+V01207;Quito;23/07/2025;Licuadora;1;936,26;936,26;Ramiro Zambrano
+V01208;Guayaquil;26/08/2025;Refrigeradora;2;142,69;285,38;Fernando Peña
+V01209;Cuenca;31/03/2025;Aire Acondicionado;3;867,95;2603,85;Fernando Peña
+V01210;Quito;15/03/2025;Lavadora;1;40,72;40,72;Paola Vélez
+V01211;Guayaquil;10/05/2025;Cafetera;1;534,69;534,69;Gabriela Cárdenas
+V01212;Cuenca;01/01/2025;Cafetera;2;79,03;158,06;Fernando Peña
+V01213;Guayaquil;17/03/2025;Ventilador;3;698,35;2095,05;María José Andrade
+V01214;Quito;24/01/2025;Cocineta;1;451,59;451,59;María José Andrade
+V01215;Quito;23/06/2025;Licuadora;1;835,66;835,66;Gabriela Cárdenas
+V01216;Cuenca;10/02/2025;Ventilador;3;567,86;1703,58;Fernando Peña
+V01217;Cuenca;15/04/2025;Refrigeradora;4;699,78;2799,12;Andrés Villón
+V01218;Guayaquil;23/01/2025;Cafetera;1;710,72;710,72;Gabriela Cárdenas
+V01219;Guayaquil;13/07/2025;Batidora;3;309,75;929,25;Andrés Villón
+V01220;Cuenca;03/01/2025;Cocineta;4;331,90;1327,60;Fernando Peña
+V01221;Quito;09/05/2025;Refrigeradora;2;553,89;1107,78;Gabriela Cárdenas
+V01222;Guayaquil;09/03/2025;Refrigeradora;2;938,60;1877,20;Andrés Villón
+V01223;Guayaquil;10/05/2025;Televisión;3;412,32;1236,96;Ramiro Zambrano
+V01224;Cuenca;13/07/2025;Lavadora;2;53,26;106,52;Andrés Villón
+V01225;Guayaquil;28/07/2025;Licuadora;2;762,98;1525,96;Gabriela Cárdenas
+V01226;Cuenca;07/02/2025;Batidora;2;425,52;851,04;Ramiro Zambrano
+V01227;Guayaquil;27/05/2025;Ventilador;4;433,77;1735,08;Paola Vélez
+V01228;Quito;02/05/2025;Televisión;3;397,27;1191,81;María José Andrade
+V01229;Quito;20/01/2025;Cocineta;4;587,23;2348,92;Fernando Peña
+V01230;Cuenca;Ventilador;3;815,78;2447,34;Fernando Peña
+V01231;Cuenca;22/08/2025;Microondas;2;717,46;1434,92;Andrés Villón
+V01232;Guayaquil;17/03/2025;Cafetera;2;120,95;241,90;Paola Vélez
+V01233;Cuenca;07/08/2025;Refrigeradora;3;140,92;Andrés Villón
+V01234;Quito;10/02/2025;Aire Acondicionado;5;882,51;4412,55;Fernando Peña
+V01235;Quito;17/04/2025;Refrigeradora;1;782,82;782,82;María José Andrade
+V01236;Cuenca;25/07/2025;Ventilador;1;380,03;380,03;Ramiro Zambrano
+V01237;Cuenca;05/08/2025;Batidora;2;94,19;188,38;Ramiro Zambrano
+V01238;Quito;01/05/2025;Aire Acondicionado;1;911,87;911,87;Ramiro Zambrano
+V01239;Cuenca;16/03/2025;Refrigeradora;1;913,30;913,30;María José Andrade
+V01240;Cuenca;25/03/2025;Aire Acondicionado;2;594,59;1189,18;Fernando Peña
+V01241;Quito;23/03/2025;Batidora;1;736,73;736,73;Gabriela Cárdenas
+V01242;Guayaquil;30/01/2025;Microondas;1;709,14;709,14;Gabriela Cárdenas
+V01243;Cuenca;02/07/2025;Refrigeradora;1;612,87;612,87;Paola Vélez
+V01244;Cuenca;17/05/2025;Lavadora;3;935,60;2806,80;Gabriela Cárdenas
+V01245;Guayaquil;18/07/2025;Batidora;1;178,18;178,18;Gabriela Cárdenas
+V01246;Cuenca;14/02/2025;Cafetera;4;855,53;3422,12;Lucía Muñoz
+V01247;Guayaquil;02/04/2025;Microondas;1;373,55;373,55;José Luis Solórzano
+V01248;Quito;12/04/2025;Ventilador;1;378,30;378,30;Paola Vélez
+V01249;Cuenca;20/03/2025;Televisión;1;872,69;872,69;Lucía Muñoz
+V01250;Cuenca;15/04/2025;Microondas;4;872,34;3489,36;Paola Vélez
+V01251;Quito;07/06/2025;Televisión;4;108,81;435,24;Lucía Muñoz
+V01252;Guayaquil;31/07/2025;Aire Acondicionado;1;385,05;385,05;Gabriela Cárdenas
+V01253;Guayaquil;25/01/2025;Cafetera;1;57,38;57,38;Fernando Peña
+V01254;Cuenca;29/03/2025;Microondas;3;646,07;1938,21;Ramiro Zambrano
+V01255;Guayaquil;19/07/2025;Microondas;3;560,79;1682,37;Fernando Peña
+V01256;Quito;05/02/2025;Cocineta;2;369,39;738,78;José Luis Solórzano
+V01257;Cuenca;25/05/2025;Cafetera;4;568,71;2274,84;Lucía Muñoz
+V01258;Cuenca;10/04/2025;Batidora;2;667,38;1334,76;José Luis Solórzano
+V01259;Guayaquil;13/01/2025;Microondas;1;736,17;736,17;Lucía Muñoz
+V01260;Guayaquil;04/07/2025;Televisión;1;869,99;869,99;Paola Vélez
+V01261;Guayaquil;20/01/2025;Licuadora;3;356,53;1069,59;Gabriela Cárdenas
+V01262;Guayaquil;21/02/2025;Aire Acondicionado;3;894,76;2684,28;José Luis Solórzano
+V01263;Cuenca;30/06/2025;Cafetera;5;72,82;364,10;Gabriela Cárdenas
+V01264;Guayaquil;24/06/2025;Cafetera;5;676,53;3382,65;María José Andrade
+V01265;Guayaquil;29/05/2025;Televisión;4;113,99;455,96;Fernando Peña
+V01266;Quito;30/06/2025;Licuadora;2;192,70;385,40;Ramiro Zambrano
+V01267;Quito;10/01/2025;Cocineta;4;151,51;606,04;Paola Vélez
+V01268;Guayaquil;05/02/2025;Cocineta;2;875,65;1751,30;Ramiro Zambrano
+V01269;Cuenca;28/08/2025;Refrigeradora;2;40,04;80,08;Fernando Peña
+V01270;Quito;13/03/2025;Cocineta;5;540,18;2700,90;Paola Vélez
+V01271;Guayaquil;05/04/2025;Refrigeradora;1;640,67;640,67;Fernando Peña
+V01272;Quito;03/04/2025;Batidora;5;31,96;159,80;Andrés Villón
+V01273;Quito;29/04/2025;Refrigeradora;4;258,00;1032,00;Gabriela Cárdenas
+V01274;Quito;28/07/2025;Batidora;1;78,42;78,42;Fernando Peña
+V01275;Quito;17/03/2025;Televisión;4;312,88;1251,52;Ramiro Zambrano
+V01276;Quito;11/07/2025;Cocineta;3;120,98;362,94;María José Andrade
+V01277;Cuenca;07/07/2025;Lavadora;4;879,17;3516,68;Lucía Muñoz
+V01278;Guayaquil;07/01/2025;Aire Acondicionado;4;309,40;1237,60;Gabriela Cárdenas
+V01279;Guayaquil;14/08/2025;Aire Acondicionado;4;588,64;2354,56;Fernando Peña
+V01280;Cuenca;13/03/2025;Cafetera;3;219,09;657,27;Andrés Villón
+V01281;Guayaquil;18/08/2025;Lavadora;2;122,55;245,10;Gabriela Cárdenas
+V01282;Cuenca;09/08/2025;Lavadora;4;492,03;1968,12;Fernando Peña
+V01283;Cuenca;03/05/2025;Lavadora;4;590,57;2362,28;Fernando Peña
+V01284;Cuenca;19/02/2025;Aire Acondicionado;1;170,03;170,03;Fernando Peña
+V01285;Cuenca;02/02/2025;Refrigeradora;2;908,41;1816,82;Lucía Muñoz
+V01286;Cuenca;25/06/2025;Televisión;1;308,67;308,67;Gabriela Cárdenas
+V01287;Cuenca;03/01/2025;Televisión;3;551,33;1653,99;José Luis Solórzano
+V01288;Quito;02/06/2025;Cafetera;1;466,94;466,94;María José Andrade
+V01289;Quito;13/05/2025;Licuadora;2;938,57;1877,14;Andrés Villón
+V01290;Cuenca;28/05/2025;Cocineta;2;171,80;343,60;Gabriela Cárdenas
+V01291;Cuenca;09/04/2025;Refrigeradora;3;302,41;907,23;Gabriela Cárdenas
+V01292;Guayaquil;30/06/2025;Televisión;4;616,22;2464,88;María José Andrade
+V01293;Guayaquil;15/06/2025;Ventilador;3;668,39;2005,17;María José Andrade
+V01294;Cuenca;06/08/2025;Microondas;4;545,40;2181,60;Paola Vélez
+V01295;Guayaquil;22/05/2025;Cafetera;1;58,20;58,20;Andrés Villón
+V01296;Quito;22/07/2025;Aire Acondicionado;5;251,12;1255,60;Andrés Villón
+V01297;Quito;26/06/2025;Microondas;5;346,32;1731,60;Ramiro Zambrano
+V01298;Quito;27/08/2025;Televisión;1;545,04;545,04;Ramiro Zambrano
+V01299;Cuenca;30/01/2025;Refrigeradora;2;325,49;650,98;Paola Vélez
+V01300;Guayaquil;06/02/2025;Aire Acondicionado;4;753,24;3012,96;Lucía Muñoz
+V01301;Cuenca;16/02/2025;Refrigeradora;1;949,98;949,98;Fernando Peña
+V01302;Quito;04/05/2025;Aire Acondicionado;5;121,79;608,95;Andrés Villón
+V01303;Cuenca;31/03/2025;Lavadora;2;557,27;1114,54;Gabriela Cárdenas
+V01304;Guayaquil;30/03/2025;Microondas;2;800,07;1600,14;Paola Vélez
+V01305;Quito;10/05/2025;Aire Acondicionado;2;350,52;701,04;Andrés Villón
+V01306;Cuenca;13/06/2025;Televisión;2;319,97;639,94;Paola Vélez
+V01307;Guayaquil;21/05/2025;Refrigeradora;2;204,00;408,00;Paola Vélez
+V01308;Cuenca;03/03/2025;Televisión;5;92,75;463,75;Andrés Villón
+V01309;Quito;27/02/2025;Microondas;2;380,52;761,04;José Luis Solórzano
+V01310;Guayaquil;28/03/2025;Ventilador;3;617,96;1853,88;Andrés Villón
+V01311;Guayaquil;21/08/2025;Aire Acondicionado;1;703,56;703,56;Paola Vélez
+V01312;Quito;21/05/2025;Refrigeradora;3;633,07;1899,21;José Luis Solórzano
+V01313;Cuenca;12/04/2025;Microondas;1;179,61;179,61;Fernando Peña
+V01314;Cuenca;03/06/2025;Batidora;5;354,95;1774,75;José Luis Solórzano
+V01315;Guayaquil;25/06/2025;Batidora;4;857,31;3429,24;José Luis Solórzano
+V01316;Quito;15/05/2025;Aire Acondicionado;3;260,02;780,06;Fernando Peña
+V01317;Guayaquil;13/08/2025;Batidora;5;88,41;442,05;José Luis Solórzano
+V01318;Cuenca;21/05/2025;Batidora;2;817,40;1634,80;Andrés Villón
+V01319;Guayaquil;05/04/2025;Licuadora;5;135,66;678,30;Paola Vélez
+V01320;Cuenca;05/07/2025;Cocineta;1;94,94;94,94;Paola Vélez
+V01321;Cuenca;03/03/2025;Ventilador;4;213,57;854,28;Fernando Peña
+V01322;Quito;26/08/2025;Ventilador;3;620,68;1862,04;Lucía Muñoz
+V01323;Cuenca;17/07/2025;Lavadora;5;537,23;2686,15;Paola Vélez
+V01324;Cuenca;26/05/2025;Licuadora;1;901,95;901,95;José Luis Solórzano
+V01325;Cuenca;02/05/2025;Cocineta;5;333,40;1667,00;Lucía Muñoz
+V01326;Cuenca;08/03/2025;Lavadora;1;439,49;439,49;Gabriela Cárdenas
+V01327;Guayaquil;11/07/2025;Batidora;3;317,07;951,21;María José Andrade
+V01328;Cuenca;26/05/2025;Licuadora;2;533,79;1067,58;José Luis Solórzano
+V01329;Guayaquil;16/04/2025;Licuadora;5;594,25;2971,25;María José Andrade
+V01330;Cuenca;01/03/2025;Microondas;3;879,60;2638,80;Paola Vélez
+V01331;Cuenca;09/08/2025;Ventilador;5;496,04;2480,20;Fernando Peña
+V01332;Quito;21/06/2025;Cafetera;5;280,56;1402,80;Fernando Peña
+V01333;Guayaquil;23/03/2025;Licuadora;5;779,78;3898,90;Gabriela Cárdenas
+V01334;Quito;20/01/2025;Cafetera;3;529,37;1588,11;María José Andrade
+V01335;Guayaquil;29/06/2025;Microondas;3;939,26;2817,78;Andrés Villón
+V01336;Cuenca;28/05/2025;Refrigeradora;4;279,38;1117,52;Gabriela Cárdenas
+V01337;Guayaquil;Televisión;4;845,40;3381,60;Andrés Villón
+V01338;Cuenca;29/07/2025;Televisión;2;920,99;1841,98;Fernando Peña
+V01339;Cuenca;08/02/2025;Batidora;3;499,42;1498,26;Lucía Muñoz
+V01340;Quito;28/07/2025;Cafetera;4;130,30;521,20;José Luis Solórzano
+V01341;Cuenca;29/01/2025;Refrigeradora;3;387,97;1163,91;José Luis Solórzano
+V01342;Cuenca;25/02/2025;Ventilador;5;400,06;2000,30;María José Andrade
+V01343;Quito;06/01/2025;Lavadora;3;491,21;1473,63;María José Andrade
+V01344;Guayaquil;20/05/2025;Televisión;1;209,11;209,11;José Luis Solórzano
+V01345;Quito;19/02/2025;Televisión;5;121,12;605,60;José Luis Solórzano
+V01346;Guayaquil;30/05/2025;Microondas;3;521,80;1565,40;Paola Vélez
+V01347;Quito;23/05/2025;Lavadora;1;927,87;927,87;Fernando Peña
+V01348;Cuenca;15/06/2025;Batidora;4;842,66;3370,64;Andrés Villón
+V01349;Quito;16/02/2025;Microondas;3;928,65;2785,95;María José Andrade
+V01350;Guayaquil;14/01/2025;Licuadora;2;351,77;703,54;Gabriela Cárdenas
+V01351;Guayaquil;06/05/2025;Licuadora;2;618,65;1237,30;Lucía Muñoz
+V01352;Guayaquil;21/02/2025;Televisión;4;823,49;3293,96;Andrés Villón
+V01353;Cuenca;12/07/2025;Televisión;2;913,33;1826,66;Ramiro Zambrano
+V01354;Guayaquil;19/01/2025;Cafetera;3;165,65;496,95;Lucía Muñoz
+V01355;Quito;09/03/2025;Refrigeradora;3;106,82;320,46;María José Andrade
+V01356;Cuenca;13/06/2025;Lavadora;3;27,76;83,28;Gabriela Cárdenas
+V01357;Guayaquil;06/06/2025;Televisión;5;823,37;4116,85;María José Andrade
+V01358;Guayaquil;20/04/2025;Licuadora;1;763,21;763,21;Gabriela Cárdenas
+V01359;Guayaquil;07/03/2025;Microondas;5;781,89;3909,45;Ramiro Zambrano
+V01360;Guayaquil;18/01/2025;Cafetera;3;788,84;2366,52;José Luis Solórzano
+V01361;Quito;11/07/2025;Aire Acondicionado;5;938,66;4693,30;Paola Vélez
+V01362;Guayaquil;08/04/2025;Cafetera;2;104,02;208,04;Lucía Muñoz
+V01363;Cuenca;10/02/2025;Licuadora;5;237,88;1189,40;Andrés Villón
+V01364;Cuenca;25/05/2025;Licuadora;3;419,41;1258,23;Andrés Villón
+V01365;Guayaquil;01/08/2025;Licuadora;3;829,72;2489,16;Fernando Peña
+V01366;Quito;25/04/2025;Batidora;1;674,27;674,27;Ramiro Zambrano
+V01367;Guayaquil;Cafetera;5;507,67;2538,35;Fernando Peña
+V01368;Cuenca;05/06/2025;Microondas;5;456,51;2282,55;Fernando Peña
+V01369;Quito;16/06/2025;Microondas;1;65,89;65,89;Ramiro Zambrano
+V01370;Guayaquil;15/05/2025;Televisión;1;63,86;63,86;Gabriela Cárdenas
+V01371;Guayaquil;06/06/2025;Aire Acondicionado;4;61,90;247,60;Gabriela Cárdenas
+V01372;Cuenca;17/08/2025;Cafetera;5;158,91;794,55;Ramiro Zambrano
+V01373;Guayaquil;15/06/2025;Televisión;3;396,33;1188,99;Gabriela Cárdenas
+V01374;Cuenca;20/04/2025;Microondas;3;25,94;77,82;Andrés Villón
+V01375;Quito;12/06/2025;Cocineta;3;687,04;2061,12;Andrés Villón
+V01376;Guayaquil;23/02/2025;Refrigeradora;3;390,54;1171,62;María José Andrade
+V01377;Quito;01/05/2025;Batidora;3;136,84;410,52;José Luis Solórzano
+V01378;Cuenca;18/08/2025;Aire Acondicionado;1;795,42;795,42;María José Andrade
+V01379;Cuenca;24/02/2025;Microondas;3;884,86;2654,58;Gabriela Cárdenas
+V01380;Guayaquil;23/05/2025;Batidora;5;235,65;1178,25;María José Andrade
+V01381;Cuenca;09/07/2025;Licuadora;1;752,11;752,11;José Luis Solórzano
+V01382;Quito;17/05/2025;Cafetera;3;53,81;161,43;Ramiro Zambrano
+V01383;Cuenca;06/07/2025;Licuadora;4;196,70;786,80;Lucía Muñoz
+V01384;Cuenca;22/05/2025;Licuadora;4;864,16;3456,64;Fernando Peña
+V01385;Quito;23/07/2025;Cafetera;4;823,18;3292,72;Lucía Muñoz
+V01386;Cuenca;21/08/2025;Cocineta;1;733,75;733,75;Andrés Villón
+V01387;Cuenca;08/01/2025;Refrigeradora;688,44;2065,32;Lucía Muñoz
+V01388;Quito;24/05/2025;Batidora;4;903,80;3615,20;Fernando Peña
+V01389;Guayaquil;22/04/2025;Licuadora;1;665,00;665,00;Fernando Peña
+V01390;Cuenca;16/05/2025;Batidora;5;456,65;2283,25;María José Andrade
+V01391;Guayaquil;06/04/2025;Licuadora;5;947,87;4739,35;Andrés Villón
+V01392;Quito;02/06/2025;Ventilador;5;776,98;3884,90;Paola Vélez
+V01393;Cuenca;22/04/2025;Refrigeradora;5;191,54;957,70;Lucía Muñoz
+V01394;Cuenca;01/02/2025;Lavadora;3;599,76;1799,28;Andrés Villón
+V01395;Guayaquil;28/03/2025;Aire Acondicionado;2;522,47;1044,94;Fernando Peña
+V01396;Guayaquil;25/01/2025;Aire Acondicionado;1;191,12;191,12;Paola Vélez
+V01397;Cuenca;10/02/2025;Refrigeradora;5;68,13;340,65;María José Andrade
+V01398;Cuenca;21/03/2025;Refrigeradora;4;712,09;2848,36;Lucía Muñoz
+V01399;Guayaquil;09/06/2025;Televisión;4;784,64;3138,56;José Luis Solórzano
+V01400;Quito;18/02/2025;Microondas;2;929,43;1858,86;Ramiro Zambrano
+V01401;Quito;08/04/2025;Refrigeradora;4;866,75;3467,00;Gabriela Cárdenas
+V01402;Guayaquil;22/08/2025;Ventilador;5;795,88;3979,40;Ramiro Zambrano
+V01403;Guayaquil;27/04/2025;Cafetera;2;402,70;805,40;Fernando Peña
+V01404;Quito;02/05/2025;Refrigeradora;3;547,91;1643,73;Ramiro Zambrano
+V01405;Guayaquil;07/06/2025;Batidora;168,98;506,94;Fernando Peña
+V01406;Cuenca;16/07/2025;Batidora;2;145,09;290,18;Paola Vélez
+V01407;Cuenca;01/07/2025;Licuadora;5;44,37;221,85;Gabriela Cárdenas
+V01408;Cuenca;13/03/2025;Ventilador;1;643,43;643,43;Fernando Peña
+Guayaquil;04/08/2025;Licuadora;5;45,65;228,25;María José Andrade
+V01410;Cuenca;24/05/2025;Lavadora;3;628,64;1885,92;Lucía Muñoz
+V01411;Quito;09/07/2025;Aire Acondicionado;2;437,96;875,92;Lucía Muñoz
+V01412;Cuenca;30/05/2025;Televisión;1;915,52;915,52;Lucía Muñoz
+V01413;Guayaquil;09/05/2025;Televisión;3;829,62;2488,86;Lucía Muñoz
+V01414;Guayaquil;22/08/2025;Cafetera;2;376,73;753,46;Fernando Peña
+V01415;Quito;26/01/2025;Lavadora;3;573,74;1721,22;Ramiro Zambrano
+V01416;Cuenca;11/06/2025;Licuadora;2;357,12;714,24;Ramiro Zambrano
+V01417;Cuenca;28/08/2025;Televisión;1;944,37;944,37;Andrés Villón
+V01418;Cuenca;05/04/2025;Aire Acondicionado;4;63,15;252,60;Fernando Peña
+V01419;Cuenca;19/05/2025;Aire Acondicionado;5;737,17;3685,85;Fernando Peña
+V01420;Quito;03/04/2025;Licuadora;2;649,46;1298,92;María José Andrade
+V01421;Cuenca;18/08/2025;Cocineta;4;758,22;3032,88;Fernando Peña;
+V01422;Guayaquil;19/06/2025;Cafetera;5;781,42;3907,10;José Luis Solórzano
+V01423;Quito;10/08/2025;Ventilador;3;169,46;508,38;María José Andrade
+V01424;Guayaquil;01/02/2025;Televisión;3;339,95;1019,85;María José Andrade
+V01425;Cuenca;31/07/2025;Batidora;1;189,86;189,86;Lucía Muñoz
+V01426;Guayaquil;15/02/2025;Lavadora;2;611,58;1223,16;Fernando Peña
+V01427;Quito;15/01/2025;Batidora;5;653,67;3268,35;José Luis Solórzano
+V01428;Quito;26/08/2025;Refrigeradora;5;96,45;482,25;Andrés Villón
+V01429;Quito;16/06/2025;Televisión;5;36,90;184,50;Andrés Villón
+V01430;Cuenca;20/03/2025;Cocineta;2;563,49;1126,98;María José Andrade
+V01431;Cuenca;14/01/2025;Televisión;2;237,55;475,10;María José Andrade
+V01432;Cuenca;24/04/2025;Batidora;5;77,34;386,70;Ramiro Zambrano
+V01433;Guayaquil;08/04/2025;Televisión;1;80,89;80,89;Paola Vélez
+V01434;Guayaquil;28/01/2025;Cocineta;1;170,44;170,44;Fernando Peña
+V01435;Guayaquil;15/02/2025;Lavadora;4;690,21;2760,84;Paola Vélez
+V01436;Guayaquil;20/03/2025;Aire Acondicionado;4;500,90;2003,60;José Luis Solórzano
+V01437;Guayaquil;24/05/2025;Batidora;1;92,80;92,80;Ramiro Zambrano
+V01438;Guayaquil;23/04/2025;Batidora;4;925,80;3703,20;Paola Vélez
+V01439;Cuenca;14/08/2025;Televisión;5;497,22;2486,10;Gabriela Cárdenas
+V01440;Cuenca;11/06/2025;Lavadora;4;411,69;1646,76;Andrés Villón;
+V01441;Guayaquil;11/02/2025;Microondas;1;58,99;58,99;Gabriela Cárdenas
+V01442;Cuenca;08/05/2025;Televisión;1;837,31;837,31;Gabriela Cárdenas
+V01443;Quito;24/03/2025;Aire Acondicionado;5;824,80;4124,00;Paola Vélez
+V01444;Cuenca;25/06/2025;Licuadora;4;561,66;2246,64;Andrés Villón
+V01445;Quito;01/03/2025;Cafetera;4;337,91;1351,64;Gabriela Cárdenas
+V01446;Cuenca;24/02/2025;Refrigeradora;5;59,72;298,60;Fernando Peña
+V01447;Cuenca;02/06/2025;Cocineta;5;730,76;3653,80;Paola Vélez
+V01448;Quito;03/02/2025;Batidora;4;617,79;2471,16;Ramiro Zambrano
+V01449;Guayaquil;14/04/2025;Batidora;4;402,31;1609,24;Paola Vélez
+V01450;Quito;08/04/2025;Cocineta;2;425,64;851,28;José Luis Solórzano
+V01451;Quito;19/05/2025;Cafetera;3;727,16;2181,48;María José Andrade
+V01452;Quito;12/04/2025;Ventilador;2;318,07;636,14;José Luis Solórzano
+V01453;Guayaquil;03/04/2025;Ventilador;2;946,24;1892,48;Lucía Muñoz
+V01454;Quito;23/05/2025;Refrigeradora;4;740,39;2961,56;Lucía Muñoz
+V01455;Cuenca;05/03/2025;Lavadora;5;504,45;2522,25;Fernando Peña
+V01456;Guayaquil;08/02/2025;Aire Acondicionado;3;390,74;1172,22;Andrés Villón
+V01457;Guayaquil;22/03/2025;Ventilador;3;223,27;669,81;Lucía Muñoz
+V01458;Guayaquil;22/03/2025;Refrigeradora;1;547,10;547,10;Fernando Peña
+V01459;Cuenca;21/01/2025;Aire Acondicionado;5;251,07;1255,35;Ramiro Zambrano
+V01460;Guayaquil;11/02/2025;Lavadora;4;712,54;2850,16;Andrés Villón
+V01461;Cuenca;14/01/2025;Batidora;1;56,77;56,77;Lucía Muñoz
+V01462;Guayaquil;09/05/2025;Cafetera;4;866,07;3464,28;María José Andrade
+V01463;Guayaquil;27/03/2025;Lavadora;2;180,31;360,62;Ramiro Zambrano
+V01464;Cuenca;02/08/2025;Ventilador;4;136,20;544,80;Paola Vélez
+V01465;Quito;25/05/2025;Ventilador;2;85,13;170,26;María José Andrade
+V01466;Guayaquil;03/06/2025;Licuadora;1;620,07;620,07;Lucía Muñoz
+V01467;Guayaquil;15/08/2025;Refrigeradora;1;413,00;413,00;Andrés Villón
+V01468;Quito;26/06/2025;Refrigeradora;2;444,08;888,16;María José Andrade
+V01469;Quito;15/07/2025;Televisión;3;936,19;2808,57;Gabriela Cárdenas
+V01470;Cuenca;05/05/2025;Batidora;3;625,60;1876,80;María José Andrade
+V01471;Guayaquil;23/07/2025;Aire Acondicionado;5;718,09;3590,45;Fernando Peña
+V01472;Cuenca;17/01/2025;Televisión;3;287,97;863,91;Ramiro Zambrano
+V01473;Guayaquil;29/01/2025;Aire Acondicionado;4;793,70;3174,80;Paola Vélez
+V01474;Cuenca;27/05/2025;Ventilador;3;774,71;2324,13;Paola Vélez
+V01475;Quito;05/04/2025;Refrigeradora;1;523,02;523,02;Ramiro Zambrano
+V01476;Cuenca;11/01/2025;Refrigeradora;5;24,12;120,60;Lucía Muñoz
+V01477;Cuenca;06/07/2025;Licuadora;3;116,73;350,19;Fernando Peña
+V01478;Quito;27/05/2025;Batidora;4;492,93;1971,72;Ramiro Zambrano
+V01479;Quito;22/08/2025;Licuadora;1;215,45;215,45;Fernando Peña
+V01480;Cuenca;29/05/2025;Ventilador;4;509,77;2039,08;José Luis Solórzano
+V01481;Cuenca;11/07/2025;Televisión;2;456,32;912,64;Gabriela Cárdenas
+V01482;Cuenca;21/02/2025;Cocineta;2;172,06;344,12;Andrés Villón
+V01483;Guayaquil;21/07/2025;Cafetera;4;659,53;2638,12;Fernando Peña
+V01484;Quito;07/08/2025;Refrigeradora;4;881,05;3524,20;Fernando Peña
+V01485;Cuenca;23/06/2025;Licuadora;5;545,38;2726,90;Fernando Peña
+V01486;Quito;13/05/2025;Ventilador;5;317,81;1589,05;Fernando Peña
+V01487;Guayaquil;08/03/2025;Batidora;5;762,55;3812,75;Fernando Peña
+V01488;Guayaquil;27/04/2025;Licuadora;4;246,41;985,64;Ramiro Zambrano
+V01489;Quito;14/04/2025;Cafetera;5;95,68;478,40;Andrés Villón
+V01490;Guayaquil;16/05/2025;Batidora;4;337,56;1350,24;María José Andrade
+V01491;Quito;07/02/2025;Refrigeradora;2;78,54;157,08;Lucía Muñoz
+V01492;Quito;30/01/2025;Licuadora;5;357,03;1785,15;José Luis Solórzano
+V01493;Cuenca;19/07/2025;Microondas;1;473,45;473,45;José Luis Solórzano
+V01494;Cuenca;13/05/2025;Cafetera;3;311,65;934,95;Ramiro Zambrano
+V01495;Cuenca;27/08/2025;Cafetera;4;143,17;572,68;Gabriela Cárdenas
+V01496;Cuenca;01/01/2025;Cafetera;2;300,11;600,22;María José Andrade
+V01497;Guayaquil;23/05/2025;Lavadora;5;463,04;2315,20;Ramiro Zambrano
+V01498;Quito;09/06/2025;Ventilador;3;807,58;2422,74;José Luis Solórzano
+V01499;Cuenca;30/04/2025;Microondas;2;399,19;798,38;José Luis Solórzano
+V01500;Guayaquil;27/02/2025;Aire Acondicionado;2;693,19;1386,38;Ramiro Zambrano
+V01501;Guayaquil;14/03/2025;Microondas;3;933,06;2799,18;Lucía Muñoz
+V01502;Quito;08/07/2025;Cafetera;3;776,71;2330,13;Gabriela Cárdenas
+V01503;Guayaquil;19/08/2025;Cafetera;1;824,79;824,79;Andrés Villón
+V01504;Quito;25/04/2025;Batidora;5;801,44;4007,20;Andrés Villón
+V01505;Cuenca;24/01/2025;Microondas;1;166,80;166,80;Ramiro Zambrano
+V01506;Cuenca;19/02/2025;Aire Acondicionado;1;254,80;254,80;Andrés Villón
+V01507;Cuenca;05/06/2025;Refrigeradora;2;746,75;1493,50;Gabriela Cárdenas
+V01508;Cuenca;16/01/2025;Batidora;2;224,22;448,44;María José Andrade
+V01509;Cuenca;12/08/2025;Aire Acondicionado;2;202,29;404,58;Paola Vélez;
+V01510;Quito;13/04/2025;Licuadora;5;637,26;3186,30;Andrés Villón
+V01511;Quito;24/05/2025;Cocineta;1;501,81;501,81;José Luis Solórzano;
+V01512;Quito;27/05/2025;Batidora;2;464,61;929,22;Gabriela Cárdenas
+V01513;Quito;15/01/2025;Televisión;3;130,85;392,55;Fernando Peña
+V01514;Quito;19/02/2025;Licuadora;4;230,78;923,12;Fernando Peña
+V01515;Quito;02/07/2025;Televisión;3;656,25;1968,75;Fernando Peña
+V01516;Guayaquil;12/01/2025;Cafetera;5;291,18;1455,90;Andrés Villón
+V01517;Quito;17/04/2025;Ventilador;3;76,28;228,84;Andrés Villón
+V01518;Guayaquil;03/02/2025;Licuadora;1;323,27;323,27;Lucía Muñoz
+V01519;Quito;23/02/2025;Cafetera;2;296,75;593,50;Lucía Muñoz
+V01520;Quito;06/02/2025;Lavadora;1;521,52;521,52;Andrés Villón
+V01521;Quito;21/07/2025;Cafetera;3;315,38;946,14;Lucía Muñoz
+V01522;Quito;04/08/2025;Aire Acondicionado;4;823,62;3294,48;Ramiro Zambrano
+V01523;Guayaquil;03/08/2025;Licuadora;5;632,38;3161,90;Ramiro Zambrano
+V01524;Quito;14/03/2025;Ventilador;3;150,73;452,19;José Luis Solórzano
+V01525;Cuenca;12/03/2025;Televisión;4;446,30;1785,20;Lucía Muñoz
+V01526;Quito;02/01/2025;Microondas;1;924,45;924,45;Gabriela Cárdenas
+V01527;Cuenca;19/02/2025;Microondas;2;625,87;1251,74;José Luis Solórzano
+V01528;Cuenca;06/08/2025;Cocineta;4;494,64;1978,56;Fernando Peña
+V01529;Cuenca;12/04/2025;Batidora;4;925,45;3701,80;Gabriela Cárdenas
+V01530;Quito;15/08/2025;Ventilador;4;22,80;91,20;Fernando Peña
+V01531;Quito;23/05/2025;Aire Acondicionado;1;903,84;903,84;José Luis Solórzano
+V01532;Cuenca;16/05/2025;Televisión;2;181,44;362,88;Lucía Muñoz
+V01533;Quito;14/03/2025;Microondas;2;746,10;1492,20;Lucía Muñoz
+V01534;Cuenca;10/06/2025;Refrigeradora;3;291,31;873,93;María José Andrade
+V01535;Guayaquil;13/03/2025;Lavadora;2;204,93;409,86;José Luis Solórzano
+V01536;Quito;04/06/2025;Ventilador;3;241,62;724,86;José Luis Solórzano
+V01537;Quito;01/04/2025;Licuadora;3;216,32;648,96;Fernando Peña
+V01538;Quito;01/05/2025;Microondas;5;241,37;1206,85;María José Andrade
+V01539;Guayaquil;02/03/2025;Refrigeradora;4;371,44;1485,76;Fernando Peña
+V01540;Quito;28/05/2025;Licuadora;2;567,97;1135,94;Ramiro Zambrano
+V01541;Quito;18/08/2025;Licuadora;2;914,19;1828,38;Andrés Villón
+V01542;Quito;06/02/2025;Microondas;5;881,09;4405,45;Andrés Villón
+V01543;Guayaquil;06/07/2025;Cafetera;4;875,13;3500,52;Andrés Villón
+V01544;Quito;18/05/2025;Microondas;3;186,76;560,28;Paola Vélez
+V01545;Cuenca;08/05/2025;Aire Acondicionado;2;210,13;420,26;María José Andrade
+V01546;Cuenca;16/03/2025;Cafetera;1;355,21;355,21;José Luis Solórzano
+V01547;Cuenca;05/05/2025;Ventilador;3;422,17;1266,51;José Luis Solórzano
+V01548;Cuenca;03/04/2025;Televisión;1;783,10;783,10;Andrés Villón
+V01549;Quito;26/06/2025;Cafetera;5;674,30;3371,50;Lucía Muñoz
+V01550;Guayaquil;20/08/2025;Microondas;1;432,89;432,89;Andrés Villón
+V01551;Quito;04/01/2025;Cafetera;4;151,98;607,92;Fernando Peña
+V01552;Cuenca;27/07/2025;Batidora;4;374,75;1499,00;Fernando Peña
+V01553;Guayaquil;11/04/2025;Cafetera;3;170,10;510,30;Fernando Peña
+V01554;Guayaquil;03/08/2025;Cafetera;3;191,57;574,71;Ramiro Zambrano
+V01555;Guayaquil;18/03/2025;Batidora;4;431,99;1727,96;Paola Vélez
+V01556;Cuenca;01/04/2025;Microondas;5;152,42;762,10;Andrés Villón
+V01557;Quito;29/06/2025;Microondas;4;34,64;138,56;Lucía Muñoz
+V01558;Cuenca;05/06/2025;Licuadora;2;145,70;291,40;Fernando Peña
+V01559;Quito;11/01/2025;Cocineta;1;686,67;686,67;Andrés Villón
+V01560;Cuenca;18/01/2025;Lavadora;1;59,98;59,98;Andrés Villón
+V01561;Cuenca;28/07/2025;Cafetera;4;274,71;1098,84;Paola Vélez
+V01562;Cuenca;24/01/2025;Televisión;1;573,28;573,28;Gabriela Cárdenas
+V01563;Cuenca;14/03/2025;Televisión;4;420,35;1681,40;María José Andrade
+V01564;Guayaquil;28/08/2025;Ventilador;1;496,51;496,51;Gabriela Cárdenas
+V01565;Guayaquil;21/05/2025;Cafetera;1;398,02;398,02;Ramiro Zambrano
+V01566;Cuenca;30/05/2025;Microondas;2;49,30;98,60;Ramiro Zambrano
+V01567;Guayaquil;15/02/2025;Microondas;2;428,35;856,70;José Luis Solórzano
+V01568;Quito;27/06/2025;Refrigeradora;1;51,55;51,55;Lucía Muñoz
+V01569;Cuenca;25/04/2025;Batidora;5;296,18;1480,90;Ramiro Zambrano
+V01570;Quito;13/01/2025;Licuadora;1;513,59;513,59;Paola Vélez
+V01571;Guayaquil;09/07/2025;Cocineta;4;386,12;1544,48;Paola Vélez
+V01572;Guayaquil;21/06/2025;Televisión;3;544,31;1632,93;Gabriela Cárdenas
+V01573;Guayaquil;03/07/2025;Televisión;1;761,76;761,76;Paola Vélez
+V01574;Cuenca;29/06/2025;Ventilador;5;348,40;1742,00;Paola Vélez
+V01575;Quito;03/04/2025;Ventilador;5;447,71;2238,55;Andrés Villón
+V01576;Guayaquil;02/07/2025;Batidora;3;533,31;1599,93;Andrés Villón
+V01577;Guayaquil;26/07/2025;Cafetera;1;71,62;71,62;Gabriela Cárdenas
+V01578;Quito;14/01/2025;Refrigeradora;5;748,86;3744,30;Ramiro Zambrano
+V01579;Quito;28/02/2025;Cocineta;1;665,17;665,17;María José Andrade
+V01580;Quito;29/03/2025;Lavadora;2;118,73;237,46;Andrés Villón
+V01581;Guayaquil;10/08/2025;Microondas;5;333,99;1669,95;Lucía Muñoz
+V01582;Cuenca;25/05/2025;Televisión;1;818,32;818,32;Ramiro Zambrano
+V01583;Quito;23/04/2025;Batidora;1;18,78;18,78;Gabriela Cárdenas
+V01584;Guayaquil;20/02/2025;Batidora;3;505,95;1517,85;Andrés Villón
+V01585;Guayaquil;27/07/2025;Licuadora;3;389,08;1167,24;Lucía Muñoz
+V01586;Cuenca;10/05/2025;Microondas;3;656,74;1970,22;Gabriela Cárdenas
+V01587;Guayaquil;25/05/2025;Ventilador;1;774,48;774,48;Fernando Peña
+V01588;Guayaquil;06/03/2025;Microondas;1;56,46;56,46;José Luis Solórzano
+V01589;Cuenca;04/05/2025;Cocineta;1;579,87;579,87;Ramiro Zambrano
+V01590;Cuenca;11/04/2025;Batidora;3;649,19;1947,57;Gabriela Cárdenas
+V01591;Quito;31/05/2025;Ventilador;2;254,74;509,48;María José Andrade
+V01592;Cuenca;08/01/2025;Cocineta;1;490,70;490,70;Fernando Peña
+V01593;Quito;06/04/2025;Aire Acondicionado;2;373,66;747,32;Fernando Peña
+V01594;Quito;26/06/2025;Televisión;5;18,11;90,55;María José Andrade
+V01595;Guayaquil;04/04/2025;Aire Acondicionado;4;71,35;285,40;José Luis Solórzano
+V01596;Cuenca;28/05/2025;Ventilador;2;800,30;1600,60;Ramiro Zambrano
+V01597;Cuenca;25/07/2025;Lavadora;4;109,28;437,12;Gabriela Cárdenas
+V01598;Cuenca;21/06/2025;Ventilador;4;33,07;132,28;Paola Vélez
+V01599;Quito;28/05/2025;Refrigeradora;3;203,61;610,83;Fernando Peña
+V01600;Quito;05/07/2025;Aire Acondicionado;2;144,11;288,22;Andrés Villón
+V01601;Guayaquil;22/07/2025;Aire Acondicionado;2;627,34;1254,68;Fernando Peña
+V01602;Guayaquil;26/03/2025;Batidora;3;97,26;291,78;Lucía Muñoz
+V01603;Cuenca;20/02/2025;Licuadora;2;515,00;1030,00;María José Andrade
+V01604;Quito;11/02/2025;Cocineta;4;853,52;3414,08;Ramiro Zambrano
+V01605;Quito;19/08/2025;Batidora;1;74,78;74,78;Lucía Muñoz
+V01606;Guayaquil;11/03/2025;Televisión;1;320,98;320,98;Paola Vélez
+V01607;Cuenca;04/06/2025;Ventilador;4;561,98;2247,92;Ramiro Zambrano;
+V01608;Guayaquil;15/08/2025;Batidora;4;657,64;2630,56;Paola Vélez
+V01609;Guayaquil;07/06/2025;Batidora;3;205,08;615,24;Lucía Muñoz
+V01610;Cuenca;05/05/2025;Aire Acondicionado;1;513,14;513,14;José Luis Solórzano
+V01611;Cuenca;27/06/2025;Lavadora;5;788,63;3943,15;Lucía Muñoz
+V01612;Quito;30/01/2025;Aire Acondicionado;4;333,04;1332,16;Gabriela Cárdenas
+V01613;Cuenca;18/01/2025;Microondas;3;866,32;2598,96;Ramiro Zambrano
+V01614;Cuenca;01/01/2025;Ventilador;3;64,23;192,69;Paola Vélez
+V01615;Cuenca;17/03/2025;Cocineta;5;437,54;2187,70;Gabriela Cárdenas
+V01616;Cuenca;19/03/2025;Cafetera;4;117,75;471,00;Paola Vélez
+V01617;Guayaquil;08/08/2025;Batidora;3;817,98;2453,94;Fernando Peña
+V01618;Quito;09/02/2025;Refrigeradora;2;930,66;1861,32;María José Andrade
+V01619;Guayaquil;11/05/2025;Televisión;1;317,71;317,71;Paola Vélez
+V01620;Cuenca;04/01/2025;Refrigeradora;5;516,07;2580,35;José Luis Solórzano
+V01621;Quito;24/06/2025;Batidora;2;733,86;1467,72;Lucía Muñoz
+V01622;Guayaquil;26/04/2025;Microondas;5;506,77;2533,85;Lucía Muñoz
+V01623;Guayaquil;24/03/2025;Cafetera;3;413,97;1241,91;Paola Vélez
+V01624;Guayaquil;29/06/2025;Batidora;2;306,92;613,84;María José Andrade
+V01625;Guayaquil;27/06/2025;Televisión;3;198,98;596,94;Ramiro Zambrano
+V01626;Quito;04/01/2025;Licuadora;1;688,33;688,33;Paola Vélez
+V01627;Cuenca;19/01/2025;Aire Acondicionado;1;906,40;906,40;Fernando Peña
+V01628;Quito;30/04/2025;Ventilador;3;772,68;2318,04;Paola Vélez
+V01629;Guayaquil;05/07/2025;Aire Acondicionado;1;352,94;352,94;Gabriela Cárdenas
+V01630;Cuenca;24/02/2025;Refrigeradora;4;266,85;1067,40;Paola Vélez
+V01631;Cuenca;10/04/2025;Cafetera;3;806,72;2420,16;Andrés Villón
+V01632;Quito;06/03/2025;Microondas;4;537,01;2148,04;Andrés Villón
+V01633;Quito;03/02/2025;Refrigeradora;3;252,57;757,71;María José Andrade
+V01634;Cuenca;17/05/2025;Cafetera;5;356,10;1780,50;José Luis Solórzano
+V01635;Quito;23/03/2025;Lavadora;4;822,97;3291,88;María José Andrade
+V01636;Cuenca;26/08/2025;Cafetera;2;390,59;781,18;Gabriela Cárdenas
+V01637;Quito;18/06/2025;Microondas;5;237,21;1186,05;María José Andrade
+V01638;Guayaquil;17/06/2025;Licuadora;4;716,71;2866,84;Paola Vélez
+V01639;Guayaquil;30/07/2025;Televisión;1;527,31;527,31;José Luis Solórzano
+V01640;Quito;31/03/2025;Ventilador;1;701,27;701,27;Andrés Villón
+V01641;Guayaquil;06/07/2025;Aire Acondicionado;2;884,37;1768,74;Andrés Villón
+V01642;Guayaquil;03/03/2025;Ventilador;2;96,02;192,04;Paola Vélez
+V01643;Cuenca;16/06/2025;Refrigeradora;1;449,01;449,01;María José Andrade
+V01644;Quito;28/01/2025;Ventilador;2;695,31;1390,62;Fernando Peña
+V01645;Quito;04/01/2025;Batidora;5;364,30;1821,50;Ramiro Zambrano
+V01646;Quito;02/02/2025;Ventilador;5;681,86;3409,30;Paola Vélez
+V01647;Guayaquil;15/08/2025;Cafetera;4;118,14;472,56;Gabriela Cárdenas
+V01648;Quito;30/05/2025;Cafetera;3;839,45;2518,35;María José Andrade
+V01649;Guayaquil;26/07/2025;Cafetera;3;667,24;2001,72;María José Andrade
+V01650;Guayaquil;12/08/2025;Televisión;3;640,66;1921,98;Paola Vélez
+V01651;Guayaquil;30/05/2025;Lavadora;2;330,80;661,60;Andrés Villón
+V01652;Guayaquil;08/05/2025;Microondas;5;772,98;3864,90;Paola Vélez
+V01653;Cuenca;24/05/2025;Cafetera;5;215,93;1079,65;José Luis Solórzano
+V01654;Cuenca;01/06/2025;Batidora;3;103,78;311,34;Paola Vélez
+V01655;Quito;09/05/2025;Cafetera;3;357,99;1073,97;María José Andrade
+V01656;Cuenca;23/07/2025;Aire Acondicionado;4;322,85;1291,40;Fernando Peña
+V01657;Guayaquil;23/08/2025;Refrigeradora;2;112,22;224,44;Ramiro Zambrano
+V01658;Quito;13/06/2025;Microondas;1;294,28;294,28;Andrés Villón
+V01659;Quito;18/06/2025;Microondas;1;535,90;535,90;María José Andrade
+V01660;Guayaquil;18/05/2025;Cafetera;5;860,97;4304,85;Gabriela Cárdenas
+V01661;Cuenca;31/03/2025;Ventilador;1;130,41;130,41;Gabriela Cárdenas
+V01662;Quito;02/06/2025;Licuadora;2;61,86;123,72;Fernando Peña
+V01663;Quito;12/04/2025;Ventilador;5;102,75;513,75;María José Andrade
+V01664;Guayaquil;16/01/2025;Cocineta;2;371,41;742,82;Andrés Villón
+V01665;Guayaquil;17/02/2025;Licuadora;1;96,98;96,98;Lucía Muñoz
+V01666;Cuenca;26/05/2025;Batidora;1;793,81;793,81;Lucía Muñoz
+V01667;Guayaquil;01/02/2025;Refrigeradora;4;290,06;1160,24;Fernando Peña
+V01668;Cuenca;28/07/2025;Televisión;1;747,30;747,30;Ramiro Zambrano
+V01669;Guayaquil;25/06/2025;Microondas;2;411,64;823,28;Ramiro Zambrano
+V01670;Quito;18/07/2025;Cocineta;5;828,24;4141,20;Paola Vélez
+V01671;Guayaquil;28/04/2025;Licuadora;1;44,54;44,54;Gabriela Cárdenas
+V01672;Guayaquil;16/02/2025;Licuadora;1;463,53;463,53;María José Andrade
+V01673;Quito;25/02/2025;Cafetera;4;782,11;3128,44;Fernando Peña
+V01674;Cuenca;03/06/2025;Batidora;3;793,26;2379,78;Paola Vélez
+V01675;Quito;22/04/2025;Cafetera;4;22,22;88,88;Fernando Peña
+V01676;Guayaquil;16/08/2025;Cafetera;3;238,90;716,70;Ramiro Zambrano
+V01677;Guayaquil;25/05/2025;Ventilador;5;452,14;2260,70;María José Andrade
+V01678;Quito;22/01/2025;Aire Acondicionado;2;512,83;1025,66;José Luis Solórzano
+V01679;Quito;10/02/2025;Microondas;3;17,32;51,96;Lucía Muñoz
+V01680;Cuenca;20/04/2025;Aire Acondicionado;4;21,70;86,80;Ramiro Zambrano
+V01681;Cuenca;13/03/2025;Microondas;3;379,68;1139,04;José Luis Solórzano
+V01682;Quito;05/03/2025;Lavadora;3;184,24;552,72;Andrés Villón
+V01683;Cuenca;05/04/2025;Refrigeradora;4;662,77;2651,08;Andrés Villón
+V01684;Guayaquil;24/05/2025;Cafetera;1;247,33;247,33;Fernando Peña
+V01685;Cuenca;17/07/2025;Licuadora;5;386,75;1933,75;Paola Vélez
+V01686;Guayaquil;19/02/2025;Refrigeradora;4;638,98;2555,92;María José Andrade
+V01687;Cuenca;20/04/2025;Aire Acondicionado;5;641,15;3205,75;Gabriela Cárdenas
+V01688;Guayaquil;06/03/2025;Cocineta;5;24,95;124,75;Lucía Muñoz
+V01689;Guayaquil;15/04/2025;Batidora;2;136,77;273,54;Lucía Muñoz
+V01690;Quito;19/04/2025;Cocineta;1;725,96;725,96;María José Andrade
+V01691;Guayaquil;28/06/2025;Televisión;2;860,58;1721,16;José Luis Solórzano
+V01692;Cuenca;30/03/2025;Licuadora;4;411,73;1646,92;Paola Vélez
+V01693;Guayaquil;19/08/2025;Microondas;1;205,06;205,06;Fernando Peña
+V01694;Cuenca;28/05/2025;Aire Acondicionado;5;567,95;2839,75;Fernando Peña
+V01695;Cuenca;17/04/2025;Cocineta;2;632,53;1265,06;Lucía Muñoz
+V01696;Guayaquil;12/03/2025;Microondas;5;437,36;2186,80;Gabriela Cárdenas
+V01697;Guayaquil;16/08/2025;Televisión;1;52,93;52,93;Fernando Peña
+V01698;Guayaquil;02/01/2025;Microondas;1;185,32;185,32;Andrés Villón
+V01699;Cuenca;28/01/2025;Refrigeradora;3;720,13;2160,39;Andrés Villón
+V01700;Guayaquil;09/04/2025;Televisión;5;670,69;3353,45;Paola Vélez
+V01701;Cuenca;11/06/2025;Refrigeradora;1;591,17;591,17;María José Andrade
+V01702;Quito;11/05/2025;Televisión;2;829,28;1658,56;Paola Vélez
+V01703;Quito;04/03/2025;Microondas;5;634,81;3174,05;Paola Vélez
+V01704;Guayaquil;06/04/2025;Televisión;4;291,83;1167,32;Paola Vélez
+V01705;Cuenca;04/03/2025;Cocineta;5;925,18;4625,90;María José Andrade
+V01706;Guayaquil;24/02/2025;Batidora;3;940,28;2820,84;Ramiro Zambrano
+V01707;Guayaquil;22/07/2025;Televisión;3;285,25;855,75;María José Andrade
+V01708;Guayaquil;06/06/2025;Cafetera;3;319,27;957,81;María José Andrade
+V01709;Cuenca;22/02/2025;Cafetera;5;102,01;510,05;Fernando Peña
+V01710;Cuenca;05/01/2025;Refrigeradora;2;327,51;655,02;Paola Vélez
+V01711;Guayaquil;26/06/2025;Batidora;5;108,49;542,45;José Luis Solórzano
+V01712;Quito;16/08/2025;Cocineta;5;157,40;787,00;Andrés Villón
+V01713;Quito;26/07/2025;Cafetera;3;816,50;2449,50;Fernando Peña
+V01714;Guayaquil;15/07/2025;Cocineta;2;650,66;1301,32;Lucía Muñoz
+V01715;Quito;06/08/2025;Cafetera;4;488,97;1955,88;José Luis Solórzano
+V01716;Quito;17/05/2025;Licuadora;2;375,25;750,50;Lucía Muñoz
+V01717;Guayaquil;20/05/2025;Lavadora;4;676,79;2707,16;María José Andrade
+V01718;Quito;21/03/2025;Licuadora;5;808,34;4041,70;José Luis Solórzano
+V01719;Guayaquil;12/07/2025;Licuadora;3;916,06;2748,18;María José Andrade
+V01720;Guayaquil;21/02/2025;Cafetera;3;890,59;2671,77;Ramiro Zambrano
+V01721;Quito;15/05/2025;Lavadora;4;396,04;1584,16;Lucía Muñoz
+V01722;Cuenca;14/08/2025;Ventilador;1;792,23;792,23;Andrés Villón
+V01723;Cuenca;02/03/2025;Aire Acondicionado;1;480,77;480,77;María José Andrade
+V01724;Quito;21/06/2025;Ventilador;5;217,10;1085,50;José Luis Solórzano
+V01725;Guayaquil;27/04/2025;Cafetera;5;774,05;3870,25;Lucía Muñoz
+V01726;Cuenca;24/07/2025;Licuadora;2;695,30;1390,60;Paola Vélez
+V01727;Quito;18/03/2025;Microondas;4;733,44;2933,76;José Luis Solórzano
+V01728;Quito;02/03/2025;Ventilador;1;196,84;196,84;Fernando Peña
+V01729;Quito;11/05/2025;Refrigeradora;3;229,55;688,65;Gabriela Cárdenas
+V01730;Cuenca;27/05/2025;Aire Acondicionado;4;235,64;942,56;Gabriela Cárdenas
+V01731;Guayaquil;15/08/2025;Aire Acondicionado;4;71,30;285,20;Lucía Muñoz
+V01732;Cuenca;07/05/2025;Batidora;1;189,90;189,90;Andrés Villón
+V01733;Cuenca;27/02/2025;Cafetera;5;159,23;796,15;Ramiro Zambrano
+V01734;Guayaquil;07/02/2025;Cafetera;5;438,50;2192,50;Ramiro Zambrano
+V01735;Cuenca;22/01/2025;Televisión;5;533,95;2669,75;Andrés Villón
+V01736;Cuenca;08/07/2025;Cocineta;1;879,07;879,07;Andrés Villón
+V01737;Cuenca;24/03/2025;Licuadora;5;807,56;4037,80;Gabriela Cárdenas
+V01738;Guayaquil;30/01/2025;Aire Acondicionado;3;661,77;1985,31;Ramiro Zambrano
+V01739;Cuenca;22/08/2025;Microondas;1;535,27;535,27;Lucía Muñoz
+V01740;Quito;20/02/2025;Televisión;4;458,79;1835,16;Lucía Muñoz
+V01741;Guayaquil;11/07/2025;Televisión;4;671,42;2685,68;José Luis Solórzano
+V01742;Guayaquil;07/03/2025;Batidora;1;741,05;741,05;Gabriela Cárdenas
+V01743;Quito;20/07/2025;Televisión;5;715,74;3578,70;Andrés Villón
+V01744;Cuenca;10/04/2025;Batidora;2;224,10;448,20;Andrés Villón
+V01745;Quito;02/03/2025;Aire Acondicionado;2;295,97;591,94;Paola Vélez
+V01746;Guayaquil;28/07/2025;Lavadora;4;794,22;3176,88;María José Andrade
+V01747;Cuenca;08/01/2025;Televisión;4;123,54;494,16;Paola Vélez
+V01748;Cuenca;10/01/2025;Televisión;2;670,14;1340,28;Ramiro Zambrano
+V01749;Cuenca;27/07/2025;Cafetera;3;466,82;1400,46;Paola Vélez
+V01750;Quito;18/06/2025;Cocineta;3;75,82;227,46;Andrés Villón
+V01751;Quito;29/05/2025;Ventilador;5;97,91;489,55;Lucía Muñoz
+V01752;Cuenca;01/07/2025;Aire Acondicionado;2;513,19;1026,38;Andrés Villón
+V01753;Cuenca;26/07/2025;Refrigeradora;2;615,02;1230,04;Ramiro Zambrano
+V01754;Guayaquil;14/03/2025;Batidora;1;915,47;915,47;Ramiro Zambrano
+V01755;Guayaquil;18/04/2025;Cafetera;4;524,85;2099,40;Lucía Muñoz
+V01756;Cuenca;24/05/2025;Aire Acondicionado;1;362,91;362,91;Gabriela Cárdenas
+V01757;Cuenca;08/03/2025;Microondas;2;127,17;254,34;Gabriela Cárdenas
+V01758;Cuenca;05/08/2025;Lavadora;5;727,09;3635,45;José Luis Solórzano
+V01759;Cuenca;14/06/2025;Batidora;1;905,90;905,90;María José Andrade
+V01760;Cuenca;03/05/2025;Cafetera;5;846,58;4232,90;José Luis Solórzano
+V01761;Guayaquil;21/08/2025;Cafetera;3;754,13;2262,39;María José Andrade
+V01762;Guayaquil;05/02/2025;Cocineta;1;121,47;121,47;María José Andrade
+V01763;Quito;11/04/2025;Cafetera;1;559,91;559,91;Gabriela Cárdenas
+V01764;Quito;27/03/2025;Ventilador;2;590,15;1180,30;José Luis Solórzano
+V01765;Quito;28/06/2025;Ventilador;2;736,73;1473,46;María José Andrade
+V01766;Quito;30/01/2025;Cafetera;4;556,89;2227,56;Lucía Muñoz
+V01767;Quito;23/05/2025;Lavadora;2;589,78;1179,56;Ramiro Zambrano
+V01768;Guayaquil;22/06/2025;Licuadora;1;862,61;862,61;Gabriela Cárdenas
+V01769;Guayaquil;24/04/2025;Lavadora;3;74,16;222,48;María José Andrade
+V01770;Guayaquil;16/03/2025;Aire Acondicionado;3;689,89;2069,67;Ramiro Zambrano
+V01771;Quito;20/04/2025;Aire Acondicionado;1;819,21;819,21;Fernando Peña
+V01772;Guayaquil;07/02/2025;Ventilador;1;116,09;116,09;Gabriela Cárdenas
+V01773;Cuenca;15/06/2025;Lavadora;5;430,04;2150,20;Fernando Peña
+V01774;Guayaquil;19/05/2025;Televisión;1;333,60;333,60;Gabriela Cárdenas
+V01775;Quito;23/04/2025;Ventilador;4;179,91;719,64;Lucía Muñoz
+V01776;Cuenca;30/05/2025;Televisión;5;285,19;1425,95;Gabriela Cárdenas
+V01777;Quito;14/05/2025;Lavadora;4;298,21;1192,84;Paola Vélez
+V01778;Cuenca;06/05/2025;Batidora;5;188,29;941,45;María José Andrade
+V01779;Quito;16/07/2025;Refrigeradora;1;274,86;274,86;María José Andrade
+V01780;Guayaquil;05/06/2025;Refrigeradora;3;129,93;389,79;Ramiro Zambrano
+V01781;Quito;19/06/2025;Televisión;5;381,37;1906,85;Gabriela Cárdenas
+V01782;Quito;09/03/2025;Refrigeradora;1;372,52;372,52;Andrés Villón
+V01783;Guayaquil;08/02/2025;Cocineta;1;556,78;556,78;Andrés Villón
+V01784;Cuenca;04/05/2025;Aire Acondicionado;3;654,02;1962,06;Lucía Muñoz
+V01785;Quito;16/04/2025;Batidora;1;129,60;129,60;Gabriela Cárdenas
+V01786;Guayaquil;20/02/2025;Ventilador;3;91,53;274,59;Ramiro Zambrano
+V01787;Cuenca;13/06/2025;Licuadora;2;296,99;593,98;Gabriela Cárdenas
+V01788;Cuenca;11/07/2025;Batidora;4;412,78;1651,12;Andrés Villón
+V01789;Quito;03/08/2025;Lavadora;3;470,92;1412,76;María José Andrade
+V01790;Guayaquil;14/02/2025;Microondas;3;435,49;1306,47;Paola Vélez
+V01791;Quito;10/06/2025;Microondas;5;480,01;2400,05;Fernando Peña
+V01792;Cuenca;07/06/2025;Cocineta;4;99,87;399,48;José Luis Solórzano
+V01793;Cuenca;18/04/2025;Cocineta;2;344,66;689,32;María José Andrade
+V01794;Cuenca;09/02/2025;Batidora;2;458,68;917,36;Gabriela Cárdenas
+V01795;Quito;21/01/2025;Aire Acondicionado;1;680,75;680,75;Fernando Peña
+V01796;Quito;24/08/2025;Cocineta;5;186,56;932,80;Paola Vélez
+V01797;Quito;28/04/2025;Cocineta;5;834,83;4174,15;María José Andrade
+V01798;Cuenca;30/01/2025;Lavadora;3;79,44;238,32;José Luis Solórzano
+V01799;Cuenca;06/01/2025;Licuadora;3;179,40;538,20;Lucía Muñoz
+V01800;Guayaquil;25/08/2025;Cocineta;3;541,32;1623,96;Andrés Villón
+V01801;Guayaquil;02/02/2025;Cocineta;2;153,97;307,94;Lucía Muñoz
+V01802;Quito;22/06/2025;Cafetera;4;158,64;634,56;Lucía Muñoz
+V01803;Cuenca;04/01/2025;Refrigeradora;2;368,93;737,86;Fernando Peña
+V01804;Quito;18/04/2025;Licuadora;2;335,88;671,76;José Luis Solórzano
+V01805;Cuenca;09/06/2025;Cafetera;1;821,35;821,35;Ramiro Zambrano
+V01806;Guayaquil;01/08/2025;Refrigeradora;4;82,04;328,16;Lucía Muñoz
+V01807;Quito;09/04/2025;Televisión;3;216,79;650,37;Paola Vélez
+V01808;Quito;29/06/2025;Lavadora;3;889,06;2667,18;José Luis Solórzano
+V01809;Quito;12/08/2025;Licuadora;5;347,68;1738,40;José Luis Solórzano
+V01810;Guayaquil;12/06/2025;Microondas;3;351,45;1054,35;Andrés Villón
+V01811;Cuenca;25/03/2025;Aire Acondicionado;5;136,10;680,50;Fernando Peña
+V01812;Quito;16/06/2025;Refrigeradora;2;389,73;779,46;Ramiro Zambrano
+V01813;Guayaquil;11/07/2025;Ventilador;5;640,06;3200,30;José Luis Solórzano
+V01814;Quito;23/03/2025;Batidora;3;578,48;1735,44;José Luis Solórzano
+V01815;Cuenca;24/06/2025;Batidora;3;56,56;169,68;Paola Vélez
+V01816;Guayaquil;18/06/2025;Cocineta;2;362,36;724,72;Ramiro Zambrano
+V01817;Cuenca;03/05/2025;Licuadora;3;659,53;1978,59;Gabriela Cárdenas
+V01818;Quito;13/04/2025;Lavadora;5;937,37;4686,85;José Luis Solórzano
+V01819;Quito;11/04/2025;Ventilador;2;767,18;1534,36;Andrés Villón
+V01820;Cuenca;12/05/2025;Microondas;1;133,94;133,94;Paola Vélez
+V01821;Cuenca;02/08/2025;Microondas;5;510,69;2553,45;Ramiro Zambrano
+V01822;Cuenca;03/06/2025;Refrigeradora;1;467,00;467,00;María José Andrade
+V01823;Guayaquil;04/08/2025;Cocineta;5;667,99;3339,95;Ramiro Zambrano
+V01824;Guayaquil;02/02/2025;Ventilador;5;486,09;2430,45;Ramiro Zambrano
+V01825;Cuenca;13/01/2025;Batidora;2;143,82;287,64;Andrés Villón
+V01826;Guayaquil;15/07/2025;Aire Acondicionado;4;353,52;1414,08;Andrés Villón
+V01827;Cuenca;08/02/2025;Lavadora;4;907,33;3629,32;José Luis Solórzano
+V01828;Quito;18/02/2025;Aire Acondicionado;5;905,89;4529,45;María José Andrade
+V01829;Quito;03/01/2025;Batidora;3;740,72;2222,16;José Luis Solórzano
+V01830;Guayaquil;13/04/2025;Televisión;5;639,26;3196,30;Fernando Peña
+V01831;Cuenca;20/03/2025;Televisión;4;492,99;1971,96;Andrés Villón
+V01832;Guayaquil;11/05/2025;Lavadora;3;847,94;2543,82;Fernando Peña
+V01833;Guayaquil;07/04/2025;Batidora;1;199,33;199,33;Andrés Villón
+V01834;Cuenca;27/06/2025;Microondas;1;543,45;543,45;Andrés Villón
+V01835;Quito;08/04/2025;Aire Acondicionado;1;335,25;335,25;Gabriela Cárdenas
+V01836;Guayaquil;21/05/2025;Cafetera;3;799,68;2399,04;Ramiro Zambrano
+V01837;Cuenca;12/08/2025;Aire Acondicionado;4;106,79;427,16;Ramiro Zambrano
+V01838;Guayaquil;06/07/2025;Batidora;5;806,96;4034,80;Gabriela Cárdenas
+V01839;Guayaquil;27/07/2025;Batidora;4;609,14;2436,56;Fernando Peña
+V01840;Cuenca;25/01/2025;Cocineta;3;302,50;907,50;Fernando Peña
+V01841;Quito;20/04/2025;Ventilador;5;243,19;1215,95;María José Andrade
+V01842;Quito;06/06/2025;Cocineta;2;856,57;1713,14;Paola Vélez
+V01843;Guayaquil;17/05/2025;Refrigeradora;4;144,40;577,60;José Luis Solórzano
+V01844;Cuenca;15/02/2025;Batidora;3;876,59;2629,77;Fernando Peña
+V01845;Guayaquil;24/07/2025;Aire Acondicionado;3;763,28;2289,84;María José Andrade
+V01846;Cuenca;15/07/2025;Cafetera;4;572,18;2288,72;Ramiro Zambrano
+V01847;Quito;04/06/2025;Cocineta;1;836,66;836,66;Gabriela Cárdenas
+V01848;Quito;30/04/2025;Batidora;1;839,83;839,83;Ramiro Zambrano
+V01849;Quito;30/05/2025;Cocineta;4;413,70;1654,80;Lucía Muñoz
+V01850;Cuenca;21/04/2025;Cocineta;1;703,97;703,97;José Luis Solórzano
+V01851;Quito;20/08/2025;Licuadora;2;515,89;1031,78;Paola Vélez
+V01852;Guayaquil;24/04/2025;Aire Acondicionado;5;899,21;4496,05;Paola Vélez
+V01853;Guayaquil;26/06/2025;Refrigeradora;3;261,37;784,11;José Luis Solórzano
+V01854;Cuenca;13/01/2025;Batidora;5;744,23;3721,15;Ramiro Zambrano
+V01855;Cuenca;12/01/2025;Microondas;2;416,97;833,94;Paola Vélez
+V01856;Cuenca;31/03/2025;Ventilador;2;204,19;408,38;Andrés Villón
+V01857;Quito;14/01/2025;Cafetera;2;468,49;936,98;María José Andrade
+V01858;Guayaquil;08/08/2025;Cocineta;1;43,03;43,03;María José Andrade
+V01859;Cuenca;26/04/2025;Microondas;2;476,90;953,80;Paola Vélez
+V01860;Cuenca;25/01/2025;Refrigeradora;3;622,50;1867,50;Paola Vélez
+V01861;Quito;26/04/2025;Aire Acondicionado;3;631,80;1895,40;María José Andrade
+V01862;Guayaquil;15/01/2025;Cocineta;2;879,17;1758,34;José Luis Solórzano
+V01863;Cuenca;21/04/2025;Refrigeradora;4;803,55;3214,20;Gabriela Cárdenas
+V01864;Cuenca;16/01/2025;Aire Acondicionado;2;191,47;382,94;Gabriela Cárdenas
+V01865;Guayaquil;25/08/2025;Cocineta;1;242,43;242,43;María José Andrade
+V01866;Cuenca;22/06/2025;Licuadora;1;420,79;420,79;José Luis Solórzano
+V01867;Cuenca;07/01/2025;Licuadora;5;660,41;3302,05;Paola Vélez
+V01868;Quito;10/08/2025;Cocineta;1;106,29;106,29;Ramiro Zambrano
+V01869;Cuenca;17/03/2025;Cocineta;1;384,66;384,66;Paola Vélez
+V01870;Cuenca;08/05/2025;Cocineta;3;403,87;1211,61;Lucía Muñoz
+V01871;Guayaquil;24/03/2025;Cocineta;5;610,49;3052,45;Andrés Villón
+V01872;Guayaquil;17/03/2025;Microondas;5;844,82;4224,10;Lucía Muñoz
+V01873;Quito;13/03/2025;Televisión;5;57,85;289,25;Ramiro Zambrano
+V01874;Guayaquil;02/08/2025;Licuadora;5;483,18;2415,90;Gabriela Cárdenas
+V01875;Quito;06/06/2025;Cafetera;5;278,36;1391,80;Gabriela Cárdenas
+V01876;Cuenca;10/01/2025;Cafetera;3;659,02;1977,06;Paola Vélez
+V01877;Quito;18/04/2025;Cocineta;2;485,72;971,44;Gabriela Cárdenas
+V01878;Quito;29/06/2025;Televisión;2;800,50;1601,00;Gabriela Cárdenas
+V01879;Cuenca;27/02/2025;Lavadora;2;656,47;1312,94;Lucía Muñoz
+V01880;Quito;16/07/2025;Televisión;3;100,94;302,82;Gabriela Cárdenas
+V01881;Quito;01/01/2025;Cafetera;4;553,82;2215,28;Lucía Muñoz
+V01882;Quito;25/01/2025;Cocineta;1;648,12;648,12;María José Andrade
+V01883;Quito;10/02/2025;Cafetera;4;166,09;664,36;Paola Vélez
+V01884;Guayaquil;27/02/2025;Aire Acondicionado;1;629,44;629,44;María José Andrade
+V01885;Quito;25/07/2025;Lavadora;4;660,97;2643,88;Andrés Villón
+V01886;Quito;21/03/2025;Televisión;2;466,52;933,04;Lucía Muñoz
+V01887;Cuenca;22/02/2025;Batidora;4;216,96;867,84;Ramiro Zambrano
+V01888;Guayaquil;29/07/2025;Lavadora;1;175,47;175,47;Paola Vélez
+V01889;Quito;30/07/2025;Aire Acondicionado;1;258,24;258,24;Lucía Muñoz
+V01890;Guayaquil;08/06/2025;Licuadora;3;881,49;2644,47;José Luis Solórzano
+V01891;Quito;05/06/2025;Cocineta;3;288,14;864,42;Andrés Villón
+V01892;Quito;03/08/2025;Cocineta;3;88,19;264,57;Paola Vélez
+V01893;Cuenca;18/07/2025;Licuadora;3;97,32;291,96;Paola Vélez
+V01894;Cuenca;27/06/2025;Microondas;5;348,72;1743,60;María José Andrade
+V01895;Quito;26/08/2025;Ventilador;5;240,96;1204,80;Paola Vélez
+V01896;Guayaquil;12/02/2025;Licuadora;3;568,39;1705,17;Fernando Peña
+V01897;Cuenca;07/01/2025;Lavadora;3;448,44;1345,32;José Luis Solórzano
+V01898;Quito;06/02/2025;Cocineta;2;709,54;1419,08
+V01899;Guayaquil;06/07/2025;Microondas;1;213,24;213,24;María José Andrade
+V01900;Quito;16/02/2025;Televisión;3;277,52;832,56;Lucía Muñoz
+V01901;Cuenca;25/04/2025;Lavadora;2;216,24;432,48;Gabriela Cárdenas
+V01902;Quito;08/01/2025;Televisión;1;637,82;637,82;María José Andrade
+V01903;Guayaquil;04/06/2025;Cocineta;4;520,46;2081,84;Andrés Villón
+V01904;Guayaquil;09/01/2025;Microondas;4;653,92;2615,68;José Luis Solórzano
+V01905;Cuenca;07/06/2025;Lavadora;5;105,94;529,70;José Luis Solórzano
+V01906;Guayaquil;22/08/2025;Lavadora;3;135,03;405,09;José Luis Solórzano
+V01907;Quito;24/07/2025;Batidora;4;499,24;1996,96;José Luis Solórzano
+V01908;Cuenca;15/01/2025;Refrigeradora;1;825,57;825,57;María José Andrade
+V01909;Guayaquil;07/02/2025;Televisión;5;97,00;485,00;Fernando Peña
+V01910;Guayaquil;06/01/2025;Aire Acondicionado;1;855,22;855,22;José Luis Solórzano
+V01911;Quito;28/06/2025;Batidora;5;383,59;1917,95;Lucía Muñoz
+V01912;Quito;01/02/2025;Ventilador;2;892,13;1784,26;José Luis Solórzano
+V01913;Quito;25/07/2025;Aire Acondicionado;4;820,78;3283,12;Paola Vélez
+V01914;Guayaquil;14/07/2025;Cocineta;1;389,27;389,27;José Luis Solórzano
+V01915;Quito;04/04/2025;Licuadora;4;925,16;3700,64;Lucía Muñoz
+V01916;Guayaquil;01/08/2025;Refrigeradora;4;213,80;855,20;Paola Vélez
+V01917;Quito;02/04/2025;Aire Acondicionado;5;872,13;4360,65;Andrés Villón
+V01918;Quito;05/04/2025;Refrigeradora;3;272,18;816,54;Lucía Muñoz
+V01919;Cuenca;31/05/2025;Microondas;3;2540,73;Andrés Villón
+V01920;Cuenca;08/04/2025;Aire Acondicionado;3;50,28;150,84;José Luis Solórzano
+V01921;Cuenca;13/03/2025;Aire Acondicionado;4;188,85;755,40;Andrés Villón
+V01922;Guayaquil;23/02/2025;Televisión;4;109,28;437,12;María José Andrade
+V01923;Quito;05/03/2025;Ventilador;3;793,93;2381,79;Paola Vélez
+V01924;Cuenca;15/06/2025;Cocineta;2;491,46;982,92;Paola Vélez
+V01925;Cuenca;29/05/2025;Televisión;4;665,26;2661,04;Fernando Peña
+V01926;Quito;01/02/2025;Televisión;5;855,50;4277,50;María José Andrade
+V01927;Quito;04/03/2025;Licuadora;1;665,77;665,77;Gabriela Cárdenas
+V01928;Cuenca;23/01/2025;Microondas;5;805,50;4027,50;Fernando Peña
+V01929;Guayaquil;08/05/2025;Microondas;1;545,66;545,66;Ramiro Zambrano
+V01930;Guayaquil;12/08/2025;Refrigeradora;5;467,65;2338,25;María José Andrade
+V01931;Quito;16/08/2025;Microondas;5;910,82;4554,10;Fernando Peña
+V01932;Guayaquil;19/03/2025;Refrigeradora;4;477,53;1910,12;Ramiro Zambrano
+V01933;Quito;24/01/2025;Aire Acondicionado;1;922,32;922,32;Paola Vélez
+V01934;Quito;17/08/2025;Licuadora;5;306,60;1533,00;Andrés Villón
+V01935;Quito;21/07/2025;Cafetera;5;739,61;3698,05;Ramiro Zambrano
+V01936;Cuenca;12/02/2025;Ventilador;2;786,80;1573,60;Paola Vélez
+V01937;Guayaquil;08/01/2025;Microondas;2;259,22;518,44;Andrés Villón
+V01938;Guayaquil;20/08/2025;Ventilador;3;253,34;760,02;Andrés Villón
+V01939;Quito;20/02/2025;Microondas;5;521,70;2608,50;María José Andrade
+V01940;Cuenca;18/03/2025;Microondas;3;631,19;1893,57;María José Andrade
+V01941;Cuenca;05/08/2025;Cocineta;1;771,14;771,14;José Luis Solórzano
+V01942;Guayaquil;08/04/2025;Cocineta;3;229,20;687,60;Gabriela Cárdenas
+V01943;Guayaquil;04/05/2025;Televisión;5;132,91;664,55;Fernando Peña
+V01944;Guayaquil;05/02/2025;Cocineta;4;96,72;386,88;Ramiro Zambrano
+V01945;Quito;11/04/2025;Licuadora;3;721,65;2164,95;Gabriela Cárdenas
+V01946;Guayaquil;08/08/2025;Cafetera;3;259,32;777,96;Paola Vélez
+V01947;Cuenca;12/08/2025;Cafetera;2;934,49;1868,98;Andrés Villón
+V01948;Quito;05/08/2025;Televisión;2;225,27;450,54;María José Andrade
+V01949;Cuenca;07/05/2025;Televisión;1;202,82;202,82;José Luis Solórzano
+V01950;Guayaquil;25/05/2025;Aire Acondicionado;2;431,16;862,32;Andrés Villón
+V01951;Cuenca;06/07/2025;Ventilador;5;896,69;4483,45;Lucía Muñoz
+V01952;Quito;11/08/2025;Refrigeradora;4;262,09;1048,36;Fernando Peña
+V01953;Quito;13/08/2025;Ventilador;5;237,85;1189,25;Gabriela Cárdenas
+V01954;Guayaquil;24/01/2025;Refrigeradora;4;947,27;3789,08;Fernando Peña;
+V01955;Cuenca;12/04/2025;Aire Acondicionado;5;810,64;4053,20;Gabriela Cárdenas
+V01956;Quito;19/07/2025;Licuadora;3;103,56;310,68;Ramiro Zambrano
+V01957;Quito;04/04/2025;Cocineta;5;578,55;2892,75;Ramiro Zambrano
+V01958;Quito;24/01/2025;Televisión;1;851,59;851,59;Andrés Villón
+V01959;Cuenca;19/03/2025;Televisión;1;476,33;476,33;José Luis Solórzano
+V01960;Guayaquil;19/04/2025;Licuadora;1;290,98;290,98;José Luis Solórzano
+V01961;Guayaquil;11/04/2025;Televisión;5;778,54;3892,70;Andrés Villón
+V01962;Cuenca;03/01/2025;Cafetera;4;582,61;2330,44;Andrés Villón
+V01963;Cuenca;07/03/2025;Batidora;1;809,42;809,42;Paola Vélez
+V01964;Guayaquil;20/01/2025;Refrigeradora;1;101,92;101,92;Gabriela Cárdenas
+V01965;Cuenca;24/02/2025;Batidora;1;594,41;594,41;José Luis Solórzano
+V01966;Cuenca;18/01/2025;Refrigeradora;2;116,38;232,76;Paola Vélez
+V01967;Cuenca;22/06/2025;Refrigeradora;4;236,86;947,44;Ramiro Zambrano
+V01968;Quito;20/03/2025;Aire Acondicionado;1;154,53;154,53;Fernando Peña
+V01969;Quito;21/08/2025;Microondas;1;636,41;636,41;José Luis Solórzano
+V01970;Cuenca;18/08/2025;Ventilador;4;787,15;3148,60;Andrés Villón
+V01971;Cuenca;15/01/2025;Licuadora;4;551,74;2206,96;Andrés Villón
+V01972;Quito;30/06/2025;Ventilador;3;170,64;511,92;Fernando Peña
+V01973;Guayaquil;05/01/2025;Cafetera;1;87,70;87,70;María José Andrade
+V01974;Cuenca;17/02/2025;Cafetera;1;687,46;687,46;José Luis Solórzano
+V01975;Quito;06/08/2025;Batidora;3;783,71;2351,13;Paola Vélez
+V01976;Quito;08/02/2025;Lavadora;5;88,27;441,35;Lucía Muñoz
+V01977;Guayaquil;28/08/2025;Refrigeradora;5;75,37;376,85;Fernando Peña
+V01978;Quito;22/07/2025;Aire Acondicionado;2;488,72;977,44;Gabriela Cárdenas
+V01979;Guayaquil;20/02/2025;Licuadora;2;890,21;1780,42;Fernando Peña
+V01980;Quito;16/03/2025;Cafetera;2;16,30;32,60;Lucía Muñoz
+V01981;Quito;17/08/2025;Cocineta;5;460,68;2303,40;José Luis Solórzano
+V01982;Quito;05/02/2025;Microondas;2;208,00;416,00;Andrés Villón
+V01983;Quito;03/06/2025;Licuadora;5;80,53;402,65;José Luis Solórzano
+V01984;Quito;08/03/2025;Licuadora;1;76,89;76,89;Lucía Muñoz
+V01985;Cuenca;02/08/2025;Batidora;2;645,57;1291,14;Ramiro Zambrano
+V01986;Cuenca;02/04/2025;Refrigeradora;1;442,82;442,82;Fernando Peña
+V01987;Cuenca;12/01/2025;Licuadora;1;591,39;591,39;María José Andrade
+Cuenca;19/08/2025;Cocineta;3;590,66;1771,98;María José Andrade
+V01989;Cuenca;12/03/2025;Cocineta;2;481,66;963,32;Andrés Villón
+V01990;Cuenca;06/02/2025;Ventilador;4;866,99;3467,96;Lucía Muñoz
+V01991;Guayaquil;06/06/2025;Cafetera;5;575,99;2879,95;Paola Vélez
+V01992;Guayaquil;26/06/2025;Cafetera;1;418,47;418,47;Paola Vélez
+V01993;Guayaquil;03/02/2025;Batidora;3;440,81;1322,43;María José Andrade
+V01994;Quito;10/06/2025;Lavadora;1;716,13;716,13;Gabriela Cárdenas
+V01995;Cuenca;28/04/2025;Refrigeradora;2;601,13;1202,26;Andrés Villón
+V01996;Quito;11/07/2025;Cafetera;4;714,25;2857,00;Fernando Peña
+V01997;Cuenca;02/06/2025;Licuadora;3;790,57;2371,71;María José Andrade
+V01998;Quito;18/07/2025;Batidora;5;129,35;646,75;Andrés Villón
+V01999;Quito;08/02/2025;Cocineta;3;853,04;2559,12;María José Andrade
+V02000;Guayaquil;17/04/2025;Cocineta;5;810,36;4051,80;Gabriela Cárdenas
