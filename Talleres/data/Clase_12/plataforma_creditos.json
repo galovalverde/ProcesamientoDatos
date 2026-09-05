@@ -1,0 +1,6003 @@
+{
+  "socios": [
+    {
+      "cedula": "1700000353",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000353-S1",
+          "fecha_solicitud": "2025-08-28",
+          "monto_solicitado": 1285.9,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 887
+        }
+      ]
+    },
+    {
+      "cedula": "0900000077",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000077-S1",
+          "fecha_solicitud": "2024-08-27",
+          "monto_solicitado": 13913.24,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 813
+        }
+      ]
+    },
+    {
+      "cedula": "900000598",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000598-S1",
+          "fecha_solicitud": "2025-08-11",
+          "monto_solicitado": 8956.31,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 699
+        },
+        {
+          "id_solicitud": "900000598-S2",
+          "fecha_solicitud": "2024-12-02",
+          "monto_solicitado": 13436.88,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 505
+        }
+      ]
+    },
+    {
+      "cedula": "0100000365",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000365-S1",
+          "fecha_solicitud": "2024-08-29",
+          "monto_solicitado": 2217.86,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 436
+        },
+        {
+          "id_solicitud": "0100000365-S2",
+          "fecha_solicitud": "2025-09-28",
+          "monto_solicitado": 12057.24,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 758
+        }
+      ]
+    },
+    {
+      "cedula": "0100000242",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000242-S1",
+          "fecha_solicitud": "2024-12-23",
+          "monto_solicitado": 13063.61,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 353
+        },
+        {
+          "id_solicitud": "0100000242-S2",
+          "fecha_solicitud": "2024-06-27",
+          "monto_solicitado": 11857.16,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 696
+        }
+      ]
+    },
+    {
+      "cedula": "0900000131",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000131-S1",
+          "fecha_solicitud": "2024-07-16",
+          "monto_solicitado": 12697.97,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 456
+        }
+      ]
+    },
+    {
+      "cedula": "0100000007",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000007-S1",
+          "fecha_solicitud": "2024-10-10",
+          "monto_solicitado": 1967.22,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 794
+        },
+        {
+          "id_solicitud": "0100000007-S2",
+          "fecha_solicitud": "2025-08-15",
+          "monto_solicitado": 2167.1,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 797
+        }
+      ]
+    },
+    {
+      "cedula": "1700000100",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000100-S1",
+          "fecha_solicitud": "2025-04-02",
+          "monto_solicitado": 4490.99,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 697
+        },
+        {
+          "id_solicitud": "1700000100-S2",
+          "fecha_solicitud": "2024-06-07",
+          "monto_solicitado": 14963.33,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 523
+        },
+        {
+          "id_solicitud": "1700000100-S3",
+          "fecha_solicitud": "2025-10-12",
+          "monto_solicitado": 9771.99,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 761
+        }
+      ]
+    },
+    {
+      "cedula": "1700000047",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000047-S1",
+          "fecha_solicitud": "2025-07-04",
+          "monto_solicitado": 835.41,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 666
+        }
+      ]
+    },
+    {
+      "cedula": "0100000548",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000548-S1",
+          "fecha_solicitud": "2025-09-26",
+          "monto_solicitado": 618.7,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 666
+        }
+      ]
+    },
+    {
+      "cedula": "0100000488",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000488-S1",
+          "fecha_solicitud": "2024-09-16",
+          "monto_solicitado": 8089.71,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 768
+        },
+        {
+          "id_solicitud": "0100000488-S2",
+          "fecha_solicitud": "2024-09-29",
+          "monto_solicitado": 13084.95,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 792
+        }
+      ]
+    },
+    {
+      "cedula": "1700000361",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000361-S1",
+          "fecha_solicitud": "2025-06-13",
+          "monto_solicitado": 13081.73,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 693
+        }
+      ]
+    },
+    {
+      "cedula": "0900000142",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000142-S1",
+          "fecha_solicitud": "2024-09-03",
+          "monto_solicitado": 12229.03,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 320
+        }
+      ]
+    },
+    {
+      "cedula": "0900000337",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000337-S1",
+          "fecha_solicitud": "2025-01-04",
+          "monto_solicitado": 3973.78,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 453
+        }
+      ]
+    },
+    {
+      "cedula": "1700000035",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000035-S1",
+          "fecha_solicitud": "2024-06-15",
+          "monto_solicitado": 8207.93,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 421
+        }
+      ]
+    },
+    {
+      "cedula": "1700000451",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000451-S1",
+          "fecha_solicitud": "2025-06-29",
+          "monto_solicitado": 1528.79,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 704
+        }
+      ]
+    },
+    {
+      "cedula": "0900000041",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000041-S1",
+          "fecha_solicitud": "2025-06-06",
+          "monto_solicitado": 14161.35,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 353
+        },
+        {
+          "id_solicitud": "0900000041-S2",
+          "fecha_solicitud": "2025-08-13",
+          "monto_solicitado": 516.99,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 604
+        }
+      ]
+    },
+    {
+      "cedula": "0100000370",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000370-S1",
+          "fecha_solicitud": "2025-01-07",
+          "monto_solicitado": 4659.3,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 675
+        }
+      ]
+    },
+    {
+      "cedula": "0100000132",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000132-S1",
+          "fecha_solicitud": "2024-06-07",
+          "monto_solicitado": 4467.18,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 640
+        },
+        {
+          "id_solicitud": "0100000132-S2",
+          "fecha_solicitud": "2024-07-09",
+          "monto_solicitado": 5137.92,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 815
+        },
+        {
+          "id_solicitud": "0100000132-S3",
+          "fecha_solicitud": "2025-05-31",
+          "monto_solicitado": 13338.86,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 363
+        }
+      ]
+    },
+    {
+      "cedula": "1700000325",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000325-S1",
+          "fecha_solicitud": "2025-04-26",
+          "monto_solicitado": 646.03,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 395
+        }
+      ]
+    },
+    {
+      "cedula": "100000063",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000063-S1",
+          "fecha_solicitud": "2025-05-29",
+          "monto_solicitado": 13798.17,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 833
+        }
+      ]
+    },
+    {
+      "cedula": "0100000492",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000492-S1",
+          "fecha_solicitud": "2024-09-29",
+          "monto_solicitado": 11465.16,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 585
+        },
+        {
+          "id_solicitud": "0100000492-S2",
+          "fecha_solicitud": "2024-08-18",
+          "monto_solicitado": 5444.76,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 304
+        }
+      ]
+    },
+    {
+      "cedula": "0100000535",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000535-S1",
+          "fecha_solicitud": "2025-01-31",
+          "monto_solicitado": 4755.11,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 695
+        }
+      ]
+    },
+    {
+      "cedula": "0900000054",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000054-S1",
+          "fecha_solicitud": "2024-08-14",
+          "monto_solicitado": 1790.12,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 814
+        }
+      ]
+    },
+    {
+      "cedula": "1700000341",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000341-S1",
+          "fecha_solicitud": "2024-06-08",
+          "monto_solicitado": 6038.97,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 443
+        },
+        {
+          "id_solicitud": "1700000341-S2",
+          "fecha_solicitud": "2024-06-29",
+          "monto_solicitado": 7906.35,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 747
+        }
+      ]
+    },
+    {
+      "cedula": "0900000239",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000239-S1",
+          "fecha_solicitud": "2024-07-09",
+          "monto_solicitado": 14706.33,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 419
+        }
+      ]
+    },
+    {
+      "cedula": "0900000122",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000122-S1",
+          "fecha_solicitud": "2025-01-26",
+          "monto_solicitado": 5516.55,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 823
+        }
+      ]
+    },
+    {
+      "cedula": "0100000085",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000085-S1",
+          "fecha_solicitud": "2025-06-20",
+          "monto_solicitado": 7820.28,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 503
+        }
+      ]
+    },
+    {
+      "cedula": "0900000588",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000588-S1",
+          "fecha_solicitud": "2024-11-24",
+          "monto_solicitado": 14095.92,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 558
+        },
+        {
+          "id_solicitud": "0900000588-S2",
+          "fecha_solicitud": "2025-04-27",
+          "monto_solicitado": 1646.45,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 325
+        }
+      ]
+    },
+    {
+      "cedula": "1700000565",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000565-S1",
+          "fecha_solicitud": "2024-08-15",
+          "monto_solicitado": 6989.32,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 666
+        },
+        {
+          "id_solicitud": "1700000565-S2",
+          "fecha_solicitud": "2025-02-25",
+          "monto_solicitado": 6080.89,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 721
+        }
+      ]
+    },
+    {
+      "cedula": "0100000589",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000589-S1",
+          "fecha_solicitud": "2024-09-29",
+          "monto_solicitado": 6903.45,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 575
+        }
+      ]
+    },
+    {
+      "cedula": "1700000106",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000106-S1",
+          "fecha_solicitud": "2024-11-04",
+          "monto_solicitado": 8103.44,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 738
+        },
+        {
+          "id_solicitud": "1700000106-S2",
+          "fecha_solicitud": "2024-09-12",
+          "monto_solicitado": 14758.41,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 512
+        },
+        {
+          "id_solicitud": "1700000106-S3",
+          "fecha_solicitud": "2024-09-21",
+          "monto_solicitado": 3751.47,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 618
+        }
+      ]
+    },
+    {
+      "cedula": "0900000206",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000206-S1",
+          "fecha_solicitud": "2025-08-07",
+          "monto_solicitado": 6131.24,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 641
+        },
+        {
+          "id_solicitud": "0900000206-S2",
+          "fecha_solicitud": "2025-06-26",
+          "monto_solicitado": 5945.0,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 824
+        }
+      ]
+    },
+    {
+      "cedula": "0100000490",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000490-S1",
+          "fecha_solicitud": "2025-03-14",
+          "monto_solicitado": 7363.26,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 889
+        }
+      ]
+    },
+    {
+      "cedula": "0900000092",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000092-S1",
+          "fecha_solicitud": "2024-07-03",
+          "monto_solicitado": 5433.63,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 502
+        }
+      ]
+    },
+    {
+      "cedula": "0900000400",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000400-S1",
+          "fecha_solicitud": "2025-06-14",
+          "monto_solicitado": 2005.54,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 406
+        }
+      ]
+    },
+    {
+      "cedula": "0100000021",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000021-S1",
+          "fecha_solicitud": "2024-09-22",
+          "monto_solicitado": 1644.38,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 844
+        },
+        {
+          "id_solicitud": "0100000021-S2",
+          "fecha_solicitud": "2025-07-13",
+          "monto_solicitado": 11503.59,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 340
+        }
+      ]
+    },
+    {
+      "cedula": "1700000228",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000228-S1",
+          "fecha_solicitud": "2025-04-02",
+          "monto_solicitado": 3326.5,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 742
+        }
+      ]
+    },
+    {
+      "cedula": "1700000430",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000430-S1",
+          "fecha_solicitud": "2025-04-09",
+          "monto_solicitado": 7147.88,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 779
+        },
+        {
+          "id_solicitud": "1700000430-S2",
+          "fecha_solicitud": "2024-11-04",
+          "monto_solicitado": 10355.97,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 820
+        }
+      ]
+    },
+    {
+      "cedula": "0900000243",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000243-S1",
+          "fecha_solicitud": "2025-09-02",
+          "monto_solicitado": 14053.22,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 544
+        }
+      ]
+    },
+    {
+      "cedula": "0900000497",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000497-S1",
+          "fecha_solicitud": "2025-07-30",
+          "monto_solicitado": 10215.74,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 741
+        },
+        {
+          "id_solicitud": "0900000497-S2",
+          "fecha_solicitud": "2025-09-01",
+          "monto_solicitado": 4199.16,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 753
+        }
+      ]
+    },
+    {
+      "cedula": "0900000459",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000459-S1",
+          "fecha_solicitud": "2024-11-12",
+          "monto_solicitado": 13317.52,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 664
+        }
+      ]
+    },
+    {
+      "cedula": "0100000509",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000509-S1",
+          "fecha_solicitud": "2025-10-08",
+          "monto_solicitado": 13662.89,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 569
+        }
+      ]
+    },
+    {
+      "cedula": "0900000256",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000256-S1",
+          "fecha_solicitud": "2024-10-28",
+          "monto_solicitado": 7635.09,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 571
+        }
+      ]
+    },
+    {
+      "cedula": "1700000463",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000463-S1",
+          "fecha_solicitud": "2025-10-09",
+          "monto_solicitado": 4878.65,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 357
+        }
+      ]
+    },
+    {
+      "cedula": "900000296",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000296-S1",
+          "fecha_solicitud": "2024-12-03",
+          "monto_solicitado": 1730.42,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 599
+        }
+      ]
+    },
+    {
+      "cedula": "0900000323",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000323-S1",
+          "fecha_solicitud": "2025-07-25",
+          "monto_solicitado": 5689.61,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 760
+        },
+        {
+          "id_solicitud": "0900000323-S2",
+          "fecha_solicitud": "2025-09-28",
+          "monto_solicitado": 11721.99,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 582
+        }
+      ]
+    },
+    {
+      "cedula": "100000558",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000558-S1",
+          "fecha_solicitud": "2024-10-21",
+          "monto_solicitado": 1982.47,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 366
+        }
+      ]
+    },
+    {
+      "cedula": "0100000452",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000452-S1",
+          "fecha_solicitud": "2025-09-27",
+          "monto_solicitado": 3170.6,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 429
+        },
+        {
+          "id_solicitud": "0100000452-S2",
+          "fecha_solicitud": "2024-09-06",
+          "monto_solicitado": 8901.81,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 675
+        }
+      ]
+    },
+    {
+      "cedula": "1700000175",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000175-S1",
+          "fecha_solicitud": "2024-08-31",
+          "monto_solicitado": 11071.1,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 868
+        }
+      ]
+    },
+    {
+      "cedula": "0100000445",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000445-S1",
+          "fecha_solicitud": "2025-10-05",
+          "monto_solicitado": 13973.89,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 616
+        }
+      ]
+    },
+    {
+      "cedula": "0100000111",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000111-S1",
+          "fecha_solicitud": "2025-09-03",
+          "monto_solicitado": 625.07,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 558
+        }
+      ]
+    },
+    {
+      "cedula": "0100000484",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000484-S1",
+          "fecha_solicitud": "2025-06-15",
+          "monto_solicitado": 4101.56,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 808
+        },
+        {
+          "id_solicitud": "0100000484-S2",
+          "fecha_solicitud": "2025-06-01",
+          "monto_solicitado": 4520.76,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 741
+        }
+      ]
+    },
+    {
+      "cedula": "0100000294",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000294-S1",
+          "fecha_solicitud": "2025-10-02",
+          "monto_solicitado": 4673.96,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 860
+        },
+        {
+          "id_solicitud": "0100000294-S2",
+          "fecha_solicitud": "2025-01-14",
+          "monto_solicitado": 10149.56,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 686
+        }
+      ]
+    },
+    {
+      "cedula": "1700000393",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000393-S1",
+          "fecha_solicitud": "2025-01-11",
+          "monto_solicitado": 1980.14,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 850
+        },
+        {
+          "id_solicitud": "1700000393-S2",
+          "fecha_solicitud": "2025-04-28",
+          "monto_solicitado": 13702.63,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 508
+        }
+      ]
+    },
+    {
+      "cedula": "1700000079",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000079-S1",
+          "fecha_solicitud": "2025-04-26",
+          "monto_solicitado": 13390.01,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 377
+        }
+      ]
+    },
+    {
+      "cedula": "0900000293",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000293-S1",
+          "fecha_solicitud": "2025-05-21",
+          "monto_solicitado": 11359.2,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 341
+        }
+      ]
+    },
+    {
+      "cedula": "1700000527",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000527-S1",
+          "fecha_solicitud": "2024-11-06",
+          "monto_solicitado": 1212.65,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 701
+        },
+        {
+          "id_solicitud": "1700000527-S2",
+          "fecha_solicitud": "2025-01-08",
+          "monto_solicitado": 14931.89,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 708
+        }
+      ]
+    },
+    {
+      "cedula": "0900000164",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000164-S1",
+          "fecha_solicitud": "2025-02-16",
+          "monto_solicitado": 11492.39,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 795
+        },
+        {
+          "id_solicitud": "0900000164-S2",
+          "fecha_solicitud": "2025-02-28",
+          "monto_solicitado": 10395.65,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 781
+        }
+      ]
+    },
+    {
+      "cedula": "1700000058",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000058-S1",
+          "fecha_solicitud": "2024-11-12",
+          "monto_solicitado": 12021.62,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 506
+        }
+      ]
+    },
+    {
+      "cedula": "1700000312",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000312-S1",
+          "fecha_solicitud": "2024-07-27",
+          "monto_solicitado": 14453.19,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 444
+        }
+      ]
+    },
+    {
+      "cedula": "1700000192",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000192-S1",
+          "fecha_solicitud": "2024-06-15",
+          "monto_solicitado": 12709.34,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 762
+        },
+        {
+          "id_solicitud": "1700000192-S2",
+          "fecha_solicitud": "2024-07-13",
+          "monto_solicitado": 9577.14,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 846
+        }
+      ]
+    },
+    {
+      "cedula": "900000278",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000278-S1",
+          "fecha_solicitud": "2025-07-26",
+          "monto_solicitado": 3910.43,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 354
+        },
+        {
+          "id_solicitud": "900000278-S2",
+          "fecha_solicitud": "2025-03-24",
+          "monto_solicitado": 3170.72,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 762
+        },
+        {
+          "id_solicitud": "900000278-S3",
+          "fecha_solicitud": "2024-09-21",
+          "monto_solicitado": 7964.19,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 685
+        }
+      ]
+    },
+    {
+      "cedula": "0100000520",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000520-S1",
+          "fecha_solicitud": "2025-05-19",
+          "monto_solicitado": 14853.42,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 459
+        },
+        {
+          "id_solicitud": "0100000520-S2",
+          "fecha_solicitud": "2024-06-19",
+          "monto_solicitado": 3114.65,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 497
+        }
+      ]
+    },
+    {
+      "cedula": "0900000530",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000530-S1",
+          "fecha_solicitud": "2025-03-17",
+          "monto_solicitado": 7376.18,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 799
+        }
+      ]
+    },
+    {
+      "cedula": "0900000225",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000225-S1",
+          "fecha_solicitud": "2025-03-23",
+          "monto_solicitado": 8174.38,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 576
+        },
+        {
+          "id_solicitud": "0900000225-S2",
+          "fecha_solicitud": "2025-03-08",
+          "monto_solicitado": 8226.71,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 550
+        }
+      ]
+    },
+    {
+      "cedula": "1700000385",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000385-S1",
+          "fecha_solicitud": "2024-09-19",
+          "monto_solicitado": 3345.47,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 324
+        },
+        {
+          "id_solicitud": "1700000385-S2",
+          "fecha_solicitud": "2025-06-15",
+          "monto_solicitado": 13960.82,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 318
+        }
+      ]
+    },
+    {
+      "cedula": "0900000510",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000510-S1",
+          "fecha_solicitud": "2024-06-23",
+          "monto_solicitado": 10350.09,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 443
+        }
+      ]
+    },
+    {
+      "cedula": "0900000265",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000265-S1",
+          "fecha_solicitud": "2025-09-21",
+          "monto_solicitado": 9205.39,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 860
+        },
+        {
+          "id_solicitud": "0900000265-S2",
+          "fecha_solicitud": "2024-06-15",
+          "monto_solicitado": 5351.31,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 866
+        }
+      ]
+    },
+    {
+      "cedula": "0900000020",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000020-S1",
+          "fecha_solicitud": "2025-10-01",
+          "monto_solicitado": 10016.19,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 460
+        }
+      ]
+    },
+    {
+      "cedula": "1700000529",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000529-S1",
+          "fecha_solicitud": "2025-08-30",
+          "monto_solicitado": 7360.99,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 648
+        }
+      ]
+    },
+    {
+      "cedula": "1700000334",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000334-S1",
+          "fecha_solicitud": "2025-02-08",
+          "monto_solicitado": 1162.95,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 537
+        }
+      ]
+    },
+    {
+      "cedula": "0100000119",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000119-S1",
+          "fecha_solicitud": "2025-01-17",
+          "monto_solicitado": 5966.27,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 345
+        }
+      ]
+    },
+    {
+      "cedula": "0100000019",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000019-S1",
+          "fecha_solicitud": "2025-06-25",
+          "monto_solicitado": 14159.87,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 864
+        },
+        {
+          "id_solicitud": "0100000019-S2",
+          "fecha_solicitud": "2024-09-18",
+          "monto_solicitado": 3783.18,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 655
+        }
+      ]
+    },
+    {
+      "cedula": "0100000053",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000053-S1",
+          "fecha_solicitud": "2024-08-29",
+          "monto_solicitado": 9058.79,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 832
+        }
+      ]
+    },
+    {
+      "cedula": "0900000287",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000287-S1",
+          "fecha_solicitud": "2025-04-08",
+          "monto_solicitado": 11726.11,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 374
+        },
+        {
+          "id_solicitud": "0900000287-S2",
+          "fecha_solicitud": "2025-04-27",
+          "monto_solicitado": 3646.67,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 449
+        }
+      ]
+    },
+    {
+      "cedula": "0900000248",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000248-S1",
+          "fecha_solicitud": "2024-07-22",
+          "monto_solicitado": 10785.94,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 538
+        }
+      ]
+    },
+    {
+      "cedula": "1700000277",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000277-S1",
+          "fecha_solicitud": "2024-12-21",
+          "monto_solicitado": 5206.65,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 399
+        }
+      ]
+    },
+    {
+      "cedula": "0100000581",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000581-S1",
+          "fecha_solicitud": "2025-07-23",
+          "monto_solicitado": 2396.23,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 702
+        }
+      ]
+    },
+    {
+      "cedula": "1700000441",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000441-S1",
+          "fecha_solicitud": "2025-07-13",
+          "monto_solicitado": 10108.19,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 711
+        }
+      ]
+    },
+    {
+      "cedula": "1700000422",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000422-S1",
+          "fecha_solicitud": "2024-06-28",
+          "monto_solicitado": 11018.16,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 384
+        }
+      ]
+    },
+    {
+      "cedula": "0100000215",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000215-S1",
+          "fecha_solicitud": "2024-12-27",
+          "monto_solicitado": 6206.74,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 334
+        }
+      ]
+    },
+    {
+      "cedula": "0100000013",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000013-S1",
+          "fecha_solicitud": "2024-08-25",
+          "monto_solicitado": 868.02,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 428
+        }
+      ]
+    },
+    {
+      "cedula": "0100000129",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000129-S1",
+          "fecha_solicitud": "2024-10-08",
+          "monto_solicitado": 9235.19,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 872
+        }
+      ]
+    },
+    {
+      "cedula": "0900000547",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000547-S1",
+          "fecha_solicitud": "2024-07-22",
+          "monto_solicitado": 2371.56,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 671
+        },
+        {
+          "id_solicitud": "0900000547-S2",
+          "fecha_solicitud": "2025-03-08",
+          "monto_solicitado": 11575.88,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 683
+        }
+      ]
+    },
+    {
+      "cedula": "100000174",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000174-S1",
+          "fecha_solicitud": "2024-06-07",
+          "monto_solicitado": 12663.02,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 448
+        }
+      ]
+    },
+    {
+      "cedula": "0900000291",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000291-S1",
+          "fecha_solicitud": "2025-05-15",
+          "monto_solicitado": 10931.8,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 424
+        },
+        {
+          "id_solicitud": "0900000291-S2",
+          "fecha_solicitud": "2025-03-29",
+          "monto_solicitado": 9681.38,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 583
+        }
+      ]
+    },
+    {
+      "cedula": "0900000376",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000376-S1",
+          "fecha_solicitud": "2024-11-23",
+          "monto_solicitado": 1076.05,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 327
+        }
+      ]
+    },
+    {
+      "cedula": "1700000300",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000300-S1",
+          "fecha_solicitud": "2024-11-05",
+          "monto_solicitado": 3078.37,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 767
+        }
+      ]
+    },
+    {
+      "cedula": "0900000208",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000208-S1",
+          "fecha_solicitud": "2025-08-23",
+          "monto_solicitado": 7329.76,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 791
+        }
+      ]
+    },
+    {
+      "cedula": "0100000304",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000304-S1",
+          "fecha_solicitud": "2025-03-17",
+          "monto_solicitado": 8130.83,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 665
+        }
+      ]
+    },
+    {
+      "cedula": "1700000173",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000173-S1",
+          "fecha_solicitud": "2025-09-24",
+          "monto_solicitado": 8920.12,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 819
+        }
+      ]
+    },
+    {
+      "cedula": "1700000496",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000496-S1",
+          "fecha_solicitud": "2025-05-06",
+          "monto_solicitado": 6997.15,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 822
+        }
+      ]
+    },
+    {
+      "cedula": "1700000025",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000025-S1",
+          "fecha_solicitud": "2024-09-05",
+          "monto_solicitado": 2118.12,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 818
+        },
+        {
+          "id_solicitud": "1700000025-S2",
+          "fecha_solicitud": "2025-03-04",
+          "monto_solicitado": 14978.49,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 837
+        }
+      ]
+    },
+    {
+      "cedula": "0900000191",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000191-S1",
+          "fecha_solicitud": "2025-04-05",
+          "monto_solicitado": 14756.54,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 524
+        }
+      ]
+    },
+    {
+      "cedula": "100000260",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000260-S1",
+          "fecha_solicitud": "2025-03-18",
+          "monto_solicitado": 9365.43,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 691
+        }
+      ]
+    },
+    {
+      "cedula": "0100000460",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000460-S1",
+          "fecha_solicitud": "2024-09-05",
+          "monto_solicitado": 5481.28,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 633
+        }
+      ]
+    },
+    {
+      "cedula": "1700000384",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000384-S1",
+          "fecha_solicitud": "2024-06-02",
+          "monto_solicitado": 13848.78,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 765
+        }
+      ]
+    },
+    {
+      "cedula": "1700000438",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000438-S1",
+          "fecha_solicitud": "2025-02-14",
+          "monto_solicitado": 559.98,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 673
+        }
+      ]
+    },
+    {
+      "cedula": "1700000216",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000216-S1",
+          "fecha_solicitud": "2025-09-27",
+          "monto_solicitado": 10309.09,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 712
+        }
+      ]
+    },
+    {
+      "cedula": "0900000240",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000240-S1",
+          "fecha_solicitud": "2025-04-28",
+          "monto_solicitado": 7833.22,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 655
+        }
+      ]
+    },
+    {
+      "cedula": "0900000249",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000249-S1",
+          "fecha_solicitud": "2024-12-10",
+          "monto_solicitado": 14851.72,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 850
+        }
+      ]
+    },
+    {
+      "cedula": "100000011",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000011-S1",
+          "fecha_solicitud": "2025-03-08",
+          "monto_solicitado": 14368.71,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 832
+        }
+      ]
+    },
+    {
+      "cedula": "900000064",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000064-S1",
+          "fecha_solicitud": "2024-11-29",
+          "monto_solicitado": 10045.47,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 480
+        }
+      ]
+    },
+    {
+      "cedula": "0900000536",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000536-S1",
+          "fecha_solicitud": "2024-06-19",
+          "monto_solicitado": 6139.34,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 535
+        },
+        {
+          "id_solicitud": "0900000536-S2",
+          "fecha_solicitud": "2025-04-05",
+          "monto_solicitado": 10051.45,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 385
+        }
+      ]
+    },
+    {
+      "cedula": "1700000207",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000207-S1",
+          "fecha_solicitud": "2025-08-10",
+          "monto_solicitado": 5346.17,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 882
+        }
+      ]
+    },
+    {
+      "cedula": "1700000299",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000299-S1",
+          "fecha_solicitud": "2025-08-24",
+          "monto_solicitado": 13443.82,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 603
+        },
+        {
+          "id_solicitud": "1700000299-S2",
+          "fecha_solicitud": "2024-12-03",
+          "monto_solicitado": 8012.5,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 655
+        }
+      ]
+    },
+    {
+      "cedula": "1700000540",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000540-S1",
+          "fecha_solicitud": "2025-04-08",
+          "monto_solicitado": 9836.15,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 427
+        }
+      ]
+    },
+    {
+      "cedula": "0900000444",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000444-S1",
+          "fecha_solicitud": "2024-06-26",
+          "monto_solicitado": 9926.75,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 866
+        }
+      ]
+    },
+    {
+      "cedula": "0900000217",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000217-S1",
+          "fecha_solicitud": "2025-03-31",
+          "monto_solicitado": 11040.41,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 721
+        }
+      ]
+    },
+    {
+      "cedula": "0900000504",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000504-S1",
+          "fecha_solicitud": "2024-12-03",
+          "monto_solicitado": 11448.03,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 757
+        },
+        {
+          "id_solicitud": "0900000504-S2",
+          "fecha_solicitud": "2025-06-21",
+          "monto_solicitado": 12594.49,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 308
+        }
+      ]
+    },
+    {
+      "cedula": "1700000232",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000232-S1",
+          "fecha_solicitud": "2024-09-23",
+          "monto_solicitado": 9171.93,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 433
+        },
+        {
+          "id_solicitud": "1700000232-S2",
+          "fecha_solicitud": "2024-11-07",
+          "monto_solicitado": 13586.33,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 480
+        }
+      ]
+    },
+    {
+      "cedula": "0100000074",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000074-S1",
+          "fecha_solicitud": "2025-07-29",
+          "monto_solicitado": 743.77,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 699
+        },
+        {
+          "id_solicitud": "0100000074-S2",
+          "fecha_solicitud": "2025-03-06",
+          "monto_solicitado": 8544.66,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 720
+        }
+      ]
+    },
+    {
+      "cedula": "0100000344",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000344-S1",
+          "fecha_solicitud": "2025-10-05",
+          "monto_solicitado": 3145.92,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 420
+        }
+      ]
+    },
+    {
+      "cedula": "1700000456",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000456-S1",
+          "fecha_solicitud": "2025-01-03",
+          "monto_solicitado": 13166.98,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 415
+        },
+        {
+          "id_solicitud": "1700000456-S2",
+          "fecha_solicitud": "2024-09-27",
+          "monto_solicitado": 12153.52,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 386
+        }
+      ]
+    },
+    {
+      "cedula": "1700000114",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000114-S1",
+          "fecha_solicitud": "2025-03-06",
+          "monto_solicitado": 2337.69,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 871
+        }
+      ]
+    },
+    {
+      "cedula": "0900000163",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000163-S1",
+          "fecha_solicitud": "2024-07-01",
+          "monto_solicitado": 10781.6,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 572
+        },
+        {
+          "id_solicitud": "0900000163-S2",
+          "fecha_solicitud": "2025-06-02",
+          "monto_solicitado": 14870.51,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 532
+        }
+      ]
+    },
+    {
+      "cedula": "0100000590",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000590-S1",
+          "fecha_solicitud": "2024-06-19",
+          "monto_solicitado": 14869.11,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 620
+        }
+      ]
+    },
+    {
+      "cedula": "0100000541",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000541-S1",
+          "fecha_solicitud": "2025-01-13",
+          "monto_solicitado": 9454.99,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 567
+        }
+      ]
+    },
+    {
+      "cedula": "0100000274",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000274-S1",
+          "fecha_solicitud": "2025-02-23",
+          "monto_solicitado": 1782.89,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 449
+        }
+      ]
+    },
+    {
+      "cedula": "1700000158",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000158-S1",
+          "fecha_solicitud": "2024-12-31",
+          "monto_solicitado": 6320.58,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 749
+        },
+        {
+          "id_solicitud": "1700000158-S2",
+          "fecha_solicitud": "2024-08-10",
+          "monto_solicitado": 7135.57,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 860
+        }
+      ]
+    },
+    {
+      "cedula": "0900000264",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000264-S1",
+          "fecha_solicitud": "2025-09-14",
+          "monto_solicitado": 7801.63,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 307
+        }
+      ]
+    },
+    {
+      "cedula": "900000153",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000153-S1",
+          "fecha_solicitud": "2024-06-01",
+          "monto_solicitado": 13670.28,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 526
+        }
+      ]
+    },
+    {
+      "cedula": "1700000350",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000350-S1",
+          "fecha_solicitud": "2024-11-08",
+          "monto_solicitado": 5861.1,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 462
+        }
+      ]
+    },
+    {
+      "cedula": "0100000121",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000121-S1",
+          "fecha_solicitud": "2025-01-30",
+          "monto_solicitado": 800.74,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 304
+        },
+        {
+          "id_solicitud": "0100000121-S2",
+          "fecha_solicitud": "2024-09-01",
+          "monto_solicitado": 4178.63,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 507
+        }
+      ]
+    },
+    {
+      "cedula": "1700000408",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000408-S1",
+          "fecha_solicitud": "2025-01-22",
+          "monto_solicitado": 9438.4,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 385
+        }
+      ]
+    },
+    {
+      "cedula": "0100000078",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000078-S1",
+          "fecha_solicitud": "2024-08-25",
+          "monto_solicitado": 12943.3,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 887
+        }
+      ]
+    },
+    {
+      "cedula": "1700000559",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000559-S1",
+          "fecha_solicitud": "2024-10-20",
+          "monto_solicitado": 4156.59,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 803
+        },
+        {
+          "id_solicitud": "1700000559-S2",
+          "fecha_solicitud": "2025-02-04",
+          "monto_solicitado": 2132.86,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 640
+        }
+      ]
+    },
+    {
+      "cedula": "1700000550",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000550-S1",
+          "fecha_solicitud": "2024-09-21",
+          "monto_solicitado": 9847.26,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 407
+        }
+      ]
+    },
+    {
+      "cedula": "0900000023",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000023-S1",
+          "fecha_solicitud": "2024-10-26",
+          "monto_solicitado": 4339.19,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 395
+        }
+      ]
+    },
+    {
+      "cedula": "0900000507",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000507-S1",
+          "fecha_solicitud": "2024-08-13",
+          "monto_solicitado": 11132.26,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 884
+        }
+      ]
+    },
+    {
+      "cedula": "0900000392",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000392-S1",
+          "fecha_solicitud": "2025-03-20",
+          "monto_solicitado": 13963.6,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 670
+        }
+      ]
+    },
+    {
+      "cedula": "0100000127",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000127-S1",
+          "fecha_solicitud": "2024-12-08",
+          "monto_solicitado": 2466.01,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 334
+        }
+      ]
+    },
+    {
+      "cedula": "0900000424",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000424-S1",
+          "fecha_solicitud": "2024-06-24",
+          "monto_solicitado": 7506.4,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 710
+        }
+      ]
+    },
+    {
+      "cedula": "0900000230",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000230-S1",
+          "fecha_solicitud": "2025-02-22",
+          "monto_solicitado": 6262.83,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 479
+        },
+        {
+          "id_solicitud": "0900000230-S2",
+          "fecha_solicitud": "2024-11-26",
+          "monto_solicitado": 11029.14,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 477
+        }
+      ]
+    },
+    {
+      "cedula": "1700000234",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000234-S1",
+          "fecha_solicitud": "2025-07-05",
+          "monto_solicitado": 11440.74,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 396
+        }
+      ]
+    },
+    {
+      "cedula": "0900000209",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000209-S1",
+          "fecha_solicitud": "2025-01-30",
+          "monto_solicitado": 13413.14,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 333
+        },
+        {
+          "id_solicitud": "0900000209-S2",
+          "fecha_solicitud": "2024-06-27",
+          "monto_solicitado": 8033.74,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 760
+        }
+      ]
+    },
+    {
+      "cedula": "0100000578",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000578-S1",
+          "fecha_solicitud": "2024-10-01",
+          "monto_solicitado": 10100.13,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 577
+        }
+      ]
+    },
+    {
+      "cedula": "0900000336",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000336-S1",
+          "fecha_solicitud": "2025-10-05",
+          "monto_solicitado": 9049.32,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 826
+        }
+      ]
+    },
+    {
+      "cedula": "1700000368",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000368-S1",
+          "fecha_solicitud": "2025-09-19",
+          "monto_solicitado": 2616.38,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 333
+        },
+        {
+          "id_solicitud": "1700000368-S2",
+          "fecha_solicitud": "2024-06-04",
+          "monto_solicitado": 12646.2,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 854
+        }
+      ]
+    },
+    {
+      "cedula": "1700000017",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000017-S1",
+          "fecha_solicitud": "2025-10-03",
+          "monto_solicitado": 4876.0,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 320
+        }
+      ]
+    },
+    {
+      "cedula": "1700000349",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000349-S1",
+          "fecha_solicitud": "2025-08-09",
+          "monto_solicitado": 14094.87,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 452
+        },
+        {
+          "id_solicitud": "1700000349-S2",
+          "fecha_solicitud": "2024-07-17",
+          "monto_solicitado": 1863.34,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 766
+        }
+      ]
+    },
+    {
+      "cedula": "1700000549",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000549-S1",
+          "fecha_solicitud": "2024-12-13",
+          "monto_solicitado": 2940.84,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 855
+        }
+      ]
+    },
+    {
+      "cedula": "900000083",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000083-S1",
+          "fecha_solicitud": "2025-03-12",
+          "monto_solicitado": 10627.7,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 656
+        }
+      ]
+    },
+    {
+      "cedula": "0900000038",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000038-S1",
+          "fecha_solicitud": "2024-11-18",
+          "monto_solicitado": 11262.96,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 622
+        }
+      ]
+    },
+    {
+      "cedula": "0900000454",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000454-S1",
+          "fecha_solicitud": "2025-05-14",
+          "monto_solicitado": 10225.16,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 508
+        },
+        {
+          "id_solicitud": "0900000454-S2",
+          "fecha_solicitud": "2024-08-22",
+          "monto_solicitado": 8586.63,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 876
+        },
+        {
+          "id_solicitud": "0900000454-S3",
+          "fecha_solicitud": "2024-09-24",
+          "monto_solicitado": 1456.78,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 835
+        }
+      ]
+    },
+    {
+      "cedula": "1700000512",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000512-S1",
+          "fecha_solicitud": "2024-12-28",
+          "monto_solicitado": 4675.79,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 657
+        }
+      ]
+    },
+    {
+      "cedula": "0900000524",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000524-S1",
+          "fecha_solicitud": "2024-12-27",
+          "monto_solicitado": 4178.39,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 838
+        }
+      ]
+    },
+    {
+      "cedula": "0100000115",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000115-S1",
+          "fecha_solicitud": "2025-08-08",
+          "monto_solicitado": 5391.16,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 855
+        }
+      ]
+    },
+    {
+      "cedula": "0900000076",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000076-S1",
+          "fecha_solicitud": "2024-08-28",
+          "monto_solicitado": 13908.87,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 392
+        },
+        {
+          "id_solicitud": "0900000076-S2",
+          "fecha_solicitud": "2024-11-21",
+          "monto_solicitado": 9736.19,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 476
+        }
+      ]
+    },
+    {
+      "cedula": "0100000172",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000172-S1",
+          "fecha_solicitud": "2025-01-03",
+          "monto_solicitado": 2915.93,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 560
+        }
+      ]
+    },
+    {
+      "cedula": "0100000081",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000081-S1",
+          "fecha_solicitud": "2024-08-12",
+          "monto_solicitado": 533.85,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 678
+        },
+        {
+          "id_solicitud": "0100000081-S2",
+          "fecha_solicitud": "2025-07-30",
+          "monto_solicitado": 4229.98,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 505
+        }
+      ]
+    },
+    {
+      "cedula": "100000149",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000149-S1",
+          "fecha_solicitud": "2025-07-22",
+          "monto_solicitado": 2435.74,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 584
+        },
+        {
+          "id_solicitud": "100000149-S2",
+          "fecha_solicitud": "2025-01-16",
+          "monto_solicitado": 14816.95,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 657
+        }
+      ]
+    },
+    {
+      "cedula": "0900000410",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000410-S1",
+          "fecha_solicitud": "2024-09-06",
+          "monto_solicitado": 888.44,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 550
+        }
+      ]
+    },
+    {
+      "cedula": "0100000137",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000137-S1",
+          "fecha_solicitud": "2025-01-05",
+          "monto_solicitado": 6983.38,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 372
+        }
+      ]
+    },
+    {
+      "cedula": "0900000418",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000418-S1",
+          "fecha_solicitud": "2025-05-04",
+          "monto_solicitado": 5609.85,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 310
+        }
+      ]
+    },
+    {
+      "cedula": "1700000056",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000056-S1",
+          "fecha_solicitud": "2025-05-10",
+          "monto_solicitado": 14848.01,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 702
+        }
+      ]
+    },
+    {
+      "cedula": "0900000295",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000295-S1",
+          "fecha_solicitud": "2024-09-12",
+          "monto_solicitado": 10298.76,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 876
+        }
+      ]
+    },
+    {
+      "cedula": "1700000594",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000594-S1",
+          "fecha_solicitud": "2024-08-19",
+          "monto_solicitado": 14890.3,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 657
+        },
+        {
+          "id_solicitud": "1700000594-S2",
+          "fecha_solicitud": "2025-06-09",
+          "monto_solicitado": 2306.06,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 530
+        }
+      ]
+    },
+    {
+      "cedula": "1700000434",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000434-S1",
+          "fecha_solicitud": "2025-05-15",
+          "monto_solicitado": 6894.57,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 411
+        }
+      ]
+    },
+    {
+      "cedula": "0900000144",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000144-S1",
+          "fecha_solicitud": "2024-09-30",
+          "monto_solicitado": 7872.48,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 779
+        }
+      ]
+    },
+    {
+      "cedula": "0100000467",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000467-S1",
+          "fecha_solicitud": "2024-10-30",
+          "monto_solicitado": 9777.82,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 603
+        },
+        {
+          "id_solicitud": "0100000467-S2",
+          "fecha_solicitud": "2024-06-24",
+          "monto_solicitado": 12217.83,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 607
+        }
+      ]
+    },
+    {
+      "cedula": "1700000155",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000155-S1",
+          "fecha_solicitud": "2024-08-08",
+          "monto_solicitado": 3965.85,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 414
+        }
+      ]
+    },
+    {
+      "cedula": "1700000048",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000048-S1",
+          "fecha_solicitud": "2024-08-10",
+          "monto_solicitado": 6972.1,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 421
+        },
+        {
+          "id_solicitud": "1700000048-S2",
+          "fecha_solicitud": "2025-10-12",
+          "monto_solicitado": 10865.89,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 522
+        }
+      ]
+    },
+    {
+      "cedula": "0100000338",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000338-S1",
+          "fecha_solicitud": "2025-07-29",
+          "monto_solicitado": 14004.61,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 587
+        }
+      ]
+    },
+    {
+      "cedula": "100000290",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000290-S1",
+          "fecha_solicitud": "2025-06-09",
+          "monto_solicitado": 11254.36,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 580
+        }
+      ]
+    },
+    {
+      "cedula": "900000313",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000313-S1",
+          "fecha_solicitud": "2024-07-08",
+          "monto_solicitado": 5696.31,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 674
+        }
+      ]
+    },
+    {
+      "cedula": "0900000043",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000043-S1",
+          "fecha_solicitud": "2025-08-05",
+          "monto_solicitado": 8252.18,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 740
+        },
+        {
+          "id_solicitud": "0900000043-S2",
+          "fecha_solicitud": "2025-05-24",
+          "monto_solicitado": 12497.23,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 617
+        }
+      ]
+    },
+    {
+      "cedula": "1700000245",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000245-S1",
+          "fecha_solicitud": "2025-09-15",
+          "monto_solicitado": 1518.92,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 471
+        },
+        {
+          "id_solicitud": "1700000245-S2",
+          "fecha_solicitud": "2024-10-15",
+          "monto_solicitado": 13641.55,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 832
+        }
+      ]
+    },
+    {
+      "cedula": "0900000156",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000156-S1",
+          "fecha_solicitud": "2025-06-20",
+          "monto_solicitado": 14452.35,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 443
+        }
+      ]
+    },
+    {
+      "cedula": "1700000366",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000366-S1",
+          "fecha_solicitud": "2025-03-23",
+          "monto_solicitado": 1796.97,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 638
+        },
+        {
+          "id_solicitud": "1700000366-S2",
+          "fecha_solicitud": "2025-01-25",
+          "monto_solicitado": 13437.11,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 407
+        }
+      ]
+    },
+    {
+      "cedula": "0900000354",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000354-S1",
+          "fecha_solicitud": "2024-08-19",
+          "monto_solicitado": 8815.06,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 807
+        }
+      ]
+    },
+    {
+      "cedula": "900000321",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000321-S1",
+          "fecha_solicitud": "2025-05-19",
+          "monto_solicitado": 9189.32,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 564
+        }
+      ]
+    },
+    {
+      "cedula": "0900000183",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000183-S1",
+          "fecha_solicitud": "2024-07-27",
+          "monto_solicitado": 948.31,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 324
+        }
+      ]
+    },
+    {
+      "cedula": "0100000543",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000543-S1",
+          "fecha_solicitud": "2024-08-04",
+          "monto_solicitado": 5014.86,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 599
+        }
+      ]
+    },
+    {
+      "cedula": "1700000322",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000322-S1",
+          "fecha_solicitud": "2025-10-10",
+          "monto_solicitado": 678.16,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 351
+        }
+      ]
+    },
+    {
+      "cedula": "0100000396",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000396-S1",
+          "fecha_solicitud": "2025-05-20",
+          "monto_solicitado": 8680.51,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 309
+        }
+      ]
+    },
+    {
+      "cedula": "0900000352",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000352-S1",
+          "fecha_solicitud": "2024-12-05",
+          "monto_solicitado": 10277.72,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 698
+        }
+      ]
+    },
+    {
+      "cedula": "0900000252",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000252-S1",
+          "fecha_solicitud": "2024-10-14",
+          "monto_solicitado": 588.59,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 676
+        }
+      ]
+    },
+    {
+      "cedula": "0900000160",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000160-S1",
+          "fecha_solicitud": "2024-07-22",
+          "monto_solicitado": 9419.62,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 730
+        }
+      ]
+    },
+    {
+      "cedula": "1700000413",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000413-S1",
+          "fecha_solicitud": "2024-08-26",
+          "monto_solicitado": 8992.87,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 569
+        }
+      ]
+    },
+    {
+      "cedula": "0900000348",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000348-S1",
+          "fecha_solicitud": "2025-04-27",
+          "monto_solicitado": 11311.31,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 880
+        }
+      ]
+    },
+    {
+      "cedula": "900000279",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000279-S1",
+          "fecha_solicitud": "2024-08-01",
+          "monto_solicitado": 7081.38,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 472
+        }
+      ]
+    },
+    {
+      "cedula": "0900000417",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000417-S1",
+          "fecha_solicitud": "2025-07-19",
+          "monto_solicitado": 4320.97,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 323
+        }
+      ]
+    },
+    {
+      "cedula": "0900000566",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000566-S1",
+          "fecha_solicitud": "2025-01-21",
+          "monto_solicitado": 12310.55,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 712
+        }
+      ]
+    },
+    {
+      "cedula": "0900000201",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000201-S1",
+          "fecha_solicitud": "2024-07-31",
+          "monto_solicitado": 12203.42,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 833
+        }
+      ]
+    },
+    {
+      "cedula": "0100000237",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000237-S1",
+          "fecha_solicitud": "2025-07-06",
+          "monto_solicitado": 1384.52,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 868
+        }
+      ]
+    },
+    {
+      "cedula": "0100000501",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000501-S1",
+          "fecha_solicitud": "2025-02-10",
+          "monto_solicitado": 12691.0,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 348
+        }
+      ]
+    },
+    {
+      "cedula": "0100000091",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000091-S1",
+          "fecha_solicitud": "2024-06-18",
+          "monto_solicitado": 3319.65,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 445
+        }
+      ]
+    },
+    {
+      "cedula": "1700000098",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000098-S1",
+          "fecha_solicitud": "2024-11-28",
+          "monto_solicitado": 13260.96,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 723
+        },
+        {
+          "id_solicitud": "1700000098-S2",
+          "fecha_solicitud": "2025-05-25",
+          "monto_solicitado": 928.15,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 635
+        }
+      ]
+    },
+    {
+      "cedula": "1700000412",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000412-S1",
+          "fecha_solicitud": "2024-11-29",
+          "monto_solicitado": 14921.11,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 725
+        }
+      ]
+    },
+    {
+      "cedula": "0100000523",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000523-S1",
+          "fecha_solicitud": "2025-07-07",
+          "monto_solicitado": 2723.94,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 480
+        }
+      ]
+    },
+    {
+      "cedula": "0100000464",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000464-S1",
+          "fecha_solicitud": "2024-07-26",
+          "monto_solicitado": 6937.22,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 860
+        }
+      ]
+    },
+    {
+      "cedula": "1700000347",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000347-S1",
+          "fecha_solicitud": "2024-08-11",
+          "monto_solicitado": 6126.15,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 823
+        }
+      ]
+    },
+    {
+      "cedula": "0100000381",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000381-S1",
+          "fecha_solicitud": "2024-10-15",
+          "monto_solicitado": 2259.0,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 599
+        },
+        {
+          "id_solicitud": "0100000381-S2",
+          "fecha_solicitud": "2025-07-09",
+          "monto_solicitado": 14778.84,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 717
+        }
+      ]
+    },
+    {
+      "cedula": "0900000004",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000004-S1",
+          "fecha_solicitud": "2024-11-11",
+          "monto_solicitado": 6649.07,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 347
+        },
+        {
+          "id_solicitud": "0900000004-S2",
+          "fecha_solicitud": "2025-07-12",
+          "monto_solicitado": 9103.62,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 855
+        }
+      ]
+    },
+    {
+      "cedula": "0900000579",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000579-S1",
+          "fecha_solicitud": "2024-09-07",
+          "monto_solicitado": 6601.86,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 513
+        }
+      ]
+    },
+    {
+      "cedula": "0100000110",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000110-S1",
+          "fecha_solicitud": "2025-06-26",
+          "monto_solicitado": 14918.99,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 895
+        }
+      ]
+    },
+    {
+      "cedula": "0900000200",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000200-S1",
+          "fecha_solicitud": "2024-09-08",
+          "monto_solicitado": 11157.1,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 375
+        }
+      ]
+    },
+    {
+      "cedula": "0900000045",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000045-S1",
+          "fecha_solicitud": "2025-06-03",
+          "monto_solicitado": 6507.66,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 665
+        }
+      ]
+    },
+    {
+      "cedula": "0100000333",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000333-S1",
+          "fecha_solicitud": "2025-08-13",
+          "monto_solicitado": 7029.85,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 393
+        }
+      ]
+    },
+    {
+      "cedula": "1700000235",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000235-S1",
+          "fecha_solicitud": "2025-08-28",
+          "monto_solicitado": 7935.35,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 692
+        }
+      ]
+    },
+    {
+      "cedula": "0900000170",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000170-S1",
+          "fecha_solicitud": "2025-04-11",
+          "monto_solicitado": 9135.25,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 612
+        }
+      ]
+    },
+    {
+      "cedula": "0900000269",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000269-S1",
+          "fecha_solicitud": "2024-07-05",
+          "monto_solicitado": 2740.16,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 484
+        }
+      ]
+    },
+    {
+      "cedula": "100000285",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000285-S1",
+          "fecha_solicitud": "2024-09-25",
+          "monto_solicitado": 8690.68,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 830
+        }
+      ]
+    },
+    {
+      "cedula": "0900000517",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000517-S1",
+          "fecha_solicitud": "2024-08-01",
+          "monto_solicitado": 12924.31,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 534
+        },
+        {
+          "id_solicitud": "0900000517-S2",
+          "fecha_solicitud": "2024-06-03",
+          "monto_solicitado": 9369.64,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 426
+        }
+      ]
+    },
+    {
+      "cedula": "0100000298",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000298-S1",
+          "fecha_solicitud": "2025-08-16",
+          "monto_solicitado": 1949.75,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 353
+        }
+      ]
+    },
+    {
+      "cedula": "0100000103",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000103-S1",
+          "fecha_solicitud": "2024-06-04",
+          "monto_solicitado": 2618.49,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 574
+        }
+      ]
+    },
+    {
+      "cedula": "100000267",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000267-S1",
+          "fecha_solicitud": "2025-05-23",
+          "monto_solicitado": 7592.95,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 782
+        },
+        {
+          "id_solicitud": "100000267-S2",
+          "fecha_solicitud": "2025-04-24",
+          "monto_solicitado": 7316.81,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 652
+        }
+      ]
+    },
+    {
+      "cedula": "1700000151",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000151-S1",
+          "fecha_solicitud": "2025-08-17",
+          "monto_solicitado": 9994.25,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 649
+        }
+      ]
+    },
+    {
+      "cedula": "1700000363",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000363-S1",
+          "fecha_solicitud": "2024-09-27",
+          "monto_solicitado": 14960.66,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 586
+        }
+      ]
+    },
+    {
+      "cedula": "0100000426",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000426-S1",
+          "fecha_solicitud": "2024-12-20",
+          "monto_solicitado": 12295.37,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 869
+        }
+      ]
+    },
+    {
+      "cedula": "0900000480",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000480-S1",
+          "fecha_solicitud": "2024-06-22",
+          "monto_solicitado": 3754.67,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 884
+        }
+      ]
+    },
+    {
+      "cedula": "0900000331",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000331-S1",
+          "fecha_solicitud": "2024-11-11",
+          "monto_solicitado": 6328.16,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 707
+        }
+      ]
+    },
+    {
+      "cedula": "0900000551",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000551-S1",
+          "fecha_solicitud": "2024-08-28",
+          "monto_solicitado": 10775.22,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 368
+        }
+      ]
+    },
+    {
+      "cedula": "0900000326",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000326-S1",
+          "fecha_solicitud": "2025-04-29",
+          "monto_solicitado": 5866.35,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 818
+        }
+      ]
+    },
+    {
+      "cedula": "0900000178",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000178-S1",
+          "fecha_solicitud": "2025-07-11",
+          "monto_solicitado": 10153.5,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 447
+        }
+      ]
+    },
+    {
+      "cedula": "1700000181",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000181-S1",
+          "fecha_solicitud": "2024-07-21",
+          "monto_solicitado": 1335.69,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 555
+        }
+      ]
+    },
+    {
+      "cedula": "0100000180",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000180-S1",
+          "fecha_solicitud": "2025-06-10",
+          "monto_solicitado": 12319.42,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 861
+        }
+      ]
+    },
+    {
+      "cedula": "0100000236",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000236-S1",
+          "fecha_solicitud": "2024-10-28",
+          "monto_solicitado": 2833.78,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 800
+        },
+        {
+          "id_solicitud": "0100000236-S2",
+          "fecha_solicitud": "2024-10-19",
+          "monto_solicitado": 3034.59,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 827
+        }
+      ]
+    },
+    {
+      "cedula": "1700000031",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000031-S1",
+          "fecha_solicitud": "2025-02-09",
+          "monto_solicitado": 14007.55,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 851
+        }
+      ]
+    },
+    {
+      "cedula": "0900000005",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000005-S1",
+          "fecha_solicitud": "2025-03-31",
+          "monto_solicitado": 8046.29,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 394
+        }
+      ]
+    },
+    {
+      "cedula": "0900000328",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000328-S1",
+          "fecha_solicitud": "2025-10-06",
+          "monto_solicitado": 9808.11,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 420
+        },
+        {
+          "id_solicitud": "0900000328-S2",
+          "fecha_solicitud": "2025-07-22",
+          "monto_solicitado": 10913.51,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 800
+        }
+      ]
+    },
+    {
+      "cedula": "0900000254",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000254-S1",
+          "fecha_solicitud": "2024-12-07",
+          "monto_solicitado": 8453.57,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 888
+        }
+      ]
+    },
+    {
+      "cedula": "0100000026",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000026-S1",
+          "fecha_solicitud": "2024-08-30",
+          "monto_solicitado": 6786.81,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 855
+        }
+      ]
+    },
+    {
+      "cedula": "0900000568",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000568-S1",
+          "fecha_solicitud": "2025-02-05",
+          "monto_solicitado": 2686.29,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 679
+        }
+      ]
+    },
+    {
+      "cedula": "0100000462",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000462-S1",
+          "fecha_solicitud": "2025-03-08",
+          "monto_solicitado": 14758.67,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 526
+        }
+      ]
+    },
+    {
+      "cedula": "0100000474",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000474-S1",
+          "fecha_solicitud": "2024-09-25",
+          "monto_solicitado": 13509.12,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 845
+        }
+      ]
+    },
+    {
+      "cedula": "0100000580",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000580-S1",
+          "fecha_solicitud": "2024-12-22",
+          "monto_solicitado": 7801.91,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 596
+        }
+      ]
+    },
+    {
+      "cedula": "0900000377",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000377-S1",
+          "fecha_solicitud": "2025-08-11",
+          "monto_solicitado": 7074.92,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 647
+        }
+      ]
+    },
+    {
+      "cedula": "0100000190",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000190-S1",
+          "fecha_solicitud": "2024-12-25",
+          "monto_solicitado": 7422.45,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 884
+        }
+      ]
+    },
+    {
+      "cedula": "1700000255",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000255-S1",
+          "fecha_solicitud": "2024-07-30",
+          "monto_solicitado": 14700.78,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 411
+        },
+        {
+          "id_solicitud": "1700000255-S2",
+          "fecha_solicitud": "2025-07-03",
+          "monto_solicitado": 12753.54,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 516
+        }
+      ]
+    },
+    {
+      "cedula": "1700000168",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000168-S1",
+          "fecha_solicitud": "2024-12-12",
+          "monto_solicitado": 9482.35,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 491
+        }
+      ]
+    },
+    {
+      "cedula": "0100000469",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000469-S1",
+          "fecha_solicitud": "2025-03-27",
+          "monto_solicitado": 9317.75,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 667
+        }
+      ]
+    },
+    {
+      "cedula": "0900000271",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000271-S1",
+          "fecha_solicitud": "2025-08-13",
+          "monto_solicitado": 7778.99,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 856
+        }
+      ]
+    },
+    {
+      "cedula": "0900000359",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000359-S1",
+          "fecha_solicitud": "2024-12-30",
+          "monto_solicitado": 11640.91,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 410
+        }
+      ]
+    },
+    {
+      "cedula": "0100000214",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000214-S1",
+          "fecha_solicitud": "2025-07-22",
+          "monto_solicitado": 5137.45,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 445
+        },
+        {
+          "id_solicitud": "0100000214-S2",
+          "fecha_solicitud": "2024-08-02",
+          "monto_solicitado": 2132.39,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 694
+        }
+      ]
+    },
+    {
+      "cedula": "0100000419",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000419-S1",
+          "fecha_solicitud": "2025-06-11",
+          "monto_solicitado": 4830.67,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 364
+        },
+        {
+          "id_solicitud": "0100000419-S2",
+          "fecha_solicitud": "2024-08-25",
+          "monto_solicitado": 10209.51,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 678
+        }
+      ]
+    },
+    {
+      "cedula": "1700000600",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000600-S1",
+          "fecha_solicitud": "2025-07-30",
+          "monto_solicitado": 5561.3,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 731
+        },
+        {
+          "id_solicitud": "1700000600-S2",
+          "fecha_solicitud": "2024-11-25",
+          "monto_solicitado": 10582.43,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 560
+        }
+      ]
+    },
+    {
+      "cedula": "0100000102",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000102-S1",
+          "fecha_solicitud": "2025-01-28",
+          "monto_solicitado": 14764.32,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 421
+        },
+        {
+          "id_solicitud": "0100000102-S2",
+          "fecha_solicitud": "2024-07-01",
+          "monto_solicitado": 2626.93,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 732
+        }
+      ]
+    },
+    {
+      "cedula": "0100000034",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000034-S1",
+          "fecha_solicitud": "2025-08-17",
+          "monto_solicitado": 11862.35,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 376
+        }
+      ]
+    },
+    {
+      "cedula": "0900000545",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000545-S1",
+          "fecha_solicitud": "2025-07-05",
+          "monto_solicitado": 11996.46,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 400
+        }
+      ]
+    },
+    {
+      "cedula": "0100000134",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000134-S1",
+          "fecha_solicitud": "2025-08-05",
+          "monto_solicitado": 13146.27,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 432
+        }
+      ]
+    },
+    {
+      "cedula": "1700000061",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000061-S1",
+          "fecha_solicitud": "2025-03-27",
+          "monto_solicitado": 9082.32,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 879
+        }
+      ]
+    },
+    {
+      "cedula": "1700000487",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000487-S1",
+          "fecha_solicitud": "2024-11-24",
+          "monto_solicitado": 9396.28,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 712
+        }
+      ]
+    },
+    {
+      "cedula": "0100000275",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000275-S1",
+          "fecha_solicitud": "2025-02-20",
+          "monto_solicitado": 11315.32,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 509
+        }
+      ]
+    },
+    {
+      "cedula": "100000204",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000204-S1",
+          "fecha_solicitud": "2025-01-17",
+          "monto_solicitado": 2342.76,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 467
+        }
+      ]
+    },
+    {
+      "cedula": "0900000330",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000330-S1",
+          "fecha_solicitud": "2025-01-04",
+          "monto_solicitado": 4626.95,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 810
+        },
+        {
+          "id_solicitud": "0900000330-S2",
+          "fecha_solicitud": "2025-07-31",
+          "monto_solicitado": 14733.25,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 307
+        }
+      ]
+    },
+    {
+      "cedula": "1700000556",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000556-S1",
+          "fecha_solicitud": "2024-08-28",
+          "monto_solicitado": 13866.5,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 442
+        },
+        {
+          "id_solicitud": "1700000556-S2",
+          "fecha_solicitud": "2025-10-09",
+          "monto_solicitado": 8482.79,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 719
+        }
+      ]
+    },
+    {
+      "cedula": "1700000140",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000140-S1",
+          "fecha_solicitud": "2025-04-21",
+          "monto_solicitado": 10013.65,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 431
+        },
+        {
+          "id_solicitud": "1700000140-S2",
+          "fecha_solicitud": "2024-12-10",
+          "monto_solicitado": 4897.9,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 310
+        }
+      ]
+    },
+    {
+      "cedula": "0900000591",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000591-S1",
+          "fecha_solicitud": "2025-05-14",
+          "monto_solicitado": 8769.28,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 550
+        }
+      ]
+    },
+    {
+      "cedula": "0100000573",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000573-S1",
+          "fecha_solicitud": "2025-07-22",
+          "monto_solicitado": 3064.02,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 575
+        }
+      ]
+    },
+    {
+      "cedula": "1700000316",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000316-S1",
+          "fecha_solicitud": "2024-09-05",
+          "monto_solicitado": 6485.6,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 513
+        }
+      ]
+    },
+    {
+      "cedula": "0100000123",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000123-S1",
+          "fecha_solicitud": "2025-01-01",
+          "monto_solicitado": 8941.65,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 872
+        }
+      ]
+    },
+    {
+      "cedula": "1700000478",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000478-S1",
+          "fecha_solicitud": "2025-08-25",
+          "monto_solicitado": 2104.27,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 711
+        }
+      ]
+    },
+    {
+      "cedula": "1700000253",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000253-S1",
+          "fecha_solicitud": "2024-12-30",
+          "monto_solicitado": 13289.79,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 457
+        },
+        {
+          "id_solicitud": "1700000253-S2",
+          "fecha_solicitud": "2024-10-31",
+          "monto_solicitado": 13663.01,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 402
+        }
+      ]
+    },
+    {
+      "cedula": "0900000563",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000563-S1",
+          "fecha_solicitud": "2025-02-19",
+          "monto_solicitado": 14603.91,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 643
+        },
+        {
+          "id_solicitud": "0900000563-S2",
+          "fecha_solicitud": "2025-03-06",
+          "monto_solicitado": 7152.6,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 411
+        },
+        {
+          "id_solicitud": "0900000563-S3",
+          "fecha_solicitud": "2025-06-16",
+          "monto_solicitado": 4640.78,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 319
+        }
+      ]
+    },
+    {
+      "cedula": "0900000001",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000001-S1",
+          "fecha_solicitud": "2024-07-02",
+          "monto_solicitado": 13255.22,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 728
+        }
+      ]
+    },
+    {
+      "cedula": "0900000495",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000495-S1",
+          "fecha_solicitud": "2025-05-04",
+          "monto_solicitado": 3168.93,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 397
+        }
+      ]
+    },
+    {
+      "cedula": "0900000087",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000087-S1",
+          "fecha_solicitud": "2025-05-03",
+          "monto_solicitado": 1636.56,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 767
+        }
+      ]
+    },
+    {
+      "cedula": "0900000531",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000531-S1",
+          "fecha_solicitud": "2025-09-23",
+          "monto_solicitado": 4242.34,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 365
+        }
+      ]
+    },
+    {
+      "cedula": "0900000039",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000039-S1",
+          "fecha_solicitud": "2025-02-04",
+          "monto_solicitado": 3418.5,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 526
+        }
+      ]
+    },
+    {
+      "cedula": "100000311",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000311-S1",
+          "fecha_solicitud": "2025-03-03",
+          "monto_solicitado": 8255.23,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 776
+        }
+      ]
+    },
+    {
+      "cedula": "0900000314",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000314-S1",
+          "fecha_solicitud": "2025-06-17",
+          "monto_solicitado": 7484.0,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 735
+        }
+      ]
+    },
+    {
+      "cedula": "0900000280",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000280-S1",
+          "fecha_solicitud": "2025-03-10",
+          "monto_solicitado": 12559.49,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 365
+        },
+        {
+          "id_solicitud": "0900000280-S2",
+          "fecha_solicitud": "2025-09-05",
+          "monto_solicitado": 7297.84,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 585
+        }
+      ]
+    },
+    {
+      "cedula": "0100000585",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000585-S1",
+          "fecha_solicitud": "2024-09-06",
+          "monto_solicitado": 5231.54,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 340
+        }
+      ]
+    },
+    {
+      "cedula": "0100000147",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000147-S1",
+          "fecha_solicitud": "2025-10-10",
+          "monto_solicitado": 3344.17,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 515
+        }
+      ]
+    },
+    {
+      "cedula": "100000320",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000320-S1",
+          "fecha_solicitud": "2025-07-29",
+          "monto_solicitado": 13100.6,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 369
+        }
+      ]
+    },
+    {
+      "cedula": "100000399",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000399-S1",
+          "fecha_solicitud": "2025-01-11",
+          "monto_solicitado": 11799.09,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 371
+        },
+        {
+          "id_solicitud": "100000399-S2",
+          "fecha_solicitud": "2025-03-17",
+          "monto_solicitado": 1526.83,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 368
+        }
+      ]
+    },
+    {
+      "cedula": "0100000435",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000435-S1",
+          "fecha_solicitud": "2025-09-04",
+          "monto_solicitado": 7975.56,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 597
+        }
+      ]
+    },
+    {
+      "cedula": "1700000355",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000355-S1",
+          "fecha_solicitud": "2025-04-16",
+          "monto_solicitado": 13555.59,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 675
+        },
+        {
+          "id_solicitud": "1700000355-S2",
+          "fecha_solicitud": "2025-03-20",
+          "monto_solicitado": 1867.07,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 312
+        },
+        {
+          "id_solicitud": "1700000355-S3",
+          "fecha_solicitud": "2024-11-29",
+          "monto_solicitado": 8310.22,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 787
+        }
+      ]
+    },
+    {
+      "cedula": "0100000022",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000022-S1",
+          "fecha_solicitud": "2025-05-15",
+          "monto_solicitado": 12114.44,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 500
+        }
+      ]
+    },
+    {
+      "cedula": "0900000522",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000522-S1",
+          "fecha_solicitud": "2025-09-09",
+          "monto_solicitado": 8766.02,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 751
+        }
+      ]
+    },
+    {
+      "cedula": "1700000303",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000303-S1",
+          "fecha_solicitud": "2025-05-11",
+          "monto_solicitado": 2012.66,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 501
+        },
+        {
+          "id_solicitud": "1700000303-S2",
+          "fecha_solicitud": "2025-08-13",
+          "monto_solicitado": 2109.31,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 547
+        }
+      ]
+    },
+    {
+      "cedula": "0900000250",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000250-S1",
+          "fecha_solicitud": "2024-11-04",
+          "monto_solicitado": 4378.5,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 835
+        }
+      ]
+    },
+    {
+      "cedula": "0900000526",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000526-S1",
+          "fecha_solicitud": "2025-06-29",
+          "monto_solicitado": 11603.59,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 688
+        }
+      ]
+    },
+    {
+      "cedula": "1700000544",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000544-S1",
+          "fecha_solicitud": "2024-06-01",
+          "monto_solicitado": 12334.84,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 863
+        },
+        {
+          "id_solicitud": "1700000544-S2",
+          "fecha_solicitud": "2025-08-04",
+          "monto_solicitado": 14275.66,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 684
+        },
+        {
+          "id_solicitud": "1700000544-S3",
+          "fecha_solicitud": "2024-06-12",
+          "monto_solicitado": 9695.71,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 340
+        }
+      ]
+    },
+    {
+      "cedula": "900000108",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000108-S1",
+          "fecha_solicitud": "2025-06-28",
+          "monto_solicitado": 4793.98,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 667
+        }
+      ]
+    },
+    {
+      "cedula": "1700000222",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000222-S1",
+          "fecha_solicitud": "2025-07-12",
+          "monto_solicitado": 1718.76,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 621
+        }
+      ]
+    },
+    {
+      "cedula": "100000432",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000432-S1",
+          "fecha_solicitud": "2024-07-06",
+          "monto_solicitado": 10814.03,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 404
+        }
+      ]
+    },
+    {
+      "cedula": "0100000143",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000143-S1",
+          "fecha_solicitud": "2025-07-18",
+          "monto_solicitado": 13203.63,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 887
+        }
+      ]
+    },
+    {
+      "cedula": "0100000028",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000028-S1",
+          "fecha_solicitud": "2024-06-13",
+          "monto_solicitado": 8932.72,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 422
+        },
+        {
+          "id_solicitud": "0100000028-S2",
+          "fecha_solicitud": "2025-01-14",
+          "monto_solicitado": 10127.36,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 817
+        }
+      ]
+    },
+    {
+      "cedula": "1700000511",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000511-S1",
+          "fecha_solicitud": "2025-09-06",
+          "monto_solicitado": 7392.52,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 797
+        },
+        {
+          "id_solicitud": "1700000511-S2",
+          "fecha_solicitud": "2025-08-19",
+          "monto_solicitado": 14295.03,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 309
+        }
+      ]
+    },
+    {
+      "cedula": "0900000503",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000503-S1",
+          "fecha_solicitud": "2025-06-06",
+          "monto_solicitado": 11120.96,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 646
+        },
+        {
+          "id_solicitud": "0900000503-S2",
+          "fecha_solicitud": "2024-10-12",
+          "monto_solicitado": 10135.49,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 380
+        },
+        {
+          "id_solicitud": "0900000503-S3",
+          "fecha_solicitud": "2024-11-15",
+          "monto_solicitado": 10375.07,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 419
+        }
+      ]
+    },
+    {
+      "cedula": "0100000086",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000086-S1",
+          "fecha_solicitud": "2024-06-01",
+          "monto_solicitado": 14714.01,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 851
+        },
+        {
+          "id_solicitud": "0100000086-S2",
+          "fecha_solicitud": "2025-04-30",
+          "monto_solicitado": 4538.3,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 866
+        }
+      ]
+    },
+    {
+      "cedula": "0900000493",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000493-S1",
+          "fecha_solicitud": "2025-01-28",
+          "monto_solicitado": 2806.36,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 341
+        },
+        {
+          "id_solicitud": "0900000493-S2",
+          "fecha_solicitud": "2025-05-21",
+          "monto_solicitado": 14188.6,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 403
+        }
+      ]
+    },
+    {
+      "cedula": "1700000383",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000383-S1",
+          "fecha_solicitud": "2025-06-16",
+          "monto_solicitado": 11647.45,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 382
+        }
+      ]
+    },
+    {
+      "cedula": "100000401",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000401-S1",
+          "fecha_solicitud": "2024-11-29",
+          "monto_solicitado": 8503.64,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 828
+        },
+        {
+          "id_solicitud": "100000401-S2",
+          "fecha_solicitud": "2024-08-26",
+          "monto_solicitado": 2753.68,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 577
+        }
+      ]
+    },
+    {
+      "cedula": "0100000498",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000498-S1",
+          "fecha_solicitud": "2025-04-09",
+          "monto_solicitado": 5299.07,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 769
+        }
+      ]
+    },
+    {
+      "cedula": "1700000473",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000473-S1",
+          "fecha_solicitud": "2024-07-25",
+          "monto_solicitado": 2291.78,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 564
+        },
+        {
+          "id_solicitud": "1700000473-S2",
+          "fecha_solicitud": "2024-06-10",
+          "monto_solicitado": 9693.79,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 530
+        }
+      ]
+    },
+    {
+      "cedula": "0100000310",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000310-S1",
+          "fecha_solicitud": "2025-05-02",
+          "monto_solicitado": 7082.6,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 470
+        }
+      ]
+    },
+    {
+      "cedula": "1700000185",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000185-S1",
+          "fecha_solicitud": "2025-03-08",
+          "monto_solicitado": 2684.06,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 858
+        },
+        {
+          "id_solicitud": "1700000185-S2",
+          "fecha_solicitud": "2024-10-23",
+          "monto_solicitado": 7611.76,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 845
+        }
+      ]
+    },
+    {
+      "cedula": "0900000067",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000067-S1",
+          "fecha_solicitud": "2025-04-25",
+          "monto_solicitado": 12287.04,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 508
+        },
+        {
+          "id_solicitud": "0900000067-S2",
+          "fecha_solicitud": "2025-05-23",
+          "monto_solicitado": 8600.75,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 491
+        }
+      ]
+    },
+    {
+      "cedula": "0900000364",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000364-S1",
+          "fecha_solicitud": "2025-06-10",
+          "monto_solicitado": 2150.83,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 749
+        }
+      ]
+    },
+    {
+      "cedula": "100000071",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000071-S1",
+          "fecha_solicitud": "2025-04-09",
+          "monto_solicitado": 11310.65,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 684
+        }
+      ]
+    },
+    {
+      "cedula": "0100000386",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000386-S1",
+          "fecha_solicitud": "2024-12-30",
+          "monto_solicitado": 6702.47,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 448
+        }
+      ]
+    },
+    {
+      "cedula": "0100000286",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000286-S1",
+          "fecha_solicitud": "2024-10-03",
+          "monto_solicitado": 12091.69,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 426
+        },
+        {
+          "id_solicitud": "0100000286-S2",
+          "fecha_solicitud": "2024-06-18",
+          "monto_solicitado": 2017.57,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 745
+        }
+      ]
+    },
+    {
+      "cedula": "0900000062",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000062-S1",
+          "fecha_solicitud": "2025-02-25",
+          "monto_solicitado": 7854.64,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 535
+        },
+        {
+          "id_solicitud": "0900000062-S2",
+          "fecha_solicitud": "2025-02-26",
+          "monto_solicitado": 809.5,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 723
+        }
+      ]
+    },
+    {
+      "cedula": "0100000342",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000342-S1",
+          "fecha_solicitud": "2025-05-31",
+          "monto_solicitado": 1057.69,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 465
+        },
+        {
+          "id_solicitud": "0100000342-S2",
+          "fecha_solicitud": "2024-06-21",
+          "monto_solicitado": 14458.85,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 569
+        },
+        {
+          "id_solicitud": "0100000342-S3",
+          "fecha_solicitud": "2025-09-18",
+          "monto_solicitado": 12021.94,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 499
+        }
+      ]
+    },
+    {
+      "cedula": "0100000282",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000282-S1",
+          "fecha_solicitud": "2025-06-20",
+          "monto_solicitado": 10998.03,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 335
+        }
+      ]
+    },
+    {
+      "cedula": "1700000411",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000411-S1",
+          "fecha_solicitud": "2025-09-29",
+          "monto_solicitado": 671.12,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 671
+        }
+      ]
+    },
+    {
+      "cedula": "0900000546",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000546-S1",
+          "fecha_solicitud": "2024-10-12",
+          "monto_solicitado": 13354.82,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 764
+        },
+        {
+          "id_solicitud": "0900000546-S2",
+          "fecha_solicitud": "2025-04-09",
+          "monto_solicitado": 12458.09,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 716
+        }
+      ]
+    },
+    {
+      "cedula": "0900000582",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000582-S1",
+          "fecha_solicitud": "2025-10-11",
+          "monto_solicitado": 3322.14,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 376
+        }
+      ]
+    },
+    {
+      "cedula": "1700000458",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000458-S1",
+          "fecha_solicitud": "2024-10-29",
+          "monto_solicitado": 7730.38,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 823
+        }
+      ]
+    },
+    {
+      "cedula": "0100000161",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000161-S1",
+          "fecha_solicitud": "2024-06-06",
+          "monto_solicitado": 6245.31,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 873
+        }
+      ]
+    },
+    {
+      "cedula": "1700000468",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000468-S1",
+          "fecha_solicitud": "2025-03-17",
+          "monto_solicitado": 14548.05,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 658
+        },
+        {
+          "id_solicitud": "1700000468-S2",
+          "fecha_solicitud": "2024-06-13",
+          "monto_solicitado": 8921.98,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 325
+        }
+      ]
+    },
+    {
+      "cedula": "0900000203",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000203-S1",
+          "fecha_solicitud": "2024-12-16",
+          "monto_solicitado": 3917.35,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 627
+        },
+        {
+          "id_solicitud": "0900000203-S2",
+          "fecha_solicitud": "2025-06-18",
+          "monto_solicitado": 8345.69,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 466
+        }
+      ]
+    },
+    {
+      "cedula": "0900000008",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000008-S1",
+          "fecha_solicitud": "2024-08-22",
+          "monto_solicitado": 9325.49,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 593
+        }
+      ]
+    },
+    {
+      "cedula": "0900000084",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000084-S1",
+          "fecha_solicitud": "2025-09-18",
+          "monto_solicitado": 14055.2,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 536
+        }
+      ]
+    },
+    {
+      "cedula": "0100000154",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000154-S1",
+          "fecha_solicitud": "2025-10-08",
+          "monto_solicitado": 13045.97,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 535
+        },
+        {
+          "id_solicitud": "0100000154-S2",
+          "fecha_solicitud": "2025-04-08",
+          "monto_solicitado": 3709.19,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 696
+        }
+      ]
+    },
+    {
+      "cedula": "1700000428",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000428-S1",
+          "fecha_solicitud": "2024-12-29",
+          "monto_solicitado": 2958.82,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 833
+        }
+      ]
+    },
+    {
+      "cedula": "0100000555",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000555-S1",
+          "fecha_solicitud": "2025-03-08",
+          "monto_solicitado": 10771.91,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 747
+        },
+        {
+          "id_solicitud": "0100000555-S2",
+          "fecha_solicitud": "2025-02-17",
+          "monto_solicitado": 9010.44,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 584
+        }
+      ]
+    },
+    {
+      "cedula": "1700000109",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000109-S1",
+          "fecha_solicitud": "2024-07-25",
+          "monto_solicitado": 1061.75,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 349
+        }
+      ]
+    },
+    {
+      "cedula": "0900000247",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000247-S1",
+          "fecha_solicitud": "2025-07-25",
+          "monto_solicitado": 2481.94,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 637
+        },
+        {
+          "id_solicitud": "0900000247-S2",
+          "fecha_solicitud": "2025-08-14",
+          "monto_solicitado": 2233.76,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 655
+        }
+      ]
+    },
+    {
+      "cedula": "0100000148",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000148-S1",
+          "fecha_solicitud": "2025-08-05",
+          "monto_solicitado": 14593.91,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 620
+        },
+        {
+          "id_solicitud": "0100000148-S2",
+          "fecha_solicitud": "2024-12-09",
+          "monto_solicitado": 1548.66,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 745
+        }
+      ]
+    },
+    {
+      "cedula": "0100000169",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000169-S1",
+          "fecha_solicitud": "2025-07-11",
+          "monto_solicitado": 10327.81,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 647
+        }
+      ]
+    },
+    {
+      "cedula": "0900000375",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000375-S1",
+          "fecha_solicitud": "2025-08-05",
+          "monto_solicitado": 7903.16,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 737
+        },
+        {
+          "id_solicitud": "0900000375-S2",
+          "fecha_solicitud": "2024-11-22",
+          "monto_solicitado": 13330.03,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 786
+        }
+      ]
+    },
+    {
+      "cedula": "1700000112",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000112-S1",
+          "fecha_solicitud": "2024-08-13",
+          "monto_solicitado": 6359.88,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 737
+        }
+      ]
+    },
+    {
+      "cedula": "1700000315",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000315-S1",
+          "fecha_solicitud": "2025-03-30",
+          "monto_solicitado": 14367.92,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 889
+        }
+      ]
+    },
+    {
+      "cedula": "1700000372",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000372-S1",
+          "fecha_solicitud": "2025-01-19",
+          "monto_solicitado": 14610.25,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 812
+        },
+        {
+          "id_solicitud": "1700000372-S2",
+          "fecha_solicitud": "2025-02-22",
+          "monto_solicitado": 4698.73,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 477
+        }
+      ]
+    },
+    {
+      "cedula": "0900000532",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000532-S1",
+          "fecha_solicitud": "2025-09-23",
+          "monto_solicitado": 4146.44,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 582
+        }
+      ]
+    },
+    {
+      "cedula": "1700000015",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000015-S1",
+          "fecha_solicitud": "2024-07-07",
+          "monto_solicitado": 13248.44,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 348
+        }
+      ]
+    },
+    {
+      "cedula": "1700000329",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000329-S1",
+          "fecha_solicitud": "2025-03-05",
+          "monto_solicitado": 11376.3,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 619
+        },
+        {
+          "id_solicitud": "1700000329-S2",
+          "fecha_solicitud": "2025-05-02",
+          "monto_solicitado": 9056.48,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 760
+        }
+      ]
+    },
+    {
+      "cedula": "0100000477",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000477-S1",
+          "fecha_solicitud": "2024-06-03",
+          "monto_solicitado": 1342.23,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 588
+        }
+      ]
+    },
+    {
+      "cedula": "1700000095",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000095-S1",
+          "fecha_solicitud": "2025-01-30",
+          "monto_solicitado": 14846.67,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 339
+        }
+      ]
+    },
+    {
+      "cedula": "1700000281",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000281-S1",
+          "fecha_solicitud": "2025-09-29",
+          "monto_solicitado": 10456.77,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 641
+        }
+      ]
+    },
+    {
+      "cedula": "0100000032",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000032-S1",
+          "fecha_solicitud": "2024-06-09",
+          "monto_solicitado": 13083.46,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 665
+        }
+      ]
+    },
+    {
+      "cedula": "0900000429",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000429-S1",
+          "fecha_solicitud": "2025-02-26",
+          "monto_solicitado": 3811.07,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 760
+        }
+      ]
+    },
+    {
+      "cedula": "0900000139",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000139-S1",
+          "fecha_solicitud": "2025-10-04",
+          "monto_solicitado": 9116.39,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 785
+        }
+      ]
+    },
+    {
+      "cedula": "0100000150",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000150-S1",
+          "fecha_solicitud": "2024-09-10",
+          "monto_solicitado": 4981.14,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 727
+        }
+      ]
+    },
+    {
+      "cedula": "0900000506",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000506-S1",
+          "fecha_solicitud": "2025-03-04",
+          "monto_solicitado": 4217.89,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 811
+        }
+      ]
+    },
+    {
+      "cedula": "1700000404",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000404-S1",
+          "fecha_solicitud": "2025-02-11",
+          "monto_solicitado": 822.17,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 716
+        }
+      ]
+    },
+    {
+      "cedula": "1700000405",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000405-S1",
+          "fecha_solicitud": "2024-11-03",
+          "monto_solicitado": 3493.32,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 670
+        },
+        {
+          "id_solicitud": "1700000405-S2",
+          "fecha_solicitud": "2025-07-27",
+          "monto_solicitado": 1144.94,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 542
+        }
+      ]
+    },
+    {
+      "cedula": "0100000576",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000576-S1",
+          "fecha_solicitud": "2025-02-13",
+          "monto_solicitado": 14313.61,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 399
+        }
+      ]
+    },
+    {
+      "cedula": "0900000343",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000343-S1",
+          "fecha_solicitud": "2024-11-24",
+          "monto_solicitado": 7054.52,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 864
+        }
+      ]
+    },
+    {
+      "cedula": "0900000534",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000534-S1",
+          "fecha_solicitud": "2024-10-09",
+          "monto_solicitado": 8447.0,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 505
+        },
+        {
+          "id_solicitud": "0900000534-S2",
+          "fecha_solicitud": "2025-08-27",
+          "monto_solicitado": 10288.58,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 358
+        }
+      ]
+    },
+    {
+      "cedula": "0100000391",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000391-S1",
+          "fecha_solicitud": "2025-06-28",
+          "monto_solicitado": 5273.38,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 477
+        }
+      ]
+    },
+    {
+      "cedula": "1700000538",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000538-S1",
+          "fecha_solicitud": "2025-05-02",
+          "monto_solicitado": 817.08,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 768
+        },
+        {
+          "id_solicitud": "1700000538-S2",
+          "fecha_solicitud": "2025-04-29",
+          "monto_solicitado": 4714.77,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 567
+        },
+        {
+          "id_solicitud": "1700000538-S3",
+          "fecha_solicitud": "2025-09-04",
+          "monto_solicitado": 13726.17,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 507
+        }
+      ]
+    },
+    {
+      "cedula": "0100000476",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000476-S1",
+          "fecha_solicitud": "2025-01-08",
+          "monto_solicitado": 6797.45,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 379
+        },
+        {
+          "id_solicitud": "0100000476-S2",
+          "fecha_solicitud": "2025-05-26",
+          "monto_solicitado": 7060.95,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 671
+        }
+      ]
+    },
+    {
+      "cedula": "0100000165",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000165-S1",
+          "fecha_solicitud": "2025-08-17",
+          "monto_solicitado": 6764.69,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 562
+        }
+      ]
+    },
+    {
+      "cedula": "0100000094",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000094-S1",
+          "fecha_solicitud": "2024-08-29",
+          "monto_solicitado": 1610.83,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 302
+        },
+        {
+          "id_solicitud": "0100000094-S2",
+          "fecha_solicitud": "2025-09-29",
+          "monto_solicitado": 1490.67,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 358
+        }
+      ]
+    },
+    {
+      "cedula": "0900000457",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000457-S1",
+          "fecha_solicitud": "2024-06-08",
+          "monto_solicitado": 944.46,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 322
+        }
+      ]
+    },
+    {
+      "cedula": "0900000273",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000273-S1",
+          "fecha_solicitud": "2024-10-04",
+          "monto_solicitado": 9843.02,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 684
+        }
+      ]
+    },
+    {
+      "cedula": "0900000491",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000491-S1",
+          "fecha_solicitud": "2024-06-22",
+          "monto_solicitado": 11259.2,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 514
+        },
+        {
+          "id_solicitud": "0900000491-S2",
+          "fecha_solicitud": "2025-04-24",
+          "monto_solicitado": 5145.93,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 504
+        }
+      ]
+    },
+    {
+      "cedula": "0900000398",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000398-S1",
+          "fecha_solicitud": "2025-09-30",
+          "monto_solicitado": 1174.82,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 305
+        }
+      ]
+    },
+    {
+      "cedula": "1700000130",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000130-S1",
+          "fecha_solicitud": "2025-02-05",
+          "monto_solicitado": 14221.9,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 405
+        },
+        {
+          "id_solicitud": "1700000130-S2",
+          "fecha_solicitud": "2024-08-23",
+          "monto_solicitado": 6567.13,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 398
+        }
+      ]
+    },
+    {
+      "cedula": "0100000182",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000182-S1",
+          "fecha_solicitud": "2025-05-18",
+          "monto_solicitado": 11595.0,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 678
+        }
+      ]
+    },
+    {
+      "cedula": "1700000521",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000521-S1",
+          "fecha_solicitud": "2024-08-01",
+          "monto_solicitado": 12787.9,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 520
+        }
+      ]
+    },
+    {
+      "cedula": "1700000584",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000584-S1",
+          "fecha_solicitud": "2024-06-02",
+          "monto_solicitado": 5427.39,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 571
+        }
+      ]
+    },
+    {
+      "cedula": "0900000188",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000188-S1",
+          "fecha_solicitud": "2024-11-26",
+          "monto_solicitado": 12375.26,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 703
+        }
+      ]
+    },
+    {
+      "cedula": "0100000593",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000593-S1",
+          "fecha_solicitud": "2025-03-20",
+          "monto_solicitado": 11246.21,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 653
+        }
+      ]
+    },
+    {
+      "cedula": "0100000305",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000305-S1",
+          "fecha_solicitud": "2024-09-30",
+          "monto_solicitado": 14528.09,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 830
+        }
+      ]
+    },
+    {
+      "cedula": "0100000016",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000016-S1",
+          "fecha_solicitud": "2025-07-01",
+          "monto_solicitado": 1422.01,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 877
+        }
+      ]
+    },
+    {
+      "cedula": "0900000145",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000145-S1",
+          "fecha_solicitud": "2025-01-02",
+          "monto_solicitado": 13813.08,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 505
+        },
+        {
+          "id_solicitud": "0900000145-S2",
+          "fecha_solicitud": "2024-09-13",
+          "monto_solicitado": 2448.02,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 405
+        }
+      ]
+    },
+    {
+      "cedula": "900000307",
+      "solicitudes": [
+        {
+          "id_solicitud": "900000307-S1",
+          "fecha_solicitud": "2025-04-23",
+          "monto_solicitado": 660.8,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 314
+        },
+        {
+          "id_solicitud": "900000307-S2",
+          "fecha_solicitud": "2024-06-25",
+          "monto_solicitado": 8860.07,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 415
+        }
+      ]
+    },
+    {
+      "cedula": "0900000037",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000037-S1",
+          "fecha_solicitud": "2024-11-06",
+          "monto_solicitado": 3249.77,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 787
+        }
+      ]
+    },
+    {
+      "cedula": "0900000146",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000146-S1",
+          "fecha_solicitud": "2025-07-15",
+          "monto_solicitado": 9114.85,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 488
+        },
+        {
+          "id_solicitud": "0900000146-S2",
+          "fecha_solicitud": "2025-08-01",
+          "monto_solicitado": 2102.12,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 505
+        }
+      ]
+    },
+    {
+      "cedula": "0100000446",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000446-S1",
+          "fecha_solicitud": "2025-09-19",
+          "monto_solicitado": 3877.07,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 717
+        }
+      ]
+    },
+    {
+      "cedula": "0100000211",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000211-S1",
+          "fecha_solicitud": "2025-03-30",
+          "monto_solicitado": 619.63,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 480
+        }
+      ]
+    },
+    {
+      "cedula": "0100000427",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000427-S1",
+          "fecha_solicitud": "2024-08-21",
+          "monto_solicitado": 10511.34,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 545
+        }
+      ]
+    },
+    {
+      "cedula": "0100000010",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000010-S1",
+          "fecha_solicitud": "2025-08-22",
+          "monto_solicitado": 5342.32,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 329
+        }
+      ]
+    },
+    {
+      "cedula": "100000193",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000193-S1",
+          "fecha_solicitud": "2025-03-16",
+          "monto_solicitado": 10314.98,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 770
+        }
+      ]
+    },
+    {
+      "cedula": "1700000587",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000587-S1",
+          "fecha_solicitud": "2025-02-24",
+          "monto_solicitado": 1076.15,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 816
+        }
+      ]
+    },
+    {
+      "cedula": "0900000557",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000557-S1",
+          "fecha_solicitud": "2025-08-16",
+          "monto_solicitado": 9700.56,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 538
+        },
+        {
+          "id_solicitud": "0900000557-S2",
+          "fecha_solicitud": "2025-04-18",
+          "monto_solicitado": 14192.02,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 336
+        }
+      ]
+    },
+    {
+      "cedula": "0900000378",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000378-S1",
+          "fecha_solicitud": "2024-12-14",
+          "monto_solicitado": 10049.61,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 315
+        }
+      ]
+    },
+    {
+      "cedula": "1700000470",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000470-S1",
+          "fecha_solicitud": "2024-10-11",
+          "monto_solicitado": 8071.05,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 856
+        }
+      ]
+    },
+    {
+      "cedula": "0100000073",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000073-S1",
+          "fecha_solicitud": "2024-07-07",
+          "monto_solicitado": 1130.12,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 586
+        }
+      ]
+    },
+    {
+      "cedula": "0900000283",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000283-S1",
+          "fecha_solicitud": "2025-07-07",
+          "monto_solicitado": 7431.71,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 542
+        }
+      ]
+    },
+    {
+      "cedula": "1700000003",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000003-S1",
+          "fecha_solicitud": "2024-07-13",
+          "monto_solicitado": 4974.73,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 379
+        }
+      ]
+    },
+    {
+      "cedula": "1700000116",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000116-S1",
+          "fecha_solicitud": "2025-02-06",
+          "monto_solicitado": 2346.37,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 810
+        }
+      ]
+    },
+    {
+      "cedula": "0100000113",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000113-S1",
+          "fecha_solicitud": "2024-07-01",
+          "monto_solicitado": 8430.15,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 490
+        },
+        {
+          "id_solicitud": "0100000113-S2",
+          "fecha_solicitud": "2025-06-20",
+          "monto_solicitado": 10766.45,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 520
+        }
+      ]
+    },
+    {
+      "cedula": "0900000088",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000088-S1",
+          "fecha_solicitud": "2025-07-17",
+          "monto_solicitado": 13837.01,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 566
+        }
+      ]
+    },
+    {
+      "cedula": "0900000318",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000318-S1",
+          "fecha_solicitud": "2025-01-13",
+          "monto_solicitado": 1159.2,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 378
+        }
+      ]
+    },
+    {
+      "cedula": "0100000046",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000046-S1",
+          "fecha_solicitud": "2024-08-14",
+          "monto_solicitado": 6177.92,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 625
+        }
+      ]
+    },
+    {
+      "cedula": "0100000302",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000302-S1",
+          "fecha_solicitud": "2025-09-24",
+          "monto_solicitado": 840.96,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 354
+        }
+      ]
+    },
+    {
+      "cedula": "100000050",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000050-S1",
+          "fecha_solicitud": "2024-10-04",
+          "monto_solicitado": 8817.54,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 653
+        }
+      ]
+    },
+    {
+      "cedula": "0900000499",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000499-S1",
+          "fecha_solicitud": "2024-10-08",
+          "monto_solicitado": 7257.97,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 612
+        },
+        {
+          "id_solicitud": "0900000499-S2",
+          "fecha_solicitud": "2024-08-21",
+          "monto_solicitado": 2961.33,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 777
+        }
+      ]
+    },
+    {
+      "cedula": "1700000060",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000060-S1",
+          "fecha_solicitud": "2024-07-05",
+          "monto_solicitado": 14384.8,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 896
+        }
+      ]
+    },
+    {
+      "cedula": "0100000570",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000570-S1",
+          "fecha_solicitud": "2024-12-19",
+          "monto_solicitado": 1978.17,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 374
+        }
+      ]
+    },
+    {
+      "cedula": "1700000289",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000289-S1",
+          "fecha_solicitud": "2024-07-05",
+          "monto_solicitado": 7121.8,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 347
+        },
+        {
+          "id_solicitud": "1700000289-S2",
+          "fecha_solicitud": "2025-03-11",
+          "monto_solicitado": 13968.55,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 570
+        }
+      ]
+    },
+    {
+      "cedula": "0900000416",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000416-S1",
+          "fecha_solicitud": "2025-04-16",
+          "monto_solicitado": 7873.41,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 436
+        }
+      ]
+    },
+    {
+      "cedula": "0100000284",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000284-S1",
+          "fecha_solicitud": "2025-05-24",
+          "monto_solicitado": 13468.05,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 381
+        }
+      ]
+    },
+    {
+      "cedula": "0900000379",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000379-S1",
+          "fecha_solicitud": "2025-05-19",
+          "monto_solicitado": 10508.45,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 362
+        }
+      ]
+    },
+    {
+      "cedula": "0100000346",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000346-S1",
+          "fecha_solicitud": "2024-08-28",
+          "monto_solicitado": 13063.64,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 661
+        }
+      ]
+    },
+    {
+      "cedula": "0100000257",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000257-S1",
+          "fecha_solicitud": "2024-09-17",
+          "monto_solicitado": 2142.58,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 458
+        }
+      ]
+    },
+    {
+      "cedula": "0100000075",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000075-S1",
+          "fecha_solicitud": "2024-12-21",
+          "monto_solicitado": 3804.72,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 677
+        },
+        {
+          "id_solicitud": "0100000075-S2",
+          "fecha_solicitud": "2024-11-19",
+          "monto_solicitado": 5849.77,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 364
+        }
+      ]
+    },
+    {
+      "cedula": "0900000009",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000009-S1",
+          "fecha_solicitud": "2024-12-05",
+          "monto_solicitado": 13685.68,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 604
+        }
+      ]
+    },
+    {
+      "cedula": "1700000033",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000033-S1",
+          "fecha_solicitud": "2025-09-28",
+          "monto_solicitado": 13449.28,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 551
+        }
+      ]
+    },
+    {
+      "cedula": "1700000066",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000066-S1",
+          "fecha_solicitud": "2024-06-05",
+          "monto_solicitado": 5404.8,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 547
+        }
+      ]
+    },
+    {
+      "cedula": "0900000387",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000387-S1",
+          "fecha_solicitud": "2025-09-25",
+          "monto_solicitado": 7472.69,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 383
+        }
+      ]
+    },
+    {
+      "cedula": "1700000519",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000519-S1",
+          "fecha_solicitud": "2024-07-22",
+          "monto_solicitado": 7598.03,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 736
+        }
+      ]
+    },
+    {
+      "cedula": "0100000575",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000575-S1",
+          "fecha_solicitud": "2025-06-27",
+          "monto_solicitado": 10015.8,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 404
+        }
+      ]
+    },
+    {
+      "cedula": "1700000070",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000070-S1",
+          "fecha_solicitud": "2025-10-10",
+          "monto_solicitado": 1535.26,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 669
+        }
+      ]
+    },
+    {
+      "cedula": "1700000552",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000552-S1",
+          "fecha_solicitud": "2024-06-15",
+          "monto_solicitado": 5645.98,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 790
+        },
+        {
+          "id_solicitud": "1700000552-S2",
+          "fecha_solicitud": "2025-02-24",
+          "monto_solicitado": 9093.61,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 591
+        }
+      ]
+    },
+    {
+      "cedula": "1700000189",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000189-S1",
+          "fecha_solicitud": "2025-08-19",
+          "monto_solicitado": 10295.74,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 797
+        }
+      ]
+    },
+    {
+      "cedula": "0100000096",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000096-S1",
+          "fecha_solicitud": "2024-09-25",
+          "monto_solicitado": 1497.92,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 439
+        }
+      ]
+    },
+    {
+      "cedula": "0900000525",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000525-S1",
+          "fecha_solicitud": "2024-06-15",
+          "monto_solicitado": 3371.13,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 400
+        }
+      ]
+    },
+    {
+      "cedula": "1700000212",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000212-S1",
+          "fecha_solicitud": "2024-09-12",
+          "monto_solicitado": 7118.02,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 669
+        },
+        {
+          "id_solicitud": "1700000212-S2",
+          "fecha_solicitud": "2024-11-21",
+          "monto_solicitado": 14857.37,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 838
+        }
+      ]
+    },
+    {
+      "cedula": "1700000227",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000227-S1",
+          "fecha_solicitud": "2024-12-07",
+          "monto_solicitado": 8150.82,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 350
+        }
+      ]
+    },
+    {
+      "cedula": "0900000599",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000599-S1",
+          "fecha_solicitud": "2025-03-23",
+          "monto_solicitado": 786.03,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 615
+        }
+      ]
+    },
+    {
+      "cedula": "1700000223",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000223-S1",
+          "fecha_solicitud": "2025-09-05",
+          "monto_solicitado": 3868.03,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 742
+        },
+        {
+          "id_solicitud": "1700000223-S2",
+          "fecha_solicitud": "2024-09-28",
+          "monto_solicitado": 11106.4,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 809
+        },
+        {
+          "id_solicitud": "1700000223-S3",
+          "fecha_solicitud": "2024-10-22",
+          "monto_solicitado": 11315.31,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 834
+        }
+      ]
+    },
+    {
+      "cedula": "0900000238",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000238-S1",
+          "fecha_solicitud": "2024-09-03",
+          "monto_solicitado": 1258.05,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 865
+        }
+      ]
+    },
+    {
+      "cedula": "0100000596",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000596-S1",
+          "fecha_solicitud": "2024-12-28",
+          "monto_solicitado": 4058.84,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 435
+        },
+        {
+          "id_solicitud": "0100000596-S2",
+          "fecha_solicitud": "2024-11-08",
+          "monto_solicitado": 9258.96,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 870
+        }
+      ]
+    },
+    {
+      "cedula": "1700000186",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000186-S1",
+          "fecha_solicitud": "2025-02-24",
+          "monto_solicitado": 12196.42,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 657
+        },
+        {
+          "id_solicitud": "1700000186-S2",
+          "fecha_solicitud": "2025-10-13",
+          "monto_solicitado": 1601.8,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 860
+        }
+      ]
+    },
+    {
+      "cedula": "1700000466",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000466-S1",
+          "fecha_solicitud": "2025-02-24",
+          "monto_solicitado": 2663.94,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 748
+        },
+        {
+          "id_solicitud": "1700000466-S2",
+          "fecha_solicitud": "2024-06-11",
+          "monto_solicitado": 14324.86,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 306
+        }
+      ]
+    },
+    {
+      "cedula": "100000395",
+      "solicitudes": [
+        {
+          "id_solicitud": "100000395-S1",
+          "fecha_solicitud": "2025-01-16",
+          "monto_solicitado": 10284.7,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 356
+        }
+      ]
+    },
+    {
+      "cedula": "1700000199",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000199-S1",
+          "fecha_solicitud": "2025-01-14",
+          "monto_solicitado": 13168.43,
+          "estado_solicitud": "En revision",
+          "score_crediticio": 779
+        }
+      ]
+    },
+    {
+      "cedula": "1700000577",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000577-S1",
+          "fecha_solicitud": "2025-01-30",
+          "monto_solicitado": 4096.51,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 816
+        },
+        {
+          "id_solicitud": "1700000577-S2",
+          "fecha_solicitud": "2025-03-17",
+          "monto_solicitado": 2098.04,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 479
+        }
+      ]
+    },
+    {
+      "cedula": "0100000537",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000537-S1",
+          "fecha_solicitud": "2024-07-05",
+          "monto_solicitado": 10909.37,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 457
+        }
+      ]
+    },
+    {
+      "cedula": "1700000471",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000471-S1",
+          "fecha_solicitud": "2024-08-22",
+          "monto_solicitado": 13940.89,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 831
+        }
+      ]
+    },
+    {
+      "cedula": "0900000595",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000595-S1",
+          "fecha_solicitud": "2025-05-06",
+          "monto_solicitado": 5217.76,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 406
+        }
+      ]
+    },
+    {
+      "cedula": "1700000027",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000027-S1",
+          "fecha_solicitud": "2024-06-22",
+          "monto_solicitado": 6332.38,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 529
+        }
+      ]
+    },
+    {
+      "cedula": "1700000262",
+      "solicitudes": [
+        {
+          "id_solicitud": "1700000262-S1",
+          "fecha_solicitud": "2024-11-25",
+          "monto_solicitado": 7455.8,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 369
+        }
+      ]
+    },
+    {
+      "cedula": "0900000266",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000266-S1",
+          "fecha_solicitud": "2025-02-06",
+          "monto_solicitado": 2366.16,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 590
+        }
+      ]
+    },
+    {
+      "cedula": "0900000431",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000431-S1",
+          "fecha_solicitud": "2024-06-13",
+          "monto_solicitado": 7688.94,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 468
+        }
+      ]
+    },
+    {
+      "cedula": "0100000141",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000141-S1",
+          "fecha_solicitud": "2024-12-12",
+          "monto_solicitado": 11622.63,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 757
+        }
+      ]
+    },
+    {
+      "cedula": "0900000301",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000301-S1",
+          "fecha_solicitud": "2025-08-09",
+          "monto_solicitado": 11002.27,
+          "estado_solicitud": "Aprobado",
+          "score_crediticio": 519
+        }
+      ]
+    },
+    {
+      "cedula": "0900000319",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000319-S1",
+          "fecha_solicitud": "2025-06-09",
+          "monto_solicitado": 8924.77,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 701
+        }
+      ]
+    },
+    {
+      "cedula": "0900000089",
+      "solicitudes": [
+        {
+          "id_solicitud": "0900000089-S1",
+          "fecha_solicitud": "2025-05-31",
+          "monto_solicitado": 11870.01,
+          "estado_solicitud": "Rechazado",
+          "score_crediticio": 636
+        }
+      ]
+    },
+    {
+      "cedula": "0100000508",
+      "solicitudes": [
+        {
+          "id_solicitud": "0100000508-S1",
+          "fecha_solicitud": "2024-10-21",
+          "monto_solicitado": 6746.96,
+          "estado_solicitud": "Pendiente",
+          "score_crediticio": 507
+        }
+      ]
+    }
+  ]
+}
